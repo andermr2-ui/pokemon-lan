@@ -1,0 +1,7 @@
+EVs
+Graphics/Items/#{@battler.item_id}
+Graphics/UI/Battle/icon_statuses
+Graphics/UI/types
+IVs
+Shiny
+SuperShiny

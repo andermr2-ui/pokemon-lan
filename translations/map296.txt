@@ -1,0 +1,43 @@
+[2|1|0|1]
+ORIGINAL: \bWho are you? A trainer?
+TRADUCCION:
+
+[2|1|2|3]
+ORIGINAL: \bOh, yeah, and you look really strong. I´m currently training to become a Gym Leader, and I want to have a Psychic-Type Gym.
+TRADUCCION:
+
+[2|1|5|3]
+ORIGINAL: \bI thought that the Pokémon I chose as my first partner would evolve into a Fire- and Psychic-Type, but I got it all wrong.
+TRADUCCION:
+
+[2|1|8|2]
+ORIGINAL: \bI have no use for this Tepig, so I want a strong trainer to take care of it. Here you go.
+TRADUCCION:
+
+[2|1|12|3]
+ORIGINAL: \bI should get back to training soon, because I need to become a Psychic-Type expert if I want to lead a Gym.
+TRADUCCION:
+
+[2|1|15|1]
+ORIGINAL: \bBye!
+TRADUCCION:
+
+[2|1|19|1]
+ORIGINAL: There's no more room for Pokémon!
+TRADUCCION:
+
+[2|1|20|1]
+ORIGINAL: The Pokémon Boxes are full and can't accept any more!
+TRADUCCION:
+
+[2|1|25|2]
+ORIGINAL: \bBut certainly not a strong one. I´m never gonna find someone to give this to then...
+TRADUCCION:
+
+[2|2|0|2]
+ORIGINAL: \bSome of the current Gym Leaders are getting old, and they´ve started to look for successors.
+TRADUCCION:
+
+[3|1|0|2]
+ORIGINAL: \bMy little sister is trying her hardest to become a Gym Leader. I´m sure she can do it!
+TRADUCCION:

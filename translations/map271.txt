@@ -1,0 +1,55 @@
+[2|1|0|2]
+ORIGINAL: \bDo my eyes deceive me? A stranger has made it here?! You must be a Gym Challenger, right?
+TRADUCCION:
+
+[2|1|2|3]
+ORIGINAL: \bOf course you are. Who else would endure blizzards and thunderstorms just to get to Granite Heights?
+TRADUCCION:
+
+[2|1|5|3]
+ORIGINAL: \bWell, you´re here now, so at least enjoy your time here and don´t just rush straight into the Gym like most trainers.
+TRADUCCION:
+
+[3|1|0|2]
+ORIGINAL: \bOi, welcome to Granite Heights. Our town is a dream for hikers and adventure seekers!
+TRADUCCION:
+
+[3|1|2|2]
+ORIGINAL: \bI don´t care if you´re only here for the Gym, I´m happy about every visitor we get. 
+TRADUCCION:
+
+[3|1|4|3]
+ORIGINAL: \bAfter all, we´re the last town that trainers visit during the Gym Challenge, so we try our best to support these talents.
+TRADUCCION:
+
+[3|1|7|2]
+ORIGINAL: \bYou´ve probably won countless battles up until now, so you´re the right person to get this reward.
+TRADUCCION:
+
+[3|1|9|1]
+ORIGINAL: \bHere, take this little Chimchar.
+TRADUCCION:
+
+[3|1|12|3]
+ORIGINAL: \bA weak little Pokémon like this might not seem like a worthy reward for a trainer like you, but remember, your other Pokémon used to be just like this.
+TRADUCCION:
+
+[3|1|15|3]
+ORIGINAL: \bI´m confident that you´ll be able to train this Chimchar, so that one day it might even face the Champion? That´d be super cool!
+TRADUCCION:
+
+[3|1|18|2]
+ORIGINAL: \bI wish you the best for the rest of your journey. Take care!
+TRADUCCION:
+
+[3|1|23|1]
+ORIGINAL: There's no more room for Pokémon!
+TRADUCCION:
+
+[3|1|24|1]
+ORIGINAL: The Pokémon Boxes are full and can't accept any more!
+TRADUCCION:
+
+[3|2|0|3]
+ORIGINAL: \bI used to live in Sinnoh, but I´ve seen everything in that region. I moved here in order to have some new adventures, and it´s been going great so far!
+TRADUCCION:

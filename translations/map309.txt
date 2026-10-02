@@ -1,0 +1,7 @@
+[2|1|2|1]
+ORIGINAL: \bI got nothing to play...
+TRADUCCION:
+
+[3|1|2|1]
+ORIGINAL: \bI got nothing to wear...
+TRADUCCION:

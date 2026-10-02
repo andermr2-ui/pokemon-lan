@@ -1,0 +1,7 @@
+[1|1|0|1]
+ORIGINAL: There´s something hidden inside the stature.
+TRADUCCION:
+
+[1|1|2|1]
+ORIGINAL: You attached the Z-Power Ring to your bracelet.
+TRADUCCION:

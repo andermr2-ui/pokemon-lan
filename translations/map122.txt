@@ -1,0 +1,23 @@
+[5|1|2|1]
+ORIGINAL: \bThis storm is never ending!
+TRADUCCION:
+
+[5|2|0|2]
+ORIGINAL: \bYou can find rare Paldean Wooper in this swamp. You´ll notice when you find one.
+TRADUCCION:
+
+[6|1|2|1]
+ORIGINAL: \bAren´t these the best conditions for a battle?
+TRADUCCION:
+
+[6|2|0|1]
+ORIGINAL: \bBe careful, or you´ll be struck by lightning.
+TRADUCCION:
+
+[4|1|2|1]
+ORIGINAL: \bThe swamps are talking to us. Can you hear them?
+TRADUCCION:
+
+[4|2|0|1]
+ORIGINAL: \bIf you listen very closely, you will hear them.
+TRADUCCION:

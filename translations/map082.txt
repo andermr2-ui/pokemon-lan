@@ -1,0 +1,19 @@
+[12|1|2|2]
+ORIGINAL: \bRumble Mountain has many strong Pokémon. Let me show you!
+TRADUCCION:
+
+[12|2|0|1]
+ORIGINAL: \bHave fun in there!
+TRADUCCION:
+
+[13|1|2|1]
+ORIGINAL: \bI train at Rumble Mountain. I´m going to break you.
+TRADUCCION:
+
+[13|2|0|1]
+ORIGINAL: \bYou can´t be broken. I respect you.
+TRADUCCION:
+
+[14|1|0|1]
+ORIGINAL: Rumble Mountain
+TRADUCCION:

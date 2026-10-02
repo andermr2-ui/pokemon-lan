@@ -1,0 +1,47 @@
+[16|1|2|1]
+ORIGINAL: \bDon´t ask me how I caught this one.
+TRADUCCION:
+
+[16|2|0|2]
+ORIGINAL: \bBe careful in the tall grass. Wild Scythers can be dangerous!
+TRADUCCION:
+
+[11|1|2|1]
+ORIGINAL: \bAre you ready for this?
+TRADUCCION:
+
+[11|2|0|2]
+ORIGINAL: \bI heard that you can get the HM for Surf somewhere on Route 8, but I don´t know where.
+TRADUCCION:
+
+[42|1|0|1]
+ORIGINAL: Lugia is looking at you. It seems to respect you.
+TRADUCCION:
+
+[42|1|1|1]
+ORIGINAL: It wants to challenge you to a battle!
+TRADUCCION:
+
+[42|1|3|1]
+ORIGINAL: \bLUGIAAAAA!!!
+TRADUCCION:
+
+[42|3|0|1]
+ORIGINAL: Lugia disappeared. Will it come back?
+TRADUCCION:
+
+[15|1|2|1]
+ORIGINAL: \bA wild Greg appears!
+TRADUCCION:
+
+[15|2|0|1]
+ORIGINAL: \bI´m just a kid named Greg. Of course I´m weak.
+TRADUCCION:
+
+[10|1|2|1]
+ORIGINAL: \bDo you have what it takes?
+TRADUCCION:
+
+[10|2|0|2]
+ORIGINAL: \bI would have loved to visit Crystal Cove, but without Surf, that won´t happen.
+TRADUCCION:

@@ -1,0 +1,83 @@
+[1|1|2|2]
+ORIGINAL: \bGreetings, trainer. I´m Morgana, and I use Pokémon of a certain type. Can you guess which one it is?
+TRADUCCION:
+
+[1|1|4|2]
+ORIGINAL: \bDon´t let the decorations in this room fool you, that stuff is from a now retired Elite Four member. 
+TRADUCCION:
+
+[1|1|6|3]
+ORIGINAL: \bI might be the youngest member in the Elite Four, but that doesn´t mean I´m weak. Show me what you´ve got!
+TRADUCCION:
+
+[1|1|11|3]
+ORIGINAL: \bYup, I´m a Dark-Type trainer. These Pokémon get a bad reputation, because a lot of people think that they´re evil. THAT`S WRONG!
+TRADUCCION:
+
+[1|1|14|2]
+ORIGINAL: \bOnce you get to know these Pokémon, they´re actually really kind, which is why I train them.
+TRADUCCION:
+
+[1|1|16|3]
+ORIGINAL: \bElysio is waiting for you in the next room. He´s the strongest member of the Elite Four, and your last obstacle before facing the Champ.
+TRADUCCION:
+
+[1|1|19|1]
+ORIGINAL: \bI hope you´ll make it that far, so good luck!
+TRADUCCION:
+
+[1|2|0|2]
+ORIGINAL: \bOne day we´ll have a rematch, and then my Dark-Type Pokémon will crush you!
+TRADUCCION:
+
+[1|3|2|3]
+ORIGINAL: \bGreetings, Champion. I have been looking forward to our rematch, because I think I´ve found your weakness.
+TRADUCCION:
+
+[1|3|5|2]
+ORIGINAL: \bEven if I no longer have the element of surprise on my side, I feel confident that I´ll win this time.
+TRADUCCION:
+
+[1|3|7|2]
+ORIGINAL: \bDon´t let the darkness consume you, or your title is gone!
+TRADUCCION:
+
+[1|3|11|1]
+ORIGINAL: \bThat was unexpected. Or was it?
+TRADUCCION:
+
+[1|3|12|3]
+ORIGINAL: \bI´m starting to think that you have no weaknesses. No matter what move my Pokémon used, your team didn´t break a sweat.
+TRADUCCION:
+
+[1|3|15|2]
+ORIGINAL: \bYou´re very close to reaffirming your status as the Champion, all you have to do is win against Elysio.
+TRADUCCION:
+
+[1|3|17|3]
+ORIGINAL: \bHe told me that he´s made a pretty big change in his team, so maybe he wants to catch you off guard, although I doubt that that´s even possible.
+TRADUCCION:
+
+[1|4|0|3]
+ORIGINAL: \bI´ll keep on trying to find your weakness, because every trainer has one. Don´t let the darkness consume you!
+TRADUCCION:
+
+[1|5|2|2]
+ORIGINAL: \bGreetings, Champion. I have a feeling that this battle will be even greater than our previous ones.
+TRADUCCION:
+
+[1|5|4|1]
+ORIGINAL: \bGet ready, I´ll hit you with everything I´ve got!
+TRADUCCION:
+
+[1|5|7|2]
+ORIGINAL: \bYup, that was the best one yet. But shall we try have an even greater battle the next time we meet?
+TRADUCCION:
+
+[1|5|9|1]
+ORIGINAL: \bThanks for stopping bye!
+TRADUCCION:
+
+[1|6|0|2]
+ORIGINAL: \bIf our battles continue to get greater and greater, we might have the best battle of all time some day!
+TRADUCCION:

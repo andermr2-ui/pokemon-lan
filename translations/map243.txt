@@ -1,0 +1,19 @@
+[3|1|8|3]
+ORIGINAL: \bOh, what a surprise. I just came across a trainer for the first time in weeks, and now there´s another one.
+TRADUCCION:
+
+[3|1|11|3]
+ORIGINAL: \bI´m the Waterfall Master, and I award those trainers who completed the Gym Challenge with the HM for Waterfall.
+TRADUCCION:
+
+[3|1|14|3]
+ORIGINAL: \bWhile there aren´t that many waterfalls in this region, you do need this move to reach the Pokémon League.
+TRADUCCION:
+
+[3|1|17|3]
+ORIGINAL: \bYou probably want to challenge the League as soon as possible, so I don´t want to hold you up any longer. Here, take this.
+TRADUCCION:
+
+[3|1|21|2]
+ORIGINAL: \bI wish you the best of luck for the Pokémon League. I´m off to Riverstone to play some slots. Bye!
+TRADUCCION:

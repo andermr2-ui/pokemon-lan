@@ -1,0 +1,219 @@
+[16|1|0|2]
+ORIGINAL: \bWho decided to code this in JavaScript?! Why can´t we use Python?!
+TRADUCCION:
+
+[16|2|10|2]
+ORIGINAL: \bArthur told us what happened. Thanks for helping us!
+TRADUCCION:
+
+[16|2|12|2]
+ORIGINAL: \bAnd since we want to show our gratitude, we have prepared a little gift for you. Here you go.
+TRADUCCION:
+
+[16|2|16|2]
+ORIGINAL: \bOh, and of course you can also take a look at Dr. Reed´s lab, since he won´t be needing that anymore.
+TRADUCCION:
+
+[16|2|18|1]
+ORIGINAL: \bOnce again, thank you for everything!
+TRADUCCION:
+
+[16|3|0|1]
+ORIGINAL: \bI hope you like our gift. And thanks for helping us.
+TRADUCCION:
+
+[22|1|0|3]
+ORIGINAL: \bWait, this is strange. One of the Rotoms has been sending the exact same data for hours now. If this doesn´t stop soon, then I´ll have to get the hammer!
+TRADUCCION:
+
+[11|1|0|3]
+ORIGINAL: \bThese servers have a lot of power, but that also comes with issues. My job is to keep the servers running.
+TRADUCCION:
+
+[11|1|3|3]
+ORIGINAL: \bThe power supply and the cooling system is controlled with these machines. I´m the only one here who can operate them.
+TRADUCCION:
+
+[17|1|0|3]
+ORIGINAL: \bWe use every form of Rotom for the data analysis. Each form receives different data, because all of them have a different approach.
+TRADUCCION:
+
+[23|1|0|3]
+ORIGINAL: \bMy job is to watch over the data flow. There´s a designated order in which the data is supposed to be distributed, and I have to make sure it stays like that.
+TRADUCCION:
+
+[12|1|0|3]
+ORIGINAL: \bWelcome to the Rotom AI Company! We´re an open-door institution, so visitors are always welcome.
+TRADUCCION:
+
+[12|1|3|2]
+ORIGINAL: \bIf you came to see the Rotom Data Station, it´s on the third floor.
+TRADUCCION:
+
+[1|1|0|2]
+ORIGINAL: \bAnthony: Ah, there you are. Welcome to the Rotom AI Company. Are you familiar with what we do?
+TRADUCCION:
+
+[1|1|2|3]
+ORIGINAL: \bIt´s pretty straight forward actually. We´re developing artificial intelligence techonology with the help of Rotom.
+TRADUCCION:
+
+[1|1|5|2]
+ORIGINAL: \bRotoms have proven to be very useful for scientific research, and the best example are Rotom Phones.
+TRADUCCION:
+
+[1|1|7|3]
+ORIGINAL: \bIf you´re interested in seeing the Rotoms at work, just go to the third floor. That´s where our Rotoms analyze hundreds of Terrabytes every day.
+TRADUCCION:
+
+[1|1|10|2]
+ORIGINAL: \bIn order to handle these massive amounts of data, we also have our own server room.
+TRADUCCION:
+
+[1|1|12|2]
+ORIGINAL: \bIt´s on the top floor, and it´s used to store data, but also to send it to our server satellite.
+TRADUCCION:
+
+[1|1|14|3]
+ORIGINAL: \bYup, the Rotom AI Company has their own satellite. Our founder, Elon Musk, poured billions of dollars into the company, and the results are starting to show.
+TRADUCCION:
+
+[1|1|17|3]
+ORIGINAL: \bOur neighbors, the Delta Tech Company, have used our AI to develope a new type of Pokéball. The AI has saved them years of developement.
+TRADUCCION:
+
+[1|1|20|2]
+ORIGINAL: \bOh, I´m going off-topic again, sorry. We´re here to study Z-Power.
+TRADUCCION:
+
+[1|1|22|2]
+ORIGINAL: \bAs you probably you know, Z-Moves can only be used with a Z-Power Ring and a Z-Crystal.
+TRADUCCION:
+
+[1|1|24|3]
+ORIGINAL: \bI don´t know if you came across a Z-Crystal yet, but I´ve heard rumours of a place where you can find a lot of them.
+TRADUCCION:
+
+[1|1|27|3]
+ORIGINAL: \bApparently there´s a secret cave somewhere in Delta, and that cave is supposed to be the origin of the Z-Power.
+TRADUCCION:
+
+[1|1|30|2]
+ORIGINAL: \bUntil today, I thought that this story was just a hoax, but now I´m not so sure anymore.
+TRADUCCION:
+
+[1|1|32|2]
+ORIGINAL: \bI even believe that I know how to find this cave, but there´s something else I want to do first.
+TRADUCCION:
+
+[1|1|34|3]
+ORIGINAL: \bWould you give me the opportunity to have a battle against the Champion? I train Pokémon as a hobby, and I´d like to see where I stand.
+TRADUCCION:
+
+[1|1|37|1]
+ORIGINAL: \bReally? You will?! That´s very kind of you!
+TRADUCCION:
+
+[1|1|38|3]
+ORIGINAL: \bBut before we do that, you should talk to a colleague of mine, he´s currently working with the Rotoms on the third floor.
+TRADUCCION:
+
+[1|1|41|3]
+ORIGINAL: \bHe also knows a few things about Z-Power, as he´s from Alola. Once you´re done, meet me at the Crystal Harbor battle field.
+TRADUCCION:
+
+[1|2|0|2]
+ORIGINAL: \bTalk to my colleague on the third floor, and then we´ll have our battle.
+TRADUCCION:
+
+[18|1|0|3]
+ORIGINAL: \bWe´re almost done with the newest version of Rotom AI. The new version will be 5 times faster than the old one!
+TRADUCCION:
+
+[2|1|0|3]
+ORIGINAL: \bOh, hello. This is our Rotom Data Station. It´s the only one in the world, and the amount of data we analyze here is unbelievably large.
+TRADUCCION:
+
+[2|1|4|2]
+ORIGINAL: \bAh, Anthony said that I know a thing or two about Z-Power. That guy is really into this stuff, huh.
+TRADUCCION:
+
+[2|1|6|3]
+ORIGINAL: \bWe all know that the use of Z-Moves is quite common in Alola, which was believed to be the only region where Z-Power existed.
+TRADUCCION:
+
+[2|1|9|3]
+ORIGINAL: \bIt turns out that Z-Power itself has nothing to do with Alola, it just happened to be a common thing their due to the region´s history.
+TRADUCCION:
+
+[2|1|12|3]
+ORIGINAL: \bSurprisingly, Z-Power is one of the most well researched Pokémon phenomenons. We know much less about Mega Evolutions or Dynamax.
+TRADUCCION:
+
+[2|1|15|3]
+ORIGINAL: \bShould this mysterious Z-Crystal cave actually exist, then it´d be possible for Z-Power to become popular in way more regions.
+TRADUCCION:
+
+[2|1|18|3]
+ORIGINAL: \bThere are 3 Z-Crystals that we´ve researched with the help of Rotom, and I think we´ve discovered pretty much everything there is to know about these.
+TRADUCCION:
+
+[2|1|21|3]
+ORIGINAL: \bThey are unique Z-Crystals that only show their effect with a certain move on a certain Pokémon. I want you to have them, since you have a Z-Ring.
+TRADUCCION:
+
+[2|1|27|3]
+ORIGINAL: \bThe Pokémon that can use the power of these crystals are rare Alolan Pokémon, which you usually can´t come across in the Delta Region.
+TRADUCCION:
+
+[2|1|30|2]
+ORIGINAL: \bHowever, the Freelancer Agency in Crystal Harbor might be able to help you out.
+TRADUCCION:
+
+[2|1|32|2]
+ORIGINAL: \bThere, you can do freelancer jobs in order to earn rare rewards, which sometimes include Pokémon.
+TRADUCCION:
+
+[2|1|34|3]
+ORIGINAL: \bIt´s the building with the Pokéball above the door. I hope I could explain the relevance of Z-Power to you. Goodbye!
+TRADUCCION:
+
+[2|2|0|2]
+ORIGINAL: \bI wonder if there´s a way to make Terastallization possible everywhere in the world.
+TRADUCCION:
+
+[2|2|2|3]
+ORIGINAL: \bThe Blueberry Academy found a way to make it possible inside their dome, but I don´t know if there´s a way to make it available everywhere.
+TRADUCCION:
+
+[19|1|0|3]
+ORIGINAL: \bThis is one of our filter stations. A powerful algorithm is checking the data from the Rotoms for possible issues.
+TRADUCCION:
+
+[19|1|3|3]
+ORIGINAL: \bThe algorithm is running 24/7, and it produces a lot of heat, so we need these massive cooling units to keep the computers from overheating.
+TRADUCCION:
+
+[14|1|0|2]
+ORIGINAL: \bDr. Reed´s private lab is off limits. Only he can go down here.
+TRADUCCION:
+
+[20|1|0|3]
+ORIGINAL: \bHey, look at this! I´m currently using the pre-relase version of the new Rotom AI to work on the new Rotom AI.
+TRADUCCION:
+
+[20|1|3|3]
+ORIGINAL: \bIn other words, the AI is writing itself. I´m only pressing buttons right now, I have nothing to do with the rest.
+TRADUCCION:
+
+[20|1|6|2]
+ORIGINAL: \bIf we manage to automize this, then we would send humanity hundreds of years into the future.
+TRADUCCION:
+
+[21|1|0|3]
+ORIGINAL: \bI studied Computer Science and Advanced AI for 5 years, but now I´m only using Excel to archive data. Why can´t we use our AI for this? I hate Excel!
+TRADUCCION:
+
+[10|1|0|3]
+ORIGINAL: \bGood thing we have our own server room. I can stream spicy videos lightning fast like this, hehe. But don´t tell my boss, he´ll fire me for sure.
+TRADUCCION:

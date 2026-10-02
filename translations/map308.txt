@@ -1,0 +1,11 @@
+[6|1|0|1]
+ORIGINAL: \sign[signskin]1F: Service Counter
+TRADUCCION:
+
+[7|1|0|2]
+ORIGINAL: \bOnce I go up there I´m gonna go broke. Shopping is my new addiction, and I just can´t stop myself!
+TRADUCCION:
+
+[3|1|0|1]
+ORIGINAL: \bHello! Welcome to the Riverstone Department Store.
+TRADUCCION:

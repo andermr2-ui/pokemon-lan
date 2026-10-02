@@ -1,0 +1,71 @@
+[16|1|2|1]
+ORIGINAL: \bI´m just the maintenance guy.
+TRADUCCION:
+
+[16|2|0|2]
+ORIGINAL: \bEmmett is behind this door. But I´m just glad that the boosters worked!
+TRADUCCION:
+
+[16|3|0|2]
+ORIGINAL: \bYeah, good job I guess. I´m just here for the Boosters.
+TRADUCCION:
+
+[11|1|2|1]
+ORIGINAL: \bYou look strong. Let´s do this!
+TRADUCCION:
+
+[11|2|0|1]
+ORIGINAL: \bCan you guess which Pokémon Emmett will use?
+TRADUCCION:
+
+[11|3|0|1]
+ORIGINAL: \bWow, you were too strong for Emmett!
+TRADUCCION:
+
+[17|1|2|2]
+ORIGINAL: \bThe evolutions of Eevee...How fascinating!
+TRADUCCION:
+
+[17|2|0|2]
+ORIGINAL: \bDid you know? Eevee can evolve into 8 different Pokémon! Isn´t that amazing?
+TRADUCCION:
+
+[17|3|0|2]
+ORIGINAL: \bHave you unlocked the secret that lies within Eevee?
+TRADUCCION:
+
+[12|1|2|1]
+ORIGINAL: \bAren´t Eevees the cutest?
+TRADUCCION:
+
+[12|2|0|1]
+ORIGINAL: \bI love Eevees!
+TRADUCCION:
+
+[12|3|0|1]
+ORIGINAL: \bYou´re a strong trainer!
+TRADUCCION:
+
+[13|1|0|1]
+ORIGINAL: \bYou pressed a button...
+TRADUCCION:
+
+[2|1|0|3]
+ORIGINAL: \bWelcome to the Riverstone Gym. This Gym works a bit different, as the trainers don´t use Pokémon of a specific type here.
+TRADUCCION:
+
+[2|1|3|3]
+ORIGINAL: \bInstead, the trainers in this Gym all use Eevees or evolutions of Eevee. If you have a well balanced team, you´ll have a fair shot. Good luck!
+TRADUCCION:
+
+[2|2|0|2]
+ORIGINAL: \bIt takes talent to win against Emmett. Congratulations on claiming the Evolution Badge!
+TRADUCCION:
+
+[9|1|0|1]
+ORIGINAL: \bYou pressed a button...
+TRADUCCION:
+
+[9|2|0|1]
+ORIGINAL: \bYou pressed a button...
+TRADUCCION:

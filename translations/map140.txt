@@ -1,0 +1,55 @@
+[2|1|2|2]
+ORIGINAL: \bEmmett: Welcome, trainer. Do you want to unveil the mystery of Eevee and it´s evolutions with me?
+TRADUCCION:
+
+[2|1|4|2]
+ORIGINAL: \bThen buckle up, because I want to see a major breakthrough!
+TRADUCCION:
+
+[2|1|7|3]
+ORIGINAL: \me[Badge get]\bYou´d make a great scientist. Take the Evolution Badge!\wtnp[110]
+TRADUCCION:
+
+[2|1|12|1]
+ORIGINAL: \bAnd how about you take this as well.
+TRADUCCION:
+
+[2|1|14|3]
+ORIGINAL: \bEmmett: This TM cointains Psychic, a powerful move that is guaranteed to help you. And you can now use Surf outside of battles.
+TRADUCCION:
+
+[2|1|17|3]
+ORIGINAL: \bIf you want to explore Route 8, then go to the Department Store to buy enough Potions and Poké Balls.
+TRADUCCION:
+
+[2|1|20|3]
+ORIGINAL: \bRoute 8 is home to more than a hundred different species. If you go unprepared, you might regret it. Have fun out there, goodbye!
+TRADUCCION:
+
+[2|2|0|2]
+ORIGINAL: \bEmmett: If you want to catch an Eevee, just go to Riverstone Park. Eevees love that place.
+TRADUCCION:
+
+[2|3|1|3]
+ORIGINAL: \bEmmett: You did it! You had a major breakthrough! Science is great, but you can´t become Champion without skill.
+TRADUCCION:
+
+[2|3|4|2]
+ORIGINAL: \bI still need to research you progress though, so show me what you´ve learned!
+TRADUCCION:
+
+[2|3|7|2]
+ORIGINAL: \bEmmett: Look at the results! Your progress is off the charts! Thanks for helping me with my research.
+TRADUCCION:
+
+[2|3|9|3]
+ORIGINAL: \bWe´re now one step closer to solving the mystery behind Eevee and its evolutions. I wish you the best for your future studies. Farewell!
+TRADUCCION:
+
+[2|4|0|3]
+ORIGINAL: \bEmmett: So far, 8 evolutions of Eevee have been discovered. Are there more? Are there evolutions of other Types?
+TRADUCCION:
+
+[2|4|3|3]
+ORIGINAL: \bMaybe there used to be other evolutions that are extinct now, who knows? I´m very excited to find out more!
+TRADUCCION:

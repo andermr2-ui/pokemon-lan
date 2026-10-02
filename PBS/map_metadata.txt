@@ -1,0 +1,2234 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[001]   # Intro
+Name = Intro
+#-------------------------------
+[002]   # Lappet Town
+Name = Lappet Town
+Outdoor = true
+ShowArea = true
+MapPosition = 0,13,12
+BattleBack = field
+#-------------------------------
+[003]   # Route2Connection
+Name = Meadow Grove
+MapPosition = 2,7,13
+#-------------------------------
+[004]   # Pokémon Lab
+Name = Pokémon Lab
+MapPosition = 0,13,12
+#-------------------------------
+[005]   # Route 1
+Name = Route 1
+Outdoor = true
+ShowArea = true
+MapPosition = 0,13,11
+BattleBack = field
+#-------------------------------
+[006]   # Kurt's house
+Name = Route 1
+MapPosition = 0,13,11
+#-------------------------------
+[007]   # Cedolan City
+Name = Cedolan City
+Outdoor = true
+ShowArea = true
+MapPosition = 0,13,10
+MapSize = 2,11
+#-------------------------------
+[008]   # Daisy's house
+Name = Lappet Town
+MapPosition = 0,13,12
+#-------------------------------
+[009]   # Cedolan City Poké Center
+Name = Cedolan City
+HealingSpot = 8,17,11
+MapPosition = 0,14,10
+#-------------------------------
+[010]   # Cedolan Gym
+Name = Cedolan City
+MapPosition = 0,13,10
+BattleBack = indoor3
+Environment = Rock
+Flags = DisableBoxLink
+#-------------------------------
+[011]   # Pokémon Institute
+Name = Cedolan City
+MapPosition = 0,14,10
+#-------------------------------
+[012]   # Cedolan City Condo
+Name = Cedolan City
+MapPosition = 0,14,10
+#-------------------------------
+[013]   # Game Corner
+Name = Cedolan City
+MapPosition = 0,14,10
+#-------------------------------
+[014]   # Cedolan Dept. 1F
+Name = Cedolan City
+MapPosition = 0,13,10
+#-------------------------------
+[015]   # Cedolan Dept. 2F
+Name = Cedolan City
+MapPosition = 0,13,10
+#-------------------------------
+[016]   # Cedolan Dept. 3F
+Name = Cedolan City
+MapPosition = 0,13,10
+#-------------------------------
+[017]   # Cedolan Dept. 4F
+Name = Cedolan City
+MapPosition = 0,13,10
+#-------------------------------
+[018]   # Cedolan Dept. 5F
+Name = Cedolan City
+MapPosition = 0,13,10
+#-------------------------------
+[019]   # Cedolan Dept. Rooftop
+Name = Cedolan City
+MapPosition = 0,13,10
+#-------------------------------
+[020]   # Cedolan Dept. Elevator
+Name = Cedolan City
+MapPosition = 0,13,10
+#-------------------------------
+[021]   # Route 2
+Name = Route 2
+Outdoor = true
+ShowArea = true
+Weather = Rain,100
+MapPosition = 0,14,8
+BattleBack = field
+MapSize = 1,11
+#-------------------------------
+[022]   # Starter Valley
+Name = Starter Valley
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,5,14
+MapSize = 1,1
+#-------------------------------
+[023]   # Lerucean Town
+Name = Lerucean Town
+Outdoor = true
+ShowArea = true
+MapPosition = 0,15,8
+#-------------------------------
+[024]   # Lerucean Town Poké Center
+Name = Lerucean Town
+HealingSpot = 23,11,15
+MapPosition = 0,15,8
+#-------------------------------
+[025]   # Lerucean Town Mart
+Name = Lerucean Town
+MapPosition = 0,15,8
+#-------------------------------
+[026]   # Pokémon Fan Club
+Name = Lerucean Town
+MapPosition = 0,15,8
+#-------------------------------
+[027]   # Pokémon Day Care
+Name = Lerucean Town
+MapPosition = 0,15,8
+#-------------------------------
+[028]   # Natural Park
+Name = Natural Park
+Outdoor = true
+ShowArea = true
+MapPosition = 0,16,8
+BattleBack = field
+Flags = MossRock,BugContest
+#-------------------------------
+[029]   # Natural Park Entrance
+Name = Natural Park
+Bicycle = true
+MapPosition = 0,16,8
+Flags = BugContestReception
+#-------------------------------
+[030]   # Natural Park Pavillion
+Name = Natural Park
+MapPosition = 0,16,8
+Flags = BugContestReception
+#-------------------------------
+[031]   # Route 3
+Name = Route 3
+Outdoor = true
+ShowArea = true
+MapPosition = 0,14,6
+BattleBack = field
+MapSize = 2,1101
+#-------------------------------
+[032]   # Route 1 (Delta)
+Name = Route 1
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,6,13
+BattleBack = field
+Environment = Grass
+#-------------------------------
+[033]   # Meadow Grove
+Name = Meadow Grove
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,7,13
+BattleBack = city
+#-------------------------------
+[034]   # Ice Cave
+Name = Route 3
+Bicycle = true
+MapPosition = 0,15,6
+BattleBack = cave1
+Environment = Cave
+Flags = IceRock
+#-------------------------------
+[035]   # Ingido Plateau outside
+Name = Ingido Plateau
+Outdoor = true
+ShowArea = true
+MapPosition = 0,13,6
+#-------------------------------
+[036]   # Pokémon League entrance
+Name = Ingido Plateau
+HealingSpot = 35,17,7
+MapPosition = 0,13,6
+#-------------------------------
+[037]   # Pokémon League room 1
+Name = Ingido Plateau
+MapPosition = 0,13,6
+BattleBack = elite1
+Flags = DisableBoxLink
+#-------------------------------
+[038]   # Hall of Fame
+Name = Ingido Plateau
+MapPosition = 0,13,6
+Flags = DisableBoxLink
+#-------------------------------
+[039]   # Route 4
+Name = Route 4
+Outdoor = true
+ShowArea = true
+MapPosition = 0,11,6
+BattleBack = field
+MapSize = 2,11
+#-------------------------------
+[040]   # Route 4 Cycling Road
+Name = Route 4
+Outdoor = true
+ShowArea = true
+BicycleAlways = true
+MapPosition = 0,11,6
+#-------------------------------
+[041]   # Route 5
+Name = Route 5
+Outdoor = true
+ShowArea = true
+BicycleAlways = true
+MapPosition = 0,11,7
+MapSize = 1,111
+#-------------------------------
+[042]   # Arrow Ridge
+Name = Arrow Ridge
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,8,18
+MapSize = 2,1100
+#-------------------------------
+[043]   # Meadow Grove Poké Center
+Name = Meadow Grove
+MapPosition = 2,7,13
+#-------------------------------
+[044]   # Route 6
+Name = Route 6
+Outdoor = true
+ShowArea = true
+MapPosition = 0,11,10
+BattleBack = field
+MapSize = 2,11
+#-------------------------------
+[045]   # Route 6 Cycling Road
+Name = Route 6
+Outdoor = true
+ShowArea = true
+BicycleAlways = true
+MapPosition = 0,11,10
+#-------------------------------
+[046]   # Route 4 Cycling Road gate
+Name = Route 4
+Bicycle = true
+MapPosition = 0,12,6
+#-------------------------------
+[047]   # Route 7
+Name = Route 7
+Outdoor = true
+ShowArea = true
+Weather = Rain,0
+MapPosition = 0,15,10
+BattleBack = rocky
+MapSize = 2,11
+Environment = Rock
+#-------------------------------
+[048]   # Starter Valley Pokémon Lab
+Name = Starter Valley Pokémon Lab
+MapPosition = 2,5,14
+#-------------------------------
+[049]   # Rock Cave 1F
+Name = Route 7
+Bicycle = true
+MapPosition = 0,16,10
+BattleBack = cave1
+Environment = Cave
+Flags = Magnetic,DistortionWorld
+#-------------------------------
+[050]   # Rock Cave B1F
+Name = Route 7
+Bicycle = true
+MapPosition = 0,16,10
+DarkMap = true
+BattleBack = cave3
+Environment = Cave
+Flags = Magnetic,DistortionWorld
+#-------------------------------
+[051]   # Dungeon
+Name = Route 7
+Bicycle = true
+MapPosition = 0,16,10
+Dungeon = true
+BattleBack = cave2
+Environment = Cave
+Flags = Magnetic,DistortionWorld,ScaleWildEncounterLevels
+#-------------------------------
+[052]   # Battle Frontier
+Name = Battle Frontier
+Outdoor = true
+ShowArea = true
+MapPosition = 0,17,10
+#-------------------------------
+[053]   # Battle Frontier Poké Center
+Name = Battle Frontier
+HealingSpot = 52,17,14
+MapPosition = 0,17,10
+#-------------------------------
+[054]   # Battle Frontier Mart
+Name = Battle Frontier
+MapPosition = 0,17,10
+#-------------------------------
+[055]   # Battle Tower
+Name = Battle Frontier
+HealingSpot = 52,30,10
+MapPosition = 0,17,10
+#-------------------------------
+[056]   # Battle Tower arena
+Name = Battle Frontier
+MapPosition = 0,17,10
+BattleBack = indoor1
+Flags = DisableBoxLink
+#-------------------------------
+[057]   # Stadium Cup lobby
+Name = Battle Frontier
+MapPosition = 0,17,10
+#-------------------------------
+[058]   # Battle Palace
+Name = Battle Frontier
+MapPosition = 0,17,10
+#-------------------------------
+[059]   # Battle Palace arena
+Name = Battle Frontier
+MapPosition = 0,17,10
+BattleBack = indoor1
+Flags = DisableBoxLink
+#-------------------------------
+[060]   # Battle Arena
+Name = Battle Frontier
+MapPosition = 0,17,10
+#-------------------------------
+[061]   # Battle Arena arena
+Name = Battle Frontier
+MapPosition = 0,17,10
+BattleBack = indoor1
+Flags = DisableBoxLink
+#-------------------------------
+[062]   # Battle Factory
+Name = Battle Frontier
+MapPosition = 0,17,10
+#-------------------------------
+[063]   # Battle Factory intro corridor
+Name = Battle Frontier
+MapPosition = 0,17,10
+Flags = DisableBoxLink
+#-------------------------------
+[064]   # Battle Factory arena
+Name = Battle Frontier
+MapPosition = 0,17,10
+BattleBack = indoor1
+Flags = DisableBoxLink
+#-------------------------------
+[065]   # Battle Factory corridor
+Name = Battle Frontier
+MapPosition = 0,17,10
+Flags = DisableBoxLink
+#-------------------------------
+[066]   # Safari Zone outside
+Name = Safari Zone
+Outdoor = true
+ShowArea = true
+MapPosition = 0,12,12
+BattleBack = field
+#-------------------------------
+[067]   # Safari Zone gate
+Name = Safari Zone
+MapPosition = 0,12,12
+#-------------------------------
+[068]   # Safari Zone
+Name = Safari Zone
+Outdoor = true
+ShowArea = true
+MapPosition = 0,12,12
+SafariMap = true
+BattleBack = forest
+Environment = Forest
+#-------------------------------
+[069]   # Route 8
+Name = Route 8
+Outdoor = true
+ShowArea = true
+MapPosition = 0,13,13
+DiveMap = 70
+BattleBack = field
+#-------------------------------
+[070]   # Route 8 underwater
+Name = Route 8
+MapPosition = 0,13,13
+BattleBack = underwater
+Environment = Underwater
+#-------------------------------
+[071]   # Route 8 harbor
+Name = Route 8
+MapPosition = 0,13,13
+#-------------------------------
+[072]   # Berth Island
+Name = Berth Island
+Outdoor = true
+ShowArea = true
+Weather = Storm,50
+MapPosition = 0,18,17
+BattleBack = field
+Flags = DistortionWorld
+#-------------------------------
+[073]   # Faraday Island
+Name = Faraday Island
+Outdoor = true
+ShowArea = true
+MapPosition = 0,22,16
+BattleBack = field
+Flags = DistortionWorld
+#-------------------------------
+[074]   # Route 6 Cycling Road gate
+Name = Route 6
+Bicycle = true
+MapPosition = 0,12,10
+#-------------------------------
+[075]   # Tiall Region
+Name = Tiall Region
+Outdoor = true
+MapPosition = 1,13,16
+BattleBack = city
+#-------------------------------
+[076]   # Jirachi Rock
+Name = Starter Valley
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,5,14
+BattleBack = field
+Environment = Grass
+#-------------------------------
+[077]   # Player's house SV
+Name = Starter Valley
+MapPosition = 2,5,14
+#-------------------------------
+[079]   # Meadow Grove Mart
+Name = Meadow Grove
+MapPosition = 2,7,13
+#-------------------------------
+[080]   # Route 2 (Delta)
+Name = Route 2
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,7,14
+BattleBack = field
+MapSize = 2,1010
+Environment = Grass
+#-------------------------------
+[081]   # Arrow Ridge Gym
+Name = Arrow Ridge Gym
+MapPosition = 2,8,18
+BattleBack = elite5
+#-------------------------------
+[082]   # Route 3 (Delta)
+Name = Route 3
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,10,17
+BattleBack = rocky
+MapSize = 2,1010
+Environment = Rock
+#-------------------------------
+[083]   # Rumble Mountain South
+Name = Rumble Mountain South
+ShowArea = true
+Bicycle = true
+MapPosition = 2,10,16
+StillReflections = true
+BattleBack = cave2
+Environment = Cave
+#-------------------------------
+[084]   # Lone Rock
+Name = Route 1
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,5,13
+BattleBack = rocky
+Environment = Rock
+#-------------------------------
+[085]   # Rumble Mountain Middle
+Name = Rumble Mountain Center
+ShowArea = true
+Bicycle = true
+MapPosition = 2,10,16
+DarkMap = true
+StillReflections = true
+BattleBack = cave3
+Environment = Cave
+#-------------------------------
+[086]   # Marcus´ House
+Name = Meadow Grove
+MapPosition = 2,7,13
+BattleBack = indoor1
+#-------------------------------
+[087]   # Arrow Ridge Poké Center
+Name = Arrow Ridge Poké Center
+MapPosition = 2,8,18
+#-------------------------------
+[088]   # Arrow Ridge Mart
+Name = Arrow Ridge Mart
+MapPosition = 2,8,18
+#-------------------------------
+[089]   # Rumble Mountain North
+Name = Rumble Mountain North
+ShowArea = true
+Bicycle = true
+MapPosition = 2,10,16
+StillReflections = true
+BattleBack = cave2
+Environment = Cave
+#-------------------------------
+[090]   # Route 4 (Delta)
+Name = Route 4
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Rain,100
+MapPosition = 2,11,14
+BattleBack = rocky
+MapSize = 2,1010
+Environment = Rock
+#-------------------------------
+[091]   # Mistveil
+Name = Mistveil
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Fog,100
+MapPosition = 2,10,14
+BattleBack = city
+#-------------------------------
+[092]   # Mistveil Institute
+Name = Mistveil
+MapPosition = 2,10,14
+BattleBack = indoor1
+#-------------------------------
+[093]   # Mistveil Poké Center
+Name = Mistveil Poké Center
+MapPosition = 2,10,14
+#-------------------------------
+[094]   # Mistveil Mart
+Name = Mistveil
+MapPosition = 2,10,14
+#-------------------------------
+[095]   # Mistveil Champ Store
+Name = Mistveil
+MapPosition = 2,10,13
+#-------------------------------
+[096]   # Mistveil Gym
+Name = Mistveil Gym
+MapPosition = 2,10,13
+BattleBack = elite3
+#-------------------------------
+[097]   # Mistveil Gym 2
+Name = Mistveil Gym
+MapPosition = 2,10,13
+BattleBack = elite3
+#-------------------------------
+[098]   # Route 2.1 (Delta)
+Name = Route 2
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,7,16
+BattleBack = field
+MapSize = 2,1011
+Environment = Grass
+#-------------------------------
+[099]   # Route 5 (Delta)
+Name = Route 5
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,9,12
+BattleBack = forest
+MapSize = 2,1010
+Environment = Forest
+#-------------------------------
+[100]   # Route 5.1 (Delta)
+Name = Route 5
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,10,11
+BattleBack = rocky
+MapSize = 2,1010
+Environment = Rock
+#-------------------------------
+[101]   # Dark Forest
+Name = Dark Forest
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,8,10
+DarkMap = true
+BattleBack = forest
+MapSize = 3,111000000
+Environment = ForestGrass
+#-------------------------------
+[102]   # Route5Connection
+Name = Route 5
+MapPosition = 2,10,11
+#-------------------------------
+[103]   # Flower Meadow
+Name = Flower Meadow
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,8,9
+BattleBack = forest
+Environment = ForestGrass
+#-------------------------------
+[104]   # Route 6 (Delta)
+Name = Route 6
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,7,11
+BattleBack = rocky
+MapSize = 2,1110
+Environment = Grass
+#-------------------------------
+[105]   # Route6Connection
+Name = Meadow Grove
+MapPosition = 2,7,13
+#-------------------------------
+[106]   # Route 6.1 (Delta)
+Name = Route 6
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,5,10
+BattleBack = rocky
+MapSize = 3,100111000
+Environment = Rock
+#-------------------------------
+[107]   # Cut House
+Name = Cut House
+MapPosition = 2,10,17
+#-------------------------------
+[108]   # Iron Mountain F3
+Name = Iron Mountain F3
+ShowArea = true
+Bicycle = true
+MapPosition = 2,4,8
+StillReflections = true
+BattleBack = cave1
+Environment = Cave
+Flags = Magnetic
+#-------------------------------
+[109]   # Iron Mountain F4
+Name = Iron Mountain F4
+ShowArea = true
+Bicycle = true
+MapPosition = 2,4,8
+BattleBack = cave1
+Environment = Cave
+Flags = Magnetic
+#-------------------------------
+[110]   # Dragon Chamber
+Name = Dragon Chamber
+Bicycle = true
+MapPosition = 2,4,8
+BattleBack = cave1
+Environment = Cave
+Flags = Magnetic
+#-------------------------------
+[111]   # Iron Mountain F3B
+Name = Iron Mountain F3B
+ShowArea = true
+Bicycle = true
+MapPosition = 2,4,8
+BattleBack = cave1
+Environment = Cave
+Flags = Magnetic
+#-------------------------------
+[112]   # Route 7 (Delta)
+Name = Route 7
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,3,10
+BattleBack = rocky
+Environment = Rock
+#-------------------------------
+[113]   # Route 7.1 (Delta)
+Name = Route 7
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,2,10
+BattleBack = rocky
+Environment = Rock
+#-------------------------------
+[114]   # Route 7.2 (Delta)
+Name = Route 7
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,1,10
+BattleBack = rocky
+Environment = Rock
+#-------------------------------
+[115]   # Silver Peak
+Name = Silver Peak
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,1,9
+BattleBack = rocky
+Environment = Rock
+#-------------------------------
+[116]   # Silver Peak Poké Center
+Name = Silver Peak Poké Center
+MapPosition = 2,1,9
+#-------------------------------
+[117]   # Silver Peak Mart
+Name = Silver Peak
+MapPosition = 2,1,9
+#-------------------------------
+[118]   # Silver Peak Gym
+Name = Silver Peak Gym
+MapPosition = 2,1,9
+StillReflections = true
+BattleBack = elite1
+#-------------------------------
+[119]   # Silver Peak Gym 2
+Name = Silver Peak Gym
+MapPosition = 2,1,9
+BattleBack = elite1
+#-------------------------------
+[120]   # Smash House
+Name = Route 6
+MapPosition = 2,5,11
+#-------------------------------
+[121]   # Iron Shrine
+Name = Iron Shrine
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,0,10
+BattleBack = rocky
+Environment = Rock
+#-------------------------------
+[122]   # Thunder Swamps
+Name = Thunder Swamps
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Storm,100
+MapPosition = 2,11,10
+BattleBack = forest
+MapSize = 2,1010
+Environment = ForestGrass
+#-------------------------------
+[123]   # Riverstone Park
+Name = Riverstone Park
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,12,10
+BattleBack = field
+Environment = Grass
+#-------------------------------
+[124]   # Riverstone Bridge
+Name = Riverstone Park
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,13,10
+BattleBack = water
+#-------------------------------
+[125]   # Riverstone
+Name = Riverstone
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,14,10
+BattleBack = city
+#-------------------------------
+[127]   # Riverstone Poké Center
+Name = Riverstone Poké Center
+MapPosition = 2,15,10
+#-------------------------------
+[128]   # Riverstone Champ Store
+Name = Riverstone
+MapPosition = 2,14,10
+#-------------------------------
+[129]   # Riverstone Institute
+Name = Riverstone
+MapPosition = 2,14,10
+#-------------------------------
+[130]   # Molly´s House
+Name = Riverstone
+MapPosition = 2,15,9
+BattleBack = indoor1
+#-------------------------------
+[132]   # RS Dept. 2F
+Name = Riverstone
+MapPosition = 2,14,10
+#-------------------------------
+[133]   # RS Dept. 3F
+Name = Riverstone
+MapPosition = 2,14,10
+#-------------------------------
+[134]   # RS Dept. 4F
+Name = Riverstone
+MapPosition = 2,14,10
+#-------------------------------
+[135]   # RS Dept. 5F
+Name = Riverstone
+MapPosition = 2,14,10
+#-------------------------------
+[136]   # RS Dept. Rooftop
+Name = Riverstone
+MapPosition = 2,14,10
+#-------------------------------
+[137]   # RS Dept. Elevator
+Name = Riverstone
+MapPosition = 2,14,10
+#-------------------------------
+[138]   # Trade Hall
+Name = Riverstone
+MapPosition = 2,14,9
+#-------------------------------
+[139]   # Riverstone Gym
+Name = Riverstone Gym
+MapPosition = 2,14,10
+BattleBack = elite2
+#-------------------------------
+[140]   # Riverstone Gym 2
+Name = Riverstone Gym
+MapPosition = 2,14,10
+BattleBack = elite2
+#-------------------------------
+[141]   # Route8Connection
+Name = Riverstone
+MapPosition = 2,15,10
+#-------------------------------
+[142]   # Riverstone Graveyard
+Name = Riverstone Graveyard
+Outdoor = true
+ShowArea = true
+Weather = Fog,100
+MapPosition = 2,15,10
+BattleBack = forest
+Environment = Graveyard
+#-------------------------------
+[143]   # Route 8 A3
+Name = Route 8
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,16,10
+BattleBack = field
+Environment = Grass
+#-------------------------------
+[144]   # Route 8 B3
+Name = Route 8
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,17,10
+BattleBack = field
+MapSize = 2,1100
+Environment = Grass
+#-------------------------------
+[145]   # Route 8 B2
+Name = Route 8
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,17,9
+BattleBack = field
+MapSize = 2,1100
+Environment = Grass
+#-------------------------------
+[146]   # Route 8 A2
+Name = Route 8
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,16,9
+BattleBack = field
+Environment = Grass
+#-------------------------------
+[147]   # Route 8 B1
+Name = Route 8
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Sandstorm,100
+MapPosition = 2,17,8
+BattleBack = rocky
+MapSize = 2,1100
+Environment = Sand
+#-------------------------------
+[148]   # Route 8 A1
+Name = Route 8
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,16,8
+BattleBack = field
+Environment = Grass
+#-------------------------------
+[149]   # Surf House
+Name = Route 8
+MapPosition = 2,16,9
+#-------------------------------
+[150]   # Route 8 C2
+Name = Route 8
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,19,9
+BattleBack = field
+Environment = Grass
+#-------------------------------
+[151]   # Route 8 C3
+Name = Route 8
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,19,10
+BattleBack = field
+Environment = Grass
+#-------------------------------
+[152]   # Route 8 C1
+Name = Route 8
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,19,8
+BattleBack = field
+Environment = Grass
+#-------------------------------
+[153]   # Crystal Cove
+Name = Crystal Cove
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,20,9
+BattleBack = city
+#-------------------------------
+[154]   # Crystal Beach
+Name = Crystal Beach
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,21,9
+BattleBack = rocky
+Environment = Sand
+#-------------------------------
+[155]   # Rocky Gate
+Name = Rocky Gate
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,20,8
+BattleBack = rocky
+Environment = Rock
+#-------------------------------
+[156]   # Route8Connection
+Name = Crystal Cove
+MapPosition = 2,20,9
+#-------------------------------
+[157]   # Crystal Cove Poké Center
+Name = Crystal Cove Poké Center
+MapPosition = 2,20,9
+#-------------------------------
+[158]   # Crystal Cove Mart
+Name = Crystal Cove
+MapPosition = 2,20,9
+#-------------------------------
+[159]   # Lighthouse
+Name = Crystal Beach
+MapPosition = 2,21,9
+#-------------------------------
+[160]   # Lighthouse Top
+Name = Crystal Beach
+MapPosition = 2,21,9
+BattleBack = indoor1
+#-------------------------------
+[161]   # Lighthouse Elevator
+Name = Crystal Beach
+MapPosition = 2,21,9
+#-------------------------------
+[162]   # Crytal Cove Gym
+Name = Crystal Cove Gym
+MapPosition = 2,20,9
+BattleBack = elite6
+#-------------------------------
+[163]   # Crytal Cove Gym 2
+Name = Crytal Cove Gym
+MapPosition = 2,20,9
+BattleBack = elite6
+#-------------------------------
+[164]   # Crystal Beach North
+Name = Crystal Beach
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,21,8
+BattleBack = rocky
+Environment = Sand
+#-------------------------------
+[165]   # Crystal Beach East
+Name = Crystal Beach
+Outdoor = true
+ShowArea = true
+MapPosition = 2,22,9
+BattleBack = water
+Environment = MovingWater
+#-------------------------------
+[166]   # Crystal Beach North East
+Name = Crystal Beach
+Outdoor = true
+ShowArea = true
+MapPosition = 2,22,8
+BattleBack = water
+Environment = MovingWater
+#-------------------------------
+[167]   # Route 9
+Name = Route 9
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,20,10
+BattleBack = field
+MapSize = 2,1010
+Environment = Grass
+#-------------------------------
+[168]   # Crystal Beach South
+Name = Crystal Beach
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,21,10
+BattleBack = rocky
+Environment = Sand
+#-------------------------------
+[169]   # Crystal Beach South East
+Name = Crystal Beach
+Outdoor = true
+ShowArea = true
+MapPosition = 2,22,10
+BattleBack = water
+Environment = MovingWater
+#-------------------------------
+[170]   # Ocean Chamber
+Name = Ocean Chamber
+ShowArea = true
+MapPosition = 2,22,9
+BattleBack = cave1
+Environment = Cave
+#-------------------------------
+[171]   # Route 9.1
+Name = Route 9
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,19,12
+BattleBack = field
+MapSize = 2,1100
+Environment = Grass
+#-------------------------------
+[172]   # Fly House
+Name = Crystal Beach
+MapPosition = 2,21,8
+#-------------------------------
+[173]   # Whispering Woods
+Name = Whispering Woods
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,18,11
+BattleBack = forest
+MapSize = 2,1100
+Environment = ForestGrass
+Flags = MossRock
+#-------------------------------
+[174]   # Whispering Woods West
+Name = Whispering Woods
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = HeavyRain,100
+MapPosition = 2,17,11
+BattleBack = forest
+Environment = ForestGrass
+Flags = MossRock
+#-------------------------------
+[175]   # Breeder House
+Name = Crystal Cove
+MapPosition = 2,20,9
+#-------------------------------
+[176]   # Ambergrove
+Name = Ambergrove
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,17,12
+BattleBack = city
+#-------------------------------
+[177]   # Ambergrove West
+Name = Ambergrove
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,16,12
+BattleBack = city
+#-------------------------------
+[179]   # Scorching Valley
+Name = Scorching Valley
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Sun,100
+MapPosition = 2,16,13
+BattleBack = rocky
+Environment = Volcano
+#-------------------------------
+[180]   # Scorching Valley East
+Name = Scorching Valley
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Sun,100
+MapPosition = 2,17,13
+BattleBack = rocky
+Environment = Volcano
+#-------------------------------
+[181]   # Ambergrove Cave
+Name = Ambergrove Cave
+ShowArea = true
+Bicycle = true
+MapPosition = 2,18,13
+BattleBack = cave1
+Environment = Cave
+#-------------------------------
+[182]   # Ambergrove Gym
+Name = Ambergrove Gym
+MapPosition = 2,17,12
+BattleBack = elite5
+#-------------------------------
+[183]   # Ambergrove Gym 2
+Name = Ambergrove Gym
+MapPosition = 2,17,12
+BattleBack = elite5
+#-------------------------------
+[184]   # Ambergrove Poké Center
+Name = Ambergrove Poké Center
+MapPosition = 2,16,12
+#-------------------------------
+[185]   # Ambergrove Mart
+Name = Ambergrove
+MapPosition = 2,16,12
+#-------------------------------
+[186]   # Ambergrove Champ Store
+Name = Ambergrove
+MapPosition = 2,17,12
+#-------------------------------
+[187]   # Route 10
+Name = Route 10
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,14,12
+BattleBack = field
+Environment = Grass
+#-------------------------------
+[188]   # Route10Connection
+Name = Riverstone
+MapPosition = 2,14,10
+#-------------------------------
+[189]   # Route 10.1
+Name = Route 10
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,14,11
+BattleBack = field
+Environment = Grass
+#-------------------------------
+[192]   # Milotic River Segment 3
+Name = Route 10
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,13,13
+BattleBack = water
+Environment = MovingWater
+#-------------------------------
+[193]   # Route 10.2
+Name = Route 10
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,15,12
+BattleBack = field
+Environment = Grass
+#-------------------------------
+[194]   # Sword Ruins
+Name = Sword Ruins
+ShowArea = true
+MapPosition = 2,15,13
+BattleBack = elite6
+#-------------------------------
+[195]   # Stadium Outside
+Name = Riverstone
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,15,9
+#-------------------------------
+[196]   # Stadium Entrance Area
+Name = Riverstone Stadium
+MapPosition = 2,15,9
+#-------------------------------
+[197]   # Stadium Battle Field
+Name = Riverstone Stadium
+MapPosition = 2,15,9
+BattleBack = elite7
+#-------------------------------
+[198]   # Route 11
+Name = Route 11
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,11,13
+BattleBack = field
+Environment = Grass
+#-------------------------------
+[199]   # Route 10.3
+Name = Route 10
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,14,13
+BattleBack = field
+Environment = Grass
+#-------------------------------
+[200]   # Route 10.4
+Name = Route 10
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,13,13
+BattleBack = field
+Environment = Forest
+#-------------------------------
+[201]   # Relic Cave F1
+Name = Relic Cave F1
+ShowArea = true
+Bicycle = true
+MapPosition = 2,12,13
+BattleBack = cave1
+Environment = Cave
+#-------------------------------
+[202]   # Relic Cave F2
+Name = Relic Cave F2
+ShowArea = true
+Bicycle = true
+MapPosition = 2,12,13
+BattleBack = cave2
+Environment = Cave
+#-------------------------------
+[203]   # Relic Cave F3
+Name = Relic Cave F3
+ShowArea = true
+Bicycle = true
+MapPosition = 2,12,13
+BattleBack = cave1
+Environment = Cave
+#-------------------------------
+[204]   # Rocket Base
+Name = Rocket Base
+ShowArea = true
+MapPosition = 2,16,8
+#-------------------------------
+[205]   # Member Room
+Name = Rocket Base
+ShowArea = true
+MapPosition = 2,16,8
+#-------------------------------
+[206]   # Hallway
+Name = Rocket Base
+ShowArea = true
+MapPosition = 2,16,8
+BattleBack = indoor1
+#-------------------------------
+[207]   # Storage Room
+Name = Rocket Base
+ShowArea = true
+MapPosition = 2,16,8
+BattleBack = indoor1
+#-------------------------------
+[208]   # Bedrooms
+Name = Rocket Base
+ShowArea = true
+MapPosition = 2,16,8
+#-------------------------------
+[209]   # Glimmerwood
+Name = Glimmerwood
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Snow,100
+MapPosition = 2,16,7
+#-------------------------------
+[210]   # Glimmerwood Poké Center
+Name = Glimmerwood Poké Center
+MapPosition = 2,16,7
+#-------------------------------
+[211]   # Route 12
+Name = Route 12
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Blizzard,100
+MapPosition = 2,16,5
+BattleBack = snow
+MapSize = 2,1010
+Environment = Snow
+#-------------------------------
+[212]   # Upper floor
+Name = Rocket Base
+ShowArea = true
+MapPosition = 2,16,8
+#-------------------------------
+[213]   # Office
+Name = Rocket Base
+ShowArea = true
+MapPosition = 2,16,8
+#-------------------------------
+[214]   # Route8Connection
+Name = Glimmerwood
+MapPosition = 2,16,7
+#-------------------------------
+[215]   # Aurora Summit
+Name = Aurora Summit
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Snow,100
+MapPosition = 2,15,4
+BattleBack = city
+Environment = Snow
+#-------------------------------
+[216]   # Aurora Summit Poké Center
+Name = Aurora Summit Poké Center
+MapPosition = 2,15,4
+#-------------------------------
+[217]   # Aurora Summit Mart
+Name = Aurora Summit
+MapPosition = 2,16,4
+#-------------------------------
+[218]   # Aurora Summit Gym
+Name = Aurora Summit Gym
+MapPosition = 2,15,4
+BattleBack = elite8
+#-------------------------------
+[219]   # Aurora Summit Gym 2
+Name = Aurora Summit Gym
+MapPosition = 2,15,4
+BattleBack = elite8
+#-------------------------------
+[220]   # Aurora Mountain F3
+Name = Aurora Mountain F3
+ShowArea = true
+Bicycle = true
+MapPosition = 2,15,2
+BattleBack = ice
+Environment = Ice
+Flags = IceRock
+#-------------------------------
+[221]   # Treasure Chamber
+Name = Treasure Chamber
+ShowArea = true
+MapPosition = 2,15,2
+Flags = IceRock
+#-------------------------------
+[222]   # Aurora Mountain F2
+Name = Aurora Mountain F2
+ShowArea = true
+Bicycle = true
+MapPosition = 2,15,2
+BattleBack = ice
+Environment = Ice
+Flags = IceRock
+#-------------------------------
+[223]   # Aurora Mountain F1
+Name = Aurora Mountain F1
+ShowArea = true
+Bicycle = true
+MapPosition = 2,15,2
+BattleBack = ice
+Environment = Ice
+Flags = IceRock
+#-------------------------------
+[224]   # Prison Chamber
+Name = Prison Chamber
+ShowArea = true
+MapPosition = 2,15,2
+BattleBack = ice
+Environment = Ice
+Flags = IceRock
+#-------------------------------
+[225]   # Aurora Mountain F4
+Name = Aurora Mountain F4
+ShowArea = true
+Bicycle = true
+MapPosition = 2,15,2
+BattleBack = ice
+Environment = Ice
+Flags = IceRock
+#-------------------------------
+[226]   # Aurora Mountain F3B
+Name = Aurora Mountain F3
+ShowArea = true
+Bicycle = true
+MapPosition = 2,15,2
+BattleBack = ice
+Environment = Ice
+Flags = IceRock
+#-------------------------------
+[227]   # Aurora Mountain F3C
+Name = Aurora Mountain F3
+ShowArea = true
+Bicycle = true
+MapPosition = 2,15,2
+BattleBack = ice
+Environment = Ice
+Flags = IceRock
+#-------------------------------
+[228]   # Aurora Mountain F2B
+Name = Aurora Mountain F2
+ShowArea = true
+Bicycle = true
+MapPosition = 2,15,2
+BattleBack = ice
+Environment = Ice
+Flags = IceRock
+#-------------------------------
+[229]   # Thunder Pass
+Name = Thunder Pass
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Storm,100
+MapPosition = 2,13,4
+BattleBack = rocky
+MapSize = 2,1100
+Environment = Rock
+#-------------------------------
+[230]   # Thunder Pass West
+Name = Thunder Pass
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Storm,100
+MapPosition = 2,12,3
+BattleBack = rocky
+MapSize = 2,1010
+Environment = Rock
+#-------------------------------
+[231]   # Route 13
+Name = Route 13
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,12,2
+BattleBack = field
+Environment = Grass
+#-------------------------------
+[232]   # Granite Heights
+Name = Granite Heights
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,12,1
+#-------------------------------
+[233]   # Granite Heights Poké Center
+Name = Granite Heights Poké Center
+MapPosition = 2,12,1
+#-------------------------------
+[234]   # Granite Heights Mart
+Name = Granite Heights
+MapPosition = 2,12,1
+#-------------------------------
+[235]   # Victory Road Gate
+Name = Victory Road
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,19,7
+#-------------------------------
+[236]   # Granite Heights Gym
+Name = Granite Heights Gym
+MapPosition = 2,12,1
+BattleBack = elite2
+#-------------------------------
+[237]   # Granite Heights Gym 2
+Name = Granite Heights Gym
+MapPosition = 2,12,1
+BattleBack = elite2
+#-------------------------------
+[239]   # Victory Road
+Name = Victory Road
+ShowArea = true
+Bicycle = true
+MapPosition = 2,19,6
+BattleBack = cave1
+Environment = Cave
+#-------------------------------
+[240]   # Victory Road Part 2
+Name = Victory Road
+ShowArea = true
+Bicycle = true
+MapPosition = 2,19,6
+BattleBack = cave1
+Environment = Cave
+#-------------------------------
+[241]   # Victory Road Part 3
+Name = Victory Road
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,19,6
+BattleBack = rocky
+Environment = Rock
+#-------------------------------
+[242]   # Victory Road Part 4
+Name = Victory Road
+ShowArea = true
+Bicycle = true
+MapPosition = 2,19,6
+BattleBack = cave1
+Environment = Cave
+#-------------------------------
+[243]   # Victory Road Part 5
+Name = Victory Road
+ShowArea = true
+Bicycle = true
+MapPosition = 2,19,6
+BattleBack = cave1
+Environment = Cave
+#-------------------------------
+[244]   # Victory Road Part 6
+Name = Victory Road
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,20,5
+BattleBack = rocky
+Environment = Rock
+#-------------------------------
+[245]   # Pokémon League
+Name = Pokémon League
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,20,4
+#-------------------------------
+[246]   # Pokémon League entrance
+Name = Pokémon League
+MapPosition = 2,20,4
+#-------------------------------
+[247]   # Hallway 1
+Name = Pokémon League
+MapPosition = 2,20,4
+#-------------------------------
+[248]   # Elite 1 Room
+Name = Pokémon League
+MapPosition = 2,20,4
+BattleBack = elite8
+#-------------------------------
+[249]   # Hallway 2
+Name = Pokémon League
+MapPosition = 2,20,4
+#-------------------------------
+[250]   # Elite 2 Room
+Name = Pokémon League
+MapPosition = 2,20,4
+BattleBack = elite6
+#-------------------------------
+[251]   # Hallway 3
+Name = Pokémon League
+MapPosition = 2,20,4
+#-------------------------------
+[252]   # Elite 3 Room
+Name = Pokémon League
+MapPosition = 2,20,4
+BattleBack = elite2
+#-------------------------------
+[253]   # Hallway 4
+Name = Pokémon League
+MapPosition = 2,20,4
+#-------------------------------
+[254]   # Elite 4 Room
+Name = Pokémon League
+MapPosition = 2,20,4
+BattleBack = elite7
+#-------------------------------
+[255]   # Hall of Fame
+Name = Hall of Fame
+MapPosition = 2,20,4
+#-------------------------------
+[256]   # Champ Room
+Name = Pokémon League
+MapPosition = 2,20,4
+BattleBack = champion2
+#-------------------------------
+[257]   # Trade House
+Name = Ambergrove
+MapPosition = 2,16,12
+#-------------------------------
+[258]   # Pokémon Academy
+Name = Pokémon Academy
+MapPosition = 2,8,18
+#-------------------------------
+[259]   # Bulba House
+Name = Mistveil
+MapPosition = 2,10,13
+#-------------------------------
+[260]   # Charmander House
+Name = Meadow Grove
+MapPosition = 2,7,13
+#-------------------------------
+[261]   # Apt 1
+Name = Silver Peak
+MapPosition = 2,1,9
+#-------------------------------
+[262]   # Apt 2
+Name = Silver Peak
+MapPosition = 2,1,9
+#-------------------------------
+[263]   # Game Corner
+Name = Riverstone
+MapPosition = 2,14,9
+#-------------------------------
+[264]   # Chiko House
+Name = Riverstone
+MapPosition = 2,15,9
+#-------------------------------
+[265]   # Mudkip House
+Name = Crystal Cove
+MapPosition = 2,20,9
+#-------------------------------
+[266]   # Treecko House
+Name = Ambergrove
+MapPosition = 2,16,12
+#-------------------------------
+[267]   # Pokémon Day Care
+Name = Pokémon Day Care
+MapPosition = 2,16,12
+#-------------------------------
+[268]   # Apt 1
+Name = Riverstone
+MapPosition = 2,14,10
+#-------------------------------
+[269]   # Piplup House
+Name = Glimmerwood
+MapPosition = 2,16,7
+#-------------------------------
+[270]   # Turtwig House
+Name = Aurora Summit
+MapPosition = 2,15,4
+#-------------------------------
+[271]   # Chimchar House
+Name = Granite Heights
+MapPosition = 2,12,1
+#-------------------------------
+[272]   # Riverstone Park North
+Name = Riverstone Park
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,12,10
+BattleBack = field
+Environment = Grass
+#-------------------------------
+[273]   # Iron Mountain F2
+Name = Iron Mountain F2
+ShowArea = true
+Bicycle = true
+MapPosition = 2,4,8
+BattleBack = cave1
+Environment = Cave
+Flags = Magnetic
+#-------------------------------
+[274]   # Golem Chamber
+Name = Golem Chamber
+ShowArea = true
+MapPosition = 2,4,8
+BattleBack = cave1
+Environment = Cave
+Flags = Magnetic
+#-------------------------------
+[275]   # Iron Mountain F1
+Name = Iron Mountain F1
+ShowArea = true
+Bicycle = true
+MapPosition = 2,4,8
+BattleBack = cave1
+Environment = Cave
+Flags = Magnetic
+#-------------------------------
+[276]   # Thermal Chamber
+Name = Thermal Chamber
+ShowArea = true
+Weather = Sun,100
+MapPosition = 2,4,8
+BattleBack = cave1
+Environment = Cave
+Flags = Magnetic
+#-------------------------------
+[277]   # Thunder Swamps North
+Name = Thunder Swamps
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Storm,100
+MapPosition = 2,11,10
+BattleBack = forest
+Environment = ForestGrass
+#-------------------------------
+[278]   # Forest Chamber
+Name = Forest Chamber
+ShowArea = true
+MapPosition = 2,17,11
+BattleBack = cave1
+Environment = Cave
+#-------------------------------
+[279]   # Desert Chamber
+Name = Desert Chamber
+ShowArea = true
+MapPosition = 2,18,8
+BattleBack = cave1
+Environment = Cave
+#-------------------------------
+[280]   # Aurora Peak
+Name = Aurora Peak
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Blizzard,100
+MapPosition = 2,15,1
+BattleBack = snow
+Environment = Snow
+#-------------------------------
+[281]   # Deity Chamber
+Name = Deity Chamber
+ShowArea = true
+MapPosition = 2,11,13
+BattleBack = cave1
+Environment = Cave
+#-------------------------------
+[282]   # Magearna House
+Name = Mistveil
+MapPosition = 2,10,13
+BattleBack = indoor1
+#-------------------------------
+[283]   # Rumble Mountain East
+Name = Rumble Mountain East
+ShowArea = true
+Bicycle = true
+MapPosition = 2,10,16
+BattleBack = cave1
+Environment = Cave
+#-------------------------------
+[284]   # Golem Chamber
+Name = Golem Chamber
+ShowArea = true
+MapPosition = 2,10,16
+BattleBack = cave1
+Environment = Cave
+#-------------------------------
+[285]   # Golem Chamber
+Name = Golem Chamber
+ShowArea = true
+MapPosition = 2,13,4
+BattleBack = cave1
+Environment = Cave
+#-------------------------------
+[286]   # Golem Chamber
+Name = Golem Chamber
+ShowArea = true
+MapPosition = 2,15,2
+BattleBack = ice
+Environment = Ice
+Flags = IceRock
+#-------------------------------
+[287]   # Golem Chamber
+Name = Golem Chamber
+ShowArea = true
+MapPosition = 2,19,6
+BattleBack = cave1
+Environment = Cave
+#-------------------------------
+[288]   # Chamber of the Giant
+Name = Chamber of the Giant
+ShowArea = true
+MapPosition = 2,12,13
+BattleBack = cave1
+Environment = Cave
+#-------------------------------
+[289]   # Creselia House
+Name = Crystal Cove
+MapPosition = 2,20,9
+#-------------------------------
+[290]   # House a
+Name = Meadow Grove
+MapPosition = 2,7,13
+#-------------------------------
+[291]   # House b
+Name = Meadow Grove
+MapPosition = 2,7,13
+#-------------------------------
+[292]   # House c
+Name = Meadow Grove
+MapPosition = 2,7,13
+#-------------------------------
+[293]   # Patisserie Alcremie
+Name = Meadow Grove
+MapPosition = 2,7,13
+#-------------------------------
+[294]   # Snivy House
+Name = Arrow Ridge
+MapPosition = 2,8,18
+#-------------------------------
+[295]   # House b
+Name = Arrow Ridge
+MapPosition = 2,8,18
+#-------------------------------
+[296]   # Tepig House
+Name = Mistveil
+MapPosition = 2,10,13
+#-------------------------------
+[297]   # NPC House
+Name = Mistveil
+MapPosition = 2,10,13
+#-------------------------------
+[298]   # Underground Market
+Name = Mistveil
+MapPosition = 2,10,14
+#-------------------------------
+[299]   # Market
+Name = Underground Market
+MapPosition = 2,10,14
+#-------------------------------
+[300]   # Apt 3
+Name = Silver Peak
+MapPosition = 2,1,9
+#-------------------------------
+[301]   # Mayor House
+Name = Riverstone
+MapPosition = 2,15,9
+#-------------------------------
+[302]   # Big Apt F1
+Name = Riverstone
+MapPosition = 2,15,10
+#-------------------------------
+[303]   # Big Apt F2
+Name = Riverstone
+MapPosition = 2,15,10
+#-------------------------------
+[304]   # Big Apt F3
+Name = Riverstone
+MapPosition = 2,15,10
+#-------------------------------
+[305]   # Big Apt F4
+Name = Riverstone
+MapPosition = 2,15,10
+#-------------------------------
+[306]   # npc House
+Name = Crystal Cove
+MapPosition = 2,20,9
+#-------------------------------
+[307]   # npc House
+Name = Glimmerwood
+MapPosition = 2,16,7
+#-------------------------------
+[308]   # Department Store
+Name = Riverstone
+MapPosition = 2,14,10
+#-------------------------------
+[309]   # npc House
+Name = Aurora Summit
+MapPosition = 2,15,4
+#-------------------------------
+[310]   # Move Tutor
+Name = Aurora Summit
+MapPosition = 2,16,4
+#-------------------------------
+[311]   # Name Rater
+Name = Aurora Summit
+MapPosition = 2,15,4
+#-------------------------------
+[312]   # npc house
+Name = Granite Heights
+MapPosition = 2,12,1
+#-------------------------------
+[313]   # Zeke´s House
+Name = Zeke´s House
+MapPosition = 2,5,14
+#-------------------------------
+[314]   # Crystal Harbor
+Name = Crystal Harbor
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,21,13
+BattleBack = city
+#-------------------------------
+[315]   # Ferry Station
+Name = Crystal Harbor
+MapPosition = 2,21,14
+#-------------------------------
+[316]   # Rotom AI Company
+Name = Crystal Harbor
+MapPosition = 2,21,14
+#-------------------------------
+[317]   # Southside Beach Passage
+Name = Southside Beach Passage Way
+ShowArea = true
+Bicycle = true
+MapPosition = 2,20,15
+#-------------------------------
+[318]   # Southside Beach East
+Name = Southside Beach
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Sandstorm,100
+MapPosition = 2,20,16
+BattleBack = rocky
+Environment = Sand
+#-------------------------------
+[319]   # Southside Beach Center
+Name = Southside Beach
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Storm,100
+MapPosition = 2,19,16
+BattleBack = rocky
+Environment = Sand
+#-------------------------------
+[320]   # Southside Beach West
+Name = Southside Beach
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Blizzard,100
+MapPosition = 2,18,16
+BattleBack = rocky
+Environment = Sand
+#-------------------------------
+[321]   # Route 14
+Name = Route 14
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,18,15
+BattleBack = field
+WildBattleBGM = SMUB
+Environment = Grass
+#-------------------------------
+[322]   # False Cave
+Name = Southside Beach
+MapPosition = 2,18,16
+#-------------------------------
+[323]   # Z-Crystal Cave
+Name = Z-Crystal Cave
+ShowArea = true
+MapPosition = 2,18,16
+BattleBack = cave1
+Environment = Cave
+#-------------------------------
+[324]   # Delta Tech Company
+Name = Crystal Harbor
+MapPosition = 2,20,14
+#-------------------------------
+[325]   # Crystal Harbor Poké Center
+Name = Crystal Harbor Poké Center
+MapPosition = 2,21,13
+#-------------------------------
+[326]   # Crystal Harbor Mart
+Name = Crystal Harbor
+MapPosition = 2,21,13
+#-------------------------------
+[327]   # Delta Islands Harbor
+Name = Delta Islands Harbor
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,25,16
+#-------------------------------
+[328]   # Ferry Station
+Name = Delta Islands Harbor
+MapPosition = 2,25,16
+#-------------------------------
+[329]   # Route 15
+Name = Route 15
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,26,16
+BattleBack = field
+Environment = Forest
+#-------------------------------
+[330]   # Hisui Wildlife Station
+Name = Hisui Wildlife Station
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,26,15
+BattleBack = field
+WildBattleBGM = PLABattle
+Environment = Grass
+#-------------------------------
+[331]   # Hisui Wildlife Station West
+Name = Hisui Wildlife Station
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,26,15
+BattleBack = field
+WildBattleBGM = PLABattle
+Environment = Grass
+#-------------------------------
+[332]   # Hisui Wildlife Station North
+Name = Hisui Wildlife Station
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,26,15
+BattleBack = field
+WildBattleBGM = PLABattle
+Environment = Grass
+#-------------------------------
+[333]   # HWS Gate
+Name = Hisui Wildlife Station
+MapPosition = 2,26,15
+#-------------------------------
+[334]   # Champions Village
+Name = Champions Village
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,26,17
+BattleBack = city
+#-------------------------------
+[335]   # Champions Beach
+Name = Champions Beach
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,26,18
+BattleBack = rocky
+Environment = Sand
+#-------------------------------
+[336]   # Champions Beach North
+Name = Champions Beach
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,26,18
+#-------------------------------
+[337]   # Shrouded Cove
+Name = Shrouded Cove
+Outdoor = true
+ShowArea = true
+Weather = Fog,100
+MapPosition = 2,26,19
+BattleBack = rocky
+Environment = Sand
+#-------------------------------
+[338]   # Reed´s Lab
+Name = Dr. Reed´s Lab
+ShowArea = true
+MapPosition = 2,21,14
+#-------------------------------
+[339]   # Eastern Beach
+Name = Eastern Beach
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,27,15
+BattleBack = rocky
+MapSize = 2,1010
+Environment = Sand
+#-------------------------------
+[340]   # Ruin Island
+Name = Ruin Island
+Outdoor = true
+ShowArea = true
+MapPosition = 2,27,14
+BattleBack = rocky
+Environment = Sand
+#-------------------------------
+[341]   # Distortion Temple
+Name = Distortion Temple
+ShowArea = true
+MapPosition = 2,27,14
+BattleBack = distortion
+Environment = Cave
+Flags = DistortionWorld
+#-------------------------------
+[343]   # Route9Connection
+Name = Route9Connection
+#-------------------------------
+[344]   # Southford
+Name = Southford
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,17,15
+BattleBack = city
+#-------------------------------
+[345]   # Boulder House
+Name = Southford
+MapPosition = 2,17,15
+#-------------------------------
+[346]   # Crown House
+Name = Southford
+MapPosition = 2,17,15
+#-------------------------------
+[347]   # Leaves House
+Name = Southford
+MapPosition = 2,17,15
+#-------------------------------
+[348]   # Southford Poké Center
+Name = Southford
+MapPosition = 2,17,15
+#-------------------------------
+[349]   # Southford Mart
+Name = Southford
+MapPosition = 2,17,15
+#-------------------------------
+[350]   # Southford Institute
+Name = Southford
+MapPosition = 2,17,15
+#-------------------------------
+[351]   # CV Poké Center
+Name = Champions Village Poké Center
+MapPosition = 2,26,17
+#-------------------------------
+[352]   # CV Mart
+Name = Champions Village
+MapPosition = 2,26,17
+#-------------------------------
+[353]   # CV Champ Store
+Name = Champions Village
+MapPosition = 2,26,17
+#-------------------------------
+[354]   # Memorial Tower
+Name = Memorial Tower
+ShowArea = true
+MapPosition = 2,26,17
+BattleBack = distortion
+Environment = Graveyard
+#-------------------------------
+[355]   # Steven House
+Name = Champions Village
+MapPosition = 2,26,17
+#-------------------------------
+[356]   # Shrouded Chamber
+Name = Shrouded Chamber
+ShowArea = true
+Weather = Fog,100
+MapPosition = 2,26,19
+#-------------------------------
+[357]   # Cynthia House
+Name = Champions Village
+MapPosition = 2,26,17
+#-------------------------------
+[358]   # Kalos Museum
+Name = Crystal Harbor
+MapPosition = 2,20,13
+#-------------------------------
+[359]   # Kalos Museum Archive
+Name = Crystal Harbor
+MapPosition = 2,20,13
+TrainerBattleBGM = XYLegi
+#-------------------------------
+[363]   # SB South East
+Name = Southside Beach
+Outdoor = true
+ShowArea = true
+Weather = Sandstorm,100
+MapPosition = 2,20,17
+BattleBack = water
+Environment = MovingWater
+#-------------------------------
+[364]   # SB South
+Name = Southside Beach
+Outdoor = true
+ShowArea = true
+Weather = Storm,100
+MapPosition = 2,19,17
+BattleBack = water
+Environment = MovingWater
+#-------------------------------
+[365]   # SB South West
+Name = Southside Beach
+Outdoor = true
+ShowArea = true
+Weather = Blizzard,100
+MapPosition = 2,18,17
+BattleBack = water
+Environment = MovingWater

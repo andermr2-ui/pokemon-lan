@@ -1,0 +1,95 @@
+[6|1|0|2]
+ORIGINAL: \bWe dedicated our lives to this research. It can´t just all be gone like this...
+TRADUCCION:
+
+[6|2|0|2]
+ORIGINAL: \bIf you have any more questions about Mega Evolutions, you can always ask my assistant.
+TRADUCCION:
+
+[2|1|3|2]
+ORIGINAL: \bOh, finally someone´s here. I wish I could properly welcome you, but we have a problem right now:
+TRADUCCION:
+
+[2|1|5|2]
+ORIGINAL: \bSomeone stole our Mega Rings! All of our research was for nothing...
+TRADUCCION:
+
+[2|1|7|3]
+ORIGINAL: \bMy assistant noticed someone getting away, so he chased after them. I have no right to demand this from you, but please, help us!
+TRADUCCION:
+
+[2|3|3|1]
+ORIGINAL: \bOh, it´s you again. Did you find something?
+TRADUCCION:
+
+[2|3|4|1]
+ORIGINAL: \bWhat?! You got our Mega Rings back?!
+TRADUCCION:
+
+[2|3|5|3]
+ORIGINAL: \bI... I can´t thank you enough. You didn´t have to do that, but you did. I think the least I can do is tell you about Mega Evolutions then.
+TRADUCCION:
+
+[2|3|8|3]
+ORIGINAL: \bA Mega Evolution is the highest state of evolution that a Pokémon can reach. Mega evolved Pokémon are extremely powerful!
+TRADUCCION:
+
+[2|3|11|3]
+ORIGINAL: \bSo far, we only know about a handful of Pokémon that are capable of mega evolving. But those few that can, are in a league of their own.
+TRADUCCION:
+
+[2|3|14|3]
+ORIGINAL: \bMega Evolutions can only happen when the bond between trainer and Pokémon is strong enough. But thanks to science, we made this process easier.
+TRADUCCION:
+
+[2|3|17|3]
+ORIGINAL: \bDuring a battle, a trainer can make only one Pokémon Mega Evolve, and after the battle, the Pokémon returns to their normal state.
+TRADUCCION:
+
+[2|3|20|3]
+ORIGINAL: \bYou were able to bring the Mega Rings back, so I´m sure you´ll be able to make your Pokémon mega evolve! Please, take this.
+TRADUCCION:
+
+[2|3|24|3]
+ORIGINAL: \bIn order to make a Pokémon mega evolve, you need to give them their Mega Stone. These are rare, but you´ll come across them eventually.
+TRADUCCION:
+
+[2|3|27|2]
+ORIGINAL: \bI would give you a demonstration, but we don´t have any Mega Stones right now.
+TRADUCCION:
+
+[2|3|29|3]
+ORIGINAL: \bHowever, you should visit Molly. She´s the grandmother of Silver Peak´s gym leader, Azura. You can find her in the house with the green roof.
+TRADUCCION:
+
+[2|3|32|3]
+ORIGINAL: \bShe has mastered the Mega Evolution, so I´m sure she can help you. But she might challenge you to a battle, so be prepared.
+TRADUCCION:
+
+[2|3|35|2]
+ORIGINAL: \bOnce again, I can´t thank you enough, and I hope that the Mega Ring will help you. Farewell!
+TRADUCCION:
+
+[4|1|0|3]
+ORIGINAL: \bThanks for helping us. The Prof. has spend decades reasearching Mega Evolutions, so you have no idea what this means to him.
+TRADUCCION:
+
+[4|1|3|2]
+ORIGINAL: \bOh, so you want to know more about Mega Evolutions? Alright, listen up.
+TRADUCCION:
+
+[4|1|5|3]
+ORIGINAL: \bMega Evolutions were first discovered in the Kalos Region. Since then, scientists around the world have been researching this topic a lot.
+TRADUCCION:
+
+[4|1|8|3]
+ORIGINAL: \bYou might not believe it, but even legendary Pokémon can perfom a Mega Evolution. As if those weren´t strong enough already.
+TRADUCCION:
+
+[4|1|11|2]
+ORIGINAL: \bSome Pokémon also change their type while mega evolving, and they often gain new abilities as well.
+TRADUCCION:
+
+[4|1|13|3]
+ORIGINAL: \bIn the Delta Region, only a handful of trainers have been able to make their Pokémon mega evolve. If you ever meet such a trainer, don´t underestimate them.
+TRADUCCION:

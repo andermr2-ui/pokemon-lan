@@ -1,0 +1,67 @@
+[11|1|0|1]
+ORIGINAL: \bOh no, father is drinking again...
+TRADUCCION:
+
+[11|1|1|1]
+ORIGINAL: \bI need to be quiet, or he´ll use the belt...
+TRADUCCION:
+
+[7|1|0|2]
+ORIGINAL: \bThese buildings really need elevators. My old bones struggle with those damn stairs.
+TRADUCCION:
+
+[8|1|0|1]
+ORIGINAL: \bMh, I love me some good beer.
+TRADUCCION:
+
+[9|1|0|2]
+ORIGINAL: \bWhat is a "Sigma" and why does it want to "Rizz me up"?!
+TRADUCCION:
+
+[10|1|0|1]
+ORIGINAL: \bOh, you look like a trainer.
+TRADUCCION:
+
+[10|1|1|1]
+ORIGINAL: \bPLEASE TELL ME THAT YOU HAVE A MR. MIME!!!
+TRADUCCION:
+
+[10|1|2|2]
+ORIGINAL: \bIf you have a Mr. Mime, specifically the Kanto Form, then please trade it for my Galarian Mr. Mime.
+TRADUCCION:
+
+[10|1|4|2]
+ORIGINAL: \bI found mine while I was on vacation in Galar, but it´s too cold for me, so I really want a Kanto one.
+TRADUCCION:
+
+[10|1|6|1]
+ORIGINAL: \bCan you trade a Kanto Mr. Mime for mine? Please!!!
+TRADUCCION:
+
+[10|1|16|1]
+ORIGINAL: \bYou don't want to trade?  Aww...
+TRADUCCION:
+
+[10|1|19|1]
+ORIGINAL: \bOK, let's get started.
+TRADUCCION:
+
+[10|1|24|1]
+ORIGINAL: \PN traded Mr. Mime for Mr. Mime!
+TRADUCCION:
+
+[10|1|25|3]
+ORIGINAL: \bThank you so much! I finally have what I´ve been looking for, and you have something that you won´t find anywhere else in this region.
+TRADUCCION:
+
+[10|1|33|1]
+ORIGINAL: \bYou don't want to trade? Aww...
+TRADUCCION:
+
+[10|2|0|1]
+ORIGINAL: \bThanks for trading with me!
+TRADUCCION:
+[10|1|7|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+

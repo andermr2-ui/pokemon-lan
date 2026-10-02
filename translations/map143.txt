@@ -1,0 +1,31 @@
+[11|1|2|1]
+ORIGINAL: \bAre you ready for Route 8?
+TRADUCCION:
+
+[11|2|0|1]
+ORIGINAL: \bI want to catch every single Pokémon on this Route!
+TRADUCCION:
+
+[12|1|2|1]
+ORIGINAL: \bThis is my hill! And you are not invited!
+TRADUCCION:
+
+[12|2|0|1]
+ORIGINAL: \bOkay, you can stay.
+TRADUCCION:
+
+[13|1|2|1]
+ORIGINAL: \bWatch out! Here I come!
+TRADUCCION:
+
+[13|2|0|1]
+ORIGINAL: \bWhy can´t you just take a different bridge?!
+TRADUCCION:
+
+[14|1|2|1]
+ORIGINAL: \bSURPRISE ATTACK! GIVE ME YOUR WALLET!
+TRADUCCION:
+
+[14|2|0|1]
+ORIGINAL: \bMost trainers on Route 8 are hella rich.
+TRADUCCION:

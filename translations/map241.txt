@@ -1,0 +1,95 @@
+[27|1|0|1]
+ORIGINAL: It´s a Pokémon Statue dedicated to Volcanion.
+TRADUCCION:
+
+[27|2|0|1]
+ORIGINAL: It´s a Pokémon Statue dedicated to Volcanion.
+TRADUCCION:
+
+[27|2|2|1]
+ORIGINAL: The Delta Stone in your pocket just lit up!
+TRADUCCION:
+
+[27|2|3|1]
+ORIGINAL: Something powerful is approaching!
+TRADUCCION:
+
+[27|2|5|1]
+ORIGINAL: \bVOLCAAA!!!
+TRADUCCION:
+
+[27|3|0|1]
+ORIGINAL: It´s a Pokémon Statue dedicated to Volcanion.
+TRADUCCION:
+
+[27|4|0|1]
+ORIGINAL: Volcanion disappeared. Will it come back?
+TRADUCCION:
+
+[27|5|0|1]
+ORIGINAL: It´s a Pokémon Statue dedicated to Volcanion.
+TRADUCCION:
+
+[5|1|2|1]
+ORIGINAL: \bCan´t outstall THE WALL!
+TRADUCCION:
+
+[5|2|0|2]
+ORIGINAL: \bYou did it. You actually oustalled THE WALL! But can you outpizza the Hut?
+TRADUCCION:
+
+[28|1|0|1]
+ORIGINAL: Solgaleo is staring at you.
+TRADUCCION:
+
+[28|1|2|1]
+ORIGINAL: \bLEOOO!!!
+TRADUCCION:
+
+[28|2|0|1]
+ORIGINAL: Lunala is staring at you.
+TRADUCCION:
+
+[28|2|2|1]
+ORIGINAL: \bLUNAAA!!!
+TRADUCCION:
+
+[28|4|0|1]
+ORIGINAL: Solgaleo disappeared. Will it come back?
+TRADUCCION:
+
+[28|5|0|1]
+ORIGINAL: Lunala disappeared. Will it come back?
+TRADUCCION:
+
+[1|1|2|2]
+ORIGINAL: \bAre you surprised to see a Bugcatcher on Victory Road? Let me enlighten you then!
+TRADUCCION:
+
+[1|2|0|3]
+ORIGINAL: \bI already made it this far, so I might as well make it to the end. I don´t care if I get defeated, I will challenge the League for sure!
+TRADUCCION:
+
+[2|1|2|1]
+ORIGINAL: \bLet´s get rollin´!
+TRADUCCION:
+
+[2|2|0|2]
+ORIGINAL: \bTake a look around, there´re strong Pokémon everywhere!
+TRADUCCION:
+
+[3|1|2|2]
+ORIGINAL: \bStrengthen your mind, for I will bring you to your limit!
+TRADUCCION:
+
+[3|2|0|3]
+ORIGINAL: \bYou have the right mindset for the Pokémon League. Those trainers are the toughest in the region.
+TRADUCCION:
+
+[4|1|2|1]
+ORIGINAL: \bI´m ready for the League, so let me prove it!
+TRADUCCION:
+
+[4|2|0|2]
+ORIGINAL: \bOkay, maybe you´re stronger, but I will still challenge the League.
+TRADUCCION:

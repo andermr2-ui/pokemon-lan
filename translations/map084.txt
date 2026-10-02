@@ -1,0 +1,31 @@
+[1|1|1|2]
+ORIGINAL: \bAsh: Hi, you must be \PN. I´m Ash Ketchum. Nice to meet you.
+TRADUCCION: \bAsh: Hola, tú debes de ser \PN. Soy Ash Ketchum. Un placer conocerte.
+
+[1|1|3|3]
+ORIGINAL: \bYou and I have had the same dream. Both of us wanted to become the very best like no one ever was, and we did it!
+TRADUCCION: \bTú y yo hemos tenido el mismo sueño. Los dos queríamos llegar a ser los mejores, como nadie lo fue jamás, ¡y lo logramos!
+
+[1|1|6|3]
+ORIGINAL: \bBut I´m afraid only one trainer can be the very best, so we´ll have to sort this out the old fashioned way. Come on Pikachu, we have a battle to win!
+TRADUCCION: \bPero me temo que solo un entrenador puede ser el mejor, así que vamos a resolverlo a la vieja usanza. ¡Vamos, Pikachu, tenemos un combate que ganar!
+
+[1|1|10|2]
+ORIGINAL: \bAsh: Wow, you did it. You actually became the very best, like no one ever was. But I can take this loss.
+TRADUCCION: \bAsh: Vaya, lo lograste. De verdad llegaste a ser el mejor, como nadie lo fue jamás. Pero puedo aceptar esta derrota.
+
+[1|1|12|2]
+ORIGINAL: \bAfter all, I achieved everything that I wanted to achieved, and now it´s your turn to stand at the top.
+TRADUCCION: \bAl fin y al cabo, logré todo lo que quería lograr, y ahora te toca a ti estar en la cima.
+
+[1|1|14|2]
+ORIGINAL: \bCome on, Pikachu. It´s time go home. We need some rest after this battle, don´t you think?
+TRADUCCION: \bVamos, Pikachu. Es hora de volver a casa. Necesitamos descansar después de este combate, ¿no crees?
+
+[1|1|17|1]
+ORIGINAL: \bPika! Pika Pikachu!
+TRADUCCION: \bPika! Pika Pikachu!
+
+[2|1|1|1]
+ORIGINAL: \bPika Pika!
+TRADUCCION: \bPika Pika!

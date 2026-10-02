@@ -1,0 +1,2746 @@
+idx	texto_ingles
+1	Poké Balls
+2	Pokémon Resolute Edition
+3	zero
+4	one
+5	two
+6	three
+7	four
+8	five
+9	six
+10	seven
+11	eight
+12	nine
+13	ten
+14	eleven
+15	twelve
+16	thirteen
+17	fourteen
+18	fifteen
+19	sixteen
+20	seventeen
+21	eighteen
+22	nineteen
+23	twenty
+24	The default core messages file "messages_core.dat" was not found.
+25	The default game messages file "messages_game.dat" was not found.
+26	Replace all text files in folder '{1}'?
+27	Extracting text, please wait.
+28	All core text was extracted to files in the folder "{1}".
+29	All game text was extracted to files in the folder "{1}".
+30	To localize this text, translate every second line in those files.
+31	After translating, choose "Compile Translated Text" in the Debug menu.
+32	Compiling text, please wait.
+33	Text files in the folder "Text_{1}" were successfully compiled into file "Data/messages_{2}.dat".
+34	You may need to close the game to see any changes to messages.
+35	Can't find or open '{1}'.
+36	Invalid section name {1}
+37	Section {1} can't be an ordered list (section was recognized as an ordered list because its first line is a number).
+38	Section {1}'s line count is not divisible by 3 (section was recognized as an ordered list because its first line is a number).
+39	Section {1} has an odd number of entries (section was recognized as a hash because its first line is not a number).
+40	Expected a number in section {1}, got {2} instead
+41	Bad line syntax (expected syntax like XXX=YYY)\n{1}
+42	The method is slated to be removed in Essentials {1}.
+43	Use "{1}" instead.
+44	Converting save file
+45	Successfully applied {1} save file conversion(s)
+46	No starting position was set in the map editor.
+47	Map {1} was not found.
+48	The map was not found. The game cannot continue.
+49	The map is corrupt. The game cannot continue.
+50	Your name?
+51	Enter {1}'s name.
+52	Frame width is 0
+53	Frame height is 0
+54	Bitmap's width ({1}) is not a multiple of frame width ({2}) [Bitmap={3}]
+55	Bitmap's height ({1}) is not a multiple of frame height ({2}) [Bitmap={3}]
+56	Bitmap's width ({1}) is not a multiple of frame count ({2}) [Bitmap={3}]
+57	Invalid quoted field (in: {1})
+58	Field {1} is not a positive integer
+59	${1}
+60	Money:\n<ar>{1}</ar>
+61	Coins:\n<ar>{1}</ar>
+62	Battle Points:\n<ar>{1}</ar>
+63	No
+64	Medium
+65	Erratic
+66	Fluctuating
+67	Parabolic
+68	Always Male
+69	Always Female
+70	Genderless
+71	Female One Eighth
+72	Female 25 Percent
+73	Female 50 Percent
+74	Female 75 Percent
+75	Female Seven Eighths
+76	Undiscovered
+77	Monster
+78	Water 1
+79	Bug
+80	Flying
+81	Field
+82	Fairy
+83	Grass
+84	Humanlike
+85	Water 3
+86	Mineral
+87	Amorphous
+88	Water 2
+89	Ditto
+90	Dragon
+91	Head
+92	Serpentine
+93	Finned
+94	Head and arms
+95	Head and base
+96	Bipedal with tail
+97	Head and legs
+98	Quadruped
+99	Winged
+100	Multiped
+101	Multi Body
+102	Bipedal
+103	Multi Winged
+104	Insectoid
+105	Red
+106	Blue
+107	Yellow
+108	Green
+109	Black
+110	Brown
+111	Purple
+112	Gray
+113	White
+114	Pink
+115	Grassland
+116	Forest
+117	Water's Edge
+118	Sea
+119	Cave
+120	Mountain
+121	Rough Terrain
+122	Urban
+123	Rare
+124	Def
+125	Eva
+126	Sleep
+127	Poison
+128	Burn
+129	Paralysis
+130	Frozen
+131	Tall grass
+132	Moving water
+133	Still water
+134	Puddle
+135	Underwater
+136	Rock
+137	Sand
+138	Forest grass
+139	Snow
+140	Ice
+141	Volcano
+142	Graveyard
+143	Sky
+144	Space
+145	Ultra Space
+146	Sun
+147	Rain
+148	Sandstorm
+149	Hail
+150	Harsh Sun
+151	Heavy Rain
+152	Strong Winds
+153	Shadow Sky
+154	Electric
+155	Grassy
+156	Misty
+157	Psychic
+158	User
+159	Near Ally
+160	User or Near Ally
+161	All Allies
+162	User and Allies
+163	Near Foe
+164	Random Near Foe
+165	All Near Foes
+166	Foe
+167	All Foes
+168	Near Other
+169	All Near Others
+170	Other
+171	All Battlers
+172	User Side
+173	Foe Side
+174	Both Sides
+175	Can't use in field
+176	Can't use in battle
+177	ID of this item (used as a symbol like :XXX).
+178	Name of this item as displayed by the game.
+179	Plural name of this item as displayed by the game.
+180	Name of a portion of this item as displayed by the game.
+181	Name of 2 or more portions of this item as displayed by the game.
+182	Pocket in the Bag where this item is stored.
+183	Purchase price of this item.
+184	Sell price of this item. If blank, is half the purchase price.
+185	Purchase price of this item in Battle Points (BP).
+186	How this item can be used outside of battle.
+187	How this item can be used within a battle.
+188	Words/phrases that can be used to group certain kinds of items.
+189	Whether this item is consumed after use.
+190	Whether the Bag shows how many of this item are in there.
+191	Move taught by this HM, TM or TR.
+192	Description of this item.
+193	The ID of the Pokémon.
+194	Name of the Pokémon.
+195	Name of this form of the Pokémon.
+196	The Pokémon's type(s).
+197	Base stats of the Pokémon.
+198	Proportion of males to females for this species.
+199	Pokémon's growth rate.
+200	Base experience earned when this species is defeated.
+201	Effort Value points earned when this species is defeated.
+202	Catch rate of this species (0-255).
+203	Base happiness of this species (0-255).
+204	Abilities which the Pokémon can have (max. 2).
+205	Secret abilities which the Pokémon can have.
+206	Moves which the Pokémon learns while levelling up.
+207	Moves which the Pokémon can be taught by TM/HM/Move Tutor.
+208	Moves which the Pokémon can learn via breeding.
+209	Egg groups that the Pokémon belongs to for breeding purposes.
+210	Number of steps until an egg of this species hatches.
+211	Item needed to be held by a parent to produce an egg of this species.
+212	All possible species that an egg can be when breeding for an egg of this species (if blank, the egg can only be this species).
+213	Height of the Pokémon in 0.1 metres (e.g. 42 = 4.2m).
+214	Weight of the Pokémon in 0.1 kilograms (e.g. 42 = 4.2kg).
+215	Pokémon's body color.
+216	Body shape of this species.
+217	The habitat of this species.
+218	Kind of Pokémon species.
+219	Description of the Pokémon as displayed in the Pokédex.
+220	The number of the generation the Pokémon debuted in.
+221	Words/phrases that distinguish this species from others.
+222	Item(s) commonly held by wild Pokémon of this species.
+223	Item(s) uncommonly held by wild Pokémon of this species.
+224	Item(s) rarely held by wild Pokémon of this species.
+225	Evolution paths of this species.
+226	Undefined species {1}.
+227	ID of this Trainer Type (used as a symbol like :XXX).
+228	Name of this Trainer Type as displayed by the game.
+229	Gender of this Trainer Type.
+230	Player earns this much money times the highest level among the trainer's Pokémon.
+231	Skill level of this Trainer Type.
+232	Words/phrases that can be used to make trainers of this type behave differently to others.
+233	BGM played before battles against trainers of this type.
+234	BGM played in battles against trainers of this type.
+235	BGM played when player wins battles against trainers of this type.
+236	The amount of money that the player starts the game with.
+237	Items that are already in the player's PC at the start of the game.
+238	Map ID and X/Y coordinates of where the player goes after a loss if no Pokémon Center was visited.
+239	Name of the Pokémon Storage creator (the storage option is named "XXX's PC").
+240	Default BGM for wild Pokémon battles.
+241	Default BGM for Trainer battles.
+242	Default BGM played after winning a wild Pokémon battle.
+243	Default BGM played after winning a Trainer battle.
+244	Default ME played after catching a Pokémon.
+245	BGM played while surfing.
+246	BGM played while on a bicycle.
+247	Bill
+248	ID number of this player.
+249	Trainer type of this player.
+250	Charset used while the player is still or walking.
+251	Charset used while the player is running. Uses WalkCharset if undefined.
+252	Charset used while the player is cycling. Uses RunCharset if undefined.
+253	Charset used while the player is surfing. Uses CycleCharset if undefined.
+254	Charset used while the player is diving. Uses SurfCharset if undefined.
+255	Charset used while the player is fishing. Uses WalkCharset if undefined.
+256	Charset used while the player is fishing while surfing. Uses FishCharset if undefined.
+257	ID number of this map.
+258	The name of the map, as seen by the player. Can be different to the map's name as seen in RMXP.
+259	If true, this map is an outdoor map and will be tinted according to time of day.
+260	If true, the game will display the map's name upon entry.
+261	If true, the bicycle can be used on this map.
+262	If true, the bicycle will be mounted automatically on this map and cannot be dismounted.
+263	Map ID of this Pokémon Center's town, and X and Y coordinates of its entrance within that town.
+264	Weather conditions in effect for this map.
+265	Identifies the point on the regional map for this map.
+266	Specifies the underwater layer of this map. Use only if this map has deep water.
+267	If true, this map is dark and a circle of light appears around the player. Flash can be used to expand the circle.
+268	If true, this map is part of the Safari Zone (both indoor and outdoor). Not to be used in the reception desk.
+269	If true, when the player goes near this map's edge, the game doesn't center the player as usual.
+270	If true, reflections of events and the player will not ripple horizontally.
+271	If true, this map has a randomly generated layout. See the wiki for more information.
+272	PNG files named 'XXX_bg', 'XXX_base0', 'XXX_base1', 'XXX_message' in Battlebacks folder, where XXX is this property's value.
+273	Default BGM for wild Pokémon battles on this map.
+274	Default BGM for trainer battles on this map.
+275	Default BGM played after winning a wild Pokémon battle on this map.
+276	Default BGM played after winning a Trainer battle on this map.
+277	Default ME played after catching a wild Pokémon on this map.
+278	The width of the map in Town Map squares, and a string indicating which squares are part of this map.
+279	The default battle environment for battles on this map.
+280	Words/phrases that distinguish this map from others.
+281	Party 1 has no Pokémon.
+282	Party 2 has no Pokémon.
+283	The sunlight turned harsh!
+284	It started to rain!
+285	A sandstorm brewed!
+286	It started to hail!
+287	The sunlight turned extremely harsh!
+288	A heavy rain began to fall!
+289	Mysterious strong winds are protecting Flying-type Pokémon!
+290	A shadow sky appeared!
+291	Grass grew to cover the battlefield!
+292	Mist swirled about the battlefield!
+293	The battlefield got weird!
+294	Can't have battles larger than 2v2 where both sides have multiple trainers
+295	Error: def pbGetOwnerIndexFromBattlerIndex gives invalid owner index ({1} for battle type {2}v{3}, trainers {4}v{5})
+296	Player-side trainer {1} has no battler position for their Pokémon to go (trying {2}v{3} battle)
+297	Opposing trainer {1} has no battler position for their Pokémon to go (trying {2}v{3} battle)
+298	Player-side trainer {1} has no able Pokémon
+299	Opposing trainer {1} has no able Pokémon
+300	Couldn't lower either side's size any further, battle isn't possible
+301	Battler index {1} already exists
+302	{1}'s new level is less than its current level, which shouldn't happen.
+303	There's no PP left for this move!
+304	{1} has to use {2}!
+305	{1} has no moves left!
+306	An Egg can't battle!
+307	You can't switch {1}'s Pokémon with one of yours!
+308	{1} has no energy left to battle!
+309	{1} is already in battle!
+310	{1} can't be switched out!
+311	{1}'s {2} prevents switching!
+312	{1} has already been selected.
+313	Use next Pokémon?
+314	Good job, {1}! Come back!
+315	OK, {1}! Come back!
+316	{1}, that's enough! Come back!
+317	{1}, come back!
+318	{1}, switch out! Come back!
+319	{1} withdrew {2}!
+320	You're in charge, {1}!
+321	Go for it, {1}!
+322	Just a little more! Hang in there, {1}!
+323	Your opponent's weak! Get 'em, {1}!
+324	Oh!\nA Shadow Pokémon!
+325	The healing wish came true for {1}!
+326	{1} became cloaked in mystical moonlight!
+327	Pointed stones dug into {1}!
+328	{1} is hurt by the spikes!
+329	{1} absorbed the poison spikes!
+330	{1} was badly poisoned by the poison spikes!
+331	{1} was poisoned by the poison spikes!
+332	{1} was caught in a sticky web!
+333	It won't have any effect.
+334	Embargo's effect prevents the item's use on {1}!
+335	Tried to consume item that wasn't in the Bag somehow.
+336	Couldn't return unused item to Bag somehow.
+337	{1} used an {2}.
+338	{1} used a {2}.
+339	But it had no effect!
+340	But it's not where this item can be used!
+341	Treat as a win
+342	Treat as a loss
+343	Treat as a draw
+344	Treat as running away/forfeit
+345	Treat as a capture
+346	Choose the outcome of this battle.
+347	{1} called {2}!
+348	{1}!
+349	{1} came to its senses from the Trainer's call!
+350	But nothing happened!
+351	Mega Ring
+352	{1}'s fervent wish has reached {2}!
+353	{1}'s {2} is reacting to {3}'s {4}!
+354	Mega {1}
+355	{1} has Mega Evolved into {2}!
+356	{1}'s Primal Reversion!\nIt reverted to its primal form!
+357	Items can't be used here.
+358	Sky Drop won't let {1} go!
+359	The sunlight faded.
+360	The rain stopped.
+361	The sandstorm subsided.
+362	The hail stopped.
+363	The shadow sky faded.
+364	Rain continues to fall.
+365	The sandstorm is raging.
+366	The hail is crashing down.
+367	The shadow sky continues.
+368	{1} is buffeted by the sandstorm!
+369	{1} is buffeted by the hail!
+370	{1} is hurt by the shadow sky!
+371	{1} took the {2} attack!
+372	{1}'s wish came true!
+373	{1} is hurt by the sea of fire!
+374	{1}'s HP was restored.
+375	Aqua Ring restored {1}'s HP!
+376	{1} absorbed nutrients with its roots!
+377	{1}'s health is sapped by Leech Seed!
+378	{1}'s {2} restored its HP.
+379	{1} is locked in a nightmare!
+380	{1} is afflicted by the curse!
+381	{1} was freed from {2}!
+382	{1} is hurt by {2}!
+383	{1}'s taunt wore off!
+384	{1}'s encore ended!
+385	{1} is no longer disabled!
+386	{1}'s electromagnetism wore off!
+387	{1} was freed from the telekinesis!
+388	{1}'s Heal Block wore off!
+389	{1} can use items again!
+390	{1}'s perish count fell to {2}!
+391	{1}'s Reflect wore off!
+392	{1}'s Light Screen wore off!
+393	{1} is no longer protected by Safeguard!
+394	{1} is no longer protected by mist!
+395	{1}'s Tailwind petered out!
+396	{1}'s Lucky Chant wore off!
+397	The rainbow on {1}'s side disappeared!
+398	The sea of fire around {1} disappeared!
+399	The swamp around {1} disappeared!
+400	{1}'s Aurora Veil wore off!
+401	The twisted dimensions returned to normal!
+402	Gravity returned to normal!
+403	The effects of Water Sport have faded.
+404	The effects of Mud Sport have faded.
+405	Wonder Room wore off, and Defense and Sp. Def stats returned to normal!
+406	Magic Room wore off, and held items' effects returned to normal!
+407	The electric current disappeared from the battlefield!
+408	The grass disappeared from the battlefield!
+409	The mist disappeared from the battlefield!
+410	The weirdness disappeared from the battlefield!
+411	An electric current is running across the battlefield.
+412	Grass is covering the battlefield.
+413	Mist is swirling about the battlefield.
+414	The battlefield is weird.
+415	{1} came to its senses!
+416	{1} is in Hyper Mode!
+417	{1} calmed down.
+418	{1} is making an uproar!
+419	{1} finally got its act together!
+420	{1} moved across!
+421	{1} moved to the center!
+422	{1} shook itself awake so you wouldn't worry!
+423	{1} managed to expel the poison so you wouldn't worry!
+424	{1} healed its burn with its sheer determination so you wouldn't worry!
+425	{1} gathered all its energy to break through its paralysis so you wouldn't worry!
+426	{1} melted the ice with its fiery determination so you wouldn't worry!
+427	The Hyper Mode attack hurts {1}!
+428	{1} protected itself with the {2}!
+429	An egg can't be an active Pokémon.
+430	HP less than 0
+431	HP greater than total HP
+432	{1} sucked up the liquid ooze!
+433	{1} had its energy drained!
+434	{1} transformed!
+435	{1} triggered!
+436	{1} deactivated!
+437	{1} activated!
+438	{1} formed a school!
+439	{1} stopped schooling!
+440	You sense the presence of many!
+441	{1} transformed into its Complete Forme!
+442	{1} transformed into {2}!
+443	{1} is already asleep!
+444	{1} is already poisoned!
+445	{1} already has a burn!
+446	{1} is already paralyzed!
+447	{1} is already frozen solid!
+448	{1} surrounds itself with electrified terrain!
+449	{1} surrounds itself with misty terrain!
+450	But the uproar kept {1} awake!
+451	{1} stays awake!
+452	{1} cannot be poisoned!
+453	{1} cannot be burned!
+454	{1} cannot be paralyzed!
+455	{1} cannot be frozen solid!
+456	{1} stays awake because of {2}'s {3}!
+457	{1} cannot be poisoned because of {2}'s {3}!
+458	{1} cannot be burned because of {2}'s {3}!
+459	{1} cannot be paralyzed because of {2}'s {3}!
+460	{1} cannot be frozen solid because of {2}'s {3}!
+461	{1} stays awake because of its {2}!
+462	{1}'s {2} prevents poisoning!
+463	{1}'s {2} prevents burns!
+464	{1}'s {2} prevents paralysis!
+465	{1}'s {2} prevents freezing!
+466	{1}'s team is protected by Safeguard!
+467	{1} fell asleep!
+468	{1} was badly poisoned!
+469	{1} was poisoned!
+470	{1} was burned!
+471	{1} is paralyzed! It may be unable to move!
+472	{1} was frozen solid!
+473	{1} is fast asleep.
+474	{1} was hurt by poison!
+475	{1} was hurt by its burn!
+476	{1} is paralyzed! It can't move!
+477	{1} is frozen solid!
+478	{1} woke up!
+479	{1} was cured of its poisoning.
+480	{1}'s burn was healed.
+481	{1} was cured of paralysis.
+482	{1} thawed out!
+483	{1} is already confused.
+484	{1} doesn't become confused!
+485	{1}'s {2} prevents confusion!
+486	{1} became confused!
+487	{1}'s {2} prevents romance!
+488	{1} fell in love!
+489	{1} fell in love from the {2}!
+490	The effects of the neutralizing gas wore off!
+491	{1} traced {2}'s {3}!
+492	{1}'s {2} made {3} ineffective!
+493	{1}'s {2} wore off!
+494	{1} shared its {2} with {3}!
+495	{1}'s {2} let it share its {3} with {4}!
+496	{1} restored its health using its {2}!
+497	{1} fled from battle!
+498	{1} became confused due to fatigue!
+499	But there was no PP left for the move!
+500	{1} changed to Blade Forme!
+501	{1} changed to Shield Forme!
+502	{1} cannot use {2}!
+503	{1} snatched {2}'s move!
+504	{1} melted the ice!
+505	When the flame touched the powder on the Pokémon, it exploded!
+506	{1} is hurt by Powder!
+507	The Fire-type attack fizzled out in the heavy rain!
+508	The Water-type attack evaporated in the harsh sunlight!
+509	{1}'s type changed to {2}!
+510	Hit 1 time!
+511	Hit {1} times!
+512	{1} bounced the {2} back!
+513	{1} used the move instructed by {2}!
+514	{1} kept the dance going with {2}!
+515	The {1} strengthened {2}'s power!
+516	The {1} weakened the damage to {2}!
+517	{1} took the attack!
+518	{1} took the attack with its {2}!
+519	{1}'s {2} is disabled!
+520	{1} can't use {2} because of Heal Block!
+521	{1} can't use {2} because of gravity!
+522	{1} can't use {2} because of Throat Chop!
+523	The {1} only allows the use of {2}!
+524	{1} can only use {2}!
+525	{1} can't use {2} after the taunt!
+526	{1} can't use the same move twice in a row due to the torment!
+527	{1} can't use its sealed {2}!
+528	The effects of the {1} prevent status moves from being used!
+529	{1} ignored orders and kept sleeping!
+530	{1} ignored orders!
+531	{1} began to nap!
+532	{1} won't obey! It hurt itself in its confusion!
+533	{1} appears incapable of using its power!
+534	{1} surrounds itself with psychic terrain!
+535	Crafty Shield protected {1}!
+536	Wide Guard protected {1}!
+537	Quick Guard protected {1}!
+538	{1} protected itself!
+539	{1} was hurt!
+540	{1} was blocked by the kicked-up mat!
+541	{1} avoided the attack with {2}!
+542	{1}'s {2} makes Ground moves miss!
+543	{1} makes Ground moves miss with Magnet Rise!
+544	{1} makes Ground moves miss with Telekinesis!
+545	It doesn't affect {1} because of its {2}.
+546	{1} avoided the move in time with your shout!
+547	{1}'s rage is building!
+548	{1}'s {2} lost all of its PP due to the grudge!
+549	{1} took its attacker down with it!
+550	{1} became fully charged due to its bond with its Trainer!
+551	{1} became Ash-Greninja!
+552	The substitute took damage for {1}!
+553	{1} landed a critical hit on {2}, wishing to be praised!
+554	{1} landed a critical hit, wishing to be praised!
+555	{1}'s substitute faded!
+556	Its disguise served it as a decoy!
+557	{1}'s disguise served it as a decoy!
+558	{1}'s disguise was busted!
+559	{1} endured the hit!
+560	{1} hung on with Sturdy!
+561	{1} hung on using its Focus Sash!
+562	{1} hung on using its Focus Band!
+563	{1} toughed it out so you wouldn't feel sad!
+564	Struggle
+565	{1} is damaged by recoil!
+566	{1}'s stats won't go any higher!
+567	{1}'s stats won't go any lower!
+568	{1} became fully charged due to its Power Herb!
+569	{1} began charging up!
+570	{1}'s HP is full!
+571	{1} protected {2}!
+572	The extremely harsh sunlight was not lessened at all!
+573	There is no relief from this heavy rain!
+574	The mysterious air current blows on regardless!
+575	The two moves have become one! It's a combined move!
+576	{1} is waiting for {2}'s move...
+577	A sea of fire enveloped {1}!
+578	A rainbow appeared in the sky on {1}'s side!
+579	A swamp enveloped {1}!
+580	Congratulations from {1}!
+581	Congratulations, {1}!
+582	Coins were scattered everywhere!
+583	Everyone is caught up in the happy atmosphere!
+584	{1} hasn't eaten any held berry, so it can't possibly belch!
+585	{1} is about to be attacked by its {2}!
+586	{1} is tightening its focus!
+587	{1} lost its focus and couldn't move!
+588	{1} kept going and crashed!
+589	The electricity disappeared from the battlefield.
+590	The grass disappeared from the battlefield.
+591	The mist disappeared from the battlefield.
+592	The weirdness disappeared from the battlefield.
+593	Spikes were scattered all around {1}'s feet!
+594	Poison spikes were scattered all around {1}'s feet!
+595	Pointed stones float in the air around {1}!
+596	A sticky web has been laid out beneath {1}'s feet!
+597	{1} swapped the battle effects affecting each side of the field!
+598	{1} already has a substitute!
+599	But it does not have enough HP left to make a substitute!
+600	{1} put in a substitute!
+601	{1} got free of {2}'s {3}!
+602	{1} shed Leech Seed!
+603	{1} blew away stealth rocks!
+604	{1} blew away spikes!
+605	{1} blew away poison spikes!
+606	{1} blew away sticky webs!
+607	{1} chose Doom Desire as its destiny!
+608	{1} foresaw an attack!
+609	{1} and {2} switched places!
+610	{1} started heating up its beak!
+611	{1} cut its own HP and minimized its {2}!
+612	{1} cut its own HP and maximized its {2}!
+613	{1} began charging power!
+614	{1} became nimble!
+615	{1} is getting pumped!
+616	{1}'s stats can't be changed further!
+617	{1} can no longer escape because it used {2}!
+618	{1} became weaker to fire!
+619	{1}'s Mist faded!
+620	{1} is no longer protected by Safeguard!!
+621	{1}'s stats can't be raised further!
+622	{1} switched all changes to its Attack and Sp. Atk with the target!
+623	{1} switched all changes to its Defense and Sp. Def with the target!
+624	{1} switched stat changes with the target!
+625	{1} copied {2}'s stat changes!
+626	{1} stole the target's boosted stats!
+627	{1}'s stats were reversed!
+628	{1}'s stat changes were removed!
+629	All stat changes were eliminated!
+630	{1} became shrouded in mist!
+631	{1} switched its Attack and Defense!
+632	{1} switched Speed with its target!
+633	{1} shared its power with the target!
+634	{1} shared its guard with the target!
+635	The battlers shared their pain!
+636	The Tailwind blew from behind {1}!
+637	Wonder Room wore off, and the Defense and Sp. Def stats returned to normal!
+638	It created a bizarre area in which the Defense and Sp. Def stats are swapped!
+639	But {1} can't use the move!
+640	{1} made {2} drowsy!
+641	{1} woke up.
+642	{1} was thawed out.
+643	{1} healed its burn!
+644	{1} cured its poisoning!
+645	{1} cured its paralysis!
+646	{1} was woken from sleep.
+647	A soothing aroma wafted through the area!
+648	A bell chimed!
+649	{1} became cloaked in a mystical veil!
+650	{1}'s type changed to match {2}'s!
+651	{1} transformed into the {2} type!
+652	{1} burned itself out!
+653	{1} acquired {2}!
+654	{1} copied {2}'s {3}!
+655	{1} swapped Abilities with its target!
+656	{1} swapped its {2} Ability with its target's {3} Ability!
+657	{1}'s Ability was suppressed!
+658	{1} levitated with electromagnetism!
+659	{1} was hurled into the air!
+660	{1} fell straight down!
+661	Gravity intensified!
+662	{1} couldn't stay airborne because of gravity!
+663	But it failed to affect {1}!
+664	But it failed to affect {1} because of its {2}!
+665	It's a one-hit KO!
+666	The bursting flame hit {1} and {2}!
+667	The bursting flame hit {1}!
+668	Magnitude {1}!
+669	{1} concentrated intensely!
+670	The Lucky Chant shielded {1} from critical hits!
+671	{1} braced itself!
+672	Electricity's power was weakened!
+673	Fire's power was weakened!
+674	{1} raised {2}'s Defense!
+675	{1} raised {2}'s Special Defense!
+676	{1} made {2} stronger against physical and special moves!
+677	{1} intends to flip up a mat and block incoming attacks!
+678	But {1} can't use it the way it is now!
+679	{1} took aim at {2}!
+680	{1} was identified!
+681	{1}'s moves have been electrified!
+682	A deluge of ions showers the battlefield!
+683	{1} whipped up a whirlwind!
+684	{1} took in sunlight!
+685	{1} became cloaked in a freezing light!
+686	{1} became cloaked in freezing air!
+687	{1} became cloaked in a harsh light!
+688	{1} is absorbing power!
+689	{1} tucked in its head!
+690	{1} is overflowing with space power!
+691	{1} burrowed its way under the ground!
+692	{1} hid underwater!
+693	{1} flew up high!
+694	{1} sprang up!
+695	{1} took {2} into the sky!
+696	{1} was freed from the Sky Drop!
+697	{1} vanished instantly!
+698	{1} caused an uproar!
+699	{1} unleashed energy!
+700	{1} is storing energy!
+701	{1} slept and became healthy!
+702	{1} wasn't affected!
+703	{1} surrounded itself with a veil of water!
+704	{1} planted its roots!
+705	{1} began having a nightmare!
+706	{1} evaded the attack!
+707	{1} was seeded!
+708	{1} cannot use {2} because of {3}'s {4}!
+709	All Pokémon that hear the song will faint in three turns!
+710	{1} is hoping to take its attacker down with it!
+711	{1} wants its target to bear a grudge!
+712	{1} stole {2}'s {3}!
+713	{1} received {2} from {3}!
+714	{1} switched items with its opponent!
+715	{1} found an {2}!
+716	{1} found a {2}!
+717	{1} dropped its {2}!
+718	{1}'s {2} was incinerated!
+719	{1} corroded {2}'s {3}!
+720	{1} can't use items anymore!
+721	The area returned to normal!
+722	It created a bizarre area in which Pokémon's held items lose their effects!
+723	{1} can't use that move because it doesn't have a Berry!
+724	{1} ate its {2}!
+725	It's teatime! Everyone dug in to their Berries!
+726	{1} stole and ate its target's {2}!
+727	{1} flung its {2}!
+728	{1} became the center of attention!
+729	{1} cut its own HP and laid a curse on {2}!
+730	{1} is covered in powder!
+731	{1} is ready to help {2}!
+732	{1} can't stockpile any more!
+733	{1} stockpiled {2}!
+734	But it failed to spit up a thing!
+735	{1}'s stockpiled effect wore off!
+736	But it failed to swallow a thing!
+737	The mirror move failed!
+738	{1} turned into {2}!
+739	{1} shrouded itself with Magic Coat!
+740	{1} waits for a target to make a move!
+741	{1} went back to {2}!
+742	{1} anchors itself!
+743	{1} anchors itself with {2}!
+744	{1} anchored itself with its roots!
+745	{1} was dragged out!
+746	{1} was trapped in the vortex!
+747	{1} was squeezed by {2}!
+748	{1} clamped {2}!
+749	{1} was trapped in the fiery vortex!
+750	{1} has been afflicted with an infestation by {2}!
+751	{1} became trapped by Magma Storm!
+752	{1} became trapped by Sand Tomb!
+753	{1} became trapped in the vortex!
+754	{1} was wrapped by {2}!
+755	{1} can no longer escape!
+756	{1} can no longer escape because of {2}!
+757	Neither Pokémon can run away!
+758	No one will be able to run away during the next turn!
+759	{1} set a shell trap!
+760	{1}'s shell trap didn't work!
+761	{1} took the kind offer!
+762	{1}'s move was postponed!
+763	{1} reverted the dimensions!
+764	{1} twisted the dimensions!
+765	It reduced the PP of {1}'s {2} by {3}!
+766	{1}'s {2} was disabled!
+767	{1} was subjected to torment!
+768	{1} received an encore!
+769	But it failed because of {1}'s {2}!
+770	{1} fell for the taunt!
+771	{1} was prevented from healing!
+772	The effects of {1} prevent {2} from using certain moves!
+773	{1} sealed any moves its target shares with it!
+774	Pokémon
+775	Send which Pokémon to Boxes?
+776	Restore which move?
+777	Graphics/UI/Battle/cursor_command
+778	Graphics/UI/Battle/cursor_fight
+779	Graphics/UI/types
+780	Graphics/UI/Battle/cursor_mega
+781	Graphics/UI/Battle/cursor_shift
+782	PP: ---<br>TYPE/{1}
+783	PP: {1}/{2}
+784	Graphics/UI/Battle/databox_normal
+785	Graphics/UI/Battle/databox_normal_foe
+786	Graphics/UI/Battle/databox_thin
+787	Graphics/UI/Battle/databox_thin_foe
+788	Graphics/UI/Battle/overlay_lv
+789	♂
+790	♀
+791	Graphics/UI/Battle/icon_statuses
+792	{1}'s
+793	Can't catch any more...
+794	But {1} couldn't sleep!
+795	{1}'s team was disqualified!
+796	{1}'s {2} poisoned {3}!
+797	{1}'s {2} burned {3}!
+798	{1}'s {2} paralyzed {3}! It may be unable to move!
+799	{1}'s {2} cured its poisoning!
+800	{1}'s {2} woke it up!
+801	{1}'s {2} cured its paralysis!
+802	{1}'s {2} defrosted it!
+803	{1} got over its infatuation.
+804	{1}'s {2} cured its infatuation status!
+805	{1}'s Taunt wore off!
+806	{1}'s {2} made its taunt wear off!
+807	{1}'s {2} snapped it out of its confusion!
+808	{1}'s {2} healed its burn!
+809	{1}'s stats cannot be lowered!
+810	{1}'s {2} prevents stat loss!
+811	{1}'s {2} prevents {3}'s stat loss!
+812	{1} made {2} move faster!
+813	The power of {1}'s Fire-type moves rose!
+814	The power of {1}'s Fire-type moves rose because of its {2}!
+815	{1}'s {2} blocks {3}!
+816	{1} avoids attacks by its ally Pokémon!
+817	{1} avoids attacks by its ally Pokémon with {2}!
+818	{1} avoided damage with {2}!
+819	{1} was caught in the aftermath!
+820	{1} maxed its {2}!
+821	{1}'s {2} maxed its {3}!
+822	{1}'s {2} was disabled by {3}'s {4}!
+823	{1}'s {2} made {3} fall in love!
+824	{1}'s {2} made {3} fall asleep!
+825	{1}'s illusion wore off!
+826	{1} is hurt!
+827	{1} is hurt by {2}'s {3}!
+828	{1}'s Ability became {2}!
+829	{1}'s Ability became {2} because of {3}!
+830	Both Pokémon will faint in three turns!
+831	Both Pokémon will faint in three turns because of {1}'s {2}!
+832	{1} swapped Abilities with {2}!
+833	{1} swapped its {2} Ability with {3}'s {4} Ability!
+834	{1}'s item cannot be stolen!
+835	{1} stole {2}'s {3} with {4}!
+836	{1}'s type changed to {2} because of its {3}!
+837	{1} pickpocketed {2}'s {3}!
+838	{1} was hurt by the sunlight!
+839	{1}'s {2} woke its partner up!
+840	{1}'s {2} cured its partner's poison!
+841	{1}'s {2} healed its partner's burn!
+842	{1}'s {2} cured its partner's paralysis!
+843	{1}'s {2} defrosted its partner!
+844	{1}'s {2} cured its poison!
+845	{1} is tormented!
+846	{1} is tormented by {2}'s {3}!
+847	{1} retrieved the thrown {2}!
+848	{1} harvested one {2}!
+849	{1} found one {2}!
+850	{1} has {2}!
+851	The effects of the weather disappeared.
+852	{1} shuddered with anticipation!
+853	{1} has two Abilities!
+854	{1} is too nervous to eat Berries!
+855	{1} reversed all other Pokémon's auras!
+856	{1} is drowsing!
+857	{1}'s stat changes were removed by {2}'s {3}!
+858	{1} is radiating a dark aura!
+859	{1} is radiating a fairy aura!
+860	{1} was alerted to {2}!
+861	{1}'s Forewarn alerted it to {2}!
+862	{1} frisked {2} and found its {3}!
+863	{1} frisked the foe and found one {2}!
+864	{1} breaks the mold!
+865	Neutralizing gas filled the area!
+866	{1}'s {2} cured {3}'s poisoning!
+867	{1} is exerting its pressure!
+868	{1} can't get it going!
+869	{1} can't get it going because of its {2}!
+870	{1} is radiating a bursting aura!
+871	{1} is radiating a blazing aura!
+872	{1}'s {2} was taken over!
+873	{1} changed back to its regular type!
+874	For {1}, the {2} was too bitter!
+875	For {1}, the {2} was too spicy!
+876	For {1}, the {2} was too sour!
+877	{1} got pumped from the {2}!
+878	{1} used its {2} to get pumped!
+879	For {1}, the {2} was too sweet!
+880	{1} boosted the accuracy of its next move!
+881	{1} boosted the accuracy of its next move using its {2}!
+882	{1} restored a little HP using its {2}!
+883	For {1}, the {2} was too dry!
+884	{1} is switched out by the {2}!
+885	{1} cured its infatuation status using its {2}!
+886	{1}'s torment wore off!
+887	{1}'s {2} let it move first!
+888	The {1} was used up...
+889	{1}'s {2} popped!
+890	{1} consumed its {2} and hurt {3}!
+891	{1} was hurt by the {2}!
+892	{1}'s {2} was transferred to {3}!
+893	{1} is switched out with the {2}!
+894	{1} held up its {2} against {3}!
+895	{1} lost some of its HP!
+896	{1} restored its {2}'s PP.
+897	{1}'s {2} restored its {3}'s PP!
+898	{1}'s status returned to normal!
+899	{1} returned its status to normal using its {2}!
+900	{1} is hurt by its {2}!
+901	{1} was burned by the {2}!
+902	{1} was badly poisoned by the {2}!
+903	{1} floats in the air with its {2}!
+904	Graphics/UI/Battle/databox_safari
+905	Safari Balls
+906	Left: {1}
+907	Ball
+908	Bait
+909	Wild {1} appeared!
+910	The boxes are full! You can't catch any more Pokémon!
+911	{1} threw some bait at the {2}!
+912	PA: You have no Safari Balls left! Game over!
+913	{1} fled!
+914	{1} is eating!
+915	{1} is angry!
+916	{1} is watching carefully!
+917	Sport Balls: {1}
+918	You already caught a {1}.
+919	Stock Pokémon:\n{1} Lv.{2} Max HP: {3}\nThis Pokémon:\n{4} Lv.{5} Max HP: {6}
+920	Switch Pokémon?
+921	Caught {1}!
+922	{1} is eager for more!
+923	{1} began growling deeply!
+924	A glint appears in {1}'s eyes!
+925	{1} is getting into position!
+926	{1} tied the opponent {2} in a referee's decision!
+927	{1} defeated the opponent {2} in a referee's decision!
+928	{1} lost to the opponent {2} in a referee's decision!
+929	VS
+930	Mind
+931	Skill
+932	Body
+933	Judgment
+934	REFEREE: {1} VS {2}!\nCommence battling!
+935	REFEREE: That's it! We will now go to judging to determine the winner!
+936	REFEREE: Judging category 1, Mind!\nThe Pokémon showing the most guts!
+937	REFEREE: Judging category 2, Skill!\nThe Pokémon using moves the best!
+938	REFEREE: Judging category 3, Body!\nThe Pokémon with the most vitality!
+939	REFEREE: Judgment: {1} to {2}!\nWe have a draw!
+940	REFEREE: Judgment: {1} to {2}!\nThe winner is {3}'s {4}!
+941	REFEREE: Judgment: {1} to {2}!\nThe winner is {3}!
+942	The game has detected that the battery is low. You should save soon to avoid losing your progress.
+943	{1} survived the poisoning.\\nThe poison faded away!
+944	{1} fainted...
+945	You found \\c[1]{1}\\c[0]!
+946	You found {1} \\c[1]{2} {3}\\c[0]!
+947	You found \\c[1]{1} {2}\\c[0]!
+948	You found {1} \\c[1]{2}\\c[0]!
+949	You found an \\c[1]{1}\\c[0]!
+950	You found a \\c[1]{1}\\c[0]!
+951	You put the {1} in\\nyour Bag's <icon=bagPocket{2}>\\c[1]{3}\\c[0] pocket.
+952	But your Bag is full...
+953	You obtained \\c[1]{1}\\c[0]!
+954	You obtained {1} \\c[1]{2} {3}\\c[0]!
+955	You obtained \\c[1]{1} {2}\\c[0]!
+956	You obtained {1} \\c[1]{2}\\c[0]!
+957	You obtained an \\c[1]{1}\\c[0]!
+958	You obtained a \\c[1]{1}\\c[0]!
+959	Sunday
+960	Monday
+961	Tuesday
+962	Wednesday
+963	Thursday
+964	Friday
+965	Saturday
+966	January
+967	February
+968	March
+969	April
+970	May
+971	June
+972	July
+973	August
+974	September
+975	October
+976	November
+977	December
+978	Jan.
+979	Feb.
+980	Mar.
+981	Apr.
+982	Jun.
+983	Jul.
+984	Aug.
+985	Sep.
+986	Oct.
+987	Nov.
+988	Dec.
+989	Spring
+990	Summer
+991	Autumn
+992	Winter
+993	Sorry, a new Badge is required.
+994	This tree looks like it can be cut down.
+995	This tree looks like it can be cut down!\nWould you like to cut it?
+996	You can't use that here.
+997	It can't be used when you have someone with you.
+998	Want to escape from here and return to {1}?
+999	The sea is deep here. A Pokémon may be able to go underwater.
+1000	The sea is deep here. Would you like to use Dive?
+1001	Light is filtering down from above. A Pokémon may be able to surface here.
+1002	Light is filtering down from above. Would you like to use Dive?
+1003	Flash is already being used.
+1004	Nope. Nothing...
+1005	A Pokémon could be in this tree. Maybe a Pokémon could shake it.
+1006	A Pokémon could be in this tree. Would you like to use Headbutt?
+1007	It's a rugged rock, but a Pokémon may be able to smash it.
+1008	This rock seems breakable with a hidden move.\nWould you like to use Rock Smash?
+1009	Strength made it possible to move boulders around.
+1010	It's a big boulder, but a Pokémon may be able to push it aside.
+1011	It's a big boulder, but you may be able to push it aside with a hidden move.
+1012	Would you like to use Strength?
+1013	Strength made it possible to move boulders around!
+1014	Strength is already being used.
+1015	The water is a deep blue color... Would you like to use Surf on it?
+1016	You're already surfing.
+1017	Let's enjoy cycling!
+1018	No surfing here!
+1019	The sweet scent faded for some reason...
+1020	There appears to be nothing here...
+1021	Want to return to the healing spot used last in {1}?
+1022	A wall of water is crashing down with a mighty roar.
+1023	It's a large waterfall. Would you like to use Waterfall?
+1024	Not even a nibble...
+1025	Oh! A bite!
+1026	The Pokémon got away...
+1027	Landed a Pokémon!
+1028	An {1} was planted here.
+1029	A {1} was planted here.
+1030	The {1} has sprouted.
+1031	The {1} plant is growing bigger.
+1032	This {1} plant is in bloom!
+1033	This {1} plant is in fabulous bloom!
+1034	This {1} plant is blooming very beautifully!
+1035	This {1} plant is blooming prettily!
+1036	This {1} plant is blooming cutely!
+1037	Want to sprinkle some water with the {1}?
+1038	{1} watered the plant.
+1039	There! All happy!
+1040	The plant seemed to be delighted.
+1041	{1} has been laid down.
+1042	It's soft, earthy soil.
+1043	Fertilize
+1044	Plant Berry
+1045	The {1} was scattered on the soil.
+1046	That won't fertilize the soil!
+1047	It's soft, loamy soil. Want to plant a berry?
+1048	Want to plant a Berry?
+1049	The {1} was planted in the soft, earthy soil.
+1050	{1} planted an {2} in the soft loamy soil.
+1051	{1} planted a {2} in the soft loamy soil.
+1052	There are {1} \\c[1]{2}\\c[0]!\nWant to pick them?
+1053	There is 1 \\c[1]{1}\\c[0]!\nWant to pick it?
+1054	Too bad...\nThe Bag is full...
+1055	You picked the {1} \\c[1]{2}\\c[0].
+1056	You picked the \\c[1]{1}\\c[0].
+1057	The soil returned to its soft and earthy state.
+1058	The soil returned to its soft and loamy state.
+1059	Egg
+1060	Day-Care Couple
+1061	{1} (♂, Lv.{2})
+1062	{1} (♀, Lv.{2})
+1063	{1} (Lv.{2})
+1064	No Pokémon at index {1} in party.
+1065	No room to deposit a Pokémon.
+1066	No Pokémon found in slot {1}.
+1067	No room in party for Pokémon.
+1068	No Pokémon found in Day Care to choose from.
+1069	Couldn't generate the egg.
+1070	No room in party for egg.
+1071	Couldn't find 2 deposited Pokémon.
+1072	Couldn't place all events and the player in rooms.
+1073	After the unfortunate defeat, you scurry back to a Pokémon Center.
+1074	You scurry back to a Pokémon Center, protecting your exhausted Pokémon from any further harm...
+1075	After the unfortunate defeat, you scurry back home.
+1076	You scurry back home, protecting your exhausted Pokémon from any further harm...
+1077	Battle rule "{1}" does not exist.
+1078	Argument {1} expected a variable after it but didn't have one.
+1079	SKIPPING BATTLE...
+1080	AFTER WINNING...
+1081	Species {1} was given but not a level.
+1082	Expected a level (1..{1}) but {2} is not a number or not a valid level.
+1083	Species {1} does not exist.
+1084	Trainer type {1} was given but not a trainer name.
+1085	Trainer for data '{1}' is not defined.
+1086	Expected a trainer version number (0 or higher) but {1} is not a number or not a valid value.
+1087	Trainer for data '{1}, {2}, {3}' is not defined.
+1088	Expected a trainer name but '{1}' is not a valid name.
+1089	Trainer for data '{1}, {2}' is not defined.
+1090	Trainer type {1} does not exist.
+1091	Encounter type {1} does not exist
+1092	{1}'s level remained unchanged.
+1093	{1} dropped to Lv. {2}!
+1094	{1}'s Exp. Points remained unchanged.
+1095	{1} lost {2} Exp. Points!
+1096	{1} gained {2} Exp. Points!
+1097	{1}'s {2} increased.
+1098	It might affect {1}'s stats. Are you sure you want to use it?
+1099	{1}'s stats may have changed due to the effects of the {2}!
+1100	Can't use that here.
+1101	You can't dismount your Bike here.
+1102	Eggs can't be taught any moves.
+1103	Shadow Pokémon can't be taught any moves.
+1104	{1} already knows {2}.
+1105	1, 2, and...\\wt[16] ...\\wt[16] ...\\wt[16] Ta-da!
+1106	{1} forgot how to use {2}.\\nAnd...
+1107	How many {1} do you want to use?
+1108	You used your last {1}.
+1109	{1} can't learn {2}.
+1110	You booted up the {1}.
+1111	Do you want to teach {1} to {2}?
+1112	You used an {1}.
+1113	You used a {1}.
+1114	Couldn't re-store deleted item in Bag somehow
+1115	The Bag is full. The Pokémon's item could not be removed.
+1116	Took the {1} from {2} and gave it the {3}.
+1117	{1} is now holding the {2}.
+1118	{1} isn't holding anything.
+1119	Save the removed mail in your PC?
+1120	The mail was saved in your PC.
+1121	Your PC's Mailbox is full.
+1122	If the mail is removed, its message will be lost. OK?
+1123	Received the {1} from {2}.
+1124	Walk
+1125	Turn on
+1126	Turn off
+1127	Do you want to teach {1} to a Pokémon?
+1128	But a repellent's effect still lingers from earlier.
+1129	The repellent's effect wore off!
+1130	The repellent's effect wore off! Would you like to use another one?
+1131	Now you're more likely to encounter high-level Pokémon!
+1132	The likelihood of encountering Pokémon decreased!
+1133	Now you're more likely to encounter low-level Pokémon!
+1134	The likelihood of encountering Pokémon increased!
+1135	Using item...
+1136	... \\wt[10]... \\wt[10]... \\wt[10]... \\wt[10]Nope! There's no response.
+1137	The {1}'s indicating something right underfoot!
+1138	Huh? The {1}'s responding!
+1139	There's an item buried around here!
+1140	Coins: {1}
+1141	The Exp Share was turned off.
+1142	The Exp Share was turned on.
+1143	{1} became healthy.
+1144	PP was restored.
+1145	Boost PP of which move?
+1146	{1}'s PP increased.
+1147	{1} adores you! Its base HP fell!
+1148	{1} became more friendly. Its base HP can't go lower.
+1149	{1} became more friendly. However, its base HP fell!
+1150	{1} adores you! Its base Attack fell!
+1151	{1} became more friendly. Its base Attack can't go lower.
+1152	{1} became more friendly. However, its base Attack fell!
+1153	{1} adores you! Its base Defense fell!
+1154	{1} became more friendly. Its base Defense can't go lower.
+1155	{1} became more friendly. However, its base Defense fell!
+1156	{1} adores you! Its base Special Attack fell!
+1157	{1} became more friendly. Its base Special Attack can't go lower.
+1158	{1} became more friendly. However, its base Special Attack fell!
+1159	{1} adores you! Its base Special Defense fell!
+1160	{1} became more friendly. Its base Special Defense can't go lower.
+1161	{1} became more friendly. However, its base Special Defense fell!
+1162	{1} adores you! Its base Speed fell!
+1163	{1} became more friendly. Its base Speed can't go lower.
+1164	{1} became more friendly. However, its base Speed fell!
+1165	Do you want to change {1}'s Ability?
+1166	{1}'s Ability changed! Its Ability is now {2}!
+1167	It had no effect.
+1168	This can't be used on the fainted Pokémon.
+1169	{1} changed Forme!
+1170	{1} changed form!
+1171	Light bulb
+1172	Microwave oven
+1173	Washing machine
+1174	Refrigerator
+1175	Electric fan
+1176	Lawn mower
+1177	Which appliance would you like to order?
+1178	Change form
+1179	Change Ability
+1180	Fuse with which Pokémon?
+1181	It cannot be fused with itself.
+1182	It cannot be fused with an Egg.
+1183	It cannot be fused with that fainted Pokémon.
+1184	It cannot be fused with that Pokémon.
+1185	You have no room to separate the Pokémon.
+1186	Oak's words echoed... There's a time and place for everything! But not now.
+1187	There is no room left in the PC!
+1188	You can't throw a Poké Ball!
+1189	It's impossible to aim without being focused!
+1190	It's no good! It's impossible to aim at a Pokémon that's not in sight!
+1191	It's no good! It's impossible to aim when there are two Pokémon!
+1192	It's no good! It's impossible to aim when there is more than one Pokémon!
+1193	All Pokémon were roused by the tune!
+1194	{1} recovered from fainting!
+1195	\\me[Register phone]Registered {1} in the Pokégear!
+1196	There is no phone signal here...
+1197	The Trainer is close by.\nTalk to the Trainer in person!
+1198	The Trainer is out of range.
+1199	{1}'s messages not defined.\nCouldn't call common event {2}.
+1200	Couldn't find phone contact given: {1}.
+1201	......\\wt[5] ......
+1202	Click!\\wt[10]\n......\\wt[5] ......
+1203	Let me register you.
+1204	Can't use that while on a bicycle.
+1205	The battery has run dry!\nFor it to recharge, you need to walk another {1} steps.
+1206	The grassy patch remained quiet...
+1207	Pokémon already has mail
+1208	Please enter a message (max. 250 characters).
+1209	Stop giving the Pokémon Mail?
+1210	Invalid pocket: {1}
+1211	The level number ({1}) is invalid.
+1212	Attempted to set {1} as Pokémon status
+1213	Invalid value {1} given
+1214	Unknown happiness-changing method: {1}
+1215	Unknown heart gauge-changing method: {1}
+1216	{1} can now be purified!
+1217	Rotom is trying to forget its last move, but there isn't another move to replace it with.
+1218	{1} forgot {2}...
+1219	{1} opened the door to its heart!
+1220	{1} regained the move {2}!
+1221	{1} regained {2} Exp. Points!
+1222	You have no Pokémon that can be purified.
+1223	There's a Pokémon that may open the door to its heart!
+1224	This item can't be used on that Pokémon.
+1225	{1}'s emotions rose to a fever pitch!\nIt entered Hyper Mode!
+1226	{1} turned friendly.
+1227	{1} adores you!\nThe door to its heart opened a little.
+1228	{1} turned friendly.\nThe door to its heart opened a little.
+1229	{1} came to its senses from the {2}.
+1230	{1} came to its senses from the {2}!
+1231	Each Pokémon's HP was halved!
+1232	It broke all barriers!
+1233	Box {1}
+1234	City
+1235	Desert
+1236	Savanna
+1237	Crag
+1238	Beach
+1239	Seafloor
+1240	River
+1241	Poké Center
+1242	Machine
+1243	Checks
+1244	Simple
+1245	Backyard
+1246	Nostalgic 1
+1247	Torchic
+1248	Trio 1
+1249	PikaPika 1
+1250	Legend 1
+1251	Team Galactic 1
+1252	Distortion
+1253	Contest
+1254	Nostalgic 2
+1255	Croagunk
+1256	Trio 2
+1257	PikaPika 2
+1258	Legend 2
+1259	Team Galactic 2
+1260	Heart
+1261	Soul
+1262	Big Brother
+1263	Pokéathlon
+1264	Trio 3
+1265	Spiky Pika
+1266	Kimono Girl
+1267	Revival
+1268	The player is not on a map, so the region could not be determined.
+1269	The current map has no region set. Please set the MapPosition metadata setting for this map.
+1270	{1} {2}
+1271	Please enter the first Pokémon.
+1272	Add another Pokémon?
+1273	Set the level for {1} (max. {2}).
+1274	This trainer must have at least 1 Pokémon!
+1275	The Trainer's data was added to the list of battles and in PBS/trainers.txt.
+1276	Add new trainer type {1}?
+1277	Add new trainer variant {1} (of {2}) for {3} {4}?
+1278	Can't find trainer ({1}, {2}, ID {3})
+1279	Add new trainer ({1}, {2})?
+1280	Add new trainer ({1}, {2}, ID {3})?
+1281	Pokédex
+1282	Pokégear
+1283	Debug
+1284	Graphics/UI/Pokedex/bg_menu
+1285	SEEN
+1286	OBTAINED
+1287	Graphics/UI/Pokedex/icon_types
+1288	Graphics/UI/Pokedex/icon_hw
+1289	Graphics/UI/Pokedex/icon_searchslider
+1290	Color
+1291	A
+1292	B
+1293	C
+1294	D
+1295	E
+1296	F
+1297	G
+1298	H
+1299	I
+1300	J
+1301	K
+1302	L
+1303	M
+1304	N
+1305	O
+1306	P
+1307	Q
+1308	R
+1309	S
+1310	T
+1311	U
+1312	V
+1313	W
+1314	X
+1315	Y
+1316	Z
+1317	One Form
+1318	Male
+1319	Female
+1320	Graphics/UI/Pokedex/bg_info
+1321	Graphics/UI/Pokedex/overlay_info
+1322	{1}{2} {3}
+1323	Number Battled
+1324	????? Pokémon
+1325	???'??"
+1326	????.? lbs.
+1327	????.? m
+1328	????.? kg
+1329	Graphics/UI/Pokedex/bg_area
+1330	Area unknown
+1331	{1}'s area
+1332	Graphics/UI/Pokedex/bg_forms
+1333	Graphics/UI/Party/overlay_hp_back
+1334	Graphics/UI/Party/overlay_hp_back_faint
+1335	Graphics/UI/Party/overlay_hp_back_swap
+1336	Graphics/UI/statuses
+1337	Graphics/UI/Party/overlay_lv
+1338	{1} (PP: ---)
+1339	{1} (PP: {2}/{3})
+1340	INFO
+1341	{1} {2}, {3}
+1342	PP
+1343	Graphics/UI/Bag/icon_register
+1344	Jukebox
+1345	The map data cannot be found.
+1346	Set the name for this point.
+1347	ACTION: Fly
+1348	ACTION: Cancel Fly
+1349	Save changes?
+1350	Exit from the map?
+1351	Would you like to use Fly to go to {1}?
+1352	Graphics/UI/jukebox_bg
+1353	Stop
+1354	Graphics/UI/Trainer Card/card_f
+1355	Graphics/UI/Trainer Card/card
+1356	{1}h {2}m
+1357	{1}m
+1358	Pokédex:
+1359	Manual
+1360	Cursor
+1361	XL
+1362	>99
+1363	x{1}
+1364	An item in the Bag can be registered to this key for instant use.
+1365	Back
+1366	{1} ({2}/{3})
+1367	Mark your Pokémon.
+1368	Party: {1}
+1369	Graphics/UI/Storage/overlay_lv
+1370	No ability
+1371	No item
+1372	You're holding a Pokémon!
+1373	Continue Box operations?
+1374	Exit from the Box?
+1375	Shift
+1376	Place
+1377	Store
+1378	Withdraw
+1379	Release
+1380	Which one will you take?
+1381	Can't withdraw from party...
+1382	Your party's full!
+1383	Can't deposit from box...
+1384	That's your last Pokémon!
+1385	Please remove the Mail.
+1386	{1} refuses to go into storage!
+1387	Deposit in which Box?
+1388	The Box is full.
+1389	Position {1},{2} is not empty...
+1390	Position {1},{2} is empty...
+1391	You can't release an Egg.
+1392	Please remove the mail.
+1393	{1} refuses to leave you!
+1394	Release this Pokémon?
+1395	{1} was released.
+1396	Bye-bye, {1}!
+1397	Take the {1}?
+1398	Took the {1}.
+1399	Can't store the {1}.
+1400	{1} is now being held.
+1401	Jump
+1402	Wallpaper
+1403	Jump to which Box?
+1404	Pick the wallpaper.
+1405	Box name?
+1406	Select
+1407	Close storage.
+1408	Withdraw\nItem
+1409	Toss\nItem
+1410	$ {1}
+1411	x{1}<r>$ {2}
+1412	{1} BP
+1413	Battle Points:\n<r>{1}
+1414	x{1}<r>{2} BP
+1415	You don't have enough BP.
+1416	You would like the {1}?\nThat will be {2} BP.
+1417	How many {1} would you like?
+1418	You would like {1} {2}?\nThey'll be {3} BP.
+1419	So you want {1} {2}?\nIt'll be {3} BP.
+1420	I'm sorry, you don't have enough BP.
+1421	Welcome to the Exchange Service Corner!
+1422	We can exchange your BP for fabulous items.
+1423	Thank you for visiting.
+1424	Please visit us again when you have saved up more BP.
+1425	Teach which move?
+1426	Teach {1}?
+1427	Give up trying to teach a new move to {1}?
+1428	Your {1} in the Purify Chamber is ready for purification!
+1429	Can't place an egg there.
+1430	Only a Shadow Pokémon can go there.
+1431	Can't place a Shadow Pokémon there.
+1432	This {1} is ready to open its heart. However, there must be at least one regular Pokémon in the set to perform a purification ceremony.
+1433	MOVE
+1434	SUMMARY
+1435	WITHDRAW
+1436	EXCHANGE
+1437	PLACE
+1438	ROTATE
+1439	REPLACE
+1440	What shall I do with this {1}?
+1441	All boxes are full.
+1442	That Pokémon can't be placed there.
+1443	Continue editing sets?
+1444	There is a Pokémon that is ready to open its heart!
+1445	There is another Pokémon that is ready to open its heart!
+1446	Would you like to switch sets?
+1447	Continue viewing holograms?
+1448	EDIT
+1449	SWITCH
+1450	{1}  Lv.{2}  {3}
+1451	FLOW
+1452	TEMPO
+1453	Purify Chamber
+1454	Accessed the Purify Chamber.
+1455	[Custom]
+1456	Choose a phrase to be where the gift Pokémon was obtained from.
+1457	Stop editing this gift?
+1458	Enter a phrase.
+1459	Choose a quantity of {1}.
+1460	Choose a unique ID for this gift.
+1461	That ID is already used by a Mystery Gift.
+1462	Enter a name for the gift.
+1463	Couldn't edit the gift.
+1464	The gift was saved to MysteryGiftMaster.txt.
+1465	Couldn't save the gift to MysteryGiftMaster.txt.
+1466	Didn't create a gift.
+1467	There are no Mystery Gifts defined.
+1468	Searching for online gifts...\\wtnp[0]
+1469	No online Mystery Gifts found.\\wtnp[20]
+1470	Online Mystery Gifts found.\\wtnp[20]
+1471	Manage Mystery Gifts (X=online).
+1472	The gifts were saved to MysteryGift.txt.
+1473	Upload MysteryGift.txt to the Internet.
+1474	Couldn't save the gifts to MysteryGift.txt.
+1475	Toggle on/offline
+1476	Edit
+1477	Receive
+1478	There is no save file loaded. Cannot receive any gifts.
+1479	Are you sure you want to delete this gift?
+1480	{1} {2}: {3} ({4})
+1481	Export selected to file
+1482	Searching for a gift.\nPlease wait...
+1483	No new gifts are available.
+1484	Choose the gift you want to receive.
+1485	The gift has been received!
+1486	Please pick up your gift from the deliveryman in any Poké Mart.
+1487	Couldn't find an unclaimed Mystery Gift with ID {1}.
+1488	{1} received {2}!
+1489	Enter text using the keyboard. Press\nEnter to confirm, or Esc to cancel.
+1490	Enter text using the keyboard.\nPress Enter to confirm.
+1491	UPPER
+1492	lower
+1493	accents
+1494	other
+1495	Graphics/UI/Naming/overlay_controls
+1496	Graphics/UI/Naming/icon_mode
+1497	Graphics/UI/Controls help/help_f1
+1498	Graphics/UI/Controls help/help_f8
+1499	Graphics/UI/Controls help/help_arrows
+1500	Graphics/UI/Controls help/help_usekey
+1501	Graphics/UI/Controls help/help_backkey
+1502	Graphics/UI/Controls help/help_actionkey
+1503	Graphics/UI/Controls help/help_specialkey
+1504	{1} hatched from the Egg!
+1505	Would you like to nickname the newly hatched {1}?
+1506	Huh?
+1507	...
+1508	... .... .....
+1509	What?
+1510	{1} is evolving!
+1511	Huh? {1} stopped evolving!
+1512	Congratulations! Your {1} evolved into {2}!
+1513	For {1}'s {2},\n{3} sends {4}.
+1514	{1} bids farewell to {2}.
+1515	Take good care of {1}.
+1516	Name<r>{1}
+1517	ID No.<r>{1}
+1518	Time<r>{1}h {2}m
+1519	Time<r>{1}m
+1520	Pokédex<r>{1}/{2}
+1521	League champion!\nCongratulations!
+1522	No. ???
+1523	Lv. {1}
+1524	ID No. {1}
+1525	Hall of Fame No.
+1526	Welcome to the Hall of Fame!
+1527	Hall of Fame
+1528	Accessed the Hall of Fame.
+1529	"{1}" v.{2} by:
+1530	"Pokémon Essentials" was created by:
+1531	Inspired by work by Flameguru
+1532	With contributions from:
+1533	and everyone else who helped out
+1534	"mkxp-z" by:
+1535	Based on "mkxp" by Ancurio et al.
+1536	"RPG Maker XP" by:
+1537	Pokémon is owned by:
+1538	Affiliated with Game Freak
+1539	This is a non-profit fan-made game.
+1540	No copyright infringements intended.
+1541	Please support the official games!
+1542	HP: {1}
+1543	{1}: {2}
+1544	DEFEND
+1545	PRECISE ATTACK
+1546	FIERCE ATTACK
+1547	SPECIAL ATTACK
+1548	Choose a command.
+1549	You study each other's movements...
+1550	Your attack was not blocked!
+1551	Your attack was evaded!
+1552	You pierce through the opponent's defenses!
+1553	You fail to block the opponent's attack!
+1554	You cross blades with the opponent!
+1555	You hit each other!
+1556	You evade the opponent's attack!
+1557	The opponent pierces through your defenses!
+1558	Your special attacks collide!
+1559	{1} x{2}
+1560	Choose {1} cards to use for this duel.
+1561	{1} cards have been chosen.
+1562	Check opponent's cards.
+1563	Choose a card, or check opponent with Z.
+1564	Choose a card.
+1565	Place the card.
+1566	{1}-{2}
+1567	Minimum level must be 0 through 9.
+1568	Maximum level must be 0 through 9.
+1569	Maximum level shouldn't be less than the minimum level.
+1570	You don't have enough cards.
+1571	Opponent has an illegal card, "{1}".
+1572	Choosing the starting player...
+1573	{1} will go first.
+1574	{1} is making a move...
+1575	{1} can't move somehow...
+1576	The game is a draw.
+1577	Kept all cards of your color.
+1578	{1} won against {2}.
+1579	Got opponent's {1} card.
+1580	Got all opponent's cards.
+1581	{1} lost against {2}.
+1582	Opponent won your {1} card.
+1583	Opponent won all your cards.
+1584	{1} - ${2}
+1585	There are no cards that you can buy.
+1586	Money:\n{1}
+1587	The {1} card? Certainly. How many would you like?
+1588	{1}, and you want {2}. That will be ${3}. OK?
+1589	You have no room for more cards.
+1590	You have no cards.
+1591	The {1} card? Oh, no. I can't buy that.
+1592	The {1} card? How many would you like to sell?
+1593	I can pay ${1}. Would that be OK?
+1594	Turned over the {1} card and received ${2}.
+1595	Graphics/UI/Slot Machine/images
+1596	Graphics/UI/Slot Machine/win
+1597	Graphics/UI/Slot Machine/bonus
+1598	Graphics/UI/Slot Machine/lose
+1599	Graphics/UI/Slot Machine/insert
+1600	You've got {1} Coins.
+1601	You've run out of Coins.\nGame over!
+1602	Graphics/UI/Slot Machine/stop
+1603	Graphics/UI/Slot Machine/press
+1604	It's a Slot Machine.
+1605	You don't have any Coins to play!
+1606	Your Coin Case is full!
+1607	Your coins
+1608	Prize coins
+1609	Level {1}
+1610	You've gathered {1} Coins. You cannot gather any more.
+1611	Play Voltorb Flip Lv. {1}?
+1612	Voltorb Flip bg
+1613	memo
+1614	Oh no! You get 0 Coins!
+1615	Dropped to Game Lv. {1}!
+1616	Game clear!
+1617	You've found all of the hidden x2 and x3 cards.
+1618	This means you've found all the Coins in this game, so the game is now over.
+1619	{1} received {2} Coins!
+1620	Advanced to Game Lv. {1}!
+1621	Congratulations!
+1622	You can receive even more Coins in the next game!
+1623	If you quit now, you will recieve {1} Coin(s). Will you quit?
+1624	{1} received {2} Coin(s)!
+1625	You can't play unless you have a Coin Case.
+1626	Something pinged in the wall!\n{1} confirmed!
+1627	The wall collapsed!
+1628	Everything was dug up!
+1629	Are you sure you want to give up?
+1630	One {1} was found, but you have no room for it.
+1631	PA: Ding-dong!
+1632	PA: Your safari game is over!
+1633	Announcer: You're out of Safari Balls! Game over!
+1634	Balls: {1}
+1635	Steps: {1}/{2}\nBalls: {3}
+1636	Quit
+1637	Would you like to leave the Safari Game right now?
+1638	Bug Catcher Ed
+1639	Bug Catcher Benny
+1640	Bug Catcher Josh
+1641	Camper Barry
+1642	Cool Trainer Nick
+1643	Lass Abby
+1644	Picnicker Cindy
+1645	Youngster Samuel
+1646	There are no Bug Contest/Land encounters for any Bug Contest maps.
+1647	No encounters for map {1} somehow, so can't judge contest.
+1648	Too few bug-catching contestants
+1649	ANNOUNCER: BEEEEEP!
+1650	Time's up!
+1651	ANNOUNCER:  The Bug-Catching Contest is over!
+1652	Caught: {1}\nLevel: {2}\nBalls: {3}
+1653	Caught: None\nBalls: {1}
+1654	Quit Contest
+1655	Would you like to end the Contest now?
+1656	Number of rounds is 0 or less.
+1657	Choose a battle.
+1658	RENTAL POKéMON
+1659	POKéMON SWAP
+1660	Select Pokémon to swap.
+1661	{1} - {2} Pokémon
+1662	Choose the first Pokémon.
+1663	Choose the second Pokémon.
+1664	Choose the third Pokémon.
+1665	PKMN FOR SWAP
+1666	Select Pokémon to accept.
+1667	DESELECT
+1668	RENT
+1669	OTHERS
+1670	Are these three Pokémon OK?
+1671	SWAP
+1672	RECHOOSE
+1673	Accept this Pokémon?
+1674	Quit swapping?
+1675	{1} Pokémon are needed.
+1676	{1} is not allowed.
+1677	This team is not allowed.
+1678	Standard Cup
+1679	Double Cup
+1680	Fancy Cup
+1681	Little Cup
+1682	Light Cup
+1683	No identical nicknames.
+1684	Pokémon must be the same species.
+1685	Pokémon can't be the same species.
+1686	The combined levels exceed {1}.
+1687	No identical hold items.
+1688	Preparing to generate teams
+1689	Generating teams ({1} of {2})
+1690	Simulating battles ({1} of {2})
+1691	Writing results
+1692	Generate Pokémon teams for this challenge?
+1693	YES
+1694	NO
+1695	YES, USE EXISTING
+1696	YES, USE NEW
+1697	Choose a challenge.
+1698	This challenge will use the Pokémon list from {1}.
+1699	This may take a long time. Are you sure?
+1700	Team generation complete.
+1701	Here I come!
+1702	Yes, I won!
+1703	Man, I lost!
+1704	Value {1} not defined by a constant in {2}
+1705	LEARNED
+1706	Teach which Pokémon?
+1707	There's no more room for Pokémon!
+1708	The Pokémon Boxes are full and can't accept any more!
+1709	{1} received a Pokémon from {2}.
+1710	{1} received a Pokémon.
+1711	The Pokémon's data was added to the Pokédex.
+1712	A different file named '{1}' already exists. Overwrite it?
+1713	Couldn't find class {1} in module GameData.
+1714	This property can't be edited here at this time.
+1715	This property cannot be edited.
+1716	Set the value for {1}.
+1717	Set the value for {1} (0-{2}).
+1718	Enable the setting {1}?
+1719	True
+1720	False
+1721	Choose a value for {1}.
+1722	[ADD VALUE]
+1723	Enter the new value.
+1724	Do what with this value?
+1725	Keep changes?
+1726	Type {1} : {2}
+1727	Set the type(s) for this species.
+1728	Apply changes?
+1729	Individual values for the Pokémon's {1} stat (0-{2}).
+1730	Effort values for the Pokémon's {1} stat (0-{2}).
+1731	Total EVs ({1}) are greater than allowed ({2}). Please reduce them.
+1732	Width
+1733	The width of this map in Region Map squares.
+1734	Valid Squares
+1735	A series of 1s and 0s marking which squares are part of this map (1=part, 0=not part).
+1736	Click a point on the map.
+1737	Choose the direction to face in.
+1738	Down
+1739	Left
+1740	Right
+1741	Up
+1742	No region maps are defined.
+1743	Choose a region map.
+1744	Choose a weather effect.
+1745	Set the probability of the weather.
+1746	Choose a pocket for this item.
+1747	No Pocket
+1748	Base {1}
+1749	Base {1} stat of the Pokémon.
+1750	{1} EVs
+1751	Number of {1} Effort Value points gained from the Pokémon.
+1752	Change value
+1753	[ADD MOVE]
+1754	Choose a level.
+1755	Do what with this move?
+1756	Change level
+1757	Change move
+1758	Choose a new level.
+1759	Enter a value.
+1760	Choose a parameter.
+1761	[ADD EVOLUTION]
+1762	{1}: {2}, {3}
+1763	Choose an evolved form, method and parameter.
+1764	Choose an evolution method.
+1765	Do what with this evolution?
+1766	Change species
+1767	Change method
+1768	Change parameter
+1769	This evolution method doesn't use a parameter.
+1770	Probability
+1771	Relative probability of choosing this slot.
+1772	A Pokémon species/form.
+1773	Minimum level
+1774	Minimum level of this species (1-{1}).
+1775	Maximum level
+1776	Maximum level of this species (1-{1}).
+1777	Reset the setting {1}?
+1778	There are no files.
+1779	[GLOBAL METADATA]
+1780	Player {1}
+1781	[ADD NEW PLAYER]
+1782	[GLOBAL]
+1783	[NEW SPECIES]
+1784	[NEW ITEM]
+1785	[NEW TRAINER TYPE]
+1786	[NEW TRAINER BATTLE]
+1787	{1} {2} ({3}) x{4}
+1788	{1} {2} x{3}
+1789	Edit wild encounters
+1790	[Add new encounter set]
+1791	Choose a map
+1792	version number
+1793	A set of encounters for map {1} version {2} already exists.
+1794	Copy
+1795	Copy to which map?
+1796	Delete the encounter set for map {1} version {2}?
+1797	Edit map's encounters
+1798	Map ID={1} ({2})
+1799	Map ID={1}
+1800	Version={1}
+1801	{1} (x{2})
+1802	[Add new encounter type]
+1803	Choose a new map
+1804	There are no unused encounter types to add.
+1805	Choose an encounter type to copy to.
+1806	There are no unused encounter types to copy to.
+1807	Delete the encounter type {1}?
+1808	Edit encounter slots
+1809	Step chance={1}%
+1810	Encounter type={1}
+1811	[Add new slot]
+1812	Step chance
+1813	Delete this encounter slot?
+1814	Trainer Types
+1815	The Trainer type was deleted.
+1816	Please enter the trainer type's name.
+1817	Failed to create the trainer type. Choose a different name.
+1818	Is the Trainer male, female or unknown?
+1819	Unknown
+1820	Set the money per level won for defeating the Trainer.
+1821	The trainer type {1} was created (ID: {2}).
+1822	Put the Trainer's graphic ({1}.png) in Graphics/Trainers, or it will be blank.
+1823	Trainer Type
+1824	Name of the trainer type for this Trainer.
+1825	Trainer Name
+1826	Name of the Trainer.
+1827	Version
+1828	Number used to distinguish Trainers with the same name and trainer type.
+1829	Lose Text
+1830	Message shown in battle when the Trainer is defeated.
+1831	Pokémon {1}
+1832	A Pokémon owned by the Trainer.
+1833	Item {1}
+1834	An item used by the Trainer during battle.
+1835	Trainer Battles
+1836	The Trainer battle was deleted.
+1837	Can't save. No trainer type was chosen.
+1838	Can't save. No name was entered.
+1839	Can't save. The Pokémon list is empty.
+1840	First, define the new trainer's type.
+1841	Use existing type
+1842	Create new type
+1843	TRAINER TYPE
+1844	Now enter the trainer's name.
+1845	There is no room to create a trainer of that type and name.
+1846	The Trainer battle was added.
+1847	Species of the Pokémon.
+1848	Level
+1849	Level of the Pokémon (1-{1}).
+1850	Nickname of the Pokémon.
+1851	Form
+1852	Form of the Pokémon.
+1853	Gender
+1854	Gender of the Pokémon.
+1855	Shiny
+1856	If set to true, the Pokémon is a different-colored Pokémon.
+1857	SuperShiny
+1858	Whether the Pokémon is super shiny (shiny with a special shininess animation).
+1859	Shadow
+1860	If set to true, the Pokémon is a Shadow Pokémon.
+1861	Move {1}
+1862	A move known by the Pokémon. Leave all moves blank (use Z key to delete) for a wild moveset.
+1863	Ability of the Pokémon. Overrides the ability index.
+1864	Ability index
+1865	Ability index. 0=first ability, 1=second ability, 2+=hidden ability.
+1866	Held item
+1867	Item held by the Pokémon.
+1868	Nature
+1869	Nature of the Pokémon.
+1870	IVs
+1871	Individual values for each of the Pokémon's stats.
+1872	EVs
+1873	Effort values for each of the Pokémon's stats.
+1874	Happiness
+1875	Happiness of the Pokémon (0-255).
+1876	Poké Ball
+1877	The kind of Poké Ball the Pokémon is kept in.
+1878	SET METADATA
+1879	Global Metadata
+1880	Metadata for player character {1} was not found.
+1881	The item was deleted.
+1882	Please enter the item's name.
+1883	Failed to create the item. Choose a different name.
+1884	Purchase price
+1885	Description
+1886	The item {1} was created (ID: {2}).
+1887	Put the item's graphic ({1}.png) in Graphics/Items, or it will be blank.
+1888	Pokémon species
+1889	The species was deleted.
+1890	Data saved.
+1891	Can't add a new species.
+1892	Z+Up/Down: Rearrange entries\nZ+Right: Insert new entry\nZ+Left: Delete entry\nD: Clear entry
+1893	Do what with this entry?
+1894	Clear
+1895	Insert entry
+1896	Delete entry
+1897	Regional Dexes Editor
+1898	Z+Up/Down: Rearrange Dexes
+1899	[ADD DEX]
+1900	Dex {1} (size {2})
+1901	Fill in this new Dex?
+1902	Leave blank
+1903	National Dex
+1904	Nat. Dex grouped families
+1905	Do what with this Dex?
+1906	No animations exist.
+1907	Animations Organiser
+1908	Z+Up/Down: Swap\nZ+Left: Delete\nZ+Right: Insert
+1909	Tileset Editor\nA/S: SCROLL\nZ: MENU
+1910	Terrain Tag:
+1911	Go to bottom
+1912	Go to top
+1913	Change tileset
+1914	To ensure that the changes remain, close and reopen RPG Maker XP.
+1915	Exit from the editor?
+1916	Set the terrain tag.
+1917	D: Help
+1918	A: Add map to canvas
+1919	DEL: Delete map from canvas
+1920	S: Go to another map
+1921	Click to select a map
+1922	Double-click: Edit map's metadata
+1923	Drag map to move it
+1924	Arrow keys/drag canvas: Move around canvas
+1925	Add Map
+1926	Go to Map
+1927	Some metrics have been edited. Save changes?
+1928	Set Ally Position
+1929	Set Enemy Position
+1930	Set Shadow Size
+1931	Set Shadow Position
+1932	Auto-Position Sprites
+1933	{1} (form {2})
+1934	Name: {1}
+1935	Frame:
+1936	Total Frames: {1}
+1937	Number of frames:
+1938	Define Smooth Curve
+1939	Define Freehand Path
+1940	Enter a filename.
+1941	Couldn't save the animation to {1}.
+1942	Animation was saved to {1} in the game folder.
+1943	It's a text file, so it can be transferred to others easily.
+1944	The animation is invalid or could not be loaded.
+1945	The animation file {1} was not found. The animation will load anyway.
+1946	Will convert animations now.
+1947	{1} animations converted to new format.
+1948	Hue:
+1949	Frames:
+1950	New Name:
+1951	Enter: Load/rename an animation\nEsc: Cancel
+1952	Total Animations:
+1953	Resize Animation List
+1954	Load Animation
+1955	Rename
+1956	Are you sure you want to delete this animation?
+1957	Old Number: {1}
+1958	New Number:
+1959	Red Offset:
+1960	Green Offset:
+1961	Blue Offset:
+1962	Gray Tone:
+1963	Red:
+1964	Green:
+1965	Blue:
+1966	Alpha:
+1967	Pattern:
+1968	X:
+1969	Y:
+1970	Zoom X:
+1971	Zoom Y:
+1972	Angle:
+1973	Opacity:
+1974	Blending:
+1975	Flip:
+1976	Front
+1977	Behind focus
+1978	Above focus
+1979	Priority:
+1980	Target
+1981	User and target
+1982	Screen
+1983	Focus:
+1984	Set Blending Color
+1985	Set Color Tone
+1986	Add: Play Sound...
+1987	Add: Set Background Graphic...
+1988	Add: Edit Background Color/Location...
+1989	Add: Set Foreground Graphic...
+1990	Add: Edit Foreground Color/Location...
+1991	Set Frame
+1992	Delete Timing
+1993	<user's cry>
+1994	[Play user's cry]
+1995	File: "{1}"
+1996	Volume:
+1997	Pitch:
+1998	Play Sound
+1999	Stop Sound
+2000	[Erase background graphic]
+2001	Duration:
+2002	First Frame:
+2003	Last Frame:
+2004	Copy to:
+2005	Starting Frame:
+2006	Ending Frame:
+2007	First Cel:
+2008	Last Cel:
+2009	Pattern
+2010	Position/Zoom/Angle
+2011	Opacity/Blending
+2012	X-Axis Movement
+2013	Y-Axis Movement
+2014	SE and BG...
+2015	Cel Focus...
+2016	Paste Last
+2017	Copy Frames...
+2018	Clear Frames...
+2019	Tweening...
+2020	Cel Batch...
+2021	Entire Slide...
+2022	Play Animation
+2023	Play Opp Anim
+2024	Import Anim...
+2025	Export Anim...
+2026	Help
+2027	Set Animation Sheet
+2028	List of Animations
+2029	Copy Frame
+2030	Paste Frame
+2031	Clear Frame
+2032	Insert Frame
+2033	Delete Frame
+2034	Properties...
+2035	Cut
+2036	Paste
+2037	Renumber...
+2038	Extrapolate Path...
+2039	Species: {1}
+2040	Form: {1}
+2041	Level {1}, {2}
+2042	genderless
+2043	shiny
+2044	HP: {1}/{2} ({3}%)
+2045	Status: {1}
+2046	({1} rounds left)
+2047	(toxic, {1}/16)
+2048	Stat stages: {1}
+2049	Ability: {1}
+2050	Item: {1}
+2051	(toxic)
+2052	Field options...
+2053	Warp to maps, edit switches/variables, use the PC, edit Day Care, etc.
+2054	Warp to map
+2055	Instantly warp to another map of your choice.
+2056	Use PC
+2057	Use a PC to access Pokémon storage and player's PC.
+2058	Switches
+2059	Edit all Game Switches (except Script Switches).
+2060	Variables
+2061	Edit all Game Variables. Can set them to numbers or text.
+2062	Safari Zone and Bug-Catching Contest
+2063	Edit steps/time remaining and number of usable Poké Balls.
+2064	Steps remaining: {1}
+2065	infinite
+2066	Set the steps remaining in this Safari game.
+2067	Set the quantity of {1}.
+2068	Time remaining: {1}
+2069	Set the time remaining (in minutes) in this Bug-Catching Contest.
+2070	You aren't in the Safari Zone or a Bug-Catching Contest!
+2071	Change field effects
+2072	Edit Repel steps, Strength and Flash usage, and Black/White Flute effects.
+2073	Repel steps: {1}
+2074	Strength used
+2075	Flash used
+2076	Lower encounter rate
+2077	Higher encounter rate
+2078	Lower level wild Pokémon
+2079	Higher level wild Pokémon
+2080	Set the Pokémon's level.
+2081	You're not in a dark map!
+2082	Refresh map
+2083	Make all events on this map, and common events, refresh themselves.
+2084	The map will refresh.
+2085	Day Care
+2086	View Pokémon in the Day Care and edit them.
+2087	Toggle storage wallpapers
+2088	Unlock and lock special wallpapers used in Pokémon storage.
+2089	There are no special wallpapers defined.
+2090	Unlock all
+2091	Lock all
+2092	Skip credits
+2093	Toggle whether credits can be ended early by pressing the Use input.
+2094	Credits can be skipped when played in future.
+2095	Credits cannot be skipped when next played.
+2096	Battle options...
+2097	Start battles, reset this map's trainers, ready rematches, edit roamers, etc.
+2098	Test wild battle
+2099	Start a single battle against a wild Pokémon. You choose the species/level.
+2100	Set the wild {1}'s level.
+2101	Test wild battle advanced
+2102	Start a battle against 1 or more wild Pokémon. Battle size is your choice.
+2103	[Add Pokémon]
+2104	[Set player side size]
+2105	[Start {1}v{2} battle]
+2106	No Pokémon were chosen, cannot start battle.
+2107	You only have one Pokémon.
+2108	Choose the number of battlers on the player's side (max. {1}).
+2109	Change this Pokémon?
+2110	Delete this Pokémon?
+2111	Test trainer battle
+2112	Start a single battle against a trainer of your choice.
+2113	SINGLE TRAINER
+2114	Test trainer battle advanced
+2115	Start a battle against 1 or more trainers with a battle size of your choice.
+2116	[Add trainer]
+2117	[Set opponent side size]
+2118	No trainers were chosen, cannot start battle.
+2119	Opposing side size is invalid. It should be at least {1}.
+2120	Opposing side size cannot be {1}, as that requires the first trainer to have 2 or more Pokémon, which they don't.
+2121	No trainers were chosen or trainer only has one Pokémon.
+2122	Choose the number of battlers on the opponent's side (max. {1}).
+2123	CHOOSE A TRAINER
+2124	Change this trainer?
+2125	Delete this trainer?
+2126	Set wild encounters version
+2127	Choose which version of wild encounters should be used.
+2128	Set encounters version to which value?
+2129	Roaming Pokémon
+2130	Toggle and edit all roaming Pokémon.
+2131	Reset map's trainers
+2132	Turn off Self Switches A and B for all events with "Trainer" in their name.
+2133	All Trainers on this map were reset.
+2134	This command can't be used here.
+2135	Toggle Exp. All's effect
+2136	Toggle Exp. All's effect of giving Exp. to non-participants.
+2137	Enabled Exp. All's effect.
+2138	Disabled Exp. All's effect.
+2139	Toggle logging of battle messages
+2140	Record debug logs for battles in Data/debuglog.txt.
+2141	Debug logs for battles will be made in the Data folder.
+2142	Debug logs for battles will not be made.
+2143	Pokémon options...
+2144	Heal the party, give Pokémon, fill/empty PC storage, etc.
+2145	Heal party
+2146	Fully heal the HP/status/PP of all Pokémon in the party.
+2147	Your Pokémon were fully healed.
+2148	Add Pokémon
+2149	Give yourself a Pokémon of a chosen species/level. Goes to PC if party is full.
+2150	Added {1} to party.
+2151	Added {1} to Pokémon storage.
+2152	Couldn't add Pokémon because party and storage are full.
+2153	Fill storage boxes
+2154	Puts one Pokémon of each species (at Level 50) in storage.
+2155	Storage boxes were filled with one Pokémon of each species.
+2156	Note: The number of storage spaces ({1} boxes of {2}) is less than the number of species.
+2157	Clear storage boxes
+2158	Remove all Pokémon in storage.
+2159	The storage boxes were cleared.
+2160	Give demo party
+2161	Give yourself 6 preset Pokémon. They overwrite the current party.
+2162	Filled party with demo Pokémon.
+2163	Quick hatch all party eggs
+2164	Make all eggs in the party require just one more step to hatch.
+2165	All eggs in your party now require one step to hatch.
+2166	Access Pokémon storage
+2167	Opens the Pokémon storage boxes in Organize Boxes mode.
+2168	Shadow Pokémon options...
+2169	Snag Machine and purification.
+2170	Toggle Snag Machine
+2171	Toggle all Poké Balls being able to catch Shadow Pokémon.
+2172	Gave the Snag Machine.
+2173	Lost the Snag Machine.
+2174	Toggle Purify Chamber access
+2175	Toggle access to the Purify Chamber via the PC.
+2176	The Purify Chamber is accessible.
+2177	The Purify Chamber is not accessible.
+2178	Use Purify Chamber
+2179	Open the Purify Chamber for Shadow Pokémon purification.
+2180	Use Relic Stone
+2181	Choose a Shadow Pokémon to show to the Relic Stone for purification.
+2182	Item options...
+2183	Give and take items.
+2184	Add item
+2185	Choose an item and a quantity of it to add to the Bag.
+2186	ADD ITEM
+2187	Add how many {1}?
+2188	Gave {1}x {2}.
+2189	Fill Bag
+2190	Empties the Bag and then fills it with a certain number of every item.
+2191	Choose the number of items.
+2192	The Bag was filled with {1} of each item.
+2193	Empty Bag
+2194	Remove all items from the Bag.
+2195	The Bag was cleared.
+2196	Player options...
+2197	Set money, badges, Pokédexes, player's appearance and name, etc.
+2198	Set money
+2199	Edit how much money, Game Corner Coins and Battle Points you have.
+2200	Money: ${1}
+2201	Battle Points: {1}
+2202	Set the player's money.
+2203	Set the player's Coin amount.
+2204	Set the player's BP amount.
+2205	Set Gym Badges
+2206	Toggle possession of each Gym Badge.
+2207	Give all
+2208	Remove all
+2209	Badge {1}
+2210	Toggle running shoes
+2211	Toggle possession of running shoes.
+2212	Gave Running Shoes.
+2213	Lost Running Shoes.
+2214	Toggle Pokédex and Regional Dexes
+2215	Toggle possession of the Pokédex, and edit Regional Dex accessibility.
+2216	Have Pokédex: {1}
+2217	Toggle Pokégear
+2218	Toggle possession of the Pokégear.
+2219	Gave Pokégear.
+2220	Lost Pokégear.
+2221	Edit phone and contacts
+2222	Edit properties of the phone and of contacts registered in it.
+2223	The phone is not defined.
+2224	Time until next call: {1}m {2}s
+2225	Rematches possible
+2226	Maximum rematch version : {1}
+2227	Make all contacts ready for a rematch
+2228	Edit individual contacts: {1}
+2229	Set the time (in minutes) until the next phone call.
+2230	Set the maximum version number a trainer contact can reach.
+2231	All trainers in the phone are now ready to rebattle.
+2232	Contact visible
+2233	Can battle
+2234	Time until ready to battle: {1}m {2}s
+2235	Last defeated version: {1}
+2236	Set the time (in minutes) until this trainer is ready to battle.
+2237	Set the last defeated version number of this trainer.
+2238	Toggle access to storage from party screen
+2239	Toggle Box Link's effect of accessing Pokémon storage via the party screen.
+2240	Enabled access to storage from the party screen.
+2241	Disabled access to storage from the party screen.
+2242	Set player character
+2243	Edit the player's character, as defined in "metadata.txt".
+2244	There is only one player character defined.
+2245	The player character was changed.
+2246	Set player outfit
+2247	Edit the player's outfit number.
+2248	Set the player's outfit.
+2249	Player's outfit was changed.
+2250	Set player name
+2251	Rename the player.
+2252	Give yourself a default name?
+2253	The player's name remained {1}.
+2254	The player's name was changed to {1}.
+2255	Randomize player ID
+2256	Generate a random new ID for the player.
+2257	The player's ID was changed to {1} (full ID: {2}).
+2258	PBS file editors...
+2259	Edit information in the PBS files.
+2260	Edit map_connections.txt
+2261	Connect maps using a visual interface. Can also edit map encounters/metadata.
+2262	Edit encounters.txt
+2263	Edit the wild Pokémon that can be found on maps, and how they are encountered.
+2264	Edit trainers.txt
+2265	Edit individual trainers, their Pokémon and items.
+2266	Edit trainer_types.txt
+2267	Edit the properties of trainer types.
+2268	Edit map_metadata.txt
+2269	Edit map metadata.
+2270	Edit metadata.txt
+2271	Edit global metadata and player character metadata.
+2272	Edit items.txt
+2273	Edit item data.
+2274	Edit pokemon.txt
+2275	Edit Pokémon species data.
+2276	Edit pokemon_metrics.txt
+2277	Reposition Pokémon sprites in battle.
+2278	Auto-set pokemon_metrics.txts
+2279	Automatically reposition all Pokémon sprites in battle. Don't use lightly.
+2280	Are you sure you want to reposition all sprites?
+2281	Repositioning all sprites. Please wait.
+2282	Edit regional_dexes.txt
+2283	Create, rearrange and delete Regional Pokédex lists.
+2284	Other editors...
+2285	Edit battle animations, terrain tags, map data, etc.
+2286	Battle animation editor
+2287	Edit the battle animations.
+2288	Battle animation organiser
+2289	Rearrange/add/delete battle animations.
+2290	Import all battle animations
+2291	Import all battle animations from the "Animations" folder.
+2292	Export all battle animations
+2293	Export all battle animations individually to the "Animations" folder.
+2294	Edit terrain tags
+2295	Edit the terrain tags of tiles in tilesets. Required for tags 8+.
+2296	Fix invalid tiles
+2297	Scans all maps and erases non-existent tiles.
+2298	Files options...
+2299	Compile, generate PBS files, translations, Mystery Gifts, etc.
+2300	Compile data
+2301	Fully compile all data.
+2302	All game data was compiled.
+2303	Create PBS file(s)
+2304	Choose one or all PBS files and create it.
+2305	[Create all]
+2306	File written.
+2307	Rename outdated files
+2308	Check for files with outdated names and rename/move them. Can alter map data.
+2309	Are you sure you want to automatically rename outdated files?
+2310	Done.
+2311	Extract text for translation
+2312	Extract all text in the game to text files for translating.
+2313	No languages are defined in the LANGUAGES array in Settings.
+2314	You need to add at least one language to LANGUAGES first, to choose which one to extract text for.
+2315	Choose a language to extract text for.
+2316	Game-specific text
+2317	Core text
+2318	How many text files should map event texts be extracted to?
+2319	One big file
+2320	One file per map
+2321	Compile translated text
+2322	Import text files and convert them into a language file.
+2323	No language folders found to compile.
+2324	Language folders must be named "Text_SOMETHING_core" or "Text_SOMETHING_game" and be in the root folder.
+2325	Choose a language folder to compile.
+2326	Manage Mystery Gifts
+2327	Edit and enable/disable Mystery Gifts.
+2328	Reload system cache
+2329	Refreshes the system's file cache. Use if you change a file while playing.
+2330	WARP TO MAP
+2331	Set variable {1}.
+2332	{1} ({2})
+2333	Lv.{1} (+{2})
+2334	Lv.{1}
+2335	[Slot {1}] {2}
+2336	[Slot {1}] Empty
+2337	[Egg available]
+2338	[Can produce egg]
+2339	[Cannot breed]
+2340	[Steps to next cycle: {1}]
+2341	Pokémon cannot breed.
+2342	Pokémon can breed (compatibility = {1}).
+2343	Collect egg
+2344	Clear egg
+2345	Party is full, can't collect the egg.
+2346	Collected the {1} egg.
+2347	Make egg available
+2348	Change number of steps to next cycle?
+2349	Set to 1
+2350	Set to 256
+2351	Set to other value
+2352	Set steps until next cycle (1-256).
+2353	Cost: ${1}
+2354	Steps to next level: {1}
+2355	Party is full, can't withdraw Pokémon.
+2356	This slot is empty.
+2357	Deposit
+2358	Party is empty, can't deposit Pokémon.
+2359	[All roam to new locations]
+2360	[Clear all current roamer locations]
+2361	All animations were extracted and saved to the Animations folder.
+2362	There are no animations to export.
+2363	The export failed.
+2364	There are no animations to import. Put each animation in a folder within the Animations folder.
+2365	All animations were imported.
+2366	Checking {1} maps for invalid tiles
+2367	{1} error tile(s) found on map {2}: {3}.
+2368	Done. No errors found.
+2369	No invalid tiles were found.
+2370	Done. {1} errors found and fixed.
+2371	RMXP data was altered. Close RMXP now to ensure changes are applied.
+2372	{1} error(s) were found across {2} map(s) and fixed.
+2373	Close RPG Maker XP to ensure the changes are applied properly.
+2374	Battlers...
+2375	Look at Pokémon in battle and change their properties.
+2376	Player-side battlers
+2377	Edit Pokémon on the player's side of battle.
+2378	Foe-side battlers
+2379	Edit Pokémon on the opposing side of battle.
+2380	View battler speed order
+2381	Show all battlers in order from fastest to slowest.
+2382	Battlers are listed from fastest to slowest. Speeds include modifiers.
+2383	Pokémon teams
+2384	Look at and edit all Pokémon in each team.
+2385	Opponent {1}: {2} ({3} Pokémon)
+2386	Opponent: {1} wild Pokémon
+2387	You: {1} ({2} Pokémon)
+2388	Ally {1}: {2} ({3} Pokémon)
+2389	Choose a team.
+2390	Trainer options...
+2391	Variables that apply to trainers.
+2392	NPC trainer items
+2393	View and change the items each NPC trainer has access to.
+2394	Opponent {1}: {2} ({3} items)
+2395	Ally {1}: {2} ({3} items)
+2396	There are no NPC trainers in this battle.
+2397	Choose a trainer.
+2398	Mega Evolution
+2399	Whether each trainer is allowed to Mega Evolve.
+2400	Choose trainer to toggle whether they can Mega Evolve.
+2401	Field effects...
+2402	Effects that apply to the whole battlefield.
+2403	Weather
+2404	Set weather and duration.
+2405	Current weather: {1}
+2406	Duration : {1} more round(s)
+2407	Duration : Infinite
+2408	Change type
+2409	Change duration
+2410	Clear weather
+2411	Choose the new weather type.
+2412	There is no weather.
+2413	Choose the new weather duration (0=infinite).
+2414	Terrain
+2415	Set terrain and duration.
+2416	Current terrain: {1}
+2417	Clear terrain
+2418	Choose the new terrain type.
+2419	There is no terrain.
+2420	Choose the new terrain duration (0=infinite).
+2421	Environment/time
+2422	Set the battle's environment and time of day.
+2423	Environment: {1}
+2424	Time of day: {1}
+2425	Day
+2426	Evening
+2427	Night
+2428	Change environment
+2429	Change time of day
+2430	Choose the new environment.
+2431	Choose the new time.
+2432	Backdrop names
+2433	Set the names of the backdrop and base graphics.
+2434	Set which backdrop name?
+2435	Backdrop
+2436	Base modifier
+2437	Set the backdrop's name.
+2438	Set the base modifier text.
+2439	Other field effects...
+2440	View/set other effects that apply to the whole battlefield.
+2441	Player's side effects...
+2442	Effects that apply to the side the player is on.
+2443	Foe's side effects...
+2444	Effects that apply to the opposing side.
+2445	Battler position effects...
+2446	Effects that apply to individual battler positions.
+2447	(empty)
+2448	(yours)
+2449	(opposing)
+2450	(ally's)
+2451	Choose a battler position.
+2452	HP/status...
+2453	Set HP
+2454	{1} is an egg.
+2455	Can't change HP, {1}'s maximum HP is 1 and it's in battle.
+2456	Set {1}'s HP ({2}-{3}).
+2457	Set status
+2458	{1} is fainted, can't change status.
+2459	[Cure]
+2460	Set {1}
+2461	Current status: {1}
+2462	(turns: {1})
+2463	(toxic, count: {1})
+2464	Set {1}'s sleep count (0-99).
+2465	Make {1} badly poisoned (toxic)?
+2466	Set {1}'s toxic count (0-16).
+2467	Heal HP and status
+2468	Stats/level...
+2469	Set stat stages
+2470	[Reset all]
+2471	Choose a stat stage to change.
+2472	Set the stage for {1}.
+2473	Set stat values
+2474	Choose a stat value to change.
+2475	Set level
+2476	Set the Pokémon's level (max. {1}).
+2477	Set Exp
+2478	{1} is at the maximum level.
+2479	Set the Pokémon's Exp (range {1}-{2}).
+2480	EV/IV...
+2481	Choose hidden values to edit.
+2482	Set EVs
+2483	Set IVs
+2484	Randomise all
+2485	Max randomise all
+2486	Change which EV?\nTotal: {1}/{2} ({3}%)
+2487	Set the EV for {1} (max. {2}).
+2488	Change which IV?\nHidden Power: {1}, power {2}\nTotal: {3}/{4} ({5}%)
+2489	Set the IV for {1} (max. 31).
+2490	Set happiness
+2491	Set the Pokémon's happiness (max. 255).
+2492	Set types
+2493	Type {1}: {2}
+2494	Extra type: {1}
+2495	Effective types: {1}
+2496	(Change a type to itself to remove it.)
+2497	Remove this type?
+2498	Moves...
+2499	Teach move
+2500	{1} already knows {2} moves. It needs to forget one first.
+2501	Forget move
+2502	Forget which move?
+2503	{1} forgot {2}.
+2504	Set move PP
+2505	Restore all PP
+2506	Alter PP of which move?
+2507	{1} has infinite PP.
+2508	{1}: PP {2}/{3} (PP Up {4}/3)
+2509	Set PP
+2510	Full PP
+2511	Set PP Up
+2512	Set PP of {1} (max. {2}).
+2513	Set PP Up of {1} (max. 3).
+2514	Reset moves
+2515	Replace Pokémon's moves with ones it would know if it was wild?
+2516	{1}'s moves were reset.
+2517	Set item
+2518	Change item
+2519	Remove item
+2520	Item is {1}.
+2521	No item.
+2522	Text
+2523	Set ability
+2524	Set ability for Pokémon
+2525	Set ability for battler
+2526	Battler's ability is {1}. Pokémon's ability is {2}.
+2527	Pokémon's ability is {1}.
+2528	This Pokémon isn't in battle.
+2529	Set nature
+2530	{1} (---)
+2531	{1} (+{2}, -{3})
+2532	[Reset]
+2533	Nature is {1}.
+2534	Set gender
+2535	{1} is single-gendered or genderless.
+2536	Gender is male.
+2537	Gender is female.
+2538	Make male
+2539	Make female
+2540	{1}'s gender couldn't be changed.
+2541	Set form
+2542	Unnamed form
+2543	Species {1} only has one form.
+2544	Form is {1}.
+2545	This species decides its own form. Override?
+2546	Set species
+2547	Set shininess
+2548	Is shiny.
+2549	Is super shiny.
+2550	Is normal (not shiny).
+2551	Make shiny
+2552	Make super shiny
+2553	Make normal
+2554	Shadow Pokémon
+2555	Shadow Pokémon (in Hyper Mode)
+2556	Shadow Pokémon (not in Hyper Mode)
+2557	Toggle Hyper Mode
+2558	Pokémon is fainted or not the player's. Can't put it in Hyper Mode.
+2559	Pokémon is not a Shadow Pokémon.
+2560	Set effects
+2561	[None]
+2562	Set value ({1}-{2}).
+2563	Choose a battler/position.
+2564	Set {1}'s HP (max. {2}).
+2565	Current status: {1} (turns: {2})
+2566	Set the Pokémon's sleep count.
+2567	Fully heal
+2568	{1} was fully healed.
+2569	Make fainted
+2570	Set Pokérus
+2571	{1} doesn't have Pokérus.
+2572	Has strain {1}, infectious for {2} more days.
+2573	Has strain {1}, not infectious.
+2574	Give random strain
+2575	Make not infectious
+2576	Clear Pokérus
+2577	Level/stats...
+2578	EV/IV/personal ID...
+2579	Personal ID is {1}.
+2580	Randomise pID
+2581	Change which IV?\nHidden Power:\n{1}, power {2}\nTotal: {3}/{4} ({5}%)
+2582	Contest stats...
+2583	Set Beauty
+2584	Set the Pokémon's Beauty (max. 255).
+2585	Set Cool
+2586	Set the Pokémon's Cool (max. 255).
+2587	Set Cute
+2588	Set the Pokémon's Cute (max. 255).
+2589	Set Smart
+2590	Set the Pokémon's Smart (max. 255).
+2591	Set Tough
+2592	Set the Pokémon's Tough (max. 255).
+2593	Set Sheen
+2594	Set the Pokémon's Sheen (max. 255).
+2595	Choose move to forget.
+2596	Reset initial moves
+2597	{1}'s moves were set as its first-known moves.
+2598	Set possible ability
+2599	Set any ability
+2600	Ability is {1} (index {2}).
+2601	No ability (index {1}).
+2602	Choose an ability.
+2603	Species/form...
+2604	Species {1}, form {2}.
+2605	Species {1}, form {2} (forced).
+2606	Remove form override
+2607	Do you want to reset the form to 0?
+2608	Set the Pokémon's form.
+2609	Cosmetic info...
+2610	Set Poké Ball
+2611	{1} used.
+2612	Set ribbons
+2613	Clear all
+2614	{1} ribbons.
+2615	Set nickname
+2616	{1} has the nickname {2}.
+2617	{1} has no nickname.
+2618	Erase name
+2619	Ownership...
+2620	Player's Pokémon\n{1}\n{2}\n{3} ({4})
+2621	Foreign Pokémon\n{1}\n{2}\n{3} ({4})
+2622	Make player's
+2623	Set OT's name
+2624	Set OT's gender
+2625	Random foreign ID
+2626	Set foreign ID
+2627	{1}'s OT's name?
+2628	Set OT's gender.
+2629	Set the new ID (max. 65535).
+2630	Set discardable
+2631	Click option to toggle.
+2632	Cannot store
+2633	Can store
+2634	Cannot release
+2635	Can release
+2636	Cannot trade
+2637	Can trade
+2638	Set egg
+2639	Not an egg
+2640	Egg (hatches in {1} steps).
+2641	Make egg
+2642	Make Pokémon
+2643	Set steps left to 1
+2644	{1} cannot legally be an egg. Make egg anyway?
+2645	Shadow Pkmn...
+2646	Not a Shadow Pokémon.
+2647	Heart gauge is {1} (stage {2}).
+2648	Make Shadow
+2649	Set heart gauge
+2650	{1} is already a Shadow Pokémon.
+2651	Set the heart gauge (max. {1}).
+2652	{1} is not a Shadow Pokémon.
+2653	Duplicate
+2654	Are you sure you want to copy this Pokémon?
+2655	The Pokémon was duplicated.
+2656	The duplicated Pokémon was moved to your party.
+2657	The duplicated Pokémon was moved to box "{1}."
+2658	Are you sure you want to delete this Pokémon?
+2659	Renaming berry tree charsets...
+2660	Checking {1} maps for used berry tree charsets...
+2661	Map {1}: '{2}' was modified and saved.
+2662	Updating file names and locations
+2663	Berry plant charset files were renamed.
+2664	Finished updating file names and locations
+2665	File {1}, section {2}\n{3}
+2666	File {1}, section {2}, key {3}\n{4}
+2667	File {1}, line {2}\n{3}
+2668	Expected a section at the beginning of the file. This error may also occur if the file was not saved in UTF-8.\n{1}
+2669	Expected a section at the beginning of the file (line {1}). Sections begin with '[name of section]'.
+2670	Invalid quoted field (in: {1})\n{2}
+2671	Field {1} is not a Boolean value (true, false, 1, 0)\n{2}
+2672	Field {1} is not an integer\n{2}
+2673	Field {1} is not a positive integer\n{2}
+2674	Field {1} is not a number\n{2}
+2675	Field {1} is not a positive integer or 0\n{2}
+2676	Field '{1}' must be greater than 0\n{2}
+2677	Field '{1}' is not a hexadecimal number\n{2}
+2678	Field '{1}' must contain only letters, digits, and\nunderscores and can't begin with a number.\n{2}
+2679	Undefined value {1} in {2}\n{3}
+2680	Incorrect value {1} in {2}\n{3}
+2681	Undefined value {1} (expected one of: {2})\n{3}
+2682	Enumeration not defined\n{1}
+2683	Field '{1}' must be 0 or greater\n{2}
+2684	Field {1} is not a floating point number\n{2}
+2685	Undefined item constant name: {1}\nMake sure the item is defined in PBS/items.txt.\n{2}
+2686	Undefined species constant name: {1}\nMake sure the species is defined in PBS/pokemon.txt.\n{2}
+2687	Undefined move constant name: {1}\nMake sure the move is defined in PBS/moves.txt.\n{2}
+2688	Undefined nature constant name: {1}\nMake sure the nature is defined in the scripts.\n{2}
+2689	Undefined Trainer type constant name: {1}\nMake sure the trainer type is defined in PBS/trainer_types.txt.\n{2}
+2690	Compiling PBS file `{1}`...
+2691	Writing PBS file `{1}`...
+2692	Checking game data
+2693	Game data was not compiled
+2694	Saving messages...
+2695	Successfully compiled all game data
+2696	Section name '{1}' is used twice.\n{2}
+2697	Warning: Map {1}, as mentioned in the map connection data, was not found.\n{2}
+2698	North side of first map must connect with south side of second map\n{1}
+2699	South side of first map must connect with north side of second map\n{1}
+2700	East side of first map must connect with west side of second map\n{1}
+2701	West side of first map must connect with east side of second map\n{1}
+2702	'{1}' is not a defined type ({2}, section {3}, Weaknesses).
+2703	'{1}' is not a defined type ({2}, section {3}, Resistances).
+2704	'{1}' is not a defined type ({2}, section {3}, Immunities).
+2705	Move {1} is defined as a Status move with a non-zero base damage.\n{2}
+2706	Warning: Move {1} is defined as Physical or Special but has a base damage of 0. Changing it to a Status move.\n{2}
+2707	Undefined species ID '{1}'.\n{3}
+2708	Form {1} for species ID {2} is defined twice.\n{3}
+2709	Dex list number {1} is defined at least twice.\n{2}
+2710	Expected a section at the beginning of the file.\n{1}
+2711	Dex list number {1} has species {2} listed twice.\n{3}
+2712	Expected a species entry line for encounter type {1} for map '{2}', got "{3}" instead.\n{4}
+2713	Level number {1} is not valid (max. {2}).\n{3}
+2714	Minimum level is greater than maximum level: {1}\n{2}
+2715	Encounters for map '{1}' are defined twice.\n{2}
+2716	Expected a map number, got "{1}" instead.\n{2}
+2717	Undefined encounter type "{1}" for map '{2}'.\n{3}
+2718	Pokémon hasn't been defined yet!\n{1}
+2719	Trainer with ID {1} has no Pokémon.\n{2}
+2720	Invalid Pokémon level {1} (must be 1-{2}).\n{3}
+2721	Invalid Pokémon nickname: {1} (must be 1-{2} characters).\n{3}
+2722	Invalid IV: {1} (must be 0-{2}).\n{3}
+2723	Invalid EV: {1} (must be 0-{2}).\n{3}
+2724	Invalid EV set (must sum to {1} or less).\n{2}
+2725	Bad happiness: {1} (must be 0-255).\n{2}
+2726	Value {1} isn't a defined Poké Ball.\n{2}
+2727	No trainer data file given in section {1}.\n{2}
+2728	Global metadata ID '{1}' is used twice.\n{2}
+2729	Player metadata ID '{1}' is used twice.\n{2}
+2730	The entry 'Home' is required in metadata.txt section 0.\n{1}
+2731	Global metadata is not defined in metadata.txt but should be.\n{1}
+2732	Metadata for player character 1 is not defined in metadata.txt but should be.\n{1}
+2733	Version {1} of dungeon area {2} is defined twice.\n{3}
+2734	Compiling animations...
+2735	See the documentation on the wiki to learn how to edit this file.
+2736	Writing all PBS files
+2737	Successfully rewrote all PBS files
+2738	{1} new map(s) copied to the Data folder were successfully imported.
+2739	Here you go!
+2740	You have no room left in the Bag.
+2741	\\GHere you go!
+2742	\\GYou have no room left in the Bag.
+2743	\\GYou don't have enough money.
+2744	Processing {1} maps...
+2745	Processing common events...

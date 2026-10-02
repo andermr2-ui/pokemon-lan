@@ -1,0 +1,15 @@
+[2|1|0|1]
+ORIGINAL: \bHMMMM?! WHAT?! I CAN`T HEAR YOU!
+TRADUCCION:
+
+[3|1|0|2]
+ORIGINAL: \bPoor old Grandma doesn´t hear that well anymore. I always have to shout when I want to talk to her.
+TRADUCCION:
+
+[4|1|0|2]
+ORIGINAL: \bMy doctor said that I should move to Silver Peak, because the clean air will get ride of my asthma.
+TRADUCCION:
+
+[4|1|2|2]
+ORIGINAL: \bUnfortunately I still have asthma, but at least the view is quite nice.
+TRADUCCION:

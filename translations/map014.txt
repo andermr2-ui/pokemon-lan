@@ -1,0 +1,7 @@
+[5|1|0|1]
+ORIGINAL: \sign[signskin]1F: Service Counter
+TRADUCCION:
+
+[6|1|0|1]
+ORIGINAL: \rHello! Welcome to Cedolan Dept. Store.
+TRADUCCION:

@@ -1,0 +1,171 @@
+[5|1|0|1]
+ORIGINAL: \rI'm looking for a female Dragonair.
+TRADUCCION:
+
+[5|1|1|1]
+ORIGINAL: \rWant to trade it for my Dodrio?
+TRADUCCION:
+
+[5|1|20|1]
+ORIGINAL: \rYou don't want to trade? Aww...
+TRADUCCION:
+
+[5|1|23|1]
+ORIGINAL: \rOK, let's get started.
+TRADUCCION:
+
+[5|1|59|1]
+ORIGINAL: \PN traded Dragonair for Dodrio!
+TRADUCCION:
+
+[5|1|60|1]
+ORIGINAL: \rThanks!
+TRADUCCION:
+
+[5|1|66|1]
+ORIGINAL: \rYou don't want to trade?  Aww...
+TRADUCCION:
+
+[5|2|0|1]
+ORIGINAL: \rAre you taking good care of Doris?
+TRADUCCION:
+
+[6|1|0|2]
+ORIGINAL: \bMy Shuckie is a great Pokémon, but I can't trainit anymore.
+TRADUCCION:
+
+[6|1|2|2]
+ORIGINAL: \bWould you take Shuckie and raise it like it deserves?
+TRADUCCION:
+
+[6|1|9|1]
+ORIGINAL: \bTake good care of Shuckie!
+TRADUCCION:
+
+[6|1|13|1]
+ORIGINAL: \bOh, you don't have any space for it.
+TRADUCCION:
+
+[6|1|18|1]
+ORIGINAL: \bOh, that's a shame.
+TRADUCCION:
+
+[6|2|0|1]
+ORIGINAL: \bAre you raising my Shuckie well?
+TRADUCCION:
+
+[7|1|0|1]
+ORIGINAL: \bOh, hi!
+TRADUCCION:
+
+[7|1|1|1]
+ORIGINAL: \bWould you like this Pokémon Egg?
+TRADUCCION:
+
+[7|1|7|2]
+ORIGINAL: \me[Egg get]\PN received the Egg from the Fan Club President.
+TRADUCCION:
+
+[7|1|9|1]
+ORIGINAL: \bTake good care of it!
+TRADUCCION:
+
+[7|1|13|1]
+ORIGINAL: \bOh, you can't carry it with you.
+TRADUCCION:
+
+[7|1|14|1]
+ORIGINAL: \bMake some space in your party and come back.
+TRADUCCION:
+
+[7|1|19|1]
+ORIGINAL: \bOh. Will I ever find someone to take this Egg?
+TRADUCCION:
+
+[7|2|0|1]
+ORIGINAL: \bI wonder what that Egg will hatch into?
+TRADUCCION:
+
+[2|1|0|1]
+ORIGINAL: \bI'm looking for a Rattata.
+TRADUCCION:
+
+[2|1|1|1]
+ORIGINAL: \bWant to trade it for my Haunter?
+TRADUCCION:
+
+[2|1|12|1]
+ORIGINAL: \bYou don't want to trade?  Aww...
+TRADUCCION:
+
+[2|1|15|1]
+ORIGINAL: \bOK, let's get started.
+TRADUCCION:
+
+[2|1|19|1]
+ORIGINAL: \PN traded Rattata for Haunter!
+TRADUCCION:
+
+[2|1|20|1]
+ORIGINAL: \bThanks!
+TRADUCCION:
+
+[2|1|26|1]
+ORIGINAL: \bYou don't want to trade? Aww...
+TRADUCCION:
+
+[2|2|0|1]
+ORIGINAL: \bThanks for trading with me!
+TRADUCCION:
+
+[8|1|18|1]
+ORIGINAL: There's no more room for Pokémon!
+TRADUCCION:
+
+[8|1|19|1]
+ORIGINAL: The Pokémon Boxes are full and can't accept any more!
+TRADUCCION:
+
+[4|1|0|2]
+ORIGINAL: \rI have a rather special Bulbasaur! Its ability issomething I could only dream of.
+TRADUCCION:
+
+[4|1|2|2]
+ORIGINAL: \rI can't look after it, though. Would you like Bulbasaur?
+TRADUCCION:
+
+[4|1|22|1]
+ORIGINAL: \rTake good care of Sauri!
+TRADUCCION:
+
+[4|1|26|1]
+ORIGINAL: \rOh, you don't have any space.
+TRADUCCION:
+
+[4|1|31|1]
+ORIGINAL: \rOh, that's a shame.
+TRADUCCION:
+
+[4|2|0|1]
+ORIGINAL: \rI hope you're taking good care of my Sauri!
+TRADUCCION:
+[5|1|2|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[6|1|4|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[7|1|2|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[2|1|2|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[4|1|4|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+

@@ -1,0 +1,27 @@
+[1|1|2|1]
+ORIGINAL: It´s a large stature resembling a Pokémon.
+TRADUCCION:
+
+[1|2|2|1]
+ORIGINAL: It´s a large stature resembling a Pokémon.
+TRADUCCION:
+
+[1|2|4|1]
+ORIGINAL: The Delta Stone in your pocket just lit up!
+TRADUCCION:
+
+[1|2|5|1]
+ORIGINAL: The stature is coming to life!
+TRADUCCION:
+
+[1|2|7|1]
+ORIGINAL: \bÜNÜNÜNÜN!!!
+TRADUCCION:
+
+[1|4|0|2]
+ORIGINAL: Regirock went back into a deep slumber. Will it wake up again?
+TRADUCCION:
+
+[1|5|2|1]
+ORIGINAL: It´s a large stature resembling a Pokémon.
+TRADUCCION:

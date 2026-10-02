@@ -1,0 +1,686 @@
+id	internal	nombre_en	plural_en	desc_en	estado_nombre	estado_plural	estado_desc
+BLACKFLUTE	BLACKFLUTE	Black Flute	Black Flutes	A black flute made from blown glass. Its melody makes wild Pokémon less likely to appear.	MISSING	MISSING	MISSING
+WHITEFLUTE	WHITEFLUTE	White Flute	White Flutes	A white flute made from blown glass. Its melody makes wild Pokémon more likely to appear.	MISSING	MISSING	MISSING
+HONEY	HONEY	Honey	Honey	A sweet honey with a lush aroma that attracts wild Pokémon when used in tall grass, in caves, or elsewhere.	TRANSLATED	MISSING	TRANSLATED
+REDSHARD	REDSHARD	Red Shard	Red Shards	A small red shard. It appears to be from some sort of implement made long ago.	MISSING	MISSING	MISSING
+YELLOWSHARD	YELLOWSHARD	Yellow Shard	Yellow Shards	A small yellow shard. It appears to be from some sort of implement made long ago.	MISSING	MISSING	MISSING
+BLUESHARD	BLUESHARD	Blue Shard	Blue Shards	A small blue shard. It appears to be from some sort of implement made long ago.	MISSING	MISSING	MISSING
+GREENSHARD	GREENSHARD	Green Shard	Green Shards	A small green shard. It appears to be from some sort of implement made long ago.	MISSING	MISSING	MISSING
+FIRESTONE	FIRESTONE	Fire Stone	Fire Stones	A peculiar stone that makes certain species of Pokémon evolve. It is colored orange.	MISSING	MISSING	MISSING
+THUNDERSTONE	THUNDERSTONE	Thunder Stone	Thunder Stones	A peculiar stone that makes certain species of Pokémon evolve. It has a thunderbolt pattern.	MISSING	MISSING	MISSING
+WATERSTONE	WATERSTONE	Water Stone	Water Stones	A peculiar stone that makes certain species of Pokémon evolve. It is a clear, light blue.	MISSING	MISSING	MISSING
+LEAFSTONE	LEAFSTONE	Leaf Stone	Leaf Stones	A peculiar stone that makes certain species of Pokémon evolve. It has a leaf pattern.	MISSING	MISSING	MISSING
+MOONSTONE	MOONSTONE	Moon Stone	Moon Stones	A peculiar stone that makes certain species of Pokémon evolve. It is as black as the night sky.	MISSING	MISSING	MISSING
+SUNSTONE	SUNSTONE	Sun Stone	Sun Stones	A peculiar stone that makes certain species of Pokémon evolve. It is as red as the sun.	MISSING	MISSING	MISSING
+DUSKSTONE	DUSKSTONE	Dusk Stone	Dusk Stones	A peculiar stone that makes certain species of Pokémon evolve. It is as dark as dark can be.	MISSING	MISSING	MISSING
+DAWNSTONE	DAWNSTONE	Dawn Stone	Dawn Stones	A peculiar stone that makes certain species of Pokémon evolve. It sparkles like eyes.	MISSING	MISSING	MISSING
+SHINYSTONE	SHINYSTONE	Shiny Stone	Shiny Stones	A peculiar stone that makes certain species of Pokémon evolve. It shines with a dazzling light.	MISSING	MISSING	MISSING
+ICESTONE	ICESTONE	Ice Stone	Ice Stones	A peculiar stone that makes certain species of Pokémon evolve. It has a snowflake pattern.	MISSING	MISSING	MISSING
+SWEETAPPLE	SWEETAPPLE	Sweet Apple	Sweet Apples	A peculiar apple that can make a certain species of Pokémon evolve. It's exceptionally sweet.	MISSING	MISSING	MISSING
+TARTAPPLE	TARTAPPLE	Tart Apple	Tart Apples	A peculiar apple that can make a certain species of Pokémon evolve. It's exceptionally tart.	MISSING	MISSING	MISSING
+CRACKEDPOT	CRACKEDPOT	Cracked Pot	Cracked Pots	A peculiar cracked teapot that can make a certain species of Pokémon evolve. It makes delicious tea.	MISSING	MISSING	MISSING
+CHIPPEDPOT	CHIPPEDPOT	Chipped Pot	Chipped Pots	A peculiar chipped teapot that can make a certain species of Pokémon evolve. It makes delicious tea.	MISSING	MISSING	MISSING
+GALARICACUFF	GALARICACUFF	Galarica Cuff	Galarica Cuffs	A cuff made from woven-together Galarica Twigs. Giving it to a Galarian Slowpoke would make it very happy.	MISSING	MISSING	MISSING
+GALARICAWREATH	GALARICAWREATH	Galarica Wreath	Galarica Wreaths	A wreath made from woven-together Galarica Twigs. A Galarian Slowpoke wearing this would be very happy.	MISSING	MISSING	MISSING
+REDAPRICORN	REDAPRICORN	Red Apricorn	Red Apricorns	A red Apricorn. It assails your nostrils.	MISSING	MISSING	MISSING
+YELLOWAPRICORN	YELLOWAPRICORN	Yellow Apricorn	Yellow Apricorns	A yellow Apricorn. It has an invigorating scent.	MISSING	MISSING	MISSING
+BLUEAPRICORN	BLUEAPRICORN	Blue Apricorn	Blue Apricorns	A blue Apricorn. It smells a bit like grass.	MISSING	MISSING	MISSING
+GREENAPRICORN	GREENAPRICORN	Green Apricorn	Green Apricorns	A green Apricorn. It has a mysterious, aromatic scent.	MISSING	MISSING	MISSING
+PINKAPRICORN	PINKAPRICORN	Pink Apricorn	Pink Apricorns	A pink Apricorn. It has a nice, sweet scent.	MISSING	MISSING	MISSING
+WHITEAPRICORN	WHITEAPRICORN	White Apricorn	White Apricorns	A white Apricorn. It doesn't smell like anything.	MISSING	MISSING	MISSING
+BLACKAPRICORN	BLACKAPRICORN	Black Apricorn	Black Apricorns	A black Apricorn. It has an indescribable scent.	MISSING	MISSING	MISSING
+HELIXFOSSIL	HELIXFOSSIL	Helix Fossil	Helix Fossils	A fossil of an ancient Pokémon that lived in the sea. It appears to be part of a seashell.	MISSING	MISSING	MISSING
+DOMEFOSSIL	DOMEFOSSIL	Dome Fossil	Dome Fossils	A fossil of an ancient Pokémon that lived in the sea. It appears to be part of a shell.	MISSING	MISSING	MISSING
+OLDAMBER	OLDAMBER	Old Amber	Old Ambers	A piece of amber that contains the genes of an ancient Pokémon. It is clear with a reddish tint.	MISSING	MISSING	MISSING
+SKULLFOSSIL	SKULLFOSSIL	Skull Fossil	Skull Fossils	A fossil from a prehistoric Pokémon that lived on the land. It appears to be part of a head.	MISSING	MISSING	MISSING
+ARMORFOSSIL	ARMORFOSSIL	Armor Fossil	Armor Fossils	A fossil from a prehistoric Pokémon that lived on the land. It appears to be part of a collar.	MISSING	MISSING	MISSING
+COVERFOSSIL	COVERFOSSIL	Cover Fossil	Cover Fossils	A fossil of an ancient Pokémon that lived in the sea in ancient times. It appears to be part of its back.	MISSING	MISSING	MISSING
+PLUMEFOSSIL	PLUMEFOSSIL	Plume Fossil	Plume Fossils	A fossil of an ancient Pokémon that flew in the sky in ancient times. It appears to be part of its wing.	MISSING	MISSING	MISSING
+JAWFOSSIL	JAWFOSSIL	Jaw Fossil	Jaw Fossils	A fossil from a prehistoric Pokémon that once lived on the land. It appears to be part of a large jaw.	MISSING	MISSING	MISSING
+SAILFOSSIL	SAILFOSSIL	Sail Fossil	Sail Fossils	A fossil from a prehistoric Pokémon that once lived on the land. It looks like the impression from a skin sail.	MISSING	MISSING	MISSING
+PRETTYFEATHER	PRETTYFEATHER	Pretty Feather	Pretty Feathers	Though this feather is beautiful, it's just a regular feather and has no effect on Pokémon.	MISSING	MISSING	MISSING
+TINYMUSHROOM	TINYMUSHROOM	Tiny Mushroom	Tiny Mushrooms	A small and rare mushroom. It is sought after by collectors.	MISSING	MISSING	MISSING
+BIGMUSHROOM	BIGMUSHROOM	Big Mushroom	Big Mushrooms	A large and rare mushroom. It is sought after by collectors.	MISSING	MISSING	MISSING
+BALMMUSHROOM	BALMMUSHROOM	Balm Mushroom	Balm Mushrooms	A rare mushroom which gives off a nice fragrance. A maniac will buy it for a high price.	MISSING	MISSING	MISSING
+PEARL	PEARL	Pearl	Pearls	A somewhat-small pearl that sparkles in a pretty silver color. It can be sold cheaply to shops.	MISSING	MISSING	MISSING
+BIGPEARL	BIGPEARL	Big Pearl	Big Pearls	A quite-large pearl that sparkles in a pretty silver color. It can be sold at a high price to shops.	MISSING	MISSING	MISSING
+PEARLSTRING	PEARLSTRING	Pearl String	Pearl Strings	Very large pearls that sparkle in a pretty silver color. A maniac will buy them for a high price.	MISSING	MISSING	MISSING
+STARDUST	STARDUST	Stardust	Stardusts	Lovely, red-colored sand with a loose, silky feel. It can be sold at a high price to shops.	MISSING	MISSING	MISSING
+STARPIECE	STARPIECE	Star Piece	Star Pieces	A shard of a pretty gem that sparkles in a red color. It can be sold at a high price to shops.	MISSING	MISSING	MISSING
+COMETSHARD	COMETSHARD	Comet Shard	Comet Shards	A shard which fell to the ground when a comet approached. A maniac will buy it for a high price.	MISSING	MISSING	MISSING
+NUGGET	NUGGET	Nugget	Nuggets	A nugget of pure gold that gives off a lustrous gleam. It can be sold at a high price to shops.	MISSING	MISSING	MISSING
+BIGNUGGET	BIGNUGGET	Big Nugget	Big Nuggets	A big nugget of pure gold that gives off a lustrous gleam. A maniac will buy it for a high price.	MISSING	MISSING	MISSING
+SLOWPOKETAIL	SLOWPOKETAIL	Slowpoke Tail	Slowpoke Tails	A very tasty tail of something. It can be sold at a high price to shops.	MISSING	MISSING	MISSING
+RAREBONE	RAREBONE	Rare Bone	Rare Bones	A bone that is extremely valuable for Pokémon archaeology. It can be sold for a high price to shops.	MISSING	MISSING	MISSING
+RELICCOPPER	RELICCOPPER	Relic Copper	Relic Coppers	A copper coin used in a civilization about 3,000 years ago. A maniac will buy it for a high price.	MISSING	MISSING	MISSING
+RELICSILVER	RELICSILVER	Relic Silver	Relic Silvers	A silver coin used in a civilization about 3,000 years ago. A maniac will buy it for a high price.	MISSING	MISSING	MISSING
+RELICGOLD	RELICGOLD	Relic Gold	Relic Golds	A gold coin used in a civilization about 3,000 years ago. A maniac will buy it for a high price.	MISSING	MISSING	MISSING
+GROWTHMULCH	GROWTHMULCH	Growth Mulch	Growth Mulch	A fertilizer to be spread on soft soil in regions where Berries are grown. A maniac will buy it for a high price.	MISSING	MISSING	MISSING
+DAMPMULCH	DAMPMULCH	Damp Mulch	Damp Mulch	A fertilizer to be spread on soft soil in regions where Berries are grown. A maniac will buy it for a high price.	MISSING	MISSING	MISSING
+STABLEMULCH	STABLEMULCH	Stable Mulch	Stable Mulch	A fertilizer to be spread on soft soil in regions where Berries are grown. A maniac will buy it for a high price.	MISSING	MISSING	MISSING
+GOOEYMULCH	GOOEYMULCH	Gooey Mulch	Gooey Mulch	A fertilizer to be spread on soft soil in regions where Berries are grown. A maniac will buy it for a high price.	MISSING	MISSING	MISSING
+SHOALSALT	SHOALSALT	Shoal Salt	Shoal Salts	Pure salt that can be discovered deep inside the Shoal Cave. A maniac will buy it for a high price.	MISSING	MISSING	MISSING
+SHOALSHELL	SHOALSHELL	Shoal Shell	Shoal Shells	A pretty seashell that can be found deep inside the Shoal Cave. A maniac will buy it for a high price.	MISSING	MISSING	MISSING
+ODDKEYSTONE	ODDKEYSTONE	Odd Keystone	Odd Keystones	A mysterious stone with a strange aura. Voices can be heard from it occasionally.	MISSING	MISSING	TRANSLATED
+REDNECTAR	REDNECTAR	Red Nectar	Red Nectars	A flower nectar obtained at Ula'ula Meadow. It changes the form of certain species of Pokémon.	MISSING	MISSING	MISSING
+YELLOWNECTAR	YELLOWNECTAR	Yellow Nectar	Yellow Nectars	A flower nectar obtained at Melemele Meadow. It changes the form of certain species of Pokémon.	MISSING	MISSING	MISSING
+PINKNECTAR	PINKNECTAR	Pink Nectar	Pink Nectars	A flower nectar obtained from shrubs on Royal Avenue. It changes the form of certain species of Pokémon.	MISSING	MISSING	MISSING
+PURPLENECTAR	PURPLENECTAR	Purple Nectar	Purple Nectars	A flower nectar obtained at Poni Meadow. It changes the form of certain species of Pokémon.	MISSING	MISSING	MISSING
+EVIOLITE	EVIOLITE	Eviolite	Eviolites	A mysterious evolutionary lump. When held, it raises the Defense and Sp. Def if the holder can still evolve.	TRANSLATED	TRANSLATED	MISSING
+FLOATSTONE	FLOATSTONE	Float Stone	Float Stones	A very light stone. It reduces the weight of a Pokémon when held.	MISSING	MISSING	MISSING
+DESTINYKNOT	DESTINYKNOT	Destiny Knot	Destiny Knots	A long, thin, bright-red string to be held by a Pokémon. If the holder becomes infatuated, so does the foe.	MISSING	MISSING	MISSING
+ROCKYHELMET	ROCKYHELMET	Rocky Helmet	Rocky Helmets	If the holder of this item takes damage, the attacker will also be damaged upon contact.	MISSING	MISSING	MISSING
+ASSAULTVEST	ASSAULTVEST	Assault Vest	Assault Vests	An item to be held by a Pokémon. This offensive vest raises Sp. Def but prevents the use of status moves.	MISSING	MISSING	MISSING
+SAFETYGOGGLES	SAFETYGOGGLES	Safety Goggles	Safety Goggles	An item to be held by a Pokémon. They protect the holder from weather-related damage and powder.	MISSING	MISSING	MISSING
+PROTECTIVEPADS	PROTECTIVEPADS	Protective Pads	Protective Pads	An item to be held by a Pokémon. They protect the holder from effects caused by making contact.	MISSING	MISSING	MISSING
+HEAVYDUTYBOOTS	HEAVYDUTYBOOTS	Heavy-Duty Boots	Heavy-Duty Boots	These boots prevent the effects of traps set on the battlefield.	MISSING	MISSING	MISSING
+UTILITYUMBRELLA	UTILITYUMBRELLA	Utility Umbrella	Utility Umbrellas	An item to be held by a Pokémon. This sturdy umbrella protects the holder from the effects of rain and sun.	MISSING	MISSING	MISSING
+EJECTBUTTON	EJECTBUTTON	Eject Button	Eject Buttons	If the holder is hit by an attack, it will switch with another Pokémon in your party.	MISSING	MISSING	MISSING
+EJECTPACK	EJECTPACK	Eject Pack	Eject Packs	An item to be held by a Pokémon. When the holder's stats are lowered, it will be switched out of battle.	MISSING	MISSING	MISSING
+REDCARD	REDCARD	Red Card	Red Cards	A card with a mysterious power. When the holder is struck by a foe, the attacker is removed from battle.	MISSING	MISSING	MISSING
+SHEDSHELL	SHEDSHELL	Shed Shell	Shed Shells	An item to be held by a Pokémon. This discarded carapace lets the holder switch out of battle without fail.	MISSING	MISSING	MISSING
+SMOKEBALL	SMOKEBALL	Smoke Ball	Smoke Balls	An item to be held by a Pokémon. It enables the holder to flee from any wild Pokémon without fail.	MISSING	MISSING	MISSING
+LUCKYEGG	LUCKYEGG	Lucky Egg	Lucky Eggs	An item to be held by a Pokémon. It is an egg filled with happiness that earns extra Exp. Points in battle.	MISSING	MISSING	MISSING
+AMULETCOIN	AMULETCOIN	Amulet Coin	Amulet Coins	An item to be held by a Pokémon. It doubles a battle's prize money if the holding Pokémon joins in.	MISSING	MISSING	MISSING
+SOOTHEBELL	SOOTHEBELL	Soothe Bell	Soothe Bells	An item to be held by a Pokémon. The comforting chime of this bell calms the holder, making it friendly.	MISSING	MISSING	MISSING
+CLEANSETAG	CLEANSETAG	Cleanse Tag	Cleanse Tags	An item to be held by a Pokémon. It helps keep wild Pokémon away if the holder is the first one in the party.	MISSING	MISSING	MISSING
+CHOICEBAND	CHOICEBAND	Choice Band	Choice Bands	An item to be held by a Pokémon. This headband ups Attack, but allows the use of only one move.	MISSING	MISSING	MISSING
+CHOICESPECS	CHOICESPECS	Choice Specs	Choice Specs	An item to be held by a Pokémon. These curious glasses boost Sp. Atk but allows the use of only one move.	MISSING	MISSING	MISSING
+CHOICESCARF	CHOICESCARF	Choice Scarf	Choice Scarves	An item to be held by a Pokémon. This scarf boosts Speed but allows the use of only one move.	MISSING	MISSING	MISSING
+HEATROCK	HEATROCK	Heat Rock	Heat Rocks	A Pokémon held item that extends the duration of the move Sunny Day used by the holder.	MISSING	MISSING	MISSING
+DAMPROCK	DAMPROCK	Damp Rock	Damp Rocks	A Pokémon held item that extends the duration of the move Rain Dance used by the holder.	MISSING	MISSING	MISSING
+SMOOTHROCK	SMOOTHROCK	Smooth Rock	Smooth Rocks	A Pokémon held item that extends the duration of the move Sandstorm used by the holder.	MISSING	MISSING	MISSING
+ICYROCK	ICYROCK	Icy Rock	Icy Rocks	A Pokémon held item that extends the duration of the move Hail used by the holder.	MISSING	MISSING	MISSING
+TERRAINEXTENDER	TERRAINEXTENDER	Terrain Extender	Terrain Extenders	An item to be held by a Pokémon. It extends the duration of the terrain caused by the holder.	MISSING	MISSING	MISSING
+LIGHTCLAY	LIGHTCLAY	Light Clay	Light Clays	An item to be held by a Pokémon. Protective moves like Light Screen and Reflect will be effective longer.	MISSING	MISSING	MISSING
+GRIPCLAW	GRIPCLAW	Grip Claw	Grip Claws	A Pokémon held item that extends the duration of multiturn attacks like Bind and Wrap.	MISSING	MISSING	MISSING
+BINDINGBAND	BINDINGBAND	Binding Band	Binding Bands	A band that increases the power of binding moves when held.	MISSING	MISSING	MISSING
+BIGROOT	BIGROOT	Big Root	Big Roots	A Pokémon held item that boosts the power of HP-stealing moves to let the holder recover more HP.	MISSING	MISSING	MISSING
+BLACKSLUDGE	BLACKSLUDGE	Black Sludge	Black Sludges	A held item that gradually restores the HP of Poison-type Pokémon. It inflicts damage on all other types.	MISSING	MISSING	MISSING
+LEFTOVERS	LEFTOVERS	Leftovers	Leftovers	An item to be held by a Pokémon. The holder's HP is gradually restored during battle.	MISSING	MISSING	MISSING
+SHELLBELL	SHELLBELL	Shell Bell	Shell Bells	An item to be held by a Pokémon. The holder's HP is restored a little every time it inflicts damage.	MISSING	MISSING	MISSING
+MENTALHERB	MENTALHERB	Mental Herb	Mental Herbs	An item to be held by a Pokémon. It snaps the holder out of infatuation. It can be used only once.	MISSING	MISSING	MISSING
+WHITEHERB	WHITEHERB	White Herb	White Herbs	An item to be held by a Pokémon. It restores any lowered stat in battle. It can be used only once.	MISSING	MISSING	MISSING
+POWERHERB	POWERHERB	Power Herb	Power Herbs	A single-use item to be held by a Pokémon. It allows the immediate use of a move that charges up first.	MISSING	MISSING	MISSING
+ABSORBBULB	ABSORBBULB	Absorb Bulb	Absorb Bulbs	A consumable bulb. If the holder is hit by a Water-type move, its Sp. Atk will rise.	MISSING	MISSING	MISSING
+CELLBATTERY	CELLBATTERY	Cell Battery	Cell Batteries	A consumable battery. If the holder is hit by an Electric-type move, its Attack will rise.	MISSING	MISSING	MISSING
+LUMINOUSMOSS	LUMINOUSMOSS	Luminous Moss	Luminous Moss	An item to be held by a Pokémon. It boosts Sp. Def if hit by a Water-type attack. It can only be used once.	MISSING	MISSING	MISSING
+SNOWBALL	SNOWBALL	Snowball	Snowballs	An item to be held by a Pokémon. It boosts Attack if hit by an Ice-type attack. It can only be used once.	MISSING	MISSING	MISSING
+WEAKNESSPOLICY	WEAKNESSPOLICY	Weakness Policy	Weakness Policies	An item to be held by a Pokémon. The holder's Attack and Sp. Atk sharply increase if hit by a move it's weak to.	MISSING	MISSING	MISSING
+BLUNDERPOLICY	BLUNDERPOLICY	Blunder Policy	Blunder Policies	Raises Speed sharply when a Pokémon misses with a move because of accuracy.	MISSING	MISSING	MISSING
+THROATSPRAY	THROATSPRAY	Throat Spray	Throat Sprays	Raises Sp. Atk when a Pokémon uses a sound-based move.	MISSING	MISSING	MISSING
+ADRENALINEORB	ADRENALINEORB	Adrenaline Orb	Adrenaline Orbs	An item to be held by a Pokémon. It boosts Speed when intimidated. It can be used only once.	MISSING	MISSING	MISSING
+ROOMSERVICE	ROOMSERVICE	Room Service	Room Services	An item to be held by a Pokémon. Lowers Speed when Trick Room takes effect.	MISSING	MISSING	MISSING
+ELECTRICSEED	ELECTRICSEED	Electric Seed	Electric Seeds	An item to be held by a Pokémon. It boosts Defense on Electric Terrain. It can only be used once.	MISSING	MISSING	MISSING
+GRASSYSEED	GRASSYSEED	Grassy Seed	Grassy Seeds	An item to be held by a Pokémon. It boosts Defense on Grassy Terrain. It can only be used once.	MISSING	MISSING	MISSING
+MISTYSEED	MISTYSEED	Misty Seed	Misty Seeds	An item to be held by a Pokémon. It boosts Sp. Def on Misty Terrain. It can only be used once.	MISSING	MISSING	MISSING
+PSYCHICSEED	PSYCHICSEED	Psychic Seed	Psychic Seeds	An item to be held by a Pokémon. It boosts Sp. Def on Psychic Terrain. It can only be used once.	MISSING	MISSING	MISSING
+LIFEORB	LIFEORB	Life Orb	Life Orbs	An item to be held by a Pokémon. It boosts the power of moves, but at the cost of some HP on each hit.	MISSING	MISSING	MISSING
+EXPERTBELT	EXPERTBELT	Expert Belt	Expert Belts	An item to be held by a Pokémon. It is a well-worn belt that slightly boosts the power of supereffective moves.	MISSING	MISSING	MISSING
+METRONOME	METRONOME	Metronome	Metronomes	A Pokémon held item that boosts a move used consecutively. Its effect is reset if another move is used.	MISSING	MISSING	MISSING
+MUSCLEBAND	MUSCLEBAND	Muscle Band	Muscle Bands	An item to be held by a Pokémon. It is a headband that slightly boosts the power of physical moves.	MISSING	MISSING	MISSING
+WISEGLASSES	WISEGLASSES	Wise Glasses	Wise Glasses	An item to be held by a Pokémon. It is a thick pair of glasses that slightly boosts the power of special moves.	MISSING	MISSING	MISSING
+RAZORCLAW	RAZORCLAW	Razor Claw	Razor Claws	An item to be held by a Pokémon. It is a sharply hooked claw that ups the holder's critical-hit ratio.	MISSING	MISSING	MISSING
+SCOPELENS	SCOPELENS	Scope Lens	Scope Lenses	An item to be held by a Pokémon. It is a lens that boosts the holder's critical-hit ratio.	MISSING	MISSING	MISSING
+WIDELENS	WIDELENS	Wide Lens	Wide Lenses	An item to be held by a Pokémon. It is a magnifying lens that slightly boosts the accuracy of moves.	MISSING	MISSING	MISSING
+ZOOMLENS	ZOOMLENS	Zoom Lens	Zoom Lenses	An item to be held by a Pokémon. If the holder moves after its target, its accuracy will be boosted.	MISSING	MISSING	MISSING
+KINGSROCK	KINGSROCK	King's Rock	King's Rocks	An item to be held by a Pokémon. When the holder inflicts damage, the target may flinch.	MISSING	MISSING	MISSING
+RAZORFANG	RAZORFANG	Razor Fang	Razor Fangs	An item to be held by a Pokémon. It may make foes and allies flinch when the holder inflicts damage.	MISSING	MISSING	MISSING
+LAGGINGTAIL	LAGGINGTAIL	Lagging Tail	Lagging Tails	An item to be held by a Pokémon. It is tremendously heavy and makes the holder move slower than usual.	MISSING	MISSING	MISSING
+QUICKCLAW	QUICKCLAW	Quick Claw	Quick Claws	An item to be held by a Pokémon. A light, sharp claw that lets the bearer move first occasionally.	MISSING	MISSING	MISSING
+FOCUSBAND	FOCUSBAND	Focus Band	Focus Bands	An item to be held by a Pokémon. The holder may endure a potential KO attack, leaving it with just 1 HP.	MISSING	MISSING	MISSING
+FOCUSSASH	FOCUSSASH	Focus Sash	Focus Sashes	An item to be held by a Pokémon. If it has full HP, the holder will endure one potential KO attack, leaving 1 HP.	MISSING	MISSING	MISSING
+FLAMEORB	FLAMEORB	Flame Orb	Flame Orbs	An item to be held by a Pokémon. It is a bizarre orb that inflicts a burn on the holder in battle.	MISSING	MISSING	MISSING
+TOXICORB	TOXICORB	Toxic Orb	Toxic Orbs	An item to be held by a Pokémon. It is a bizarre orb that badly poisons the holder in battle.	MISSING	MISSING	MISSING
+STICKYBARB	STICKYBARB	Sticky Barb	Sticky Barbs	A held item that damages the holder on every turn. It may latch on to Pokémon that touch the holder.	MISSING	MISSING	MISSING
+IRONBALL	IRONBALL	Iron Ball	Iron Balls	A Pokémon held item that cuts Speed. It makes Flying-type and levitating holders susceptible to Ground moves.	MISSING	MISSING	MISSING
+RINGTARGET	RINGTARGET	Ring Target	Ring Targets	Moves that would otherwise have no effect will land on the Pokémon that holds it.	MISSING	MISSING	MISSING
+MACHOBRACE	MACHOBRACE	Macho Brace	Macho Braces	An item to be held by a Pokémon. It is a stiff, heavy brace that promotes strong growth but lowers Speed.	MISSING	MISSING	MISSING
+POWERWEIGHT	POWERWEIGHT	Power Weight	Power Weights	A Pokémon held item that promotes HP gain on leveling, but reduces the Speed stat.	MISSING	MISSING	MISSING
+POWERBRACER	POWERBRACER	Power Bracer	Power Bracers	A Pokémon held item that promotes Attack gain on leveling, but reduces the Speed stat.	MISSING	MISSING	MISSING
+POWERBELT	POWERBELT	Power Belt	Power Belts	A Pokémon held item that promotes Defense gain on leveling, but reduces the Speed stat.	MISSING	MISSING	MISSING
+POWERLENS	POWERLENS	Power Lens	Power Lenses	A Pokémon held item that promotes Sp. Atk gain on leveling, but reduces the Speed stat.	MISSING	MISSING	MISSING
+POWERBAND	POWERBAND	Power Band	Power Bands	A Pokémon held item that promotes Sp. Def gain on leveling, but reduces the Speed stat.	MISSING	MISSING	MISSING
+POWERANKLET	POWERANKLET	Power Anklet	Power Anklets	A Pokémon held item that promotes Speed gain on leveling, but reduces the Speed stat.	MISSING	MISSING	MISSING
+LAXINCENSE	LAXINCENSE	Lax Incense	Lax Incenses	An item to be held by a Pokémon. The tricky aroma of this incense may make attacks miss the holder.	MISSING	MISSING	MISSING
+FULLINCENSE	FULLINCENSE	Full Incense	Full Incenses	An item to be held by a Pokémon. This exotic-smelling incense makes the holder bloated and slow moving.	MISSING	MISSING	MISSING
+LUCKINCENSE	LUCKINCENSE	Luck Incense	Luck Incenses	An item to be held by a Pokémon. It doubles a battle's prize money if the holding Pokémon joins in.	MISSING	MISSING	MISSING
+PUREINCENSE	PUREINCENSE	Pure Incense	Pure Incenses	An item to be held by a Pokémon. It helps keep wild Pokémon away if the holder is the first one in the party.	MISSING	MISSING	MISSING
+SEAINCENSE	SEAINCENSE	Sea Incense	Sea Incenses	An item to be held by a Pokémon. It has a curious aroma that boosts the power of Water-type moves.	MISSING	MISSING	MISSING
+WAVEINCENSE	WAVEINCENSE	Wave Incense	Wave Incenses	An item to be held by a Pokémon. It has a curious aroma that boosts the power of Water-type moves.	MISSING	MISSING	MISSING
+ROSEINCENSE	ROSEINCENSE	Rose Incense	Rose Incenses	An item to be held by a Pokémon. This exotic-smelling incense boosts the power of Grass-type moves.	MISSING	MISSING	MISSING
+ODDINCENSE	ODDINCENSE	Odd Incense	Odd Incenses	An item to be held by a Pokémon. This exotic-smelling incense boosts the power of Psychic-type moves.	MISSING	MISSING	MISSING
+ROCKINCENSE	ROCKINCENSE	Rock Incense	Rock Incenses	An item to be held by a Pokémon. This exotic-smelling incense boosts the power of Rock-type moves.	MISSING	MISSING	MISSING
+CHARCOAL	CHARCOAL	Charcoal	Charcoals	An item to be held by a Pokémon. It is a combustible fuel that boosts the power of Fire-type moves.	MISSING	MISSING	MISSING
+MYSTICWATER	MYSTICWATER	Mystic Water	Mystic Waters	An item to be held by a Pokémon. It is a teardrop-shaped gem that ups the power of Water-type moves.	MISSING	MISSING	MISSING
+MAGNET	MAGNET	Magnet	Magnets	An item to be held by a Pokémon. It is a powerful magnet that boosts the power of Electric-type moves.	MISSING	MISSING	MISSING
+MIRACLESEED	MIRACLESEED	Miracle Seed	Miracle Seeds	An item to be held by a Pokémon. It is a seed imbued with life that ups the power of Grass-type moves.	MISSING	MISSING	MISSING
+NEVERMELTICE	NEVERMELTICE	Never-Melt Ice	Never-Melt Ices	An item to be held by a Pokémon. It is a piece of ice that repels heat and boosts Ice-type moves.	MISSING	MISSING	MISSING
+BLACKBELT	BLACKBELT	Black Belt	Black Belts	An item to be held by a Pokémon. It is a belt that boosts determination and Fighting-type moves.	MISSING	MISSING	MISSING
+POISONBARB	POISONBARB	Poison Barb	Poison Barbs	An item to be held by a Pokémon. It is a small, poisonous barb that ups the power of Poison-type moves.	MISSING	MISSING	MISSING
+SOFTSAND	SOFTSAND	Soft Sand	Soft Sand	An item to be held by a Pokémon. It is a loose, silky sand that boosts the power of Ground-type moves.	MISSING	MISSING	MISSING
+SHARPBEAK	SHARPBEAK	Sharp Beak	Sharp Beaks	An item to be held by a Pokémon. It is a long, sharp beak that boosts the power of Flying-type moves.	MISSING	MISSING	MISSING
+TWISTEDSPOON	TWISTEDSPOON	Twisted Spoon	Twisted Spoons	An item to be held by a Pokémon. It is a spoon imbued with telekinetic power that boosts Psychic-type moves.	MISSING	MISSING	MISSING
+SILVERPOWDER	SILVERPOWDER	Silver Powder	Silver Powders	An item to be held by a Pokémon. It is a shiny, silver powder that ups the power of Bug-type moves.	MISSING	MISSING	MISSING
+HARDSTONE	HARDSTONE	Hard Stone	Hard Stones	An item to be held by a Pokémon. It is an unbreakable stone that ups the power of Rock-type moves.	MISSING	MISSING	MISSING
+SPELLTAG	SPELLTAG	Spell Tag	Spell Tags	An item to be held by a Pokémon. It is a sinister, eerie tag that boosts the power of Ghost-type moves.	MISSING	MISSING	MISSING
+DRAGONFANG	DRAGONFANG	Dragon Fang	Dragon Fangs	An item to be held by a Pokémon. It is a hard and sharp fang that ups the power of Dragon-type moves.	MISSING	MISSING	MISSING
+BLACKGLASSES	BLACKGLASSES	Black Glasses	Black Glasses	An item to be held by a Pokémon. It is a shady-looking pair of glasses that boosts Dark-type moves.	MISSING	MISSING	MISSING
+METALCOAT	METALCOAT	Metal Coat	Metal Coats	An item to be held by a Pokémon. It is a special metallic film that ups the power of Steel-type moves.	MISSING	MISSING	MISSING
+SILKSCARF	SILKSCARF	Silk Scarf	Silk Scarves	An item to be held by a Pokémon. It is a sumptuous scarf that boosts the power of Normal-type moves.	MISSING	MISSING	MISSING
+FLAMEPLATE	FLAMEPLATE	Flame Plate	Flame Plates	An item to be held by a Pokémon. It is a stone tablet that boosts the power of Fire-type moves.	MISSING	MISSING	MISSING
+SPLASHPLATE	SPLASHPLATE	Splash Plate	Splash Plates	An item to be held by a Pokémon. It is a stone tablet that boosts the power of Water-type moves.	MISSING	MISSING	MISSING
+ZAPPLATE	ZAPPLATE	Zap Plate	Zap Plates	An item to be held by a Pokémon. It is a stone tablet that boosts the power of Electric-type moves.	MISSING	MISSING	MISSING
+MEADOWPLATE	MEADOWPLATE	Meadow Plate	Meadow Plates	An item to be held by a Pokémon. It is a stone tablet that boosts the power of Grass-type moves.	MISSING	MISSING	MISSING
+ICICLEPLATE	ICICLEPLATE	Icicle Plate	Icicle Plates	An item to be held by a Pokémon. It is a stone tablet that boosts the power of Ice-type moves.	MISSING	MISSING	MISSING
+FISTPLATE	FISTPLATE	Fist Plate	Fist Plates	An item to be held by a Pokémon. It is a stone tablet that boosts the power of Fighting-type moves.	MISSING	MISSING	MISSING
+TOXICPLATE	TOXICPLATE	Toxic Plate	Toxic Plates	An item to be held by a Pokémon. It is a stone tablet that boosts the power of Poison-type moves.	MISSING	MISSING	MISSING
+EARTHPLATE	EARTHPLATE	Earth Plate	Earth Plates	An item to be held by a Pokémon. It is a stone tablet that boosts the power of Ground-type moves.	MISSING	MISSING	MISSING
+SKYPLATE	SKYPLATE	Sky Plate	Sky Plates	An item to be held by a Pokémon. It is a stone tablet that boosts the power of Flying-type moves.	MISSING	MISSING	MISSING
+MINDPLATE	MINDPLATE	Mind Plate	Mind Plates	An item to be held by a Pokémon. It is a stone tablet that boosts the power of Psychic-type moves.	MISSING	MISSING	MISSING
+INSECTPLATE	INSECTPLATE	Insect Plate	Insect Plates	An item to be held by a Pokémon. It is a stone tablet that boosts the power of Bug-type moves.	MISSING	MISSING	MISSING
+STONEPLATE	STONEPLATE	Stone Plate	Stone Plates	An item to be held by a Pokémon. It is a stone tablet that boosts the power of Rock-type moves.	MISSING	MISSING	MISSING
+SPOOKYPLATE	SPOOKYPLATE	Spooky Plate	Spooky Plates	An item to be held by a Pokémon. It is a stone tablet that boosts the power of Ghost-type moves.	MISSING	MISSING	MISSING
+DRACOPLATE	DRACOPLATE	Draco Plate	Draco Plates	An item to be held by a Pokémon. It is a stone tablet that boosts the power of Dragon-type moves.	MISSING	MISSING	MISSING
+DREADPLATE	DREADPLATE	Dread Plate	Dread Plates	An item to be held by a Pokémon. It is a stone tablet that boosts the power of Dark-type moves.	MISSING	MISSING	MISSING
+IRONPLATE	IRONPLATE	Iron Plate	Iron Plates	An item to be held by a Pokémon. It is a stone tablet that boosts the power of Steel-type moves.	MISSING	MISSING	MISSING
+PIXIEPLATE	PIXIEPLATE	Pixie Plate	Pixie Plates	An item to be held by a Pokémon. It is a stone tablet that boosts the power of Fairy-type moves.	MISSING	MISSING	MISSING
+FIREGEM	FIREGEM	Fire Gem	Fire Gems	A gem with an essence of fire. When held, it strengthens the power of a Fire-type move only once.	MISSING	MISSING	MISSING
+WATERGEM	WATERGEM	Water Gem	Water Gems	A gem with an essence of water. When held, it strengthens the power of a Water-type move only once.	MISSING	MISSING	MISSING
+ELECTRICGEM	ELECTRICGEM	Electric Gem	Electric Gems	A gem with an essence of electricity. When held, it strengthens the power of an Electric-type move only once.	MISSING	MISSING	MISSING
+GRASSGEM	GRASSGEM	Grass Gem	Grass Gems	A gem with an essence of nature. When held, it strengthens the power of a Grass-type move only once.	MISSING	MISSING	MISSING
+ICEGEM	ICEGEM	Ice Gem	Ice Gems	A gem with an essence of ice. When held, it strengthens the power of an Ice-type move only once.	MISSING	MISSING	MISSING
+FIGHTINGGEM	FIGHTINGGEM	Fighting Gem	Fighting Gems	A gem with an essence of combat. When held, it strengthens the power of a Fighting-type move only once.	MISSING	MISSING	MISSING
+POISONGEM	POISONGEM	Poison Gem	Poison Gems	A gem with an essence of poison. When held, it strengthens the power of a Poison-type move only once.	MISSING	MISSING	MISSING
+GROUNDGEM	GROUNDGEM	Ground Gem	Ground Gems	A gem with an essence of land. When held, it strengthens the power of a Ground-type move only once.	MISSING	MISSING	MISSING
+FLYINGGEM	FLYINGGEM	Flying Gem	Flying Gems	A gem with an essence of air. When held, it strengthens the power of a Flying-type move only once.	MISSING	MISSING	MISSING
+PSYCHICGEM	PSYCHICGEM	Psychic Gem	Psychic Gems	A gem with an essence of the mind. When held, it strengthens the power of a Psychic-type move only once.	MISSING	MISSING	MISSING
+BUGGEM	BUGGEM	Bug Gem	Bug Gems	A gem with an insect-like essence. When held, it strengthens the power of a Bug-type move only once.	MISSING	MISSING	MISSING
+ROCKGEM	ROCKGEM	Rock Gem	Rock Gems	A gem with an essence of rock. When held, it strengthens the power of a Rock-type move only once.	MISSING	MISSING	MISSING
+GHOSTGEM	GHOSTGEM	Ghost Gem	Ghost Gems	A gem with a spectral essence. When held, it strengthens the power of a Ghost-type move only once.	MISSING	MISSING	MISSING
+DRAGONGEM	DRAGONGEM	Dragon Gem	Dragon Gems	A gem with a draconic essence. When held, it strengthens the power of a Dragon-type move only once.	MISSING	MISSING	MISSING
+DARKGEM	DARKGEM	Dark Gem	Dark Gems	A gem with an essence of darkness. When held, it strengthens the power of a Dark-type move only once.	MISSING	MISSING	MISSING
+STEELGEM	STEELGEM	Steel Gem	Steel Gems	A gem with an essence of steel. When held, it strengthens the power of a Steel-type move only once.	MISSING	MISSING	MISSING
+FAIRYGEM	FAIRYGEM	Fairy Gem	Fairy Gems	A gem with an essence of the fey. When held, it strengthens the power of a Fairy-type move only once.	MISSING	MISSING	MISSING
+NORMALGEM	NORMALGEM	Normal Gem	Normal Gems	A gem with an ordinary essence. When held, it strengthens the power of a Normal-type move only once.	MISSING	MISSING	MISSING
+LIGHTBALL	LIGHTBALL	Light Ball	Light Balls	An item to be held by Pikachu. It is a puzzling orb that raises the Attack and Sp. Atk stat.	MISSING	MISSING	MISSING
+LUCKYPUNCH	LUCKYPUNCH	Lucky Punch	Lucky Punches	An item to be held by Chansey. It is a pair of gloves that boosts Chansey's critical-hit ratio.	MISSING	MISSING	MISSING
+METALPOWDER	METALPOWDER	Metal Powder	Metal Powders	An item to be held by Ditto. Extremely fine yet hard, this odd powder boosts the Defense stat.	MISSING	MISSING	MISSING
+QUICKPOWDER	QUICKPOWDER	Quick Powder	Quick Powders	An item to be held by Ditto. Extremely fine yet hard, this odd powder boosts the Speed stat.	MISSING	MISSING	MISSING
+THICKCLUB	THICKCLUB	Thick Club	Thick Clubs	An item to be held by Cubone or Marowak. It is a hard bone of some sort that boosts the Attack stat.	MISSING	MISSING	MISSING
+LEEK	LEEK	Leek	Leeks	An item to be held by Farfetch'd. It is a very long and stiff stalk of leek that boosts the critical-hit ratio.	MISSING	MISSING	MISSING
+SOULDEW	SOULDEW	Soul Dew	Soul Dews	A wondrous orb to be held by either Latios or Latias. It raises the power of Psychic- and Dragon-type moves.	MISSING	MISSING	MISSING
+DEEPSEATOOTH	DEEPSEATOOTH	Deep Sea Tooth	Deep Sea Teeth	An item to be held by Clamperl. A fang that gleams a sharp silver, it raises the Sp. Atk stat.	MISSING	MISSING	MISSING
+DEEPSEASCALE	DEEPSEASCALE	Deep Sea Scale	Deep Sea Scales	An item to be held by Clamperl. A scale that shines a faint pink, it raises the Sp. Def stat.	MISSING	MISSING	MISSING
+ADAMANTORB	ADAMANTORB	Adamant Orb	Adamant Orbs	A brightly gleaming orb to be held by Dialga. It boosts the power of Dragon- and Steel-type moves.	MISSING	MISSING	MISSING
+LUSTROUSORB	LUSTROUSORB	Lustrous Orb	Lustrous Orbs	A beautifully glowing orb to be held by Palkia. It boosts the power of Dragon- and Water-type moves.	MISSING	MISSING	MISSING
+GRISEOUSORB	GRISEOUSORB	Griseous Orb	Griseous Orbs	A glowing orb to be held by Giratina. It boosts the power of Dragon- and Ghost-type moves.	MISSING	MISSING	MISSING
+RUSTEDSWORD	RUSTEDSWORD	Rusted Sword	Rusted Swords	It is said that a hero used this sword to halt a disaster in ancient times. But it's grown rusty and worn.	MISSING	MISSING	MISSING
+RUSTEDSHIELD	RUSTEDSHIELD	Rusted Shield	Rusted Shields	It is said that a hero used this shield to halt a disaster in ancient times. But it's grown rusty and worn.	MISSING	MISSING	MISSING
+DOUSEDRIVE	DOUSEDRIVE	Douse Drive	Douse Drives	A cassette to be held by Genesect. It changes Techno Blast to a Water-type move.	MISSING	MISSING	MISSING
+SHOCKDRIVE	SHOCKDRIVE	Shock Drive	Shock Drives	A cassette to be held by Genesect. It changes Techno Blast to an Electric-type move.	MISSING	MISSING	MISSING
+BURNDRIVE	BURNDRIVE	Burn Drive	Burn Drives	A cassette to be held by Genesect. It changes Techno Blast to a Fire-type move.	MISSING	MISSING	MISSING
+CHILLDRIVE	CHILLDRIVE	Chill Drive	Chill Drives	A cassette to be held by Genesect. It changes Techno Blast to an Ice-type move.	MISSING	MISSING	MISSING
+FIREMEMORY	FIREMEMORY	Fire Memory	Fire Memories	A memory disc containing Fire-type data. It changes the holder's type if held by a certain Pokémon.	MISSING	MISSING	MISSING
+WATERMEMORY	WATERMEMORY	Water Memory	Water Memories	A memory disc containing Water-type data. It changes the holder's type if held by a certain Pokémon.	MISSING	MISSING	MISSING
+ELECTRICMEMORY	ELECTRICMEMORY	Electric Memory	Electric Memories	A memory disc containing Electric-type data. It changes the holder's type if held by a certain Pokémon.	MISSING	MISSING	MISSING
+GRASSMEMORY	GRASSMEMORY	Grass Memory	Grass Memories	A memory disc containing Grass-type data. It changes the holder's type if held by a certain Pokémon.	MISSING	MISSING	MISSING
+ICEMEMORY	ICEMEMORY	Ice Memory	Ice Memories	A memory disc containing Ice-type data. It changes the holder's type if held by a certain Pokémon.	MISSING	MISSING	MISSING
+FIGHTINGMEMORY	FIGHTINGMEMORY	Fighting Memory	Fighting Memories	A memory disc containing Fighting-type data. It changes the holder's type if held by a certain Pokémon.	MISSING	MISSING	MISSING
+POISONMEMORY	POISONMEMORY	Poison Memory	Poison Memories	A memory disc containing Poison-type data. It changes the holder's type if held by a certain Pokémon.	MISSING	MISSING	MISSING
+GROUNDMEMORY	GROUNDMEMORY	Ground Memory	Ground Memories	A memory disc containing Ground-type data. It changes the holder's type if held by a certain Pokémon.	MISSING	MISSING	MISSING
+FLYINGMEMORY	FLYINGMEMORY	Flying Memory	Flying Memories	A memory disc containing Flying-type data. It changes the holder's type if held by a certain Pokémon.	MISSING	MISSING	MISSING
+PSYCHICMEMORY	PSYCHICMEMORY	Psychic Memory	Psychic Memories	A memory disc containing Psychic-type data. It changes the holder's type if held by a certain Pokémon.	MISSING	MISSING	MISSING
+BUGMEMORY	BUGMEMORY	Bug Memory	Bug Memories	A memory disc containing Bug-type data. It changes the holder's type if held by a certain Pokémon.	MISSING	MISSING	MISSING
+ROCKMEMORY	ROCKMEMORY	Rock Memory	Rock Memories	A memory disc containing Rock-type data. It changes the holder's type if held by a certain Pokémon.	MISSING	MISSING	MISSING
+GHOSTMEMORY	GHOSTMEMORY	Ghost Memory	Ghost Memories	A memory disc containing Ghost-type data. It changes the holder's type if held by a certain Pokémon.	MISSING	MISSING	MISSING
+DRAGONMEMORY	DRAGONMEMORY	Dragon Memory	Dragon Memories	A memory disc containing Dragon-type data. It changes the holder's type if held by a certain Pokémon.	MISSING	MISSING	MISSING
+DARKMEMORY	DARKMEMORY	Dark Memory	Dark Memories	A memory disc containing Dark-type data. It changes the holder's type if held by a certain Pokémon.	MISSING	MISSING	MISSING
+STEELMEMORY	STEELMEMORY	Steel Memory	Steel Memories	A memory disc containing Steel-type data. It changes the holder's type if held by a certain Pokémon.	MISSING	MISSING	MISSING
+FAIRYMEMORY	FAIRYMEMORY	Fairy Memory	Fairy Memories	A memory disc containing Fairy-type data. It changes the holder's type if held by a certain Pokémon.	MISSING	MISSING	MISSING
+EVERSTONE	EVERSTONE	Everstone	Everstones	An item to be held by a Pokémon. The Pokémon holding this peculiar stone is prevented from evolving.	MISSING	MISSING	MISSING
+DRAGONSCALE	DRAGONSCALE	Dragon Scale	Dragon Scales	A thick and tough scale. Dragon-type Pokémon may be holding this item when caught.	MISSING	MISSING	MISSING
+UPGRADE	UPGRADE	Upgrade	Upgrades	A transparent device filled with all sorts of data. It was produced by Silph Co.	MISSING	MISSING	MISSING
+DUBIOUSDISC	DUBIOUSDISC	Dubious Disc	Dubious Discs	A transparent device overflowing with dubious data.  Its producer is unknown.	MISSING	MISSING	MISSING
+PROTECTOR	PROTECTOR	Protector	Protectors	A protective item of some sort. It is extremely stiff and heavy. It is loved by a certain Pokémon.	MISSING	MISSING	MISSING
+ELECTIRIZER	ELECTIRIZER	Electirizer	Electirizers	A box packed with a tremendous amount of electric energy. It is loved by a certain Pokémon.	MISSING	MISSING	MISSING
+MAGMARIZER	MAGMARIZER	Magmarizer	Magmarizers	A box packed with a tremendous amount of magma energy. It is loved by a certain Pokémon.	MISSING	MISSING	MISSING
+REAPERCLOTH	REAPERCLOTH	Reaper Cloth	Reaper Cloths	A cloth imbued with horrifyingly strong spiritual energy. It is loved by a certain Pokémon.	MISSING	MISSING	MISSING
+PRISMSCALE	PRISMSCALE	Prism Scale	Prism Scales	A mysterious scale that evolves certain Pokémon. It shines in rainbow colors.	MISSING	MISSING	MISSING
+OVALSTONE	OVALSTONE	Oval Stone	Oval Stones	A peculiar stone that makes certain species of Pokémon evolve. It is shaped like an egg.	MISSING	MISSING	MISSING
+WHIPPEDDREAM	WHIPPEDDREAM	Whipped Dream	Whipped Dreams	A soft and sweet treat made of fluffy, puffy and whirled cream. It's loved by a certain Pokémon.	MISSING	MISSING	MISSING
+SACHET	SACHET	Sachet	Sachets	A sachet filled with slightly overwhelming fragrant perfumes. Yet it's loved by a certain Pokémon.	MISSING	MISSING	MISSING
+VENUSAURITE	VENUSAURITE	Venusaurite	Venusaurites	One of a variety of mysterious Mega Stones. Have Venusaur hold it, and it will be able to Mega Evolve.	TRANSLATED	TRANSLATED	MISSING
+CHARIZARDITEX	CHARIZARDITEX	Charizardite X	Charizardite Xs	One of a variety of mysterious Mega Stones. Have Charizard hold it, and it will be able to Mega Evolve.	TRANSLATED	TRANSLATED	MISSING
+CHARIZARDITEY	CHARIZARDITEY	Charizardite Y	Charizardite Ys	One of a variety of mysterious Mega Stones. Have Charizard hold it, and it will be able to Mega Evolve.	TRANSLATED	TRANSLATED	MISSING
+BLASTOISINITE	BLASTOISINITE	Blastoisinite	Blastoisinites	One of a variety of mysterious Mega Stones. Have Blastoise hold it, and it will be able to Mega Evolve.	TRANSLATED	TRANSLATED	MISSING
+BEEDRILLITE	BEEDRILLITE	Beedrillite	Beedrillites	One of a variety of mysterious Mega Stones. Have Beedrill hold it, and it will be able to Mega Evolve.	TRANSLATED	TRANSLATED	MISSING
+PIDGEOTITE	PIDGEOTITE	Pidgeotite	Pidgeotites	One of a variety of mysterious Mega Stones. Have Pidgeot hold it, and it will be able to Mega Evolve.	TRANSLATED	TRANSLATED	MISSING
+ALAKAZITE	ALAKAZITE	Alakazite	Alakazites	One of a variety of mysterious Mega Stones. Have Alakazam hold it, and it will be able to Mega Evolve.	TRANSLATED	TRANSLATED	MISSING
+SLOWBRONITE	SLOWBRONITE	Slowbronite	Slowbronites	One of a variety of mysterious Mega Stones. Have Slowbro hold it, and it will be able to Mega Evolve.	TRANSLATED	TRANSLATED	MISSING
+GENGARITE	GENGARITE	Gengarite	Gengarites	One of a variety of mysterious Mega Stones. Have Gengar hold it, and it will be able to Mega Evolve.	TRANSLATED	TRANSLATED	MISSING
+KANGASKHANITE	KANGASKHANITE	Kangaskhanite	Kangaskhanites	One of a variety of mysterious Mega Stones. Have Kangaskhan hold it, and it will be able to Mega Evolve.	TRANSLATED	TRANSLATED	MISSING
+PINSIRITE	PINSIRITE	Pinsirite	Pinsirites	One of a variety of mysterious Mega Stones. Have Pinsir hold it, and it will be able to Mega Evolve.	TRANSLATED	TRANSLATED	MISSING
+GYARADOSITE	GYARADOSITE	Gyaradosite	Gyaradosites	One of a variety of mysterious Mega Stones. Have Gyarados hold it, and it will be able to Mega Evolve.	TRANSLATED	TRANSLATED	MISSING
+AERODACTYLITE	AERODACTYLITE	Aerodactylite	Aerodactylites	One of a variety of mysterious Mega Stones. Have Aerodactyl hold it, and it will be able to Mega Evolve.	TRANSLATED	TRANSLATED	MISSING
+MEWTWONITEX	MEWTWONITEX	Mewtwonite X	Mewtwonite Xs	One of a variety of mysterious Mega Stones. Have Mewtwo hold it, and it will be able to Mega Evolve.	TRANSLATED	TRANSLATED	MISSING
+MEWTWONITEY	MEWTWONITEY	Mewtwonite Y	Mewtwonite Ys	One of a variety of mysterious Mega Stones. Have Mewtwo hold it, and it will be able to Mega Evolve.	TRANSLATED	TRANSLATED	MISSING
+AMPHAROSITE	AMPHAROSITE	Ampharosite	Ampharosites	One of a variety of mysterious Mega Stones. Have Ampharos hold it, and it will be able to Mega Evolve.	TRANSLATED	TRANSLATED	MISSING
+STEELIXITE	STEELIXITE	Steelixite	Steelixites	One of a variety of mysterious Mega Stones. Have Steelix hold it, and it will be able to Mega Evolve.	TRANSLATED	TRANSLATED	MISSING
+SCIZORITE	SCIZORITE	Scizorite	Scizorites	One of a variety of mysterious Mega Stones. Have Scizor hold it, and it will be able to Mega Evolve.	TRANSLATED	TRANSLATED	MISSING
+HERACRONITE	HERACRONITE	Heracronite	Heracronites	One of a variety of mysterious Mega Stones. Have Heracross hold it, and it will be able to Mega Evolve.	TRANSLATED	TRANSLATED	MISSING
+HOUNDOOMINITE	HOUNDOOMINITE	Houndoominite	Houndoominites	One of a variety of mysterious Mega Stones. Have Houndoom hold it, and it will be able to Mega Evolve.	TRANSLATED	TRANSLATED	MISSING
+TYRANITARITE	TYRANITARITE	Tyranitarite	Tyranitarites	One of a variety of mysterious Mega Stones. Have Tyranitar hold it, and it will be able to Mega Evolve.	TRANSLATED	TRANSLATED	MISSING
+SCEPTILITE	SCEPTILITE	Sceptilite	Sceptilites	One of a variety of mysterious Mega Stones. Have Sceptile hold it, and it will be able to Mega Evolve.	TRANSLATED	TRANSLATED	MISSING
+BLAZIKENITE	BLAZIKENITE	Blazikenite	Blazikenites	One of a variety of mysterious Mega Stones. Have Blaziken hold it, and it will be able to Mega Evolve.	TRANSLATED	TRANSLATED	MISSING
+SWAMPERTITE	SWAMPERTITE	Swampertite	Swampertites	One of a variety of mysterious Mega Stones. Have Swampert hold it, and it will be able to Mega Evolve.	TRANSLATED	TRANSLATED	MISSING
+GARDEVOIRITE	GARDEVOIRITE	Gardevoirite	Gardevoirites	One of a variety of mysterious Mega Stones. Have Gardevoir hold it, and it will be able to Mega Evolve.	TRANSLATED	TRANSLATED	MISSING
+SABLENITE	SABLENITE	Sablenite	Sablenites	One of a variety of mysterious Mega Stones. Have Sableye hold it, and it will be able to Mega Evolve.	TRANSLATED	TRANSLATED	MISSING
+MAWILITE	MAWILITE	Mawilite	Mawilites	One of a variety of mysterious Mega Stones. Have Mawile hold it, and it will be able to Mega Evolve.	TRANSLATED	TRANSLATED	MISSING
+AGGRONITE	AGGRONITE	Aggronite	Aggronites	One of a variety of mysterious Mega Stones. Have Aggron hold it, and it will be able to Mega Evolve.	TRANSLATED	TRANSLATED	MISSING
+MEDICHAMITE	MEDICHAMITE	Medichamite	Medichamites	One of a variety of mysterious Mega Stones. Have Medicham hold it, and it will be able to Mega Evolve.	TRANSLATED	TRANSLATED	MISSING
+MANECTITE	MANECTITE	Manectite	Manectites	One of a variety of mysterious Mega Stones. Have Manectric hold it, and it will be able to Mega Evolve.	TRANSLATED	TRANSLATED	MISSING
+SHARPEDONITE	SHARPEDONITE	Sharpedonite	Sharpedonites	One of a variety of mysterious Mega Stones. Have Sharpedo hold it, and it will be able to Mega Evolve.	TRANSLATED	TRANSLATED	MISSING
+CAMERUPTITE	CAMERUPTITE	Cameruptite	Cameruptites	One of a variety of mysterious Mega Stones. Have Camerupt hold it, and it will be able to Mega Evolve.	TRANSLATED	TRANSLATED	MISSING
+ALTARIANITE	ALTARIANITE	Altarianite	Altarianites	One of a variety of mysterious Mega Stones. Have Altaria hold it, and it will be able to Mega Evolve.	TRANSLATED	TRANSLATED	MISSING
+BANETTITE	BANETTITE	Banettite	Banettites	One of a variety of mysterious Mega Stones. Have Banette hold it, and it will be able to Mega Evolve.	TRANSLATED	TRANSLATED	MISSING
+ABSOLITE	ABSOLITE	Absolite	Absolites	One of a variety of mysterious Mega Stones. Have Absol hold it, and it will be able to Mega Evolve.	TRANSLATED	TRANSLATED	MISSING
+GLALITITE	GLALITITE	Glalitite	Glalitites	One of a variety of mysterious Mega Stones. Have Glalie hold it, and it will be able to Mega Evolve.	TRANSLATED	TRANSLATED	MISSING
+SALAMENCITE	SALAMENCITE	Salamencite	Salamencites	One of a variety of mysterious Mega Stones. Have Salamence hold it, and it will be able to Mega Evolve.	TRANSLATED	TRANSLATED	MISSING
+METAGROSSITE	METAGROSSITE	Metagrossite	Metagrossites	One of a variety of mysterious Mega Stones. Have Metagross hold it, and it will be able to Mega Evolve.	TRANSLATED	TRANSLATED	MISSING
+LATIASITE	LATIASITE	Latiasite	Latiasites	One of a variety of mysterious Mega Stones. Have Latias hold it, and it will be able to Mega Evolve.	TRANSLATED	TRANSLATED	MISSING
+LATIOSITE	LATIOSITE	Latiosite	Latiosites	One of a variety of mysterious Mega Stones. Have Latios hold it, and it will be able to Mega Evolve.	TRANSLATED	TRANSLATED	MISSING
+LOPUNNITE	LOPUNNITE	Lopunnite	Lopunnites	One of a variety of mysterious Mega Stones. Have Lopunny hold it, and it will be able to Mega Evolve.	TRANSLATED	TRANSLATED	MISSING
+GARCHOMPITE	GARCHOMPITE	Garchompite	Garchompites	One of a variety of mysterious Mega Stones. Have Garchomp hold it, and it will be able to Mega Evolve.	TRANSLATED	TRANSLATED	MISSING
+LUCARIONITE	LUCARIONITE	Lucarionite	Lucarionites	One of a variety of mysterious Mega Stones. Have Lucario hold it, and it will be able to Mega Evolve.	TRANSLATED	TRANSLATED	MISSING
+ABOMASITE	ABOMASITE	Abomasite	Abomasites	One of a variety of mysterious Mega Stones. Have Abomasnow hold it, and it will be able to Mega Evolve.	TRANSLATED	TRANSLATED	MISSING
+GALLADITE	GALLADITE	Galladite	Galladites	One of a variety of mysterious Mega Stones. Have Gallade hold it, and it will be able to Mega Evolve.	TRANSLATED	TRANSLATED	MISSING
+AUDINITE	AUDINITE	Audinite	Audinites	One of a variety of mysterious Mega Stones. Have Audino hold it, and it will be able to Mega Evolve.	TRANSLATED	TRANSLATED	MISSING
+DIANCITE	DIANCITE	Diancite	Diancites	One of a variety of mysterious Mega Stones. Have Diancie hold it, and it will be able to Mega Evolve.	TRANSLATED	TRANSLATED	MISSING
+REDORB	REDORB	Red Orb	Red Orbs	A shiny red orb that is said to have a legend tied to it. It's known to be connected with the Hoenn region.	MISSING	MISSING	MISSING
+BLUEORB	BLUEORB	Blue Orb	Blue Orbs	A shiny blue orb that is said to have a legend tied to it. It's known to be connected with the Hoenn region.	MISSING	MISSING	MISSING
+PEWTERCRUNCHIES	PEWTERCRUNCHIES	Pewter Crunchies	Pewter Crunchies	Pewter City's famous crunchy snack. They can be used to heal all status conditions of a single Pokémon.	MISSING	MISSING	MISSING
+RAGECANDYBAR	RAGECANDYBAR	Rage Candy Bar	Rage Candy Bars	Mahogany Town's famous candy. It can be used once to heal all the status conditions of a Pokémon.	MISSING	MISSING	MISSING
+LAVACOOKIE	LAVACOOKIE	Lava Cookie	Lava Cookies	Lavaridge Town's local specialty. It heals all the status problems of one Pokémon.	MISSING	MISSING	MISSING
+OLDGATEAU	OLDGATEAU	Old Gateau	Old Gateaux	Old Chateau's hidden specialty. It heals all the status problems of a single Pokémon.	MISSING	MISSING	MISSING
+CASTELIACONE	CASTELIACONE	Casteliacone	Casteliacones	Castelia City's specialty, soft-serve ice cream. It heals all the status problems of a single Pokémon.	MISSING	MISSING	MISSING
+LUMIOSEGALETTE	LUMIOSEGALETTE	Lumiose Galette	Lumiose Galettes	A popular treat in Lumiose City. It can be used once to heal all the status conditions of a Pokémon.	MISSING	MISSING	MISSING
+SHALOURSABLE	SHALOURSABLE	Shalour Sable	Shalour Sables	Shalour City's famous shortbread. It can be used once to heal all the status conditions of a Pokémon.	MISSING	MISSING	MISSING
+BIGMALASADA	BIGMALASADA	Big Malasada	Big Malasadas	The Alola region's specialty--fried bread. It can be used once to heal all the status conditions of a Pokémon.	MISSING	MISSING	MISSING
+MAXREVIVE	MAXREVIVE	Max Revive	Max Revives	A medicine that revives a fainted Pokémon. It fully restores the Pokémon's HP.	MISSING	MISSING	MISSING
+SWEETHEART	SWEETHEART	Sweet Heart	Sweet Hearts	Very sweet chocolate. It restores the HP of one Pokémon by only 20 points.	MISSING	MISSING	MISSING
+ENERGYPOWDER	ENERGYPOWDER	Energy Powder	Energy Powders	A very bitter medicinal powder. It can be used to restore 60 HP to a single Pokémon.	MISSING	MISSING	MISSING
+ENERGYROOT	ENERGYROOT	Energy Root	Energy Roots	An extremely bitter medicinal root. It can be used to restore 120 HP to a single Pokémon.	MISSING	MISSING	MISSING
+HEALPOWDER	HEALPOWDER	Heal Powder	Heal Powders	A very bitter medicine powder. It heals all the status problems of a single Pokémon.	MISSING	MISSING	MISSING
+REVIVALHERB	REVIVALHERB	Revival Herb	Revival Herbs	A very bitter medicinal herb. It revives a fainted Pokémon, fully restoring its HP.	MISSING	MISSING	MISSING
+ETHER	ETHER	Ether	Ethers	It restores the PP of a Pokémon's selected move by a maximum of 10 points.	MISSING	MISSING	MISSING
+MAXETHER	MAXETHER	Max Ether	Max Ethers	It fully restores the PP of a single selected move that has been learned by the target Pokémon.	MISSING	MISSING	MISSING
+ELIXIR	ELIXIR	Elixir	Elixirs	It restores the PP of all the moves learned by the targeted Pokémon by 10 points each.	MISSING	MISSING	MISSING
+MAXELIXIR	MAXELIXIR	Max Elixir	Max Elixirs	It fully restores the PP of all the moves learned by the targeted Pokémon.	MISSING	MISSING	MISSING
+PPUP	PPUP	PP Up	PP Ups	It slightly raises the maximum PP of a selected move that has been learned by the target Pokémon.	MISSING	MISSING	MISSING
+PPMAX	PPMAX	PP Max	PP Maxes	It maximally raises the top PP of a selected move that has been learned by the target Pokémon.	MISSING	MISSING	MISSING
+HPUP	HPUP	HP Up	HP Ups	A nutritious drink for Pokémon. It raises the base HP of a single Pokémon.	MISSING	MISSING	MISSING
+PROTEIN	PROTEIN	Protein	Proteins	A nutritious drink for Pokémon. It raises the base Attack stat of a single Pokémon.	MISSING	MISSING	MISSING
+IRON	IRON	Iron	Irons	A nutritious drink for Pokémon. It raises the base Defense stat of a single Pokémon.	MISSING	MISSING	MISSING
+CALCIUM	CALCIUM	Calcium	Calciums	A nutritious drink for Pokémon. It raises the base Sp. Atk (Special Attack) stat of a single Pokémon.	MISSING	MISSING	MISSING
+ZINC	ZINC	Zinc	Zincs	A nutritious drink for Pokémon. It raises the base Sp. Def (Special Defense) stat of a single Pokémon.	MISSING	MISSING	MISSING
+CARBOS	CARBOS	Carbos	Carbos	A nutritious drink for Pokémon. It raises the base Speed stat of a single Pokémon.	MISSING	MISSING	MISSING
+HEALTHFEATHER	HEALTHFEATHER	Health Feather	Health Feathers	An item for use on a Pokémon. It slightly increases the base HP of a single Pokémon.	MISSING	MISSING	MISSING
+MUSCLEFEATHER	MUSCLEFEATHER	Muscle Feather	Muscle Feathers	An item for use on a Pokémon. It slightly increases the base Attack stat of a single Pokémon.	MISSING	MISSING	MISSING
+RESISTFEATHER	RESISTFEATHER	Resist Feather	Resist Feathers	An item for use on a Pokémon. It slightly increases the base Defense stat of a single Pokémon.	MISSING	MISSING	MISSING
+GENIUSFEATHER	GENIUSFEATHER	Genius Feather	Genius Feathers	An item for use on a Pokémon. It slightly increases the base Sp. Atk stat of a single Pokémon.	MISSING	MISSING	MISSING
+CLEVERFEATHER	CLEVERFEATHER	Clever Feather	Clever Feathers	An item for use on a Pokémon. It slightly increases the base Sp. Def stat of a single Pokémon.	MISSING	MISSING	MISSING
+SWIFTFEATHER	SWIFTFEATHER	Swift Feather	Swift Feathers	An item for use on a Pokémon. It slightly increases the base Speed stat of a single Pokémon.	MISSING	MISSING	MISSING
+LONELYMINT	LONELYMINT	Lonely Mint	Lonely Mints	When a Pokémon smells this mint, its Attack will grow more easily, but its Defense will grow more slowly.	MISSING	MISSING	MISSING
+ADAMANTMINT	ADAMANTMINT	Adamant Mint	Adamant Mints	When a Pokémon smells this mint, its Attack will grow more easily, but its Sp. Atk will grow more slowly.	MISSING	MISSING	MISSING
+NAUGHTYMINT	NAUGHTYMINT	Naughty Mint	Naughty Mints	When a Pokémon smells this mint, its Attack will grow more easily, but its Sp. Def will grow more slowly.	MISSING	MISSING	MISSING
+BRAVEMINT	BRAVEMINT	Brave Mint	Brave Mints	When a Pokémon smells this mint, its Attack will grow more easily, but its Speed will grow more slowly.	MISSING	MISSING	MISSING
+BOLDMINT	BOLDMINT	Bold Mint	Bold Mints	When a Pokémon smells this mint, its Defense will grow more easily, but its Attack will grow more slowly.	MISSING	MISSING	MISSING
+IMPISHMINT	IMPISHMINT	Impish Mint	Impish Mints	When a Pokémon smells this mint, its Defense will grow more easily, but its Sp. Atk will grow more slowly.	MISSING	MISSING	MISSING
+LAXMINT	LAXMINT	Lax Mint	Lax Mints	When a Pokémon smells this mint, its Defense will grow more easily, but its Sp. Def will grow more slowly.	MISSING	MISSING	MISSING
+RELAXEDMINT	RELAXEDMINT	Relaxed Mint	Relaxed Mints	When a Pokémon smells this mint, its Defense will grow more easily, but its Speed will grow more slowly.	MISSING	MISSING	MISSING
+MODESTMINT	MODESTMINT	Modest Mint	Modest Mints	When a Pokémon smells this mint, its Sp. Atk will grow more easily, but its Attack will grow more slowly.	MISSING	MISSING	MISSING
+MILDMINT	MILDMINT	Mild Mint	Mild Mints	When a Pokémon smells this mint, its Sp. Atk will grow more easily, but its Defense will grow more slowly.	MISSING	MISSING	MISSING
+RASHMINT	RASHMINT	Rash Mint	Rash Mints	When a Pokémon smells this mint, its Sp. Atk will grow more easily, but its Sp. Def will grow more slowly.	MISSING	MISSING	MISSING
+QUIETMINT	QUIETMINT	Quiet Mint	Quiet Mints	When a Pokémon smells this mint, its Sp. Atk will grow more easily, but its Speed will grow more slowly.	MISSING	MISSING	MISSING
+CALMMINT	CALMMINT	Calm Mint	Calm Mints	When a Pokémon smells this mint, its Sp. Def will grow more easily, but its Attack will grow more slowly.	MISSING	MISSING	MISSING
+GENTLEMINT	GENTLEMINT	Gentle Mint	Gentle Mints	When a Pokémon smells this mint, its Sp. Def will grow more easily, but its Defense will grow more slowly.	MISSING	MISSING	MISSING
+CAREFULMINT	CAREFULMINT	Careful Mint	Careful Mints	When a Pokémon smells this mint, its Sp. Def will grow more easily, but its Sp. Atk will grow more slowly.	MISSING	MISSING	MISSING
+SASSYMINT	SASSYMINT	Sassy Mint	Sassy Mints	When a Pokémon smells this mint, its Sp. Def will grow more easily, but its Speed will grow more slowly.	MISSING	MISSING	MISSING
+TIMIDMINT	TIMIDMINT	Timid Mint	Timid Mints	When a Pokémon smells this mint, its Speed will grow more easily, but its Attack will grow more slowly.	MISSING	MISSING	MISSING
+HASTYMINT	HASTYMINT	Hasty Mint	Hasty Mints	When a Pokémon smells this mint, its Speed will grow more easily, but its Defense will grow more slowly.	MISSING	MISSING	MISSING
+JOLLYMINT	JOLLYMINT	Jolly Mint	Jolly Mints	When a Pokémon smells this mint, its Speed will grow more easily, but its Sp. Atk will grow more slowly.	MISSING	MISSING	MISSING
+NAIVEMINT	NAIVEMINT	Naive Mint	Naive Mints	When a Pokémon smells this mint, its Speed will grow more easily, but its Sp. Def will grow more slowly.	MISSING	MISSING	MISSING
+SERIOUSMINT	SERIOUSMINT	Serious Mint	Serious Mints	When a Pokémon smells this mint, all of its stats will grow at an equal rate.	MISSING	MISSING	MISSING
+ABILITYCAPSULE	ABILITYCAPSULE	Ability Capsule	Ability Capsule	A capsule that allows a Pokémon with two Abilities to switch between these Abilities when it is used.	MISSING	MISSING	MISSING
+ABILITYPATCH	ABILITYPATCH	Ability Patch	Ability Patches	A patch that allows a Pokémon with a regular Ability to have a rare Ability.	MISSING	MISSING	MISSING
+EXPCANDYXS	EXPCANDYXS	Exp. Candy XS	Exp. Candy XSs	A candy packed with energy. When consumed, it will grant a Pokémon a very small amount of Exp. Points.	MISSING	MISSING	MISSING
+EXPCANDYS	EXPCANDYS	Exp. Candy S	Exp. Candy Ss	A candy packed with energy. When consumed, it will grant a Pokémon a small amount of Exp. Points.	MISSING	MISSING	MISSING
+EXPCANDYM	EXPCANDYM	Exp. Candy M	Exp. Candy Ms	A candy packed with energy. When consumed, it will grant a Pokémon a moderate amount of Exp. Points.	MISSING	MISSING	MISSING
+EXPCANDYL	EXPCANDYL	Exp. Candy L	Exp. Candy Ls	A candy packed with energy. When consumed, it will grant a Pokémon a large amount of Exp. Points.	MISSING	MISSING	MISSING
+EXPCANDYXL	EXPCANDYXL	Exp. Candy XL	Exp. Candy XLs	A candy packed with energy. When consumed, it will grant a Pokémon a very large amount of Exp. Points.	MISSING	MISSING	MISSING
+RARECANDY	RARECANDY	Rare Candy	Rare Candies	A candy that is packed with energy. It raises the level of a single Pokémon by one.	MISSING	MISSING	MISSING
+MASTERBALL	MASTERBALL	Master Ball	Master Balls	The best Ball with the ultimate level of performance. It will catch any wild Pokémon without fail.	MISSING	MISSING	MISSING
+ULTRABALL	ULTRABALL	Ultra Ball	Ultra Balls	An ultra-performance Ball that provides a higher Pokémon catch rate than a Great Ball.	UNTRANSLATED	UNTRANSLATED	TRANSLATED
+POKEBALL	POKEBALL	Poké Ball	Poké Balls	A device for catching wild Pokémon. It is thrown like a ball at the target. It is designed as a capsule system.	UNTRANSLATED	UNTRANSLATED	TRANSLATED
+SAFARIBALL	SAFARIBALL	Safari Ball	Safari Balls	A special Poké Ball that is used only in the Safari Zone. It is decorated in a camouflage pattern.	MISSING	MISSING	MISSING
+NETBALL	NETBALL	Net Ball	Net Balls	A somewhat different Poké Ball that works especially well on Water- and Bug-type Pokémon.	MISSING	MISSING	MISSING
+DIVEBALL	DIVEBALL	Dive Ball	Dive Balls	A somewhat different Poké Ball that works especially well on Pokémon that live underwater.	MISSING	MISSING	MISSING
+NESTBALL	NESTBALL	Nest Ball	Nest Balls	A somewhat different Poké Ball that works especially well on weaker Pokémon in the wild.	MISSING	MISSING	MISSING
+REPEATBALL	REPEATBALL	Repeat Ball	Repeat Balls	A somewhat different Poké Ball that works especially well on Pokémon species that were previously caught.	MISSING	MISSING	MISSING
+TIMERBALL	TIMERBALL	Timer Ball	Timer Balls	A somewhat different Ball that becomes progressively better the more turns there are in a battle.	MISSING	MISSING	MISSING
+LUXURYBALL	LUXURYBALL	Luxury Ball	Luxury Balls	A comfortable Poké Ball that makes a caught wild Pokémon quickly grow friendly.	MISSING	MISSING	MISSING
+PREMIERBALL	PREMIERBALL	Premier Ball	Premier Balls	A somewhat rare Poké Ball that has been specially made to commemorate an event of some sort.	MISSING	MISSING	MISSING
+DUSKBALL	DUSKBALL	Dusk Ball	Dusk Balls	A somewhat different Poké Ball that makes it easier to catch wild Pokémon at night or in dark places like caves.	MISSING	MISSING	MISSING
+HEALBALL	HEALBALL	Heal Ball	Heal Balls	A remedial Poké Ball that restores the caught Pokémon's HP and eliminates any status problem.	MISSING	MISSING	MISSING
+QUICKBALL	QUICKBALL	Quick Ball	Quick Balls	A somewhat different Poké Ball that provides a better catch rate if used at the start of a wild encounter.	MISSING	MISSING	MISSING
+CHERISHBALL	CHERISHBALL	Cherish Ball	Cherish Balls	A quite rare Poké Ball that has been specially crafted to commemorate an occasion of some sort.	MISSING	MISSING	MISSING
+FASTBALL	FASTBALL	Fast Ball	Fast Balls	A Poké Ball that makes it easier to catch fast Pokémon.	MISSING	MISSING	MISSING
+LEVELBALL	LEVELBALL	Level Ball	Level Balls	A Poké Ball for catching Pokémon that are a lower level than your own.	MISSING	MISSING	MISSING
+LUREBALL	LUREBALL	Lure Ball	Lure Balls	A Poké Ball for catching Pokémon hooked by a Rod when fishing.	MISSING	MISSING	MISSING
+HEAVYBALL	HEAVYBALL	Heavy Ball	Heavy Balls	A Poké Ball for catching very heavy Pokémon.	MISSING	MISSING	MISSING
+LOVEBALL	LOVEBALL	Love Ball	Love Balls	A Poké Ball for catching Pokémon that are the opposite gender of your Pokémon.	MISSING	MISSING	MISSING
+FRIENDBALL	FRIENDBALL	Friend Ball	Friend Balls	A Poké Ball that makes caught Pokémon more friendly.	MISSING	MISSING	MISSING
+MOONBALL	MOONBALL	Moon Ball	Moon Balls	A Poké Ball for catching Pokémon that evolve using the Moon Stone.	MISSING	MISSING	MISSING
+DREAMBALL	DREAMBALL	Dream Ball	Dream Balls	A somewhat different Poké Ball that makes it easier to catch wild Pokémon while they're asleep.	MISSING	MISSING	MISSING
+BEASTBALL	BEASTBALL	Beast Ball	Beast Balls	A special Poké Ball designed to catch Ultra Beasts. It has a low success rate for catching others.	MISSING	MISSING	MISSING
+TM01	TM01	TM01	TM01s	The user focuses its mind before launching a punch. This move fails if the user is hit before it is used.	MISSING	MISSING	MISSING
+TM02	TM02	TM02	TM02s	The user slashes the target with huge sharp claws.	MISSING	MISSING	MISSING
+TM03	TM03	TM03	TM03s	The user attacks the target with a pulsing blast of water. This may also confuse the target.	MISSING	MISSING	MISSING
+TM04	TM04	TM04	TM04s	The user quietly focuses its mind and calms its spirit to raise its Sp. Atk and Sp. Def stats.	MISSING	MISSING	MISSING
+TM05	TM05	TM05	TM05s	The target is scared off, and a different Pokémon is dragged out. In the wild, this ends the battle.	MISSING	MISSING	MISSING
+TM06	TM06	TM06	TM06s	A move that leaves the target badly poisoned. Its damage worsens every turn.	MISSING	MISSING	TRANSLATED
+TM07	TM07	TM07	TM07s	The user summons a hailstorm lasting five turns. It damages all Pokémon except Ice types.	MISSING	MISSING	MISSING
+TM08	TM08	TM08	TM08s	The user tenses its muscles to bulk up its body, raising both its Attack and Defense stats.	MISSING	MISSING	MISSING
+TM09	TM09	TM09	TM09s	The user forcefully shoots seeds at the target two to five times in a row.	MISSING	MISSING	MISSING
+TM10	TM10	TM10	TM10s	The user is roused, and its Attack and Sp. Atk stats increase.	MISSING	MISSING	MISSING
+TM11	TM11	TM11	TM11s	The user intensifies the sun for five turns, powering up Fire-type moves and weakening Water-type moves.	MISSING	MISSING	MISSING
+TM12	TM12	TM12	TM12s	The target is taunted into a rage that allows it to use only attack moves for three turns.	MISSING	MISSING	MISSING
+TM13	TM13	TM13	TM13s	The target is struck with an icy-cold beam of energy. This may also leave the target frozen.	MISSING	MISSING	MISSING
+TM14	TM14	TM14	TM14s	A howling blizzard is summoned to strike opposing Pokémon. This may also leave them frozen.	MISSING	MISSING	MISSING
+TM15	TM15	TM15	TM15s	The target is attacked with a powerful beam. The user can't move on the next turn.	MISSING	MISSING	MISSING
+TM16	TM16	TM16	TM16s	A wondrous wall of light is put up to reduce damage from special attacks for five turns.	MISSING	MISSING	MISSING
+TM17	TM17	TM17	TM17s	The user protects itself from all attacks. Its chance of failing rises if it is used in succession.	MISSING	MISSING	MISSING
+TM18	TM18	TM18	TM18s	The user summons a heavy rain for five turns, powering up Water-type moves and weakening Fire-type ones.	MISSING	MISSING	MISSING
+TM19	TM19	TM19	TM19s	A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.	MISSING	MISSING	MISSING
+TM20	TM20	TM20	TM20s	The user creates a protective field that prevents status conditions for five turns.	MISSING	MISSING	MISSING
+TM21	TM21	TM21	TM21s	The user damages opposing Pokémon by emitting a powerful flash.	MISSING	MISSING	MISSING
+TM22	TM22	TM22	TM22s	In this two-turn attack, the user gathers light, then blasts a bundled beam on the next turn.	MISSING	MISSING	MISSING
+TM23	TM23	TM23	TM23s	The target is slammed with a steel-hard tail. This may also lower the target's Defense stat.	MISSING	MISSING	MISSING
+TM24	TM24	TM24	TM24s	A strong electric blast crashes down on the target. This may also leave the target with paralysis.	MISSING	MISSING	MISSING
+TM25	TM25	TM25	TM25s	A wicked thunderbolt is dropped on the target to inflict damage. This may also leave them with paralysis.	MISSING	MISSING	MISSING
+TM26	TM26	TM26	TM26s	The user sets off an earthquake that strikes every Pokémon around it.	MISSING	MISSING	MISSING
+TM27	TM27	TM27	TM27s	The user makes a swift attack on the target's legs, which lowers the target's Speed stat.	MISSING	MISSING	MISSING
+TM28	TM28	TM28	TM28s	The user burrows into the ground, then attacks on the next turn. It can also be used to exit dungeons.	MISSING	MISSING	MISSING
+TM29	TM29	TM29	TM29s	The target is hit by a strong telekinetic force. This may also lower the target's Sp. Def stat.	MISSING	MISSING	MISSING
+TM30	TM30	TM30	TM30s	The user hurls a shadowy blob at the target. This may also lower the target's Sp. Def stat.	MISSING	MISSING	MISSING
+TM31	TM31	TM31	TM31s	The user attacks with a swift chop. It can also break barriers, such as Light Screen and Reflect.	MISSING	MISSING	MISSING
+TM32	TM32	TM32	TM32s	By moving rapidly, the user makes illusory copies of itself to raise its evasiveness.	MISSING	MISSING	MISSING
+TM33	TM33	TM33	TM33s	A wondrous wall of light is put up to reduce damage from physical attacks for five turns.	MISSING	MISSING	MISSING
+TM34	TM34	TM34	TM34s	The user strikes the target with a quick jolt of electricity. This attack never misses.	MISSING	MISSING	MISSING
+TM35	TM35	TM35	TM35s	The target is scorched with an intense blast of fire. This may also leave the target with a burn.	MISSING	MISSING	MISSING
+TM36	TM36	TM36	TM36s	Unsanitary sludge is hurled at the target. This may also poison the target.	MISSING	MISSING	MISSING
+TM37	TM37	TM37	TM37s	A five-turn sandstorm is summoned to hurt all combatants except Rock, Ground, and Steel types.	MISSING	MISSING	MISSING
+TM38	TM38	TM38	TM38s	The target is attacked with an intense blast of all-consuming fire. This may also leave them with a burn.	MISSING	MISSING	MISSING
+TM39	TM39	TM39	TM39s	Boulders are hurled at the target. This also lowers the target's Speed stat by preventing its movement.	MISSING	MISSING	MISSING
+TM40	TM40	TM40	TM40s	The user confounds the target with speed, then slashes. This attack never misses.	MISSING	MISSING	MISSING
+TM41	TM41	TM41	TM41s	The user torments and enrages the target, making it incapable of using the same move twice in a row.	MISSING	MISSING	MISSING
+TM42	TM42	TM42	TM42s	This attack move doubles its power if the user is poisoned, burned, or paralyzed.	MISSING	MISSING	MISSING
+TM43	TM43	TM43	TM43s	After making its attack, the user rushes back to switch places with a party Pokémon in waiting.	MISSING	MISSING	MISSING
+TM44	TM44	TM44	TM44s	The user goes to sleep for two turns. This fully restores the user's HP and heals any status conditions.	MISSING	MISSING	MISSING
+TM45	TM45	TM45	TM45s	If it is the opposite gender of the user, the target becomes infatuated and less likely to attack.	MISSING	MISSING	MISSING
+TM46	TM46	TM46	TM46s	The user attacks and steals the target's held item simultaneously.	MISSING	MISSING	MISSING
+TM47	TM47	TM47	TM47s	The target is hit with wings of steel. This may also raise the user's Defense stat.	MISSING	MISSING	MISSING
+TM48	TM48	TM48	TM48s	The user employs its psychic power to exchange Abilities with the target.	MISSING	MISSING	MISSING
+TM49	TM49	TM49	TM49s	The user shoots boiling hot water at its target. This may also leave the target with a burn.	MISSING	MISSING	MISSING
+TM50	TM50	TM50	TM50s	The user attacks the target at full power. The attack's recoil harshly lowers the user's Sp. Atk stat.	MISSING	MISSING	MISSING
+TM51	TM51	TM51	TM51s	The user lands and rests its body. This move restores the user's HP by up to half of its max HP.	MISSING	MISSING	MISSING
+TM52	TM52	TM52	TM52s	The user heightens its mental focus and unleashes its power. This may also lower the target's Sp. Def stat.	MISSING	MISSING	MISSING
+TM53	TM53	TM53	TM53s	The user draws power from nature and fires it at the target. This may also lower the target's Sp. Def stat.	MISSING	MISSING	MISSING
+TM54	TM54	TM54	TM54s	A restrained attack that prevents the target from fainting. The target is left with at least 1 HP.	MISSING	MISSING	MISSING
+TM55	TM55	TM55	TM55s	If the target's HP is half or less, this attack will hit with double the power.	MISSING	MISSING	MISSING
+TM56	TM56	TM56	TM56s	The user flings its held item at the target to attack. This move's power and effects depend on the item.	MISSING	MISSING	MISSING
+TM57	TM57	TM57	TM57s	The user attacks the target with an electric charge. The user may use any remaining charge to raise its Sp. Atk.	MISSING	MISSING	MISSING
+TM58	TM58	TM58	TM58s	The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.	MISSING	MISSING	MISSING
+TM59	TM59	TM59	TM59s	The target is attacked with a shock wave generated by the user's gaping mouth.	MISSING	MISSING	MISSING
+TM60	TM60	TM60	TM60s	An energy-draining punch. The user's HP is restored by half the damage taken by the target.	MISSING	MISSING	MISSING
+TM61	TM61	TM61	TM61s	The user shoots a sinister flame at the target to inflict a burn.	MISSING	MISSING	MISSING
+TM62	TM62	TM62	TM62s	The user generates a damaging sound wave by vibration. This may also lower the target's Sp. Def stat.	MISSING	MISSING	MISSING
+TM63	TM63	TM63	TM63s	The user stimulates its brain by thinking bad thoughts. This sharply raises the user's Sp. Atk stat.	MISSING	MISSING	MISSING
+TM64	TM64	TM64	TM64s	The user attacks everything around it by causing a tremendous explosion. The user faints upon using this move.	MISSING	MISSING	MISSING
+TM65	TM65	TM65	TM65s	The user slashes with a sharp claw made from shadows. Critical hits land more easily.	MISSING	MISSING	MISSING
+TM66	TM66	TM66	TM66s	The user stores power, then attacks. If the user moves after the target, this attack's power will be doubled.	MISSING	MISSING	MISSING
+TM67	TM67	TM67	TM67s	The user recycles a held item that has been used in battle so it can be used again.	MISSING	MISSING	MISSING
+TM68	TM68	TM68	TM68s	The user charges at the target using every bit of its power. The user can't move on the next turn.	MISSING	MISSING	MISSING
+TM69	TM69	TM69	TM69s	The user polishes its body to reduce drag. This sharply raises the Speed stat.	MISSING	MISSING	MISSING
+TM70	TM70	TM70	TM70s	The user flashes a light that lowers the target's accuracy. It can also be used to illuminate caves.	MISSING	MISSING	MISSING
+TM71	TM71	TM71	TM71s	The user stabs the target from below with sharpened stones. Critical hits land more easily.	MISSING	MISSING	MISSING
+TM72	TM72	TM72	TM72s	The power of this attack move is doubled if the user has been hurt by the target in the same turn.	MISSING	MISSING	MISSING
+TM73	TM73	TM73	TM73s	The user launches a weak jolt of electricity that paralyzes the target.	MISSING	MISSING	MISSING
+TM74	TM74	TM74	TM74s	The user tackles with a high-speed spin. This move is stronger the slower the user is than the target.	MISSING	MISSING	MISSING
+TM75	TM75	TM75	TM75s	A frenetic dance to uplift the fighting spirit. This sharply raises the user's Attack stat.	MISSING	MISSING	MISSING
+TM76	TM76	TM76	TM76s	The user lays a trap of levitating stones around the opposing team that hurt Pokémon that switch in.	MISSING	MISSING	MISSING
+TM77	TM77	TM77	TM77s	The user hypnotizes itself into copying any stat change made by the target.	MISSING	MISSING	MISSING
+TM78	TM78	TM78	TM78s	The user yells as if it's ranting about something, which lowers the Sp. Atk stats of opposing Pokémon.	MISSING	MISSING	MISSING
+TM79	TM79	TM79	TM79s	The user releases a horrible aura imbued with dark thoughts. This may also make the target flinch.	MISSING	MISSING	MISSING
+TM80	TM80	TM80	TM80s	Large boulders are hurled at opposing Pokémon to inflict damage. This may also make them flinch.	MISSING	MISSING	MISSING
+TM81	TM81	TM81	TM81s	The user slashes at the target by crossing its scythes or claws as if they were a pair of scissors.	MISSING	MISSING	MISSING
+TM82	TM82	TM82	TM82s	While it is asleep, the user randomly uses one of the moves it knows.	MISSING	MISSING	MISSING
+TM83	TM83	TM83	TM83s	The user strikes everything around it by stomping down on the ground. This lowers the Speed of those hit.	MISSING	MISSING	MISSING
+TM84	TM84	TM84	TM84s	The target is stabbed with a tentacle, arm, or the like steeped in poison. This may also poison them.	MISSING	MISSING	MISSING
+TM85	TM85	TM85	TM85s	The user eats the dreams of a sleeping target. The user's HP is restored by half the damage dealt.	MISSING	MISSING	MISSING
+TM86	TM86	TM86	TM86s	The user snares the target with grass and trips it. The heavier the target, the strong the move is.	MISSING	MISSING	MISSING
+TM87	TM87	TM87	TM87s	The user enrages and confuses the target. However, this also sharply raises the target's Attack stat.	MISSING	MISSING	MISSING
+TM88	TM88	TM88	TM88s	The user pecks the target. If the target is holding a Berry, the user eats it and gains its effect.	MISSING	MISSING	MISSING
+TM89	TM89	TM89	TM89s	After making its attack, the user rushes back to switch places with a party Pokémon in waiting.	MISSING	MISSING	MISSING
+TM90	TM90	TM90	TM90s	The user creates a substitute for itself using some of its HP. The substitute serves as a decoy.	MISSING	MISSING	MISSING
+TM91	TM91	TM91	TM91s	The user gathers all its light energy and releases it all at once. This may also lower the target's Sp. Def stat.	MISSING	MISSING	MISSING
+TM92	TM92	TM92	TM92s	The user creates a bizarre area in which slower Pokémon get to move first for five turns.	MISSING	MISSING	MISSING
+TM93	TM93	TM93	TM93s	The user fires a beam of steel that it collected from its entire body. This also damages the user.	MISSING	MISSING	TRANSLATED
+TM94	TM94	TM94	TM94s	The user wraps its foe in a fierce wind that flies up into the sky. It may also confuse the foe.	MISSING	MISSING	TRANSLATED
+TM95	TM95	TM95	TM95s	The user looses a blast of aura power from deep within its body. This move is certain to hit.	MISSING	MISSING	TRANSLATED
+TM96	TM96	TM96	TM96s	The user nimbly strikes the foe. This attack does more damage if the user is not holding an item.	MISSING	MISSING	TRANSLATED
+TM97	TM97	TM97	TM97s	A strong wind blows away the target's barriers, such as Reflect, and lowers their evasiveness.	MISSING	MISSING	MISSING
+TM98	TM98	TM98	TM98s	The user cloaks itself in flame and attacks. Building up more power, it raises the user's Speed stat.	MISSING	MISSING	TRANSLATED
+TM99	TM99	TM99	TM99s	Diving on the first turn, the user floats up and attacks on the second.	MISSING	MISSING	TRANSLATED
+TM100	TM100	TM100	TM100s	A charging attack that may also leave the foe confused.	MISSING	MISSING	MISSING
+HM01	HM01	HM01	HM01s	The target is cut with a scythe or claw. This can also be used to cut down thin trees.	MISSING	MISSING	MISSING
+HM02	HM02	HM02	HM02s	The user soars and then strikes on the next turn. This can also be used to fly to any familiar town.	MISSING	MISSING	MISSING
+HM03	HM03	HM03	HM03s	Attacks everything by swamping the surroundings with a giant wave. This can also be used to cross water.	MISSING	MISSING	MISSING
+HM04	HM04	HM04	HM04s	The target is slugged with a punch thrown at maximum power. This can also be used to move heavy boulders.	MISSING	MISSING	MISSING
+HM05	HM05	HM05	HM05s	The user charges at the target and may make it flinch. It can also be used to climb a waterfall.	MISSING	MISSING	MISSING
+HM06	HM06	HM06	HM06s	The user attacks with a punch that may lower the target's Defense stat.	MISSING	MISSING	MISSING
+CHERIBERRY	CHERIBERRY	Cheri Berry	Cheri Berries	It may be used or held by a Pokémon to recover from paralysis.	MISSING	MISSING	MISSING
+CHESTOBERRY	CHESTOBERRY	Chesto Berry	Chesto Berries	It may be used or held by a Pokémon to recover from sleep.	MISSING	MISSING	MISSING
+PECHABERRY	PECHABERRY	Pecha Berry	Pecha Berries	It may be used or held by a Pokémon to recover from poison.	MISSING	MISSING	MISSING
+RAWSTBERRY	RAWSTBERRY	Rawst Berry	Rawst Berries	It may be used or held by a Pokémon to recover from a burn.	MISSING	MISSING	MISSING
+ASPEARBERRY	ASPEARBERRY	Aspear Berry	Aspear Berries	It may be used or held by a Pokémon to defrost it.	MISSING	MISSING	MISSING
+LEPPABERRY	LEPPABERRY	Leppa Berry	Leppa Berries	It may be used or held by a Pokémon to restore a move's PP by 10.	MISSING	MISSING	MISSING
+ORANBERRY	ORANBERRY	Oran Berry	Oran Berries	It may be used or held by a Pokémon to heal the user by just 10 HP.	MISSING	MISSING	MISSING
+PERSIMBERRY	PERSIMBERRY	Persim Berry	Persim Berries	It may be used or held by a Pokémon to recover from confusion.	MISSING	MISSING	MISSING
+LUMBERRY	LUMBERRY	Lum Berry	Lum Berries	It may be used or held by a Pokémon to recover from any status problem.	MISSING	MISSING	MISSING
+SITRUSBERRY	SITRUSBERRY	Sitrus Berry	Sitrus Berries	It may be used or held by a Pokémon to heal the user's HP a little.	MISSING	MISSING	MISSING
+FIGYBERRY	FIGYBERRY	Figy Berry	Figy Berries	If held by a Pokémon, it restores the user's HP in a pinch, but will cause confusion if it hates the taste.	MISSING	MISSING	MISSING
+WIKIBERRY	WIKIBERRY	Wiki Berry	Wiki Berries	If held by a Pokémon, it restores the user's HP in a pinch, but will cause confusion if it hates the taste.	MISSING	MISSING	MISSING
+MAGOBERRY	MAGOBERRY	Mago Berry	Mago Berries	If held by a Pokémon, it restores the user's HP in a pinch, but will cause confusion if it hates the taste.	MISSING	MISSING	MISSING
+AGUAVBERRY	AGUAVBERRY	Aguav Berry	Aguav Berries	If held by a Pokémon, it restores the user's HP in a pinch, but will cause confusion if it hates the taste.	MISSING	MISSING	MISSING
+IAPAPABERRY	IAPAPABERRY	Iapapa Berry	Iapapa Berries	If held by a Pokémon, it restores the user's HP in a pinch, but will cause confusion if it hates the taste.	MISSING	MISSING	MISSING
+RAZZBERRY	RAZZBERRY	Razz Berry	Razz Berries	In the Sinnoh region, they like to make sweets known as Poffins with this Berry.	MISSING	MISSING	MISSING
+BLUKBERRY	BLUKBERRY	Bluk Berry	Bluk Berries	In the Sinnoh region, they like to make sweets known as Poffins with this Berry.	MISSING	MISSING	MISSING
+NANABBERRY	NANABBERRY	Nanab Berry	Nanab Berries	In the Sinnoh region, they like to make sweets known as Poffins with this Berry.	MISSING	MISSING	MISSING
+WEPEARBERRY	WEPEARBERRY	Wepear Berry	Wepear Berries	In the Sinnoh region, they like to make sweets known as Poffins with this Berry.	MISSING	MISSING	MISSING
+PINAPBERRY	PINAPBERRY	Pinap Berry	Pinap Berries	In the Sinnoh region, they like to make sweets known as Poffins with this Berry.	MISSING	MISSING	MISSING
+POMEGBERRY	POMEGBERRY	Pomeg Berry	Pomeg Berries	Using it on a Pokémon makes it more friendly, but it also lowers its base HP.	MISSING	MISSING	MISSING
+KELPSYBERRY	KELPSYBERRY	Kelpsy Berry	Kelpsy Berries	Using it on a Pokémon makes it more friendly, but it also lowers its base Attack stat.	MISSING	MISSING	MISSING
+QUALOTBERRY	QUALOTBERRY	Qualot Berry	Qualot Berries	Using it on a Pokémon makes it more friendly, but it also lowers its base Defense stat.	MISSING	MISSING	MISSING
+HONDEWBERRY	HONDEWBERRY	Hondew Berry	Hondew Berries	Using it on a Pokémon makes it more friendly, but it also lowers its base Sp. Atk stat.	MISSING	MISSING	MISSING
+GREPABERRY	GREPABERRY	Grepa Berry	Grepa Berries	Using it on a Pokémon makes it more friendly, but it also lowers its base Sp. Def stat.	MISSING	MISSING	MISSING
+TAMATOBERRY	TAMATOBERRY	Tamato Berry	Tamato Berries	Using it on a Pokémon makes it more friendly, but it also lowers its base Speed stat.	MISSING	MISSING	MISSING
+CORNNBERRY	CORNNBERRY	Cornn Berry	Cornn Berries	In the Sinnoh region, they like to make sweets known as Poffins with this Berry.	MISSING	MISSING	MISSING
+MAGOSTBERRY	MAGOSTBERRY	Magost Berry	Magost Berries	In the Sinnoh region, they like to make sweets known as Poffins with this Berry.	MISSING	MISSING	MISSING
+RABUTABERRY	RABUTABERRY	Rabuta Berry	Rabuta Berries	In the Sinnoh region, they like to make sweets known as Poffins with this Berry.	MISSING	MISSING	MISSING
+NOMELBERRY	NOMELBERRY	Nomel Berry	Nomel Berries	In the Sinnoh region, they like to make sweets known as Poffins with this Berry.	MISSING	MISSING	MISSING
+SPELONBERRY	SPELONBERRY	Spelon Berry	Spelon Berries	In the Sinnoh region, they like to make sweets known as Poffins with this Berry.	MISSING	MISSING	MISSING
+PAMTREBERRY	PAMTREBERRY	Pamtre Berry	Pamtre Berries	In the Sinnoh region, they like to make sweets known as Poffins with this Berry.	MISSING	MISSING	MISSING
+WATMELBERRY	WATMELBERRY	Watmel Berry	Watmel Berries	In the Sinnoh region, they like to make sweets known as Poffins with this Berry.	MISSING	MISSING	MISSING
+DURINBERRY	DURINBERRY	Durin Berry	Durin Berries	In the Sinnoh region, they like to make sweets known as Poffins with this Berry.	MISSING	MISSING	MISSING
+BELUEBERRY	BELUEBERRY	Belue Berry	Belue Berries	In the Sinnoh region, they like to make sweets known as Poffins with this Berry.	MISSING	MISSING	MISSING
+OCCABERRY	OCCABERRY	Occa Berry	Occa Berries	Weakens a supereffective Fire-type attack against the holding Pokémon.	MISSING	MISSING	MISSING
+PASSHOBERRY	PASSHOBERRY	Passho Berry	Passho Berries	Weakens a supereffective Water-type attack against the holding Pokémon.	MISSING	MISSING	MISSING
+WACANBERRY	WACANBERRY	Wacan Berry	Wacan Berries	Weakens a supereffective Electric-type attack against the holding Pokémon.	MISSING	MISSING	MISSING
+RINDOBERRY	RINDOBERRY	Rindo Berry	Rindo Berries	Weakens a supereffective Grass-type attack against the holding Pokémon.	MISSING	MISSING	MISSING
+YACHEBERRY	YACHEBERRY	Yache Berry	Yache Berries	Weakens a supereffective Ice-type attack against the holding Pokémon.	MISSING	MISSING	MISSING
+CHOPLEBERRY	CHOPLEBERRY	Chople Berry	Chople Berries	Weakens a supereffective Fighting-type attack against the holding Pokémon.	MISSING	MISSING	MISSING
+KEBIABERRY	KEBIABERRY	Kebia Berry	Kebia Berries	Weakens a supereffective Poison-type attack against the holding Pokémon.	MISSING	MISSING	MISSING
+SHUCABERRY	SHUCABERRY	Shuca Berry	Shuca Berries	Weakens a supereffective Ground-type attack against the holding Pokémon.	MISSING	MISSING	MISSING
+COBABERRY	COBABERRY	Coba Berry	Coba Berries	Weakens a supereffective Flying-type attack against the holding Pokémon.	MISSING	MISSING	MISSING
+PAYAPABERRY	PAYAPABERRY	Payapa Berry	Payapa Berries	Weakens a supereffective Psychic-type attack against the holding Pokémon.	MISSING	MISSING	MISSING
+TANGABERRY	TANGABERRY	Tanga Berry	Tanga Berries	Weakens a supereffective Bug-type attack against the holding Pokémon.	MISSING	MISSING	MISSING
+CHARTIBERRY	CHARTIBERRY	Charti Berry	Charti Berries	Weakens a supereffective Rock-type attack against the holding Pokémon.	MISSING	MISSING	MISSING
+KASIBBERRY	KASIBBERRY	Kasib Berry	Kasib Berries	Weakens a supereffective Ghost-type attack against the holding Pokémon.	MISSING	MISSING	MISSING
+HABANBERRY	HABANBERRY	Haban Berry	Haban Berries	Weakens a supereffective Dragon-type attack against the holding Pokémon.	MISSING	MISSING	MISSING
+COLBURBERRY	COLBURBERRY	Colbur Berry	Colbur Berries	Weakens a supereffective Dark-type attack against the holding Pokémon.	MISSING	MISSING	MISSING
+BABIRIBERRY	BABIRIBERRY	Babiri Berry	Babiri Berries	Weakens a supereffective Steel-type attack against the holding Pokémon.	MISSING	MISSING	MISSING
+ROSELIBERRY	ROSELIBERRY	Roseli Berry	Roseli Berries	If held by a Pokémon, this Berry will lessen the damage taken from one supereffective Fairy-type attack.	MISSING	MISSING	MISSING
+CHILANBERRY	CHILANBERRY	Chilan Berry	Chilan Berries	Weakens a Normal-type attack against the Pokémon holding this berry.	MISSING	MISSING	MISSING
+LIECHIBERRY	LIECHIBERRY	Liechi Berry	Liechi Berries	If held by a Pokémon, it raises its Attack stat in a pinch.	MISSING	MISSING	MISSING
+GANLONBERRY	GANLONBERRY	Ganlon Berry	Ganlon Berries	If held by a Pokémon, it raises its Defense stat in a pinch.	MISSING	MISSING	MISSING
+SALACBERRY	SALACBERRY	Salac Berry	Salac Berries	If held by a Pokémon, it raises its Speed stat in a pinch.	MISSING	MISSING	MISSING
+PETAYABERRY	PETAYABERRY	Petaya Berry	Petaya Berries	If held by a Pokémon, it raises its Sp. Atk stat in a pinch.	MISSING	MISSING	MISSING
+APICOTBERRY	APICOTBERRY	Apicot Berry	Apicot Berries	If held by a Pokémon, it raises its Sp. Def stat in a pinch.	MISSING	MISSING	MISSING
+LANSATBERRY	LANSATBERRY	Lansat Berry	Lansat Berries	If held by a Pokémon, it raises its critical-hit ratio in a pinch.	MISSING	MISSING	MISSING
+STARFBERRY	STARFBERRY	Starf Berry	Starf Berries	If held by a Pokémon, it sharply raises one of its stats in a pinch.	MISSING	MISSING	MISSING
+ENIGMABERRY	ENIGMABERRY	Enigma Berry	Enigma Berries	If held by a Pokémon, it restores its HP if it is hit by any supereffective attack.	MISSING	MISSING	MISSING
+MICLEBERRY	MICLEBERRY	Micle Berry	Micle Berries	If held by a Pokémon, it raises the accuracy of a move just once in a pinch.	MISSING	MISSING	MISSING
+CUSTAPBERRY	CUSTAPBERRY	Custap Berry	Custap Berries	If held by a Pokémon, it gets to move first just once in a pinch.	MISSING	MISSING	MISSING
+JABOCABERRY	JABOCABERRY	Jaboca Berry	Jaboca Berries	If held by a Pokémon and a physical attack lands, the attacker also takes damage.	MISSING	MISSING	MISSING
+ROWAPBERRY	ROWAPBERRY	Rowap Berry	Rowap Berries	If held by a Pokémon and a special attack lands, the attacker also takes damage.	MISSING	MISSING	MISSING
+KEEBERRY	KEEBERRY	Kee Berry	Kee Berries	If held by a Pokémon, this Berry will increase the holder's Defense if it's hit with a physical move.	MISSING	MISSING	MISSING
+MARANGABERRY	MARANGABERRY	Maranga Berry	Maranga Berries	If held by a Pokémon, this Berry will increase the holder's Sp. Def if it's hit with a special move.	MISSING	MISSING	MISSING
+GRASSMAIL	GRASSMAIL	Grass Mail	Grass Mail	Stationery featuring a print of a refreshingly green field. Let a Pokémon hold it for delivery.	MISSING	MISSING	MISSING
+FLAMEMAIL	FLAMEMAIL	Flame Mail	Flame Mail	Stationery featuring a print of flames in blazing red. Let a Pokémon hold it for delivery.	MISSING	MISSING	MISSING
+BUBBLEMAIL	BUBBLEMAIL	Bubble Mail	Bubble Mail	Stationery featuring a print of a blue world underwater. Let a Pokémon hold it for delivery.	MISSING	MISSING	MISSING
+BLOOMMAIL	BLOOMMAIL	Bloom Mail	Bloom Mail	Stationery featuring a print of pretty floral patterns. Let a Pokémon hold it for delivery.	MISSING	MISSING	MISSING
+TUNNELMAIL	TUNNELMAIL	Tunnel Mail	Tunnel Mail	Stationery featuring a print of a dimly lit coal mine. Let a Pokémon hold it for delivery.	MISSING	MISSING	MISSING
+STEELMAIL	STEELMAIL	Steel Mail	Steel Mail	Stationery featuring a print of cool mechanical designs. Let a Pokémon hold it for delivery.	MISSING	MISSING	MISSING
+HEARTMAIL	HEARTMAIL	Heart Mail	Heart Mail	Stationery featuring a print of giant heart patterns. Let a Pokémon hold it for delivery.	MISSING	MISSING	MISSING
+SNOWMAIL	SNOWMAIL	Snow Mail	Snow Mail	Stationery featuring a print of a chilly, snow-covered world. Let a Pokémon hold it for delivery.	MISSING	MISSING	MISSING
+SPACEMAIL	SPACEMAIL	Space Mail	Space Mail	Stationery featuring a print depicting the huge expanse of space. Let a Pokémon hold it for delivery.	MISSING	MISSING	MISSING
+AIRMAIL	AIRMAIL	Air Mail	Air Mail	Stationery featuring a print of colorful letter sets. Let a Pokémon hold it for delivery.	MISSING	MISSING	MISSING
+MOSAICMAIL	MOSAICMAIL	Mosaic Mail	Mosaic Mail	Stationery featuring a print of a vivid rainbow pattern. Let a Pokémon hold it for delivery.	MISSING	MISSING	MISSING
+BRICKMAIL	BRICKMAIL	Brick Mail	Brick Mail	Stationery featuring a print of a tough-looking brick pattern. Let a Pokémon hold it for delivery.	MISSING	MISSING	MISSING
+XATTACK	XATTACK	X Attack	X Attacks	An item that sharply boosts the Attack stat of a Pokémon while it remains in battle.	MISSING	MISSING	MISSING
+XATTACK2	XATTACK2	X Attack 2	X Attack 2s	It sharply raises the Attack stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn.	MISSING	MISSING	MISSING
+XATTACK3	XATTACK3	X Attack 3	X Attack 3s	It drastically raises the Attack stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn.	MISSING	MISSING	MISSING
+XATTACK6	XATTACK6	X Attack 6	X Attack 6s	It raises the Attack stat of a Pokémon in battle immensely. It wears off if the Pokémon is withdrawn.	MISSING	MISSING	MISSING
+XDEFENSE	XDEFENSE	X Defense	X Defenses	An item that sharply boosts the Defense of a Pokémon while it remains in battle.	MISSING	MISSING	MISSING
+XDEFENSE2	XDEFENSE2	X Defense 2	X Defense 2s	It sharply raises the Defense stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn.	MISSING	MISSING	MISSING
+XDEFENSE3	XDEFENSE3	X Defense 3	X Defense 3s	It drastically raises the Defense stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn.	MISSING	MISSING	MISSING
+XDEFENSE6	XDEFENSE6	X Defense 6	X Defense 6s	It raises the Defense stat of a Pokémon in battle immensely. It wears off if the Pokémon is withdrawn.	MISSING	MISSING	MISSING
+XSPATK	XSPATK	X Sp. Atk	X Sp. Atks	An item that sharply boosts the Sp. Atk stat of a Pokémon while it remains in battle.	MISSING	MISSING	MISSING
+XSPATK2	XSPATK2	X Sp. Atk 2	X Sp. Atk 2s	It sharply raises the Sp. Atk stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn.	MISSING	MISSING	MISSING
+XSPATK3	XSPATK3	X Sp. Atk 3	X Sp. Atk 3s	It drastically raises the Sp. Atk stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn.	MISSING	MISSING	MISSING
+XSPATK6	XSPATK6	X Sp. Atk 6	X Sp. Atk 6s	It raises the Sp. Atk stat of a Pokémon in battle immensely. It wears off if the Pokémon is withdrawn.	MISSING	MISSING	MISSING
+XSPDEF	XSPDEF	X Sp. Def	X Sp. Defs	An item that sharply boosts the Sp. Def stat of a Pokémon while it remains in battle.	MISSING	MISSING	MISSING
+XSPDEF2	XSPDEF2	X Sp. Def 2	X Sp. Def 2s	It sharply raises the Sp. Def stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn.	MISSING	MISSING	MISSING
+XSPDEF3	XSPDEF3	X Sp. Def 3	X Sp. Def 3s	It drastically raises the Sp. Def stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn.	MISSING	MISSING	MISSING
+XSPDEF6	XSPDEF6	X Sp. Def 6	X Sp. Def 6s	It raises the Sp. Def stat of a Pokémon in battle immensely. It wears off if the Pokémon is withdrawn.	MISSING	MISSING	MISSING
+XSPEED	XSPEED	X Speed	X Speeds	An item that sharply boosts the Speed stat of a Pokémon while it remains in battle.	MISSING	MISSING	MISSING
+XSPEED2	XSPEED2	X Speed 2	X Speed 2s	It sharply raises the Speed stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn.	MISSING	MISSING	MISSING
+XSPEED3	XSPEED3	X Speed 3	X Speed 3s	It drastically raises the Speed stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn.	MISSING	MISSING	MISSING
+XSPEED6	XSPEED6	X Speed 6	X Speed 6s	It raises the Speed stat of a Pokémon in battle immensely. It wears off if the Pokémon is withdrawn.	MISSING	MISSING	MISSING
+XACCURACY	XACCURACY	X Accuracy	X Accuracies	An item that sharply boosts the accuracy of a Pokémon while it remains in battle.	MISSING	MISSING	MISSING
+XACCURACY2	XACCURACY2	X Accuracy 2	X Accuracy 2s	It sharply raises the accuracy of a Pokémon in battle. It wears off if the Pokémon is withdrawn.	MISSING	MISSING	MISSING
+XACCURACY3	XACCURACY3	X Accuracy 3	X Accuracy 3s	It drastically raises the accuracy of a Pokémon in battle. It wears off if the Pokémon is withdrawn.	MISSING	MISSING	MISSING
+XACCURACY6	XACCURACY6	X Accuracy 6	X Accuracy 6s	It raises the accuracy of a Pokémon in battle immensely. It wears off if the Pokémon is withdrawn.	MISSING	MISSING	MISSING
+MAXMUSHROOMS	MAXMUSHROOMS	Max Mushrooms	Max Mushrooms	Mushrooms that boost all stats of a Pokémon during battle.	MISSING	MISSING	MISSING
+DIREHIT	DIREHIT	Dire Hit	Dire Hits	An item that raises the critical-hit ratio greatly. It wears off if the Pokémon is withdrawn.	MISSING	MISSING	MISSING
+DIREHIT2	DIREHIT2	Dire Hit 2	Dire Hit 2s	It sharply raises the critical-hit ratio. It wears off if the Pokémon is withdrawn.	MISSING	MISSING	MISSING
+DIREHIT3	DIREHIT3	Dire Hit 3	Dire Hit 3s	It greatly raises the critical-hit ratio. It wears off if the Pokémon is withdrawn.	MISSING	MISSING	MISSING
+GUARDSPEC	GUARDSPEC	Guard Spec.	Guard Specs.	An item that prevents stat reduction among the Trainer's party Pokémon for five turns after use.	MISSING	MISSING	MISSING
+RESETURGE	RESETURGE	Reset Urge	Reset Urges	When used, it restores any stat changes of an ally Pokémon.	MISSING	MISSING	MISSING
+ABILITYURGE	ABILITYURGE	Ability Urge	Ability Urges	When used, it activates the Ability of an ally Pokémon.	MISSING	MISSING	MISSING
+ITEMURGE	ITEMURGE	Item Urge	Item Urges	When used, it causes an ally Pokémon to use its held item.	MISSING	MISSING	MISSING
+ITEMDROP	ITEMDROP	Item Drop	Item Drops	When used, it causes an ally Pokémon to drop a held item.	MISSING	MISSING	MISSING
+BLUEFLUTE	BLUEFLUTE	Blue Flute	Blue Flutes	A blue flute made from blown glass. Its melody awakens a single Pokémon from sleep.	MISSING	MISSING	MISSING
+YELLOWFLUTE	YELLOWFLUTE	Yellow Flute	Yellow Flutes	A yellow flute made from blown glass. Its melody snaps a single Pokémon out of confusion.	MISSING	MISSING	MISSING
+REDFLUTE	REDFLUTE	Red Flute	Red Flutes	A red flute made from blown glass. Its melody snaps a single Pokémon out of infatuation.	MISSING	MISSING	MISSING
+POKEDOLL	POKEDOLL	Poké Doll	Poké Dolls	A doll that attracts Pokémon. Use it to flee from any battle with a wild Pokémon.	MISSING	MISSING	MISSING
+FLUFFYTAIL	FLUFFYTAIL	Fluffy Tail	Fluffy Tails	An item that attracts Pokémon. Use it to flee from any battle with a wild Pokémon.	MISSING	MISSING	MISSING
+POKETOY	POKETOY	Poké Toy	Poké Toys	An item that attracts Pokémon. Use it to flee from any battle with a wild Pokémon.	MISSING	MISSING	MISSING
+BICYCLE	BICYCLE	Bicycle	Bicycles	A folding Bicycle that enables much faster movement than the Running Shoes.	MISSING	MISSING	MISSING
+OLDROD	OLDROD	Old Rod	Old Rods	An old and beat-up fishing rod. Use it by any body of water to fish for wild aquatic Pokémon.	MISSING	MISSING	MISSING
+GOODROD	GOODROD	Good Rod	Good Rods	A new, good-quality fishing rod. Use it by any body of water to fish for wild aquatic Pokémon.	MISSING	MISSING	MISSING
+SUPERROD	SUPERROD	Super Rod	Super Rods	An awesome, high-tech fishing rod. Use it by any body of water to fish for wild aquatic Pokémon.	MISSING	MISSING	MISSING
+ITEMFINDER	ITEMFINDER	Itemfinder	Itemfinders	A device used for finding items. If there is a hidden item nearby when it is used, it emits a signal.	MISSING	MISSING	MISSING
+DOWSINGMACHINE	DOWSINGMACHINE	Dowsing Machine	Dowsing Machines	It checks for unseen items in the area and makes noise and lights when it finds something.	MISSING	MISSING	MISSING
+POKERADAR	POKERADAR	Poké Radar	Poké Radars	A tool that can search out Pokémon that are hiding in grass. Its battery is recharged as you walk.	MISSING	MISSING	MISSING
+TOWNMAP	TOWNMAP	Town Map	Town Maps	A very convenient map that can be viewed anytime. It even shows your present location.	MISSING	MISSING	MISSING
+COINCASE	COINCASE	Coin Case	Coin Cases	A case for holding coins obtained at the Game Corner. It holds up to 99,999 coins.	MISSING	MISSING	MISSING
+POKEFLUTE	POKEFLUTE	Poké Flute	Poké Flutes	A flute that is said to instantly awaken any Pokémon. It has a lovely tone.	MISSING	MISSING	MISSING
+SOOTSACK	SOOTSACK	Soot Sack	Soot Sacks	A sack used to gather and hold volcanic ash.	MISSING	MISSING	MISSING
+SILPHSCOPE	SILPHSCOPE	Silph Scope	Silph Scopes	A scope that makes unseeable Pokémon visible. It is made by Silph Co.	MISSING	MISSING	MISSING
+DEVONSCOPE	DEVONSCOPE	Devon Scope	Devon Scopes	A device by Devon that signals any unseeable Pokémon.	MISSING	MISSING	MISSING
+SQUIRTBOTTLE	SQUIRTBOTTLE	Squirt Bottle	Squirt Bottles	A watering can shaped like a Squirtle. It helps promote healthy growth of Berries planted in soft soil.	MISSING	MISSING	MISSING
+SPRAYDUCK	SPRAYDUCK	Sprayduck	Sprayducks	A watering can shaped like a Psyduck. It helps promote healthy growth of Berries planted in soft soil.	MISSING	MISSING	MISSING
+WAILMERPAIL	WAILMERPAIL	Wailmer Pail	Wailmer Pails	A nifty watering pail. Use it to promote strong growth in Berries planted in soft soil.	MISSING	MISSING	MISSING
+SPRINKLOTAD	SPRINKLOTAD	Sprinklotad	Sprinklotads	A watering can shaped like a Lotad. It helps promote the healthy growth of any Berries planted in soft soil.	MISSING	MISSING	MISSING
+GRACIDEA	GRACIDEA	Gracidea	Gracideas	A flower sometimes bundled in bouquets to convey gratitude on special occasions like birthdays.	MISSING	MISSING	MISSING
+REVEALGLASS	REVEALGLASS	Reveal Glass	Reveal Glasses	A glass that reveals the truth. It is a mysterious glass that returns a Pokémon back to its original shape.	MISSING	MISSING	MISSING
+PRISONBOTTLE	PRISONBOTTLE	Prison Bottle	Prison Bottles	A bottle believed to have been used to seal away the power of a certain Pokémon long, long ago.	MISSING	MISSING	MISSING
+ROTOMCATALOG	ROTOMCATALOG	Rotom Catalog	Rotom Catalogs	A catalog of devices that Rotom like. Use the catalog to have Rotom hop in and out of the devices listed within.	MISSING	MISSING	MISSING
+ZYGARDECUBE	ZYGARDECUBE	Zygarde Cube	Zygarde Cubes	An item in which Zygarde Cores and Cells are gathered. You can also use it to change Zygarde's forms.	MISSING	MISSING	MISSING
+DNASPLICERS	DNASPLICERS	DNA Splicers	DNA Splicers	A splicer that fuses Kyurem and a certain Pokémon. They are said to have been one in the beginning.	MISSING	MISSING	MISSING
+DNASPLICERSUSED	DNASPLICERSUSED	DNA Splicers	DNA Splicers	A splicer that separates Kyurem and a certain Pokémon when they have been fused.	MISSING	MISSING	MISSING
+NSOLARIZER	NSOLARIZER	N-Solarizer	N-Solarizers	A machine to fuse Necrozma, which needs light, and Solgaleo.	MISSING	MISSING	MISSING
+NSOLARIZERUSED	NSOLARIZERUSED	N-Solarizer	N-Solarizers	A machine to separate Necrozma, which needed light, from Solgaleo.	MISSING	MISSING	MISSING
+NLUNARIZER	NLUNARIZER	N-Lunarizer	N-Lunarizers	A machine to fuse Necrozma, which needs light, and Lunala.	MISSING	MISSING	MISSING
+NLUNARIZERUSED	NLUNARIZERUSED	N-Lunarizer	N-Lunarizers	A machine to separate Necrozma, which needed light, from Lunala.	MISSING	MISSING	MISSING
+REINSOFUNITY	REINSOFUNITY	Reins of Unity	Reins of Unity	Reins that people presented to the king. They unite Calyrex with its beloved steed.	MISSING	MISSING	MISSING
+REINSOFUNITYUSED	REINSOFUNITYUSED	Reins of Unity	Reins of Unity	Reins that people presented to the king. They separate Calyrex and its beloved steed.	MISSING	MISSING	MISSING
+OVALCHARM	OVALCHARM	Oval Charm	Oval Charms	An oval charm said to increase the chance of Eggs being found at the Day Care.	MISSING	MISSING	MISSING
+SHINYCHARM	SHINYCHARM	Shiny Charm	Shiny Charms	A shiny charm said to increase the chance of finding a Shiny Pokémon.	MISSING	MISSING	MISSING
+CATCHINGCHARM	CATCHINGCHARM	Catching Charm	Catching Charms	A charm said to increase the chance of getting a critical catch. The charm doesn't shake much.	MISSING	MISSING	MISSING
+EXPCHARM	EXPCHARM	Exp. Charm	Exp. Charms	A charm that increases the Exp. Points that Pokémon can get. A machine-like object is inside it.	MISSING	MISSING	MISSING
+MEGARING	MEGARING	Mega Ring	Mega Rings	This ring contains an untold power that somehow enables Pokémon carrying Mega Stones to Mega Evolve.	MISSING	MISSING	MISSING
+POKEMONBOXLINK	POKEMONBOXLINK	Pokémon Box Link	Pokémon Box Links	A device that allows you to access the Pokémon storage system. There are some places where it won't work.	MISSING	MISSING	MISSING
+AURORATICKET	AURORATICKET	Aurora Ticket	Aurora Tickets	A ticket required to board the ship to Doxy Island. It glows beautifully.	MISSING	MISSING	MISSING
+OLDSEAMAP	OLDSEAMAP	Old Sea Map	Old Sea Maps	A faded sea chart that shows the way to a certain island.	MISSING	MISSING	MISSING
+HISUIANPOKEBALL	HISUIANPOKEBALL	Poké Ball	Poké Balls	A mysterious ball that can be thrown at wild Pokémon in order to catch them.	UNTRANSLATED	UNTRANSLATED	TRANSLATED
+HISUIANULTRABALL	HISUIANULTRABALL	Ultra Ball	Ultra Balls	A mysterious ball that provides an even higher success catch rate than a Great Ball does.	UNTRANSLATED	UNTRANSLATED	TRANSLATED
+HISUIANHEAVYBALL	HISUIANHEAVYBALL	Heavy Ball	Heavy Balls	A ball that is too heavy to throw, but it is highly effective to an unsuspecting Pokémon.	MISSING	MISSING	TRANSLATED
+NORMALIUMZ	NORMALIUMZ	Normalium Z	Normalium Z	It converts Z-Power into crystals that upgrade Normal-type moves to Normal-type Z-Moves.	UNTRANSLATED	UNTRANSLATED	TRANSLATED
+FIGHTINIUMZ	FIGHTINIUMZ	Fightinium Z	Fightinium Z	It converts Z-Power into crystals that upgrade Fighting-type moves to Fighting-type Z-Moves.	UNTRANSLATED	UNTRANSLATED	TRANSLATED
+FLYINIUMZ	FLYINIUMZ	Flyinium Z	Flyinium Z	It converts Z-Power into crystals that upgrade Flying-type moves to Flying-type Z-Moves.	UNTRANSLATED	UNTRANSLATED	TRANSLATED
+POISONIUMZ	POISONIUMZ	Poisonium Z	Poisonium Z	It converts Z-Power into crystals that upgrade Poison-type moves to Poison-type Z-Moves.	UNTRANSLATED	UNTRANSLATED	TRANSLATED
+GROUNDIUMZ	GROUNDIUMZ	Groundium Z	Groundium Z	It converts Z-Power into crystals that upgrade Ground-type moves to Ground-type Z-Moves.	UNTRANSLATED	UNTRANSLATED	TRANSLATED
+ROCKIUMZ	ROCKIUMZ	Rockium Z	Rockium Z	It converts Z-Power into crystals that upgrade Rock-type moves to Rock-type Z-Moves.	UNTRANSLATED	UNTRANSLATED	TRANSLATED
+BUGINIUMZ	BUGINIUMZ	Buginium Z	Buginium Z	It converts Z-Power into crystals that upgrade Bug-type moves to Bug-type Z-Moves.	UNTRANSLATED	UNTRANSLATED	TRANSLATED
+GHOSTIUMZ	GHOSTIUMZ	Ghostium Z	Ghostium Z	It converts Z-Power into crystals that upgrade Ghost-type moves to Ghost-type Z-Moves.	UNTRANSLATED	UNTRANSLATED	TRANSLATED
+STEELIUMZ	STEELIUMZ	Steelium Z	Steelium Z	It converts Z-Power into crystals that upgrade Steel-type moves to Steel-type Z-Moves.	UNTRANSLATED	UNTRANSLATED	TRANSLATED
+FIRIUMZ	FIRIUMZ	Firium Z	Firium Z	It converts Z-Power into crystals that upgrade Fire-type moves to Fire-type Z-Moves.	UNTRANSLATED	UNTRANSLATED	TRANSLATED
+WATERIUMZ	WATERIUMZ	Waterium Z	Waterium Z	It converts Z-Power into crystals that upgrade Water-type moves to Water-type Z-Moves.	UNTRANSLATED	UNTRANSLATED	TRANSLATED
+GRASSIUMZ	GRASSIUMZ	Grassium Z	Grassium Z	It converts Z-Power into crystals that upgrade Grass-type moves to Grass-type Z-Moves.	UNTRANSLATED	UNTRANSLATED	TRANSLATED
+ELECTRIUMZ	ELECTRIUMZ	Electrium Z	Electrium Z	It converts Z-Power into crystals that upgrade Electric-type moves to Electric-type Z-Moves.	UNTRANSLATED	UNTRANSLATED	TRANSLATED
+PSYCHIUMZ	PSYCHIUMZ	Psychium Z	Psychium Z	It converts Z-Power into crystals that upgrade Psychic-type moves to Psychic-type Z-Moves.	UNTRANSLATED	UNTRANSLATED	TRANSLATED
+ICIUMZ	ICIUMZ	Icium Z	Icium Z	It converts Z-Power into crystals that upgrade Ice-type moves to Ice-type Z-Moves.	UNTRANSLATED	UNTRANSLATED	TRANSLATED
+DRAGONIUMZ	DRAGONIUMZ	Dragonium Z	Dragonium Z	It converts Z-Power into crystals that upgrade Dragon-type moves to Dragon-type Z-Moves.	UNTRANSLATED	UNTRANSLATED	TRANSLATED
+DARKINIUMZ	DARKINIUMZ	Darkinium Z	Darkinium Z	It converts Z-Power into crystals that upgrade Dark-type moves to Dark-type Z-Moves.	UNTRANSLATED	UNTRANSLATED	TRANSLATED
+FAIRIUMZ	FAIRIUMZ	Fairium Z	Fairium Z	It converts Z-Power into crystals that upgrade Fairy-type moves to Fairy-type Z-Moves.	UNTRANSLATED	UNTRANSLATED	TRANSLATED
+PIKANIUMZ	PIKANIUMZ	Pikanium Z	Pikanium Z	It converts Z-Power into crystals that upgrade Pikachu's Volt Tackle to an exclusive Z-Move.	UNTRANSLATED	UNTRANSLATED	TRANSLATED
+PIKASHUNIUMZ	PIKASHUNIUMZ	Pikashunium Z	Pikashunium Z	It converts Z-Power into crystals that upgrade a capped Pikachu's Thunderbolt to an exclusive Z-Move.	UNTRANSLATED	UNTRANSLATED	TRANSLATED
+ALORAICHIUMZ	ALORAICHIUMZ	Aloraichium Z	Aloraichium Z	It converts Z-Power into crystals that upgrade Alolan Raichu's Thunderbolt to an exclusive Z-Move.	UNTRANSLATED	UNTRANSLATED	TRANSLATED
+EEVIUMZ	EEVIUMZ	Eevium Z	Eevium Z	It converts Z-Power into crystals that upgrade Eevee's Last Resort to an exclusive Z-Move.	UNTRANSLATED	UNTRANSLATED	TRANSLATED
+SNORLIUMZ	SNORLIUMZ	Snorlium Z	Snorlium Z	It converts Z-Power into crystals that upgrade Snorlax's Giga Impact to an exclusive Z-Move.	UNTRANSLATED	UNTRANSLATED	TRANSLATED
+MEWNIUMZ	MEWNIUMZ	Mewnium Z	Mewnium Z	It converts Z-Power into crystals that upgrade Mew's Psychic to an exclusive Z-Move.	UNTRANSLATED	UNTRANSLATED	TRANSLATED
+DECIDIUMZ	DECIDIUMZ	Decidium Z	Decidium Z	It converts Z-Power into crystals that upgrade Decidueye's Spirit Shackle to an exclusive Z-Move.	UNTRANSLATED	UNTRANSLATED	TRANSLATED
+INCINIUMZ	INCINIUMZ	Incinium Z	Incinium Z	It converts Z-Power into crystals that upgrade Incineroar's Darkest Lariat to an exclusive Z-Move.	UNTRANSLATED	UNTRANSLATED	TRANSLATED
+PRIMARIUMZ	PRIMARIUMZ	Primarium Z	Primarium Z	It converts Z-Power into crystals that upgrade Primarina's Sparkling Aria to an exclusive Z-Move.	UNTRANSLATED	UNTRANSLATED	TRANSLATED
+LYCANIUMZ	LYCANIUMZ	Lycanium Z	Lycanium Z	It converts Z-Power into crystals that upgrade Lycanroc's Stone Edge to an exclusive Z-Move.	UNTRANSLATED	UNTRANSLATED	TRANSLATED
+MIMIKIUMZ	MIMIKIUMZ	Mimikium Z	Mimikium Z	It converts Z-Power into crystals that upgrade Mimikyu's Play Rough to an exclusive Z-Move.	UNTRANSLATED	UNTRANSLATED	TRANSLATED
+KOMMONIUMZ	KOMMONIUMZ	Kommonium Z	Kommonium Z	It converts Z-Power into crystals that upgrade Kommo-o's Clanging Scales to an exclusive Z-Move.	UNTRANSLATED	UNTRANSLATED	TRANSLATED
+TAPUNIUMZ	TAPUNIUMZ	Tapunium Z	Tapunium Z	It converts Z-Power into crystals that upgrade the tapus' Nature's Madness to an exclusive Z-Move.	UNTRANSLATED	UNTRANSLATED	TRANSLATED
+SOLGANIUMZ	SOLGANIUMZ	Solganium Z	Solganium Z	It converts Z-Power into crystals that upgrade Solgaleo's Sunsteel Strike to an exclusive Z-Move.	UNTRANSLATED	UNTRANSLATED	TRANSLATED
+LUNALIUMZ	LUNALIUMZ	Lunalium Z	Lunalium Z	It converts Z-Power into crystals that upgrade Lunala's Moongeist Beam to an exclusive Z-Move.	UNTRANSLATED	UNTRANSLATED	TRANSLATED
+MARSHADIUMZ	MARSHADIUMZ	Marshadium Z	Marshadium Z	It converts Z-Power into crystals that upgrade Marshadow's Spectral Thief to an exclusive Z-Move.	UNTRANSLATED	UNTRANSLATED	TRANSLATED
+ULTRANECROZIUMZ	ULTRANECROZIUMZ	Ultranecrozium Z	Ultranecrozium Z	It's a crystal that turns Necrozma fused with Solgaleo or Lunala into a new form.	UNTRANSLATED	UNTRANSLATED	TRANSLATED

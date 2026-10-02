@@ -1,0 +1,19 @@
+[2|1|0|3]
+ORIGINAL: \bAy, welcome to my little lodge. People call me the Surf Master. I used to be a captain, but these days I prefer to spend my time at this lake.
+TRADUCCION:
+
+[2|1|3|2]
+ORIGINAL: \bIf you have proven yourself worthy and claimed the Evolution Badge, I will give you the HM for Surf.
+TRADUCCION:
+
+[2|1|6|2]
+ORIGINAL: \bOh, looks like you already have that badge. Then I have no reason to keep this. Here you go.
+TRADUCCION:
+
+[2|1|13|3]
+ORIGINAL: \bHaha, you shouldn´t actually be here. But I don´t mind you cheating. But then get Surf by cheating, I won´t give you the HM.
+TRADUCCION:
+
+[2|2|0|3]
+ORIGINAL: \bIf one of your Pokémon learned Surf without the HM, then that´s great! But you need this HM in order to enter Crystal Cove.
+TRADUCCION:

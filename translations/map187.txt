@@ -1,0 +1,95 @@
+[5|1|2|1]
+ORIGINAL: \bYou look like a nerd. But do you fight like one?
+TRADUCCION:
+
+[5|2|0|2]
+ORIGINAL: \bYou might not see it at first, but I´m a big nerd myself.
+TRADUCCION:
+
+[11|1|0|1]
+ORIGINAL: It´s a Pokémon Statue dedicated to Pecharunt.
+TRADUCCION:
+
+[11|2|0|1]
+ORIGINAL: It´s a Pokémon Statue dedicated to Pecharunt.
+TRADUCCION:
+
+[11|2|2|1]
+ORIGINAL: The Delta Stone in your pocket just lit up!
+TRADUCCION:
+
+[11|2|3|1]
+ORIGINAL: Something powerful is approaching!
+TRADUCCION:
+
+[11|2|5|1]
+ORIGINAL: \bPECHAAA!!!
+TRADUCCION:
+
+[11|3|0|1]
+ORIGINAL: It´s a Pokémon Statue dedicated to Pecharunt.
+TRADUCCION:
+
+[11|4|0|1]
+ORIGINAL: Pecharunt disappeared. Will it come back?
+TRADUCCION:
+
+[11|5|0|1]
+ORIGINAL: It´s a Pokémon Statue dedicated to Pecharunt.
+TRADUCCION:
+
+[6|1|2|1]
+ORIGINAL: \bYo bitch wassup?!
+TRADUCCION:
+
+[6|2|0|1]
+ORIGINAL: \bYou stupid bitch!
+TRADUCCION:
+
+[7|1|2|1]
+ORIGINAL: \bIt´s time to get shocked!
+TRADUCCION:
+
+[7|2|0|2]
+ORIGINAL: \bThe trainers on Route 10 are tough. You only come here if you´re ready for battle.
+TRADUCCION:
+
+[2|1|2|3]
+ORIGINAL: \bAh, you must be the kid that the boss mentioned. We knew you´d come. But don´t think we´re just gonna let you through, that would be stupid.
+TRADUCCION:
+
+[2|1|5|1]
+ORIGINAL: \bPrepare for trouble!
+TRADUCCION:
+
+[2|2|0|2]
+ORIGINAL: \bThe boss also said that we wouldn´t be able to stop you. Looks like he´s right.
+TRADUCCION:
+
+[8|1|0|2]
+ORIGINAL: \bSTOP. I LOST MY GLASSES. GO AWAY, OR YOU`LL STEP ON THEM!
+TRADUCCION:
+
+[3|1|2|1]
+ORIGINAL: \bThe boss said you´re strong. But how strong?!
+TRADUCCION:
+
+[3|2|0|2]
+ORIGINAL: \bWhy did the boss have any faith in me to begin with...
+TRADUCCION:
+
+[9|1|2|1]
+ORIGINAL: \bThis is quite a green day!
+TRADUCCION:
+
+[9|2|0|1]
+ORIGINAL: \bIt´s time for my holidays.
+TRADUCCION:
+
+[4|1|2|1]
+ORIGINAL: \bYou look like a good sparring partner. Time to train!
+TRADUCCION:
+
+[4|2|0|3]
+ORIGINAL: \bIt´s always good to train with other trainers. Battling wild Pokémon all the time just doesn´t do it for me.
+TRADUCCION:

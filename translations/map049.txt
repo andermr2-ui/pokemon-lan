@@ -1,0 +1,103 @@
+[5|1|0|1]
+ORIGINAL: \bCan you push that boulder onto the switch?
+TRADUCCION:
+
+[5|1|2|1]
+ORIGINAL: \bOh! The boulder has been moved onto the switch!
+TRADUCCION:
+
+[5|1|3|1]
+ORIGINAL: \bWell done!
+TRADUCCION:
+
+[5|1|6|1]
+ORIGINAL: \bOh. The boulder is not on the switch.
+TRADUCCION:
+
+[14|1|0|1]
+ORIGINAL: This ladder leads to a random dungeon.
+TRADUCCION:
+
+[14|1|1|2]
+ORIGINAL: The levels of Pokémon within are based on the levels of Pokémon in the player's party.
+TRADUCCION:
+
+[14|1|3|2]
+ORIGINAL: This is because the dungeon map's metadata gives it the "ScaleWildEncounterLevels" flag.
+TRADUCCION:
+
+[9|1|0|2]
+ORIGINAL: The positions of the boulders are checked by a Parallel Process event.
+TRADUCCION:
+
+[9|1|2|2]
+ORIGINAL: The hole event must have its "Through" option set, to allow boulder events to be pushed onto it.
+TRADUCCION:
+
+[15|1|0|1]
+ORIGINAL: Which tile puzzle do you want to play?
+TRADUCCION:
+
+[15|1|6|1]
+ORIGINAL: Puzzle solved!
+TRADUCCION:
+
+[15|1|9|1]
+ORIGINAL: Gave up...
+TRADUCCION:
+
+[15|1|17|1]
+ORIGINAL: Puzzle solved!
+TRADUCCION:
+
+[15|1|20|1]
+ORIGINAL: Gave up...
+TRADUCCION:
+
+[15|1|31|1]
+ORIGINAL: Puzzle solved!
+TRADUCCION:
+
+[15|1|34|1]
+ORIGINAL: Gave up...
+TRADUCCION:
+
+[15|1|43|1]
+ORIGINAL: Puzzle solved!
+TRADUCCION:
+
+[15|1|46|1]
+ORIGINAL: Gave up...
+TRADUCCION:
+
+[15|1|57|1]
+ORIGINAL: Puzzle solved!
+TRADUCCION:
+
+[15|1|60|1]
+ORIGINAL: Gave up...
+TRADUCCION:
+
+[15|1|71|1]
+ORIGINAL: Puzzle solved!
+TRADUCCION:
+
+[15|1|74|1]
+ORIGINAL: Gave up...
+TRADUCCION:
+
+[15|1|83|1]
+ORIGINAL: Puzzle solved!
+TRADUCCION:
+
+[15|1|86|1]
+ORIGINAL: Gave up...
+TRADUCCION:
+[15|1|1|OPCIONES]
+ORIGINAL: Alph|Alph Rotator|Mystic Square|Tile Swap
+TRADUCCION:
+
+[15|1|51|OPCIONES]
+ORIGINAL: Tile Swap Rotator|Rubik's Square|Star Rotator|Cancel
+TRADUCCION:
+

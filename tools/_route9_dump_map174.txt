@@ -1,0 +1,13 @@
+=== map174 ===
+ev5 pg0 [2]: "\\bHey, what´s a kid doing in this forest? You need to leave!"
+ev5 pg1 [0]: "\\bYou´ve pretty much made it to Ambergrove. Going through the Whispering Woods should not be allowed for kids, there´re too many freaks here."
+ev1 pg0 [2]: "\\bI´m gonna touch you!"
+ev1 pg1 [0]: "\\bWhy are you so shy? Come one, let good ol´ Jared touch you. It won´t hurt, I promise."
+ev2 pg0 [2]: "\\bWe would battle you, but with just one Pokémon on your team, this wouldn´t be fair."
+ev2 pg0 [8]: "\\bThe people in this forest say that we´re mature for our age!"
+ev2 pg1 [0]: "\\bSomeone invited us home one day, and he tickled us!"
+ev3 pg0 [2]: "\\bWe would battle you, but with just one Pokémon on your team, this wouldn´t be fair."
+ev3 pg0 [8]: "\\bThe people in this forest say that we´re mature for our age!"
+ev3 pg1 [0]: "\\bWe come here every day to look for the guy who invited us. But don´t tell our parents, they say he´s a bad person. But we like him!"
+ev4 pg0 [2]: "\\bMy Pokémon steps on me."
+ev4 pg1 [0]: "\\bPokémon actually understand me. A nerd like me could never get a goth mommy..."

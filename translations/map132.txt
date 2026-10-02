@@ -1,0 +1,7 @@
+[4|1|0|1]
+ORIGINAL: \sign[signskin]Top-Grade Items for Trainers!
+TRADUCCION:
+
+[4|1|1|1]
+ORIGINAL: \sign[signskin]2F: Trainer's Market
+TRADUCCION:

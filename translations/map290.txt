@@ -1,0 +1,11 @@
+[2|1|0|1]
+ORIGINAL: \bStupid homework...
+TRADUCCION:
+
+[2|1|1|1]
+ORIGINAL: \bAll I wanna do is play some League!
+TRADUCCION:
+
+[3|1|0|2]
+ORIGINAL: \bMy granddaughter is sitting in front of that stupid computer all day. She needs to touch some grass!
+TRADUCCION:

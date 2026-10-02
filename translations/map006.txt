@@ -1,0 +1,63 @@
+[2|1|1|1]
+ORIGINAL: \bHello! I'm Kurt!
+TRADUCCION:
+
+[2|1|2|1]
+ORIGINAL: \bI specialise in turning Apricorns into Poké Balls.
+TRADUCCION:
+
+[2|1|3|2]
+ORIGINAL: \bIf you like, I can convert one of yours into a Poké Ball.
+TRADUCCION:
+
+[2|1|8|1]
+ORIGINAL: \bHello again.
+TRADUCCION:
+
+[2|1|11|1]
+ORIGINAL: \bDo you have an Apricorn for me?
+TRADUCCION:
+
+[2|1|14|1]
+ORIGINAL: \bWhich Apricorn would you like me to convert?
+TRADUCCION:
+
+[2|1|18|2]
+ORIGINAL: \bLet me know when you want me to convert an Apricorn for you.
+TRADUCCION:
+
+[2|1|26|1]
+ORIGINAL: \bOkay. I'll turn your \v[3] into a Poké Ball for you.
+TRADUCCION:
+
+[2|1|27|1]
+ORIGINAL: \bI should be finished by tomorrow.
+TRADUCCION:
+
+[2|1|55|1]
+ORIGINAL: \bCome back when you have an Apricorn for me.
+TRADUCCION:
+
+[2|2|1|2]
+ORIGINAL: \bI've been waiting for you. I've completed the Poké Ball you asked me to make.
+TRADUCCION:
+
+[2|2|8|2]
+ORIGINAL: \bYou have no room left. Make room, then come see me.
+TRADUCCION:
+
+[2|2|20|2]
+ORIGINAL: \bI tried making a Poké Ball out of what you gave me, but it didn't work.
+TRADUCCION:
+
+[2|2|22|1]
+ORIGINAL: \bSorry.
+TRADUCCION:
+
+[2|3|0|1]
+ORIGINAL: \bI'm still working on your Apricorn. Come back later.
+TRADUCCION:
+[2|1|12|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+

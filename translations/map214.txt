@@ -1,0 +1,7 @@
+[1|1|0|3]
+ORIGINAL: \bGlimmerwood has been hit by a blizzard, so I can´t let anyone through until that mess has been cleaned up. I´m sorry, but you´ll have to come back later.
+TRADUCCION:
+
+[1|2|0|2]
+ORIGINAL: \bIf you want to use Route 12, then wear warm clothes. It is very cold over there.
+TRADUCCION:

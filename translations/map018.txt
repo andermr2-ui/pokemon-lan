@@ -1,0 +1,3 @@
+[4|1|0|1]
+ORIGINAL: \sign[signskin]5F: Drugstore
+TRADUCCION: \sign[signskin]5F: Farmacia

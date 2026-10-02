@@ -1,0 +1,7 @@
+[2|1|0|1]
+ORIGINAL: \bYou can´t go this way right now. The boss is busy.
+TRADUCCION:
+
+[4|1|7|1]
+ORIGINAL: \bI better go and help my boss. He might need me.
+TRADUCCION:

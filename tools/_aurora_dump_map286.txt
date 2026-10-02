@@ -1,0 +1,8 @@
+=== map286 ===
+ev1 pg0 [2]: "It´s a large stature resembling a Pokémon."
+ev1 pg1 [2]: "It´s a large stature resembling a Pokémon."
+ev1 pg1 [4]: "The Delta Stone in your pocket just lit up!"
+ev1 pg1 [5]: "The stature is coming to life!"
+ev1 pg1 [7]: "\\bREGIIICEEE!!!"
+ev1 pg3 [0]: "Regice went back into a deep slumber. Will it wake up again?"
+ev1 pg4 [2]: "It´s a large stature resembling a Pokémon."

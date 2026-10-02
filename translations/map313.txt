@@ -1,0 +1,71 @@
+[5|1|0|3]
+ORIGINAL: \bHm? What do you want from me? Don´t you have a gift to get? Why did Oak say that you´re the one who gets their Pokémon first?!
+TRADUCCION: \b¿Hm? ¿Qué quieres de mí? ¿No tienes que ir a buscar un regalo? ¿Por qué dijo Miyagi que tú eres quien elige primero su Pokémon?
+
+[5|1|3|3]
+ORIGINAL: \bI get that he´s a friend of your dad, but why did he replace my uncle at the lab?! My uncle would´ve let me choose first!
+TRADUCCION: \bEntiendo que sea amigo de tu padre, ¡pero ¿por qué reemplazó a mi tío en el laboratorio?! ¡Mi tío me habría dejado elegir a mí primero!
+
+[5|1|6|2]
+ORIGINAL: \bStupid Oak should go back to Kanto, and you can come with him!
+TRADUCCION: \b¡El estúpido de Miyagi debería volver a Kanto, y tú puedes irte con él!
+
+[5|1|8|1]
+ORIGINAL: \bNow leave me alone!
+TRADUCCION: \b¡Ahora déjame en paz!
+
+[5|2|0|2]
+ORIGINAL: \bAre you retarded?! I told you to leave me the **** alone!
+TRADUCCION: \b¿Estás mal de la cabeza?! ¡Te dije que me dejaras en **** paz!
+
+[5|4|0|2]
+ORIGINAL: \bHi, \PN. This still feels weird. Not too long ago, we were just two brats with big dreams.
+TRADUCCION: \bHola, \PN. Esto todavía se siente raro. No hace tanto, éramos solo dos mocosos con grandes sueños.
+
+[5|4|2|2]
+ORIGINAL: \bBut we never gave up, and now we managed to fulfill our dreams. This is incredible.
+TRADUCCION: \bPero nunca nos rendimos, y ahora logramos cumplir nuestros sueños. Esto es increíble.
+
+[5|4|4|2]
+ORIGINAL: \bWe have our whole life still ahead of us, so we better pick some new goals to achieve.
+TRADUCCION: \bTodavía tenemos toda la vida por delante, así que mejor nos ponemos nuevas metas.
+
+[5|4|6|2]
+ORIGINAL: \bHm, why don´t we try to complete the Pokédex? Or we could travel the world and see every region!
+TRADUCCION: \bHmm, ¿por qué no intentamos completar la Pokédex? ¡O podríamos viajar por el mundo y ver todas las regiones!
+
+[5|4|8|3]
+ORIGINAL: \bThere is still so much left to do! But you should do what you want to do. I was just getting a bit too excited there.
+TRADUCCION: \b¡Todavía queda tanto por hacer! Pero deberías hacer lo que tú quieras hacer. Me emocioné un poco de más ahí.
+
+[5|4|11|1]
+ORIGINAL: \bTake care, my friend, and have fun out there!
+TRADUCCION: \bCuídate, amigo, ¡y diviértete por ahí!
+
+[5|5|0|2]
+ORIGINAL: \bAfter Paldea and Alola, I think I want to see Kanto and Johto. Yup, that sounds like a great idea!
+TRADUCCION: \bDespués de Paldea y Alola, creo que quiero ver Kanto y Johto. Sí, ¡eso suena como una gran idea!
+
+[4|1|0|3]
+ORIGINAL: \bOh, hello \PN. Zeke hasn´t come down yet, so he might have overslept again. Why don´t you go and see what´s going on?
+TRADUCCION: \bAy, hola \PN. Xarly todavía no ha bajado, así que puede que se haya vuelto a quedar dormido. ¿Por qué no subes a ver qué pasa?
+
+[4|2|0|1]
+ORIGINAL: \bI hope the two of you will have an amazing journey!
+TRADUCCION: \b¡Espero que los dos tengáis un viaje increíble!
+
+[4|3|8|3]
+ORIGINAL: \bAhhhh, I´m afraid you´re too late! Zeke´s already on his way to Crystal Harbor! I know that you want to say goodbye to him, so you need to get there ASAP!
+TRADUCCION: \bAhhh, ¡me temo que llegas tarde! ¡Xarly ya va de camino a Puerto del Cristal! Sé que quieres despedirte de él, ¡así que tienes que llegar cuanto antes!
+
+[4|4|0|2]
+ORIGINAL: \bYou should hurry up if you want to say goodbye to Zeke!
+TRADUCCION: \b¡Deberías darte prisa si quieres despedirte de Xarly!
+
+[4|5|0|2]
+ORIGINAL: \bI hope Zeke has an amazing journey. I´m glad that he can fulfill his dream.
+TRADUCCION: \bEspero que Xarly tenga un viaje increíble. Me alegra que pueda cumplir su sueño.
+
+[4|6|0|3]
+ORIGINAL: \bI missed Zeke, it´s great to finally have him back. I´m so proud of him! Oh, and of course congratulations on becoming World Champion.
+TRADUCCION: \bExtrañaba a Xarly, qué bien tenerlo de vuelta por fin. ¡Estoy tan orgullosa de él! Ah, y por supuesto, felicidades por convertirte en Campeón Mundial.

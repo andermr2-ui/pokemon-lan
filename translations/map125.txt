@@ -1,0 +1,331 @@
+[27|1|0|1]
+ORIGINAL: Say my name.
+TRADUCCION:
+
+[27|1|3|1]
+ORIGINAL: Who´s Walter? Leave me alone already!
+TRADUCCION:
+
+[27|1|6|1]
+ORIGINAL: You´re god damn right!
+TRADUCCION:
+
+[38|1|2|1]
+ORIGINAL: \bKYLE!!!
+TRADUCCION:
+
+[38|1|3|3]
+ORIGINAL: \bOPEN THE ******* DOOR!!! YOU ******* CHEATER!!! I´M GONNA KILL THAT LITTLE BITCH AND THEN I´M GONNA KILL YOU!!!
+TRADUCCION:
+
+[38|1|6|1]
+ORIGINAL: \bKYLEEEEEEE!!!
+TRADUCCION:
+
+[33|1|0|3]
+ORIGINAL: \bThanks to Mayor Marshall I was finally able to afford this truck. I´m glad I voted for him, he really cares about us.
+TRADUCCION:
+
+[33|2|0|3]
+ORIGINAL: \bThanks to Mayor Marshall I was finally able to afford this truck. I´m glad I voted for him, he really cares about us.
+TRADUCCION:
+
+[22|1|0|1]
+ORIGINAL: It´s a Pokémon Statue dedicated to Victini.
+TRADUCCION:
+
+[22|2|0|1]
+ORIGINAL: It´s a Pokémon Statue dedicated to Victini.
+TRADUCCION:
+
+[22|2|2|1]
+ORIGINAL: The Delta Stone in your pocket just lit up!
+TRADUCCION:
+
+[22|2|3|1]
+ORIGINAL: Something powerful is approaching!
+TRADUCCION:
+
+[22|2|5|1]
+ORIGINAL: \bVIIIIIIIICTINIIIIIIIIII!!!
+TRADUCCION:
+
+[22|3|0|1]
+ORIGINAL: It´s a Pokémon Statue dedicated to Victini.
+TRADUCCION:
+
+[22|4|0|1]
+ORIGINAL: Victini disappeared. Will it come back?
+TRADUCCION:
+
+[22|5|0|1]
+ORIGINAL: It´s a Pokémon Statue dedicated to Victini.
+TRADUCCION:
+
+[17|1|0|3]
+ORIGINAL: \bI´m sorry, but the Riverstone Gym is currently closed. Emmett, the Gym Leader, is out of town. He should be back very soon though.
+TRADUCCION:
+
+[17|2|0|2]
+ORIGINAL: \bCongratulations, trainer. That was your first step towards challengenig the Pokémon League.
+TRADUCCION:
+
+[39|1|0|2]
+ORIGINAL: \bOuch! Ah! This is police brutality! All I did was tax fraud!!! Someone, please help me!!!
+TRADUCCION:
+
+[39|2|0|2]
+ORIGINAL: \bWow, thank you! Please, take this, it´s the least I can do for my savior.
+TRADUCCION:
+
+[39|3|0|2]
+ORIGINAL: \bThe police should save people from real danger. All I did was fake some tax documents.
+TRADUCCION:
+
+[1|1|2|2]
+ORIGINAL: It's a vending machine.\nWhich drink would you like?\G
+TRADUCCION:
+
+[1|1|12|1]
+ORIGINAL: \GA Fresh Water dropped down!
+TRADUCCION:
+
+[1|1|19|1]
+ORIGINAL: \GBonus! Another Fresh Water dropped down.
+TRADUCCION:
+
+[1|1|27|1]
+ORIGINAL: \GYou have no room left in the Bag.
+TRADUCCION:
+
+[1|1|32|1]
+ORIGINAL: \GYou don't have enough money.
+TRADUCCION:
+
+[1|1|43|1]
+ORIGINAL: \GA Soda Pop dropped down!
+TRADUCCION:
+
+[1|1|50|1]
+ORIGINAL: \GBonus! Another Soda Pop dropped down.
+TRADUCCION:
+
+[1|1|58|1]
+ORIGINAL: \GYou have no room left in the Bag.
+TRADUCCION:
+
+[1|1|63|1]
+ORIGINAL: \GYou don't have enough money.
+TRADUCCION:
+
+[1|1|74|1]
+ORIGINAL: \GA Lemonade dropped down!
+TRADUCCION:
+
+[1|1|81|1]
+ORIGINAL: \GBonus! Another Lemonade dropped down.
+TRADUCCION:
+
+[1|1|89|1]
+ORIGINAL: \GYou have no room left in the Bag.
+TRADUCCION:
+
+[1|1|94|1]
+ORIGINAL: \GYou don't have enough money.
+TRADUCCION:
+
+[1|1|99|1]
+ORIGINAL: \GDecided not to buy a drink.
+TRADUCCION:
+
+[29|1|0|3]
+ORIGINAL: \bMy damn truck broke down again. I asked Rotom AI for a fix, but that stupid bot just made the problem worse.
+TRADUCCION:
+
+[40|1|1|2]
+ORIGINAL: \bNothing to see here, kid. I´m just doing my job, now go away.
+TRADUCCION:
+
+[40|1|3|3]
+ORIGINAL: \bWhat do you mean, "stop"? This man is a criminal! Tax fraud is a serious crime, so I have to punish him!!!
+TRADUCCION:
+
+[40|1|6|2]
+ORIGINAL: \bAlright, if you don´t go away right now, I´ll arrest you for tax fraud as well.
+TRADUCCION:
+
+[40|1|8|2]
+ORIGINAL: \bOkay, if you don´t want it any other way, then you´ll suffer the consequences!
+TRADUCCION:
+
+[40|1|11|1]
+ORIGINAL: \b****!
+TRADUCCION:
+
+[40|1|12|1]
+ORIGINAL: \bFine, I´ll let you off with a warning.
+TRADUCCION:
+
+[2|1|2|2]
+ORIGINAL: It's a vending machine.\nWhich drink would you like?\G
+TRADUCCION:
+
+[2|1|12|1]
+ORIGINAL: \GA Fresh Water dropped down!
+TRADUCCION:
+
+[2|1|19|1]
+ORIGINAL: \GBonus! Another Fresh Water dropped down.
+TRADUCCION:
+
+[2|1|27|1]
+ORIGINAL: \GYou have no room left in the Bag.
+TRADUCCION:
+
+[2|1|32|1]
+ORIGINAL: \GYou don't have enough money.
+TRADUCCION:
+
+[2|1|43|1]
+ORIGINAL: \GA Soda Pop dropped down!
+TRADUCCION:
+
+[2|1|50|1]
+ORIGINAL: \GBonus! Another Soda Pop dropped down.
+TRADUCCION:
+
+[2|1|58|1]
+ORIGINAL: \GYou have no room left in the Bag.
+TRADUCCION:
+
+[2|1|63|1]
+ORIGINAL: \GYou don't have enough money.
+TRADUCCION:
+
+[2|1|74|1]
+ORIGINAL: \GA Lemonade dropped down!
+TRADUCCION:
+
+[2|1|81|1]
+ORIGINAL: \GBonus! Another Lemonade dropped down.
+TRADUCCION:
+
+[2|1|89|1]
+ORIGINAL: \GYou have no room left in the Bag.
+TRADUCCION:
+
+[2|1|94|1]
+ORIGINAL: \GYou don't have enough money.
+TRADUCCION:
+
+[2|1|99|1]
+ORIGINAL: \GDecided not to buy a drink.
+TRADUCCION:
+
+[35|1|0|3]
+ORIGINAL: \bWhat a beautiful day for a walk. Let me tell you something, kid. All of us grow old eventually, so make sure you stay fit.
+TRADUCCION:
+
+[35|1|3|2]
+ORIGINAL: \bI try to go on walks every day, that makes me feel young again.
+TRADUCCION:
+
+[8|1|0|1]
+ORIGINAL: \bSTOP! GIVE THAT BACK!
+TRADUCCION:
+
+[30|1|0|2]
+ORIGINAL: \bI´m still waiting for our stupid mayor to green light the Dojo Project.
+TRADUCCION:
+
+[30|1|2|3]
+ORIGINAL: \bSince the closure of the Ambergrove Dojo I´ve had no place to train, and I don´t wanna train in the bloody mountains.
+TRADUCCION:
+
+[30|2|0|2]
+ORIGINAL: \bI´m still waiting for our stupid mayor to green light the Dojo Project.
+TRADUCCION:
+
+[30|2|2|3]
+ORIGINAL: \bSince the closure of the Ambergrove Dojo I´ve had no place to train, and I don´t wanna train in the bloody mountains.
+TRADUCCION:
+
+[42|1|0|1]
+ORIGINAL: A man is lying on the bed with a Lopunny.
+TRADUCCION:
+
+[9|1|1|1]
+ORIGINAL: \bHuh?!
+TRADUCCION:
+
+[9|1|2|1]
+ORIGINAL: \bWho are you? Out of my way, I got places to be!
+TRADUCCION:
+
+[9|1|3|2]
+ORIGINAL: \bWhat do you mean, "Give them back!". I don´t know what you´re talking about.
+TRADUCCION:
+
+[9|1|5|2]
+ORIGINAL: \bMega Rings? Never heard of that. But if you don´t get out of my way right now, it´s gonna get ugly!
+TRADUCCION:
+
+[9|2|0|2]
+ORIGINAL: \bAlright, fine. Take them. We don´t need these anyways.
+TRADUCCION:
+
+[9|2|2|1]
+ORIGINAL: \bBut now, let me go already!
+TRADUCCION:
+
+[31|1|0|3]
+ORIGINAL: \bI like our mayor. He raised the minimum salary in Riverstone, he makes sure that the greenery stays fresh, and he lowered taxes!
+TRADUCCION:
+
+[31|2|0|3]
+ORIGINAL: \bI like our mayor. He raised the minimum salary in Riverstone, he makes sure that the greenery stays fresh, and he lowered taxes!
+TRADUCCION:
+
+[37|1|0|2]
+ORIGINAL: \bThe roads in this town are awesome! It´s the perfect place to go for a ride.
+TRADUCCION:
+
+[32|1|0|1]
+ORIGINAL: \bI´m itching to hit the slots again...
+TRADUCCION:
+
+[32|1|1|1]
+ORIGINAL: \bI know I shouldn´t, but I need to...
+TRADUCCION:
+
+[21|1|0|1]
+ORIGINAL: Riverstone Gym\nLeader: Emmett
+TRADUCCION:
+
+[10|1|0|1]
+ORIGINAL: brrrrzzz
+TRADUCCION:
+
+[10|1|1|2]
+ORIGINAL: \bHey Boss, I´ve got great news! I got the stuff. Where do you want to meet?
+TRADUCCION:
+
+[10|1|3|1]
+ORIGINAL: \bHmm, understood. I will be there.
+TRADUCCION:
+
+[10|1|4|1]
+ORIGINAL: brrrrzzz
+TRADUCCION:
+[27|1|1|OPCIONES]
+ORIGINAL: Walter|Heisenberg
+TRADUCCION:
+
+[1|1|4|OPCIONES]
+ORIGINAL: Fresh Water - $200|Soda Pop - $300|Lemonade - $350|Cancel
+TRADUCCION:
+
+[2|1|4|OPCIONES]
+ORIGINAL: Fresh Water - $200|Soda Pop - $300|Lemonade - $350|Cancel
+TRADUCCION:
+

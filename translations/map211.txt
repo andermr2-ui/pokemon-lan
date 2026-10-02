@@ -1,0 +1,103 @@
+[5|1|2|2]
+ORIGINAL: \bWe would battle you, but with just one Pokémon on your team, this wouldn´t be fair.
+TRADUCCION:
+
+[5|1|8|1]
+ORIGINAL: \bWe´re freezing out here, but we still want to battle!
+TRADUCCION:
+
+[5|2|0|2]
+ORIGINAL: \bI don´t care about the weather as long as I´m with my girl.
+TRADUCCION:
+
+[11|1|0|1]
+ORIGINAL: It´s an ancient tomb. A dark aura is filling the air.
+TRADUCCION:
+
+[11|2|0|1]
+ORIGINAL: It´s an ancient tomb. A dark aura is filling the air.
+TRADUCCION:
+
+[11|2|2|1]
+ORIGINAL: The Delta Stone in your pocket just lit up!
+TRADUCCION:
+
+[11|2|3|1]
+ORIGINAL: An ominous creature is coming out of the tomb!
+TRADUCCION:
+
+[11|2|5|1]
+ORIGINAL: \bPAOOOOO!!!
+TRADUCCION:
+
+[11|3|0|1]
+ORIGINAL: It´s an ancient tomb.
+TRADUCCION:
+
+[11|4|0|2]
+ORIGINAL: Chien-Pao returned to its tomb. Will it come out again?
+TRADUCCION:
+
+[11|5|0|1]
+ORIGINAL: It´s an ancient tomb. A dark aura is filling the air.
+TRADUCCION:
+
+[6|1|2|2]
+ORIGINAL: \bWe would battle you, but with just one Pokémon on your team, this wouldn´t be fair.
+TRADUCCION:
+
+[6|1|8|2]
+ORIGINAL: \bIf we battle now, then we´re all gonna heat up again!
+TRADUCCION:
+
+[6|2|0|1]
+ORIGINAL: \bThanks for the battle. We aren´t freezing anymore.
+TRADUCCION:
+
+[1|1|2|1]
+ORIGINAL: \bTime to freeze!
+TRADUCCION:
+
+[1|2|0|2]
+ORIGINAL: \bIce-Type Pokémon are rare in the Delta Region. This is one of the only places you can find them.
+TRADUCCION:
+
+[12|1|1|1]
+ORIGINAL: Glastrier is staring at you.
+TRADUCCION:
+
+[12|1|3|1]
+ORIGINAL: It wants to battle!
+TRADUCCION:
+
+[12|1|5|1]
+ORIGINAL: \bGLAAAS!!!
+TRADUCCION:
+
+[12|3|0|1]
+ORIGINAL: Glastrier disappeared. Will it come back?
+TRADUCCION:
+
+[2|1|2|1]
+ORIGINAL: \bWhat are we, some kinda Arctic Monkeys?
+TRADUCCION:
+
+[2|2|0|2]
+ORIGINAL: \bI should start a band. And I think I already know its name.
+TRADUCCION:
+
+[3|1|2|1]
+ORIGINAL: \bWe´re called Cool Trainers for a reason!
+TRADUCCION:
+
+[3|2|0|2]
+ORIGINAL: \bTrainers who have mastered these conditions are truly special.
+TRADUCCION:
+
+[4|1|2|1]
+ORIGINAL: \bI´m gonna melt you!
+TRADUCCION:
+
+[4|2|0|2]
+ORIGINAL: \bThis is not my kind of weather, but my Charizard keeps me warm.
+TRADUCCION:

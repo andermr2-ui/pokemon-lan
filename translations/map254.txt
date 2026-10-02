@@ -1,0 +1,115 @@
+[2|1|2|2]
+ORIGINAL: \bOh, hello. Do you realize how far you´ve come? You´re super close to challenging the Champion!
+TRADUCCION:
+
+[2|1|4|3]
+ORIGINAL: \bBut before you can do that, you´ll have to get past me. My name is Elysio, and I´m a Fairy-Type specialist.
+TRADUCCION:
+
+[2|1|7|2]
+ORIGINAL: \bThese Pokémon aren´t just powerful, but they´re beautiful as well. Let me show you their beauty!
+TRADUCCION:
+
+[2|1|11|1]
+ORIGINAL: \bYou have done it. You have actually done it!
+TRADUCCION:
+
+[2|1|12|3]
+ORIGINAL: \bCongratulations, \PN, you just beat the Elite Four. Only the best of the best are able to get this far, and you didn´t even break a sweat.
+TRADUCCION:
+
+[2|1|15|2]
+ORIGINAL: \bYou can now enter the Champion´s arena. Once you go through this door, there is no turning back!
+TRADUCCION:
+
+[2|1|17|3]
+ORIGINAL: \bThe battle against the Champion will be on an entirely different level. None of us Elite Four members ever came close to beating him.
+TRADUCCION:
+
+[2|1|20|2]
+ORIGINAL: \bWhatever happens in there, don´t give up. It won´t be easy, but you can do it!
+TRADUCCION:
+
+[2|2|0|2]
+ORIGINAL: \bCould we see a new Champion being crowned today?
+TRADUCCION:
+
+[2|3|2|3]
+ORIGINAL: \bHello, \PN. During our first battle, I already had a feeling that not even Arthur could stop you. And I guess I was right.
+TRADUCCION:
+
+[2|3|5|2]
+ORIGINAL: \bIs there really no way to stop you? Are you gonna keep on winning battles until you die?
+TRADUCCION:
+
+[2|3|7|3]
+ORIGINAL: \bEvery trainer loses a battle once in a while, except you. At this rate, you´re highly likely to win the next World Championship Tournament.
+TRADUCCION:
+
+[2|3|10|2]
+ORIGINAL: \bOn paper, a simple Elite Four member like myself should stand no chance against you in battle.
+TRADUCCION:
+
+[2|3|12|3]
+ORIGINAL: \bYet something is telling me that I can win. It seems impossible, but I´ll work my bloody ass off to defeat you.
+TRADUCCION:
+
+[2|3|15|1]
+ORIGINAL: \bWell then, show me how Champions fight!
+TRADUCCION:
+
+[2|3|18|3]
+ORIGINAL: \bI guess I was just delusional. There was no way that you´d lose against me, but I just couldn´t have a battle with that mindset.
+TRADUCCION:
+
+[2|3|21|2]
+ORIGINAL: \bYou may now return to the Champion´s room, it is yours now.
+TRADUCCION:
+
+[2|3|23|2]
+ORIGINAL: \bOh, but wait. It looks like a new challenger has just entered the League.
+TRADUCCION:
+
+[2|3|25|2]
+ORIGINAL: \bNo way, how´s he doing that?! That guy is destroying Cassian!
+TRADUCCION:
+
+[2|3|27|2]
+ORIGINAL: \bGo on to your room, Champ. The Elite Four has battles to win!
+TRADUCCION:
+
+[2|4|0|3]
+ORIGINAL: \bIf this guy somehow manages to get past every single member of the Elite Four, then you´ll have to defend your title once more.
+TRADUCCION:
+
+[2|4|3|2]
+ORIGINAL: \bI doubt that this guy will make it that far, but you should consider every possibility.
+TRADUCCION:
+
+[2|5|2|3]
+ORIGINAL: \bHello, \PN. Another day, another battle, huh? You´ve crushed me several times now, but I will never give up!
+TRADUCCION:
+
+[2|5|5|2]
+ORIGINAL: \bMy Pokémon have grown stronger with each battle, and this time I will bring you down!
+TRADUCCION:
+
+[2|5|9|1]
+ORIGINAL: \bAnother day, another loss...
+TRADUCCION:
+
+[2|5|10|2]
+ORIGINAL: \bI don´t know if I´ll ever beat you, but I will keep on trying!
+TRADUCCION:
+
+[2|5|12|2]
+ORIGINAL: \bI hope you come back soon, because nothing in life brings me greater joy than this!
+TRADUCCION:
+
+[2|6|0|2]
+ORIGINAL: \bI know that my Fairy-Type Pokémon have the potential to win against you.
+TRADUCCION:
+
+[2|6|2|2]
+ORIGINAL: \bIt´s me who needs to improve. That´s the only way for me to stand a chance.
+TRADUCCION:

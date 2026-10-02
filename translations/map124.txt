@@ -1,0 +1,15 @@
+[1|1|2|2]
+ORIGINAL: \bFishing at Milotic River is nearly impossible...I´m frustrated!
+TRADUCCION:
+
+[1|2|0|2]
+ORIGINAL: \bDon´t try to use your fishing rod here, you might get dragged down.
+TRADUCCION:
+
+[2|1|2|1]
+ORIGINAL: \bHaha, wouldn´t it be funny if I jumped?
+TRADUCCION:
+
+[2|2|0|2]
+ORIGINAL: \bDon´t worry, I would never jump down this bridge. But others have...
+TRADUCCION:

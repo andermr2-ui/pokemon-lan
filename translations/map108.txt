@@ -1,0 +1,31 @@
+[12|1|2|1]
+ORIGINAL: \bThis cave is huge! Just like your mom.
+TRADUCCION:
+
+[12|2|0|1]
+ORIGINAL: \bDon´t take my jokes too personal please.
+TRADUCCION:
+
+[13|1|2|1]
+ORIGINAL: \bWould you be so kind and have a battle with me?
+TRADUCCION:
+
+[13|2|0|1]
+ORIGINAL: \bIt´s good to see that the youth has still got it.
+TRADUCCION:
+
+[2|1|2|1]
+ORIGINAL: \bI can bend steel!
+TRADUCCION:
+
+[2|2|0|1]
+ORIGINAL: \bIf I keep on training I will be able to bend diamonds!
+TRADUCCION:
+
+[3|1|2|1]
+ORIGINAL: \bFace me! I´m a Dragon Tamer.
+TRADUCCION:
+
+[3|2|0|2]
+ORIGINAL: \bThere are some rare Dragon-Type Pokémon in here. I bet you can catch them!
+TRADUCCION:

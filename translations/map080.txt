@@ -1,0 +1,59 @@
+[5|1|2|1]
+ORIGINAL: \bYou better not be scared of spiders. Here we go!
+TRADUCCION:
+
+[5|2|0|1]
+ORIGINAL: \bSpiders rock!
+TRADUCCION:
+
+[1|1|0|1]
+ORIGINAL: Meadow Grove
+TRADUCCION:
+
+[7|1|2|1]
+ORIGINAL: \bLook at my cute partner!
+TRADUCCION:
+
+[7|2|0|1]
+ORIGINAL: \bIt´s cute even if it loses.
+TRADUCCION:
+
+[4|1|2|1]
+ORIGINAL: \bI´m not gonna hold back! My Pokémon is strong.
+TRADUCCION:
+
+[4|2|0|1]
+ORIGINAL: \bI wish my dad would come back...
+TRADUCCION:
+
+[10|1|0|1]
+ORIGINAL: It´s a Pokémon Statue dedicated to Shaymin.
+TRADUCCION:
+
+[10|2|0|1]
+ORIGINAL: It´s a Pokémon Statue dedicated to Shaymin.
+TRADUCCION:
+
+[10|2|2|1]
+ORIGINAL: The Delta Stone in your pocket just lit up!
+TRADUCCION:
+
+[10|2|3|1]
+ORIGINAL: Something powerful is approaching!
+TRADUCCION:
+
+[10|2|5|1]
+ORIGINAL: \bMIIIIIIIN!!!
+TRADUCCION:
+
+[10|3|0|1]
+ORIGINAL: It´s a Pokémon Statue dedicated to Shaymin.
+TRADUCCION:
+
+[10|4|0|1]
+ORIGINAL: Shaymin disappeared. Will it come back?
+TRADUCCION:
+
+[10|5|0|1]
+ORIGINAL: It´s a Pokémon Statue dedicated to Shaymin.
+TRADUCCION:

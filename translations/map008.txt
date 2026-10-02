@@ -1,0 +1,235 @@
+[5|1|6|1]
+ORIGINAL: \rHi! I'm the Contest Lady!
+TRADUCCION:
+
+[5|1|7|1]
+ORIGINAL: \rI give out contest ribbons. Do you want one?
+TRADUCCION:
+
+[5|1|24|2]
+ORIGINAL: \rSorry, your \v[2] already has the highest ranked Cool Ribbon.
+TRADUCCION:
+
+[5|1|28|2]
+ORIGINAL: \PN received the \v[3].\me[Item get]\wtnp[40]
+TRADUCCION:
+
+[5|1|30|1]
+ORIGINAL: \PN put the \v[3] on \v[2].
+TRADUCCION:
+
+[5|1|35|1]
+ORIGINAL: \rThat's your choice.
+TRADUCCION:
+
+[6|1|0|2]
+ORIGINAL: \bIf you'd like, I could judge the intriguing potential of your Pokémon.
+TRADUCCION:
+
+[6|1|4|1]
+ORIGINAL: \bWhich Pokémon would you like me to judge?
+TRADUCCION:
+
+[6|1|7|1]
+ORIGINAL: \b...Oh? You don't need me to judge. I get it.
+TRADUCCION:
+
+[6|1|17|1]
+ORIGINAL: \bI see, I see...
+TRADUCCION:
+
+[6|1|19|1]
+ORIGINAL: \bThis Pokémon's potential is outstanding overall.
+TRADUCCION:
+
+[6|1|23|2]
+ORIGINAL: \bThis Pokémon's potential is relatively superior overall.
+TRADUCCION:
+
+[6|1|28|1]
+ORIGINAL: \bThis Pokémon's potential is above average overall.
+TRADUCCION:
+
+[6|1|31|1]
+ORIGINAL: \bThis Pokémon's potential is decent overall.
+TRADUCCION:
+
+[6|1|38|1]
+ORIGINAL: \bThat's my determination, and it's final.
+TRADUCCION:
+
+[6|1|60|2]
+ORIGINAL: \bIncidentally, I would say the best potential lies in its \v[4] stat.
+TRADUCCION:
+
+[6|1|78|1]
+ORIGINAL: \bAnd its Attack stat is also good.
+TRADUCCION:
+
+[6|1|82|1]
+ORIGINAL: \bI see, its Defense stat is also good.
+TRADUCCION:
+
+[6|1|86|1]
+ORIGINAL: \bWell, its Speed stat is also good.
+TRADUCCION:
+
+[6|1|90|1]
+ORIGINAL: \bIts Special Attack stat is equally good.
+TRADUCCION:
+
+[6|1|94|1]
+ORIGINAL: \bIts Special Defense stat is good as well.
+TRADUCCION:
+
+[6|1|117|2]
+ORIGINAL: \bIt can't be better in that regard. That's how I judged it.
+TRADUCCION:
+
+[6|1|122|1]
+ORIGINAL: \bIt's fantastic in that regard. That's how I judged it.
+TRADUCCION:
+
+[6|1|126|1]
+ORIGINAL: \bIt's very good in that regard. That's how I judged it.
+TRADUCCION:
+
+[6|1|129|2]
+ORIGINAL: \bIt's rather decent in that regard. That's how I judged it.
+TRADUCCION:
+
+[6|1|139|1]
+ORIGINAL: \b...Oh? You don't need me to judge. I get it.
+TRADUCCION:
+
+[2|1|0|1]
+ORIGINAL: \rDaisy: Hi, \PN!
+TRADUCCION:
+
+[2|1|1|2]
+ORIGINAL: \rDaisy: Would you like me to groom one of your Pokémon?
+TRADUCCION:
+
+[2|1|5|1]
+ORIGINAL: \rDaisy: Which Pokémon do you want me to groom?
+TRADUCCION:
+
+[2|1|8|1]
+ORIGINAL: \rDaisy: Oh, okay then.
+TRADUCCION:
+
+[2|1|15|2]
+ORIGINAL: \rDaisy: There! \v[2] looks a lot happier and prettier now!
+TRADUCCION:
+
+[2|1|19|1]
+ORIGINAL: \rDaisy: Oh, okay then.
+TRADUCCION:
+
+[3|1|0|1]
+ORIGINAL: \bDr. Footstep: Hi! I rate the footprints of Pokémon!
+TRADUCCION:
+
+[3|1|1|1]
+ORIGINAL: \bDr. Footstep: Can I rate your Pokémon for you?
+TRADUCCION:
+
+[3|1|4|2]
+ORIGINAL: \bDr. Footstep: Which Pokémon do you want me to rate?
+TRADUCCION:
+
+[3|1|8|1]
+ORIGINAL: \bDr. Footstep: Maybe next time, then.
+TRADUCCION:
+
+[3|1|23|3]
+ORIGINAL: \bDr. Footstep: By any chance, you... Are you a very strict person? I feel that your \v[2] really doesn't like you...
+TRADUCCION:
+
+[3|1|29|2]
+ORIGINAL: \bDr. Footstep: Hmmm... Your \v[2] may not like you very much.
+TRADUCCION:
+
+[3|1|34|2]
+ORIGINAL: \bDr. Footstep: The relationship is neither good nor bad... Your \v[2] looks neutral.
+TRADUCCION:
+
+[3|1|39|2]
+ORIGINAL: \bDr. Footstep: Your \v[2] is a little friendly to you... That's what I'm getting.
+TRADUCCION:
+
+[3|1|44|2]
+ORIGINAL: \bDr. Footstep: Your \v[2] is friendly to you. It must be happy with you.
+TRADUCCION:
+
+[3|1|49|2]
+ORIGINAL: \bDr. Footstep: Your \v[2] is quite friendly to you! You must be a kind person!
+TRADUCCION:
+
+[3|1|54|2]
+ORIGINAL: \bDr. Footstep: Your \v[2] is super friendly to you! I'm a bit jealous!
+TRADUCCION:
+
+[3|1|57|1]
+ORIGINAL: \bDr. Footstep: I shall reward your \v[2] with a ribbon!
+TRADUCCION:
+
+[3|1|60|2]
+ORIGINAL: \PN received the Footprint Ribbon.\me[Item get]\wtnp[20]
+TRADUCCION:
+
+[3|1|62|1]
+ORIGINAL: \PN put the Footprint Ribbon on \v[2].
+TRADUCCION:
+
+[3|1|69|1]
+ORIGINAL: \bDr. Footstep: Maybe next time, then.
+TRADUCCION:
+
+[4|1|13|1]
+ORIGINAL: \rOh?\nYour \v[1]...
+TRADUCCION:
+
+[4|1|16|1]
+ORIGINAL: \rOh! Your \v[1], that Effort Ribbon looks good on it!
+TRADUCCION:
+
+[4|1|22|1]
+ORIGINAL: \rWent for it stupendously!
+TRADUCCION:
+
+[4|1|23|1]
+ORIGINAL: \rAs its reward, please give it this Effort Ribbon.
+TRADUCCION:
+
+[4|1|26|2]
+ORIGINAL: \PN received the Effort Ribbon.\me[Item get]\wtnp[20]
+TRADUCCION:
+
+[4|1|28|1]
+ORIGINAL: \PN put the Effort Ribbon on \v[1].
+TRADUCCION:
+
+[4|1|32|1]
+ORIGINAL: \rYou have to go for it a little harder.
+TRADUCCION:
+
+[4|1|33|1]
+ORIGINAL: \rIf you do, I'll give your Pokémon something nice.
+TRADUCCION:
+[5|1|8|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[6|1|2|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[2|1|3|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[3|1|2|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+

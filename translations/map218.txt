@@ -1,0 +1,59 @@
+[16|1|2|1]
+ORIGINAL: \bThis will be a heated battle, but I´m just a chill guy.
+TRADUCCION:
+
+[16|2|0|2]
+ORIGINAL: \bI think you have a chance against Wesley, because he´s just a chill guy.
+TRADUCCION:
+
+[16|3|0|2]
+ORIGINAL: \bSo I was right. Chill guys like us just don´t stand a chance against trainers of your caliber.
+TRADUCCION:
+
+[17|1|2|2]
+ORIGINAL: \bI don´t feel like going all out, because I´m just a chill guy.
+TRADUCCION:
+
+[17|2|0|2]
+ORIGINAL: \bIn this Gym, no one goes all out. After all, we´re just chill guys.
+TRADUCCION:
+
+[17|3|0|2]
+ORIGINAL: \bChill guys like me could never be champion material like you.
+TRADUCCION:
+
+[7|1|2|1]
+ORIGINAL: \bI´m just a chill guy that likes to battle.
+TRADUCCION:
+
+[7|2|0|2]
+ORIGINAL: \bEveryone in this gym is really chill. We´re all just chill guys.
+TRADUCCION:
+
+[7|3|0|1]
+ORIGINAL: \bI should be impressed, but I´m just a chill guy.
+TRADUCCION:
+
+[2|1|0|3]
+ORIGINAL: \bWelcome to the Aurora Summit Gym. In this Gym, trainers use Normal-Type Pokémon, which are only weak to Fighting-Type attacks.
+TRADUCCION:
+
+[2|1|3|3]
+ORIGINAL: \bAnd don´t you dare underestimate Wesley, the Gym Leader. He is recognized as the world´s strongest Normal-Type trainer. Good luck!
+TRADUCCION:
+
+[2|2|0|2]
+ORIGINAL: \bOh, did Wesley hold back again? I thought you could make him go all out...
+TRADUCCION:
+
+[15|1|2|1]
+ORIGINAL: \bI love battles, but I´m just a chill guy.
+TRADUCCION:
+
+[15|2|0|2]
+ORIGINAL: \bIn case you haven´t noticed, we´re all just chill guys.
+TRADUCCION:
+
+[15|3|0|2]
+ORIGINAL: \bWesley is a chill guy like us, so he probably didn´t try very hard.
+TRADUCCION:

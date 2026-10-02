@@ -1,0 +1,131 @@
+[9|1|0|1]
+ORIGINAL: Crystal Cove Gym\nLeader: Watron
+TRADUCCION:
+
+[66|1|0|1]
+ORIGINAL: Larry & Mindy´s Specialties
+TRADUCCION:
+
+[10|1|0|3]
+ORIGINAL: \bTurn around you little brat, I´m letting no one through. The path ahead isn´t blocked or anything, I just happen to be a jerk.
+TRADUCCION:
+
+[1|1|1|2]
+ORIGINAL: \bWe would battle you, but with just one Pokémon on your team, this wouldn´t be fair. Now get lost!
+TRADUCCION:
+
+[1|1|8|3]
+ORIGINAL: \bNo one is allowed to enter the Rocky Gate. And I don´t know who this "No One" guy is, but I know it´s not you!
+TRADUCCION:
+
+[1|2|0|2]
+ORIGINAL: \bAlright, go ahead. But please, don´t tell the boss where I went.
+TRADUCCION:
+
+[2|1|1|2]
+ORIGINAL: \bWe would battle you, but with just one Pokémon on your team, this wouldn´t be fair. Now get lost!
+TRADUCCION:
+
+[2|1|8|2]
+ORIGINAL: \bThe Boss said that no one is allowed to bother him. And you look like you want to bother him!
+TRADUCCION:
+
+[2|2|0|1]
+ORIGINAL: \bI should get out of here, or the boss will be mad...
+TRADUCCION:
+
+[3|1|2|1]
+ORIGINAL: \bOh no, you´re not going to ruin our plan!
+TRADUCCION:
+
+[3|2|0|2]
+ORIGINAL: \bYou must be the kid that the boss mentioned. You don´t even know our goal, so why are you here?
+TRADUCCION:
+
+[3|2|2|1]
+ORIGINAL: \bEither way, you never saw me.
+TRADUCCION:
+
+[70|1|0|3]
+ORIGINAL: \bThis place is perfect for swimmers like me. I hate walking but I love swimming, and in Crystal Cove that´s your only option.
+TRADUCCION:
+
+[70|1|3|2]
+ORIGINAL: \bWell, unless your Pokémon uses Surf, but that´s boring.
+TRADUCCION:
+
+[71|1|0|2]
+ORIGINAL: \bSwimming in Crystal Cove is much better than swimming in the ocean, because this ain´t salt water.
+TRADUCCION:
+
+[72|1|0|3]
+ORIGINAL: \bMy grandparents sell rare mints and feathers. You should check out their selection if you´re a trainer, they might have just the right thing for you.
+TRADUCCION:
+
+[73|1|0|2]
+ORIGINAL: \bThe good ol´ lighthouse isn´t in use anymore, but they still turn on the light as a tradition.
+TRADUCCION:
+
+[16|2|0|2]
+ORIGINAL: \bHey, thanks for saving me from that cop. He was about to do things to me...
+TRADUCCION:
+
+[16|2|2|1]
+ORIGINAL: \bI don´t even want to think about it...
+TRADUCCION:
+
+[16|2|3|1]
+ORIGINAL: \bHere, take this as a sign of my gratitute.
+TRADUCCION:
+
+[16|3|0|2]
+ORIGINAL: \bOur world needs more people like you. You´re a true hero!
+TRADUCCION:
+
+[7|1|0|3]
+ORIGINAL: \bHello, trainer. Someone is currently challenging Watron, and no one is allowed to interrupt them. I´m sorry, but you will have to come back later.
+TRADUCCION:
+
+[7|2|0|3]
+ORIGINAL: \bZeke: Oh, looks like I got the Volt Badge before you. I told you I would surpass you in no time. If we were to battle now, you would stand no chance.
+TRADUCCION:
+
+[7|2|3|3]
+ORIGINAL: \bBut I´m not going to do that, because I am a fair sportsman. Once you claimed the Volt Badge, meet me at the top of the lighthouse.
+TRADUCCION:
+
+[7|2|6|1]
+ORIGINAL: \bDon´t let me wait for too long. See ya!
+TRADUCCION:
+
+[74|1|2|1]
+ORIGINAL: \bWow, what a view...
+TRADUCCION:
+
+[17|1|3|1]
+ORIGINAL: \bMhh, yeees, I know you want it.
+TRADUCCION:
+
+[17|1|8|1]
+ORIGINAL: \bHuh? What´s a kid doing here?
+TRADUCCION:
+
+[17|1|9|1]
+ORIGINAL: \bLeave us alone, this is adult business.
+TRADUCCION:
+
+[17|1|10|1]
+ORIGINAL: \bHmm?! No, I´m not gonna "let her go".
+TRADUCCION:
+
+[17|1|11|2]
+ORIGINAL: \bLooks like you want to do this the hard way. Fine. Here we go!
+TRADUCCION:
+
+[17|1|14|1]
+ORIGINAL: \bYou little...
+TRADUCCION:
+
+[17|1|15|2]
+ORIGINAL: \bDon´t tell anyone about this, or I´ll come and find you.
+TRADUCCION:

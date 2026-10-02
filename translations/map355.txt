@@ -1,0 +1,91 @@
+[2|1|4|2]
+ORIGINAL: \bSteven: Ah, finally. I´ve been looking forward to meet you. After all, you´re the one who beat Arthur!
+TRADUCCION:
+
+[2|1|6|2]
+ORIGINAL: \bHe´s been a good friend of mine for a long time now, and I know how strong he is.
+TRADUCCION:
+
+[2|1|8|3]
+ORIGINAL: \bSince you can´t beat him by just being lucky, you must be as strong as everyone says you are. I respect that.
+TRADUCCION:
+
+[2|1|11|2]
+ORIGINAL: \bAnyways, I have something that I want to try, and it´d be great if you could help me.
+TRADUCCION:
+
+[2|1|13|3]
+ORIGINAL: \bI have developed a new device with Arthur´s help, and I need your experience in dealing with legendary Pokémon to help me test it.
+TRADUCCION:
+
+[2|1|16|3]
+ORIGINAL: \bThe device I made is a Pokémon translator, and I want to use it to find out why Kyogre and Groudon hate each other so much.
+TRADUCCION:
+
+[2|1|19|2]
+ORIGINAL: \bApparently there´s a way to make them appear at Shrouded Cove, which isn´t far from here.
+TRADUCCION:
+
+[2|1|21|3]
+ORIGINAL: \bBut we should be very careful, if these two actually meet and start their beef again, Rayquaza might come down to stop their fight.
+TRADUCCION:
+
+[2|1|24|1]
+ORIGINAL: \bAh, why am I even worried? We´re Champions!
+TRADUCCION:
+
+[2|1|25|1]
+ORIGINAL: \bI´ll meet you at Shrouded Cove. Bye!
+TRADUCCION:
+
+[2|2|0|1]
+ORIGINAL: \bSteven: We´ll meet at Shrouded Cove.
+TRADUCCION:
+
+[2|4|0|2]
+ORIGINAL: \bSteven: I didn´t expect these Pokémon to use so many swear words.
+TRADUCCION:
+
+[2|4|2|2]
+ORIGINAL: \bOh, and of course thank you! I don´t think I would´ve gotten these Pokémon to appear on my own.
+TRADUCCION:
+
+[2|4|4|1]
+ORIGINAL: \bAnyways, this is for you.
+TRADUCCION:
+
+[2|4|6|3]
+ORIGINAL: \bThis is a piece of the asteroid that Deoxys was in. Should you manage to catch Deoxys, you can change its forms with the Meteorite.
+TRADUCCION:
+
+[2|4|9|2]
+ORIGINAL: \bAnd that´s all from me for today. We should get some rest now. Bye!
+TRADUCCION:
+
+[2|5|0|2]
+ORIGINAL: \bSteven: I really wanna buy that Registeel body-pillow now...
+TRADUCCION:
+
+[2|6|0|1]
+ORIGINAL: \bSteven: Oh, do you have news for me?
+TRADUCCION:
+
+[2|6|1|2]
+ORIGINAL: \bHm? The World Championship Tournament? YEEEEEEEEEEEEEEES!!!
+TRADUCCION:
+
+[2|6|3|2]
+ORIGINAL: \bFinally, it´s been too long since the last one. This tournament is amazing!
+TRADUCCION:
+
+[2|6|5|1]
+ORIGINAL: \bOkay, I´ll see you there. May the best trainer win!
+TRADUCCION:
+
+[2|7|0|2]
+ORIGINAL: \bSteven: I´m not gonna change my strategy, I´m just entering the tournament to have fun!
+TRADUCCION:
+
+[2|8|0|2]
+ORIGINAL: \bSteven: Congratulation dude! You´re the best of the best now, but always remember to stay humble.
+TRADUCCION:

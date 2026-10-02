@@ -1,0 +1,563 @@
+[5|1|0|1]
+ORIGINAL: Check results for which singles challenge?
+TRADUCCION:
+
+[5|1|11|1]
+ORIGINAL: \PN's Battle Tower Pika Cup Single Battle results:
+TRADUCCION:
+
+[5|1|12|1]
+ORIGINAL: Last win streak: \v[1]\nRecord win streak: \v[2]
+TRADUCCION:
+
+[5|1|23|1]
+ORIGINAL: \PN's Battle Tower Fancy Cup Single Battle results:
+TRADUCCION:
+
+[5|1|24|1]
+ORIGINAL: Last win streak: \v[1]\nRecord win streak: \v[2]
+TRADUCCION:
+
+[5|1|35|1]
+ORIGINAL: \PN's Battle Tower Poké Cup Single Battle results:
+TRADUCCION:
+
+[5|1|36|1]
+ORIGINAL: Last win streak: \v[1]\nRecord win streak: \v[2]
+TRADUCCION:
+
+[5|1|49|1]
+ORIGINAL: \PN's Battle Tower Little Cup Single Battle results:
+TRADUCCION:
+
+[5|1|50|1]
+ORIGINAL: Last win streak: \v[1]\nRecord win streak: \v[2]
+TRADUCCION:
+
+[11|1|7|1]
+ORIGINAL: \rHello, and welcome to the Pokémon Center.
+TRADUCCION:
+
+[11|1|8|1]
+ORIGINAL: \rWe restore your tired Pokémon to full health.
+TRADUCCION:
+
+[11|1|9|1]
+ORIGINAL: \rWould you like to rest your Pokémon?
+TRADUCCION:
+
+[11|1|12|1]
+ORIGINAL: \rOK, I'll take your Pokémon for a few seconds.
+TRADUCCION:
+
+[11|1|49|1]
+ORIGINAL: \rYour Pokémon may be infected by Pokérus.
+TRADUCCION:
+
+[11|1|50|2]
+ORIGINAL: \rLittle is known about the Pokérus except that they are microscopic life-forms that attach to Pokémon.
+TRADUCCION:
+
+[11|1|52|2]
+ORIGINAL: \rWhile infected, Pokémon are said to grow exceptionally well.
+TRADUCCION:
+
+[11|1|57|1]
+ORIGINAL: \rThank you for waiting.
+TRADUCCION:
+
+[11|1|58|1]
+ORIGINAL: \rWe've restored your Pokémon to full health.
+TRADUCCION:
+
+[11|1|65|1]
+ORIGINAL: \rWe hope to see you again!
+TRADUCCION:
+
+[11|1|70|1]
+ORIGINAL: \rWe hope to see you again!
+TRADUCCION:
+
+[11|2|8|2]
+ORIGINAL: \rFirst, you should restore your Pokémon to full health.
+TRADUCCION:
+
+[11|2|44|1]
+ORIGINAL: \rYour Pokémon have been healed to perfect health.
+TRADUCCION:
+
+[11|2|51|1]
+ORIGINAL: \rWe hope you excel!
+TRADUCCION:
+
+[6|1|0|1]
+ORIGINAL: Check results for which doubles challenge?
+TRADUCCION:
+
+[6|1|11|1]
+ORIGINAL: \PN's Battle Tower Pika Cup Double Battle results:
+TRADUCCION:
+
+[6|1|12|1]
+ORIGINAL: Last win streak: \v[1]\nRecord win streak: \v[2]
+TRADUCCION:
+
+[6|1|23|1]
+ORIGINAL: \PN's Battle Tower Fancy Cup Double Battle results:
+TRADUCCION:
+
+[6|1|24|1]
+ORIGINAL: Last win streak: \v[1]\nRecord win streak: \v[2]
+TRADUCCION:
+
+[6|1|35|1]
+ORIGINAL: \PN's Battle Tower Poké Cup Double Battle results:
+TRADUCCION:
+
+[6|1|36|1]
+ORIGINAL: Last win streak: \v[1]\nRecord win streak: \v[2]
+TRADUCCION:
+
+[6|1|49|1]
+ORIGINAL: \PN's Battle Tower Little Cup Double Battle results:
+TRADUCCION:
+
+[6|1|50|1]
+ORIGINAL: Last win streak: \v[1]\nRecord win streak: \v[2]
+TRADUCCION:
+
+[7|1|9|1]
+ORIGINAL: Which heading would you like to read?
+TRADUCCION:
+
+[7|1|12|2]
+ORIGINAL: This facility lets you conduct battles similar to Stadium championships.
+TRADUCCION:
+
+[7|1|14|3]
+ORIGINAL: This facility holds battles for Pika Cup, Fancy Cup,Poké Cup, and Little Cup. Each cup has its own rules and restrictions.
+TRADUCCION:
+
+[7|1|20|1]
+ORIGINAL: The Pika Cup is open to Pokémon level 15 to 20.
+TRADUCCION:
+
+[7|1|21|3]
+ORIGINAL: Choose three Pokémon to enter.\nHowever, the total level of all three can't be higher than 50.
+TRADUCCION:
+
+[7|1|24|1]
+ORIGINAL: Also, certain exotic kinds of Pokémon may not enter.
+TRADUCCION:
+
+[7|1|28|1]
+ORIGINAL: The Fancy Cup is open to baby Pokémon level 25 to 30.
+TRADUCCION:
+
+[7|1|29|3]
+ORIGINAL: Choose three Pokémon to enter.\nHowever, the total level of all three can't be higher than 80.
+TRADUCCION:
+
+[7|1|32|2]
+ORIGINAL: Also, very huge or very tall Pokémon may not enterthe Fancy Cup.
+TRADUCCION:
+
+[7|1|34|2]
+ORIGINAL: The height limit is 2 meters, and the weight limit is 20kilograms for the Fancy Cup.
+TRADUCCION:
+
+[7|1|39|1]
+ORIGINAL: The Poké Cup is open to Pokémon level 50 to 55.
+TRADUCCION:
+
+[7|1|40|3]
+ORIGINAL: Choose three Pokémon to enter.\nHowever, the total level of all three can't be higherthan 155.
+TRADUCCION:
+
+[7|1|43|1]
+ORIGINAL: Also, certain exotic kinds of Pokémon may not enter.
+TRADUCCION:
+
+[7|1|49|2]
+ORIGINAL: The Little Cup is open to baby Pokémon at level 5that are capable of evolving.
+TRADUCCION:
+
+[7|1|51|2]
+ORIGINAL: Choose three Pokémon to enter a single battle,or four for a double battle.
+TRADUCCION:
+
+[7|1|53|3]
+ORIGINAL: Also, in the Little Cup, moves that deal a setamount of damage, like Dragon Rage and SonicBoom,will always miss.
+TRADUCCION:
+
+[7|1|59|1]
+ORIGINAL: In Stadium Cups, there are several rules to keep in mind.
+TRADUCCION:
+
+[7|1|60|2]
+ORIGINAL: First, two Pokémon in the same team can't be bothasleep or both frozen at the same time.
+TRADUCCION:
+
+[7|1|62|2]
+ORIGINAL: Also, you can't choose two of the same kind ofPokémon, or two Pokémon holding the same item.
+TRADUCCION:
+
+[7|1|64|3]
+ORIGINAL: Finally, if a Pokémon uses Selfdestruct or Explosion tomake all remaining Pokémon faint at the same time, thatPokémon's trainer loses.
+TRADUCCION:
+
+[7|1|78|1]
+ORIGINAL: There is no battle recorded.
+TRADUCCION:
+
+[3|1|0|2]
+ORIGINAL: \rWelcome to the Battle Tower's Stadium Cup Division.
+TRADUCCION:
+
+[3|1|2|1]
+ORIGINAL: \rWould you like to participate in a single battle?
+TRADUCCION:
+
+[3|1|5|1]
+ORIGINAL: \rWhich Stadium Cup would you like to enter?
+TRADUCCION:
+
+[3|1|14|2]
+ORIGINAL: \rSorry, you can't participate. You need three different Pokémon level 15 to 20 to enter.
+TRADUCCION:
+
+[3|1|16|2]
+ORIGINAL: \rThey must be of a different species and hold different items.
+TRADUCCION:
+
+[3|1|18|2]
+ORIGINAL: \rCertain exotic species, as well as eggs, are ineligible.
+TRADUCCION:
+
+[3|1|31|2]
+ORIGINAL: \rSorry, you can't participate. You need three different Pokémon level 25 to 30 to enter.
+TRADUCCION:
+
+[3|1|33|2]
+ORIGINAL: \rThey must be of a different species and hold different items.
+TRADUCCION:
+
+[3|1|35|2]
+ORIGINAL: \rThey also must be baby Pokémon, and can't betoo tall or too heavy.
+TRADUCCION:
+
+[3|1|37|1]
+ORIGINAL: \rEggs are ineligible.
+TRADUCCION:
+
+[3|1|51|2]
+ORIGINAL: \rSorry, you can't participate. You need three different Pokémon level 50 to 55 to enter.
+TRADUCCION:
+
+[3|1|53|2]
+ORIGINAL: \rThey must be of a different species and hold different items.
+TRADUCCION:
+
+[3|1|55|2]
+ORIGINAL: \rCertain exotic species, as well as eggs, are ineligible.
+TRADUCCION:
+
+[3|1|68|2]
+ORIGINAL: \rSorry, you can't participate. You need three different baby Pokémon at level 5 to enter.
+TRADUCCION:
+
+[3|1|70|2]
+ORIGINAL: \rThey must be of a different species and hold different items.
+TRADUCCION:
+
+[3|1|72|2]
+ORIGINAL: \rThey also must be baby Pokémon that arecapable of evolving.
+TRADUCCION:
+
+[3|1|74|1]
+ORIGINAL: \rEggs are ineligible.
+TRADUCCION:
+
+[3|1|83|1]
+ORIGINAL: \rPlease choose the three Pokémon that will enter.
+TRADUCCION:
+
+[3|1|89|1]
+ORIGINAL: \rPlease come this way.
+TRADUCCION:
+
+[3|1|152|1]
+ORIGINAL: \rCome back another time.
+TRADUCCION:
+
+[3|2|2|1]
+ORIGINAL: \rCongratulations for winning.
+TRADUCCION:
+
+[3|2|4|1]
+ORIGINAL: \rPlease accept these Battle Point(s).
+TRADUCCION:
+
+[3|2|17|1]
+ORIGINAL: \PN obtained \v[1] Battle Point(s).
+TRADUCCION:
+
+[3|2|21|1]
+ORIGINAL: \rWould you like to record your last battle?
+TRADUCCION:
+
+[3|2|25|1]
+ORIGINAL: \se[Pkmn exp full]The battle was recorded.
+TRADUCCION:
+
+[3|2|32|1]
+ORIGINAL: Your results will be recorded.\wtnp[15]
+TRADUCCION:
+
+[3|2|34|1]
+ORIGINAL: \rCome back another time.
+TRADUCCION:
+
+[3|2|40|1]
+ORIGINAL: \rThanks for playing.
+TRADUCCION:
+
+[3|2|42|1]
+ORIGINAL: \rWould you like to record your last battle?
+TRADUCCION:
+
+[3|2|46|1]
+ORIGINAL: \se[Pkmn exp full]The battle was recorded.
+TRADUCCION:
+
+[3|2|53|1]
+ORIGINAL: Your results will be recorded.\wtnp[15]
+TRADUCCION:
+
+[3|2|55|1]
+ORIGINAL: \rCome back another time.
+TRADUCCION:
+
+[3|2|60|1]
+ORIGINAL: \rWe've been waiting for you. Please come this way.
+TRADUCCION:
+
+[3|2|117|2]
+ORIGINAL: \rExcuse me, but you didn't save before finishing your challenge last time.
+TRADUCCION:
+
+[3|2|119|1]
+ORIGINAL: \rSorry, but your challenge has been canceled.
+TRADUCCION:
+
+[4|1|0|2]
+ORIGINAL: \rWelcome to the Battle Tower's Stadium Cup Division.
+TRADUCCION:
+
+[4|1|2|1]
+ORIGINAL: \rWould you like to participate in a double battle?
+TRADUCCION:
+
+[4|1|5|1]
+ORIGINAL: \rWhich Stadium Cup would you like to enter?
+TRADUCCION:
+
+[4|1|14|2]
+ORIGINAL: \rSorry, you can't participate. You need three different Pokémon level 15 to 20 to enter.
+TRADUCCION:
+
+[4|1|16|2]
+ORIGINAL: \rThey must be of a different species and hold different items.
+TRADUCCION:
+
+[4|1|18|2]
+ORIGINAL: \rCertain exotic species, as well as eggs, are ineligible.
+TRADUCCION:
+
+[4|1|31|2]
+ORIGINAL: \rSorry, you can't participate. You need three different Pokémon level 25 to 30 to enter.
+TRADUCCION:
+
+[4|1|33|2]
+ORIGINAL: \rThey must be of a different species and hold different items.
+TRADUCCION:
+
+[4|1|35|2]
+ORIGINAL: \rThey also must be baby Pokémon, and can't betoo tall or too heavy.
+TRADUCCION:
+
+[4|1|37|1]
+ORIGINAL: \rEggs are ineligible.
+TRADUCCION:
+
+[4|1|51|2]
+ORIGINAL: \rSorry, you can't participate. You need three different Pokémon level 50 to 55 to enter.
+TRADUCCION:
+
+[4|1|53|2]
+ORIGINAL: \rThey must be of a different species and hold different items.
+TRADUCCION:
+
+[4|1|55|2]
+ORIGINAL: \rCertain exotic species, as well as eggs, are ineligible.
+TRADUCCION:
+
+[4|1|68|2]
+ORIGINAL: \rSorry, you can't participate. You need three different baby Pokémon at level 5 to enter.
+TRADUCCION:
+
+[4|1|70|2]
+ORIGINAL: \rThey must be of a different species and hold different items.
+TRADUCCION:
+
+[4|1|72|2]
+ORIGINAL: \rThey also must be baby Pokémon that arecapable of evolving.
+TRADUCCION:
+
+[4|1|74|1]
+ORIGINAL: \rEggs are ineligible.
+TRADUCCION:
+
+[4|1|83|1]
+ORIGINAL: \rPlease choose the Pokémon that will enter.
+TRADUCCION:
+
+[4|1|89|1]
+ORIGINAL: \rPlease come this way.
+TRADUCCION:
+
+[4|1|152|1]
+ORIGINAL: \rCome back another time.
+TRADUCCION:
+
+[4|2|2|1]
+ORIGINAL: \rCongratulations for winning.
+TRADUCCION:
+
+[4|2|4|1]
+ORIGINAL: \rPlease accept these Battle Point(s).
+TRADUCCION:
+
+[4|2|17|1]
+ORIGINAL: \PN obtained \v[1] Battle Point(s).
+TRADUCCION:
+
+[4|2|21|1]
+ORIGINAL: \rWould you like to record your last battle?
+TRADUCCION:
+
+[4|2|25|1]
+ORIGINAL: \se[Pkmn exp full]The battle was recorded.
+TRADUCCION:
+
+[4|2|32|1]
+ORIGINAL: Your results will be recorded.\wtnp[15]
+TRADUCCION:
+
+[4|2|34|1]
+ORIGINAL: \rCome back another time.
+TRADUCCION:
+
+[4|2|40|1]
+ORIGINAL: \rThanks for playing.
+TRADUCCION:
+
+[4|2|42|1]
+ORIGINAL: \rWould you like to record your last battle?
+TRADUCCION:
+
+[4|2|46|1]
+ORIGINAL: \se[Pkmn exp full]The battle was recorded.
+TRADUCCION:
+
+[4|2|53|1]
+ORIGINAL: Your results will be recorded.\wtnp[15]
+TRADUCCION:
+
+[4|2|55|1]
+ORIGINAL: \rCome back another time.
+TRADUCCION:
+
+[4|2|60|1]
+ORIGINAL: \rWe've been waiting for you. Please come this way.
+TRADUCCION:
+
+[4|2|117|2]
+ORIGINAL: \rExcuse me, but you didn't save before finishing your challenge last time.
+TRADUCCION:
+
+[4|2|119|1]
+ORIGINAL: \rSorry, but your challenge has been canceled.
+TRADUCCION:
+[5|1|1|OPCIONES]
+ORIGINAL: Pika Cup|Fancy Cup|Poké Cup
+TRADUCCION:
+
+[5|1|39|OPCIONES]
+ORIGINAL: Little Cup|Cancel
+TRADUCCION:
+
+[11|1|10|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[6|1|1|OPCIONES]
+ORIGINAL: Pika Cup|Fancy Cup|Poké Cup
+TRADUCCION:
+
+[6|1|39|OPCIONES]
+ORIGINAL: Little Cup|Cancel
+TRADUCCION:
+
+[7|1|6|OPCIONES]
+ORIGINAL: Stadium Cup rules|Play recorded battle|Cancel
+TRADUCCION:
+
+[7|1|10|OPCIONES]
+ORIGINAL: Stadium Cups|Pika Cup|Fancy Cup|Poké Cup
+TRADUCCION:
+
+[7|1|47|OPCIONES]
+ORIGINAL: Little Cup|Battle rules|Exit
+TRADUCCION:
+
+[3|1|3|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[3|1|6|OPCIONES]
+ORIGINAL: Pika Cup|Fancy Cup
+TRADUCCION:
+
+[3|1|43|OPCIONES]
+ORIGINAL: Poké Cup|Little Cup|Cancel
+TRADUCCION:
+
+[3|2|22|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[3|2|43|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[4|1|3|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[4|1|6|OPCIONES]
+ORIGINAL: Pika Cup|Fancy Cup
+TRADUCCION:
+
+[4|1|43|OPCIONES]
+ORIGINAL: Poké Cup|Little Cup|Cancel
+TRADUCCION:
+
+[4|2|22|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[4|2|43|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+

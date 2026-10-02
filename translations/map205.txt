@@ -1,0 +1,35 @@
+[5|1|0|2]
+ORIGINAL: \bHey, you can´t run around here in your normal clothes. Remember the rules!
+TRADUCCION:
+
+[6|1|0|2]
+ORIGINAL: \bWe always battle in the common room. It´s super fun!
+TRADUCCION:
+
+[6|1|5|1]
+ORIGINAL: \bLinoone, use Nightslash!
+TRADUCCION:
+
+[1|1|0|3]
+ORIGINAL: Mark your own stuff, otherwise it´s not yours anymore. Unplug the fridge when it´s empty, we have an electricity bill to pay.
+TRADUCCION:
+
+[7|1|0|2]
+ORIGINAL: \bDon´t tell the boss that we´re battling in here. It´s against the rules, but we don´t care.
+TRADUCCION:
+
+[7|1|5|1]
+ORIGINAL: \bWeezing, use Sludgebomb!
+TRADUCCION:
+
+[3|1|0|1]
+ORIGINAL: \bAre you the new guy? Where is your uniform?
+TRADUCCION:
+
+[4|1|0|1]
+ORIGINAL: \bWait, aren´t you the guy we just locked up?
+TRADUCCION:
+
+[4|1|1|2]
+ORIGINAL: \bNah, there´s no way someone could escape from there.
+TRADUCCION:

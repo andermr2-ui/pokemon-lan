@@ -1,0 +1,123 @@
+[1|2|1|3]
+ORIGINAL: \bArthur: Welcome, \PN. Do you remember me? We have met before, on Crystal Beach and in Glimmerwood.
+TRADUCCION:
+
+[1|2|4|2]
+ORIGINAL: \bSomething about you was special. I knew it the moment I saw you for the first time.
+TRADUCCION:
+
+[1|2|6|3]
+ORIGINAL: \bTurns out I was right, because you´ve made it past the Elite Four and now you´re here! But please, allow me to reintroduce myself.
+TRADUCCION:
+
+[1|2|9|3]
+ORIGINAL: \bI am Arthur, the Champion of the Delta Pokémon League. My journey started just like yours, so I know what true determination feels like.
+TRADUCCION:
+
+[1|2|12|2]
+ORIGINAL: \bI´m sure you´re aware that this won´t be an easy battle, and that I´m very eager to defend my title.
+TRADUCCION:
+
+[1|2|14|2]
+ORIGINAL: \bWith that being said, I think it´s time to get down to business. Show me your determination!
+TRADUCCION:
+
+[1|2|17|2]
+ORIGINAL: \bArthur: Congratulations! You are the new Champion of the Delta Pokémon League!
+TRADUCCION:
+
+[1|2|19|3]
+ORIGINAL: \bOnly a handful of trainers around the world can call themselves Champion, and you are now one of them. You really deserve this, \PN.
+TRADUCCION:
+
+[1|2|22|2]
+ORIGINAL: \bPlease follow me into the Hall of Fame, where we will officially crown you Champion.
+TRADUCCION:
+
+[3|1|7|1]
+ORIGINAL: \b???: So you´re the new kid on the block, huh?
+TRADUCCION:
+
+[3|1|8|2]
+ORIGINAL: \bI´m here to see if you´re really as strong as they say.
+TRADUCCION:
+
+[3|1|10|2]
+ORIGINAL: \bAhhhh, wait, sorry, I forgot to introduce myself. I´m Gary Oak, and I came here all the way from Kanto.
+TRADUCCION:
+
+[3|1|12|2]
+ORIGINAL: \bGary: Oak sounds familiar, doesn´t it? Yup, Professor Oak is my grandfather.
+TRADUCCION:
+
+[3|1|14|2]
+ORIGINAL: \bHe used to work in Kanto, but he moved to the Delta Region to find new challenges.
+TRADUCCION:
+
+[3|1|16|2]
+ORIGINAL: \bHe called me on the day you became Champion, and now I´m here to see if you´re worthy of that title.
+TRADUCCION:
+
+[3|1|18|2]
+ORIGINAL: \bAnd don´t underestimate me, \PN. I am Kanto´s former Champion.
+TRADUCCION:
+
+[3|1|20|3]
+ORIGINAL: \bYes, I lost my title after a while, but I´ve trained a lot since that defeat. I´m ready to become a Champion once again, and you won´t stop me!
+TRADUCCION:
+
+[3|1|23|2]
+ORIGINAL: \bHELL YEAH, IT´S TIME FOR A CLASH OF CHAMPIONS!
+TRADUCCION:
+
+[3|1|26|1]
+ORIGINAL: \bGary: Hold up, you actually lived up to the hype?!
+TRADUCCION:
+
+[3|1|27|2]
+ORIGINAL: \bThere´re a lot of trainers who have more reputation than skill, but you´re not one of them.
+TRADUCCION:
+
+[3|1|29|2]
+ORIGINAL: \bYou are worthy of your title. Seriously, I´m impressed.
+TRADUCCION:
+
+[3|1|31|2]
+ORIGINAL: \bWait, why do I get the feeling that you might stand a chance against him?
+TRADUCCION:
+
+[3|1|33|3]
+ORIGINAL: \bNah, but he´s retired. He won´t care unless you become the World Champion or something, so ignore what I just said.
+TRADUCCION:
+
+[3|1|36|3]
+ORIGINAL: \bWell, I´m off now. Don´t forget to record this victory in the Hall of Fame. Try to hang on to your title longer than I did. Bye!
+TRADUCCION:
+
+[3|1|44|1]
+ORIGINAL: \bGary: Hm, maybe I should tell Ash about this...
+TRADUCCION:
+
+[3|3|7|2]
+ORIGINAL: \bArthur: Hello, \PN. I hope you´re ready to defend your title, because I want it back!
+TRADUCCION:
+
+[3|3|9|2]
+ORIGINAL: \bI will go all out in this battle, and my Pokémon want this victory as much as I do.
+TRADUCCION:
+
+[3|3|11|2]
+ORIGINAL: \bI´m Arthur, and I will be the Champion of the Delta Pokémon League once again!
+TRADUCCION:
+
+[3|3|14|1]
+ORIGINAL: \bArthur: Congratulations, you defended your title!
+TRADUCCION:
+
+[3|3|15|2]
+ORIGINAL: \bThat was seriously incredible. But I will return, because I want my title back even more now!
+TRADUCCION:
+
+[3|3|17|3]
+ORIGINAL: \bWell, I guess I´ll leave you alone now. Remember to record your victory in the Hall of Fame. Take care, Champion!
+TRADUCCION:

@@ -1,0 +1,15 @@
+[1|1|1|1]
+ORIGINAL: \bWelcome to Crystal Cove, enjoy your visit!
+TRADUCCION:
+
+[1|1|6|2]
+ORIGINAL: \bI need to see that you have the HM for Surf before you can enter Crystal Cove.
+TRADUCCION:
+
+[1|1|8|2]
+ORIGINAL: \bOh, you don´t have that HM yet? Then I can´t let you in.
+TRADUCCION:
+
+[1|2|0|3]
+ORIGINAL: \bEvery visitor that comes to Crystal Cove needs to have the HM for Surf. If you don´t know why, just enter the town and see for yourself.
+TRADUCCION:

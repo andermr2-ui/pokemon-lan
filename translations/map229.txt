@@ -1,0 +1,87 @@
+[5|1|2|2]
+ORIGINAL: \bWhy did I take my bike here?! This place is dangerous!
+TRADUCCION:
+
+[5|2|0|2]
+ORIGINAL: \bI almost flew off the cliff when I came here. Now I´m too scared to go back.
+TRADUCCION:
+
+[11|1|0|1]
+ORIGINAL: Zekrom is staring at you.
+TRADUCCION:
+
+[11|1|2|1]
+ORIGINAL: It wants to battle!
+TRADUCCION:
+
+[11|1|4|1]
+ORIGINAL: \bKROOOM!!!
+TRADUCCION:
+
+[11|3|0|1]
+ORIGINAL: Zekrom disappeared. Will it come back?
+TRADUCCION:
+
+[1|1|2|1]
+ORIGINAL: \bAre you build for Thunder Pass?
+TRADUCCION:
+
+[1|2|0|2]
+ORIGINAL: \bThere´re some really strong Pokémon on Thunder Pass. This is the perfect place to train.
+TRADUCCION:
+
+[2|1|2|1]
+ORIGINAL: \bOh my, you look really strong. Please, show me!
+TRADUCCION:
+
+[2|2|0|2]
+ORIGINAL: \bSomething about Thunder Pass is special. That´s why I keep coming back.
+TRADUCCION:
+
+[3|1|2|2]
+ORIGINAL: \bI grew up on the sea, this kind of weather is what I need!
+TRADUCCION:
+
+[3|2|0|3]
+ORIGINAL: \bOh, you´re wondering why a sailor is high up in the mountains? Hiking is my second hobby, simple as that.
+TRADUCCION:
+
+[4|1|2|2]
+ORIGINAL: \bI´m just one Gym away from challenging the Pokémon League. And nothing will stop me!
+TRADUCCION:
+
+[4|2|0|2]
+ORIGINAL: \bLooks like I need to train even more. But one day, I will challenge the League!
+TRADUCCION:
+
+[10|1|0|1]
+ORIGINAL: It´s a Pokémon Statue dedicated to Zeraora.
+TRADUCCION:
+
+[10|2|0|1]
+ORIGINAL: It´s a Pokémon Statue dedicated to Zeraora.
+TRADUCCION:
+
+[10|2|2|1]
+ORIGINAL: The Delta Stone in your pocket just lit up!
+TRADUCCION:
+
+[10|2|3|1]
+ORIGINAL: Something powerful is approaching!
+TRADUCCION:
+
+[10|2|5|1]
+ORIGINAL: \bORAAA!!!
+TRADUCCION:
+
+[10|3|0|1]
+ORIGINAL: It´s a Pokémon Statue dedicated to Zeraora.
+TRADUCCION:
+
+[10|4|0|1]
+ORIGINAL: Zeraora disappeared. Will it come back?
+TRADUCCION:
+
+[10|5|0|1]
+ORIGINAL: It´s a Pokémon Statue dedicated to Zeraora.
+TRADUCCION:

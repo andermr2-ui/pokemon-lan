@@ -1,0 +1,83 @@
+[1|1|2|3]
+ORIGINAL: \bWesley: Oh, hello. My name is Wesley, and I´m Aurora Summit´s Gym Leader. For some reason a lot of people think that I´m really strong,
+TRADUCCION:
+
+[1|1|5|3]
+ORIGINAL: \bbut that´s not true. I´m just a chill guy that likes to battle sometimes. Don´t get your hopes up though, I never go all out.
+TRADUCCION:
+
+[1|1|8|1]
+ORIGINAL: \bEnough talking now, I feel like battling!
+TRADUCCION:
+
+[1|1|10|3]
+ORIGINAL: \me[Badge get]\bThat almost made me break a sweat, impressive. Take the Standard Badge!\wtnp[110]
+TRADUCCION:
+
+[1|1|15|2]
+ORIGINAL: \bNot only did you manage to beat me, but you also passed the vibe check. Please, take this as well.
+TRADUCCION:
+
+[1|1|18|3]
+ORIGINAL: \bWesley: This TM contains Giga Impact. It hits really hard, but your Pokémon has to recharge after using it. It´s the perfect move for chill guys.
+TRADUCCION:
+
+[1|1|21|3]
+ORIGINAL: \bYou´re just one badge away from completing the Gym Challenge. I suppose you´re headed for the final Gym now?
+TRADUCCION:
+
+[1|1|24|2]
+ORIGINAL: \bOh, you need to get into Aurora Mountain, but some Team Rocket guy won´t let you through?
+TRADUCCION:
+
+[1|1|26|3]
+ORIGINAL: \bI think I have a solution for your problem. There´s a second entrance into Aurora Mountain, but that one is always blocked by one of the four elders.
+TRADUCCION:
+
+[1|1|29|3]
+ORIGINAL: \bThe four elders protect a certain treasure, and only those who they recognize as worthy are able to claim it. So far, they have let no one through.
+TRADUCCION:
+
+[1|1|32|3]
+ORIGINAL: \bEven the Elite Four and the Champion weren´t allowed through. But maybe you´re worthy to them, it is worth a shot for sure!
+TRADUCCION:
+
+[1|1|35|3]
+ORIGINAL: \bI should warn you though, because they will test whoever is worthy, and if they challenge you to a battle, they won´t hold back at all.
+TRADUCCION:
+
+[1|1|38|2]
+ORIGINAL: \bI hope you can achieve your goal. Good luck, trainer!
+TRADUCCION:
+
+[1|2|0|3]
+ORIGINAL: \bWesley: One day I´ll stop holding back. But until that day comes, I´ll just be a chill guy that likes to battle sometimes.
+TRADUCCION:
+
+[1|3|1|2]
+ORIGINAL: \bWesley: Oh, it´s the new Champion. How´s it going?
+TRADUCCION:
+
+[1|3|3|3]
+ORIGINAL: \bAh, that´s good to hear. I´m still just a chill guy, so nothing new from my side. I take it you´re here for a rematch?
+TRADUCCION:
+
+[1|3|6|3]
+ORIGINAL: \bOf course you are. Hm, I guess facing the Champion is a good reason to actually try for once. Let´s get this over with.
+TRADUCCION:
+
+[1|3|10|2]
+ORIGINAL: \bWesley: I don´t even regret trying harder, because I´m just a chill guy after all.
+TRADUCCION:
+
+[1|3|12|1]
+ORIGINAL: \bWell, is there anything else?
+TRADUCCION:
+
+[1|3|13|2]
+ORIGINAL: \bNo? Alright, then I guess all I can do is say goodbye.
+TRADUCCION:
+
+[1|4|0|2]
+ORIGINAL: \bWesley: Now that I went all out, I have no reason to try that hard ever again. After all, I´m just a chill guy.
+TRADUCCION:

@@ -1,0 +1,191 @@
+[5|1|2|2]
+ORIGINAL: It's a vending machine.\nWhich drink would you like?\G
+TRADUCCION:
+
+[5|1|12|1]
+ORIGINAL: \GA Fresh Water dropped down!
+TRADUCCION:
+
+[5|1|19|1]
+ORIGINAL: \GBonus! Another Fresh Water dropped down.
+TRADUCCION:
+
+[5|1|27|1]
+ORIGINAL: \GYou have no room left in the Bag.
+TRADUCCION:
+
+[5|1|32|1]
+ORIGINAL: \GYou don't have enough money.
+TRADUCCION:
+
+[5|1|43|1]
+ORIGINAL: \GA Soda Pop dropped down!
+TRADUCCION:
+
+[5|1|50|1]
+ORIGINAL: \GBonus! Another Soda Pop dropped down.
+TRADUCCION:
+
+[5|1|58|1]
+ORIGINAL: \GYou have no room left in the Bag.
+TRADUCCION:
+
+[5|1|63|1]
+ORIGINAL: \GYou don't have enough money.
+TRADUCCION:
+
+[5|1|74|1]
+ORIGINAL: \GA Lemonade dropped down!
+TRADUCCION:
+
+[5|1|81|1]
+ORIGINAL: \GBonus! Another Lemonade dropped down.
+TRADUCCION:
+
+[5|1|89|1]
+ORIGINAL: \GYou have no room left in the Bag.
+TRADUCCION:
+
+[5|1|94|1]
+ORIGINAL: \GYou don't have enough money.
+TRADUCCION:
+
+[5|1|99|1]
+ORIGINAL: \GDecided not to buy a drink.
+TRADUCCION:
+
+[11|1|0|3]
+ORIGINAL: \bAh, isn´t the mountain air refreshing? Silver Peak is the perfect place to retire. No tourists, it´s quiet, the paths are clean and the residents are nice.
+TRADUCCION:
+
+[11|1|3|3]
+ORIGINAL: \bYou´re probably here for the Gym. The Gym Challengers bring just enough diversity to this town to make it interesting.
+TRADUCCION:
+
+[11|1|6|3]
+ORIGINAL: \bYou probably won´t be here for long, but take your time to get to know the people in this town. They´re usually quite eager to give gifts to strangers.
+TRADUCCION:
+
+[11|1|9|1]
+ORIGINAL: \bEnjoy our town!
+TRADUCCION:
+
+[17|1|0|2]
+ORIGINAL: \bThere´s nothing quite like this view, don´t you think so too?
+TRADUCCION:
+
+[17|1|4|1]
+ORIGINAL: \bYeah, of course you think so. Everyone does!
+TRADUCCION:
+
+[17|1|7|1]
+ORIGINAL: \bYou´re wrong!!!
+TRADUCCION:
+
+[18|1|0|3]
+ORIGINAL: \bI love to catch Pokémon with a Pokéball of the same color. I know, I know, that sounds quite autistic, but everbody needs a hobby.
+TRADUCCION:
+
+[18|1|3|1]
+ORIGINAL: \bTry it out if you want to, so take this.
+TRADUCCION:
+
+[18|2|0|2]
+ORIGINAL: \bI have to admit that I have autism, but that´s not why I have this hobby!
+TRADUCCION:
+
+[8|1|0|1]
+ORIGINAL: Silver Peak
+TRADUCCION:
+
+[19|1|0|3]
+ORIGINAL: \bHey kid, be careful around the edge of this town. The fence is quite old already, and I don´t want anyone to fall.
+TRADUCCION:
+
+[9|1|0|1]
+ORIGINAL: Silver Peak Gym\nLeader: Azura
+TRADUCCION:
+
+[4|1|2|2]
+ORIGINAL: It's a vending machine.\nWhich drink would you like?\G
+TRADUCCION:
+
+[4|1|12|1]
+ORIGINAL: \GA Fresh Water dropped down!
+TRADUCCION:
+
+[4|1|19|1]
+ORIGINAL: \GBonus! Another Fresh Water dropped down.
+TRADUCCION:
+
+[4|1|27|1]
+ORIGINAL: \GYou have no room left in the Bag.
+TRADUCCION:
+
+[4|1|32|1]
+ORIGINAL: \GYou don't have enough money.
+TRADUCCION:
+
+[4|1|43|1]
+ORIGINAL: \GA Soda Pop dropped down!
+TRADUCCION:
+
+[4|1|50|1]
+ORIGINAL: \GBonus! Another Soda Pop dropped down.
+TRADUCCION:
+
+[4|1|58|1]
+ORIGINAL: \GYou have no room left in the Bag.
+TRADUCCION:
+
+[4|1|63|1]
+ORIGINAL: \GYou don't have enough money.
+TRADUCCION:
+
+[4|1|74|1]
+ORIGINAL: \GA Lemonade dropped down!
+TRADUCCION:
+
+[4|1|81|1]
+ORIGINAL: \GBonus! Another Lemonade dropped down.
+TRADUCCION:
+
+[4|1|89|1]
+ORIGINAL: \GYou have no room left in the Bag.
+TRADUCCION:
+
+[4|1|94|1]
+ORIGINAL: \GYou don't have enough money.
+TRADUCCION:
+
+[4|1|99|1]
+ORIGINAL: \GDecided not to buy a drink.
+TRADUCCION:
+
+[15|1|0|3]
+ORIGINAL: \bHey hey, do you need some fossils? I´m a collector myself, and I have a fossil that I don´t understand. I tried to find out more but no one could help me.
+TRADUCCION:
+
+[15|1|3|1]
+ORIGINAL: \bSo please, take this fossil.
+TRADUCCION:
+
+[15|1|5|2]
+ORIGINAL: \bEven if if this isn´t useful to you, it at least makes a cool addition to your collection. Have a nice day!
+TRADUCCION:
+
+[15|2|0|2]
+ORIGINAL: \bWhat´s your favorite fossil? Mine has to be the Jaw Fossil, but I haven´t come across one yet.
+TRADUCCION:
+[5|1|4|OPCIONES]
+ORIGINAL: Fresh Water - $200|Soda Pop - $300|Lemonade - $350|Cancel
+TRADUCCION:
+
+[17|1|2|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[4|1|4|OPCIONES]
+ORIGINAL: Fresh Water - $200|Soda Pop - $300|Lemonade - $350|Cancel
+TRADUCCION:
+

@@ -1,0 +1,15 @@
+[1|1|37|2]
+ORIGINAL: \bArthur: This is the Hall of Fame, where your names will be recorded for prosperity.
+TRADUCCION:
+
+[1|1|39|2]
+ORIGINAL: \bWhat you are leaving are the memories of your adventures so far.
+TRADUCCION:
+
+[1|1|41|2]
+ORIGINAL: \bIt´s time to record your names. You and your Pokémon.
+TRADUCCION:
+
+[1|1|43|2]
+ORIGINAL: \bThis machine will make a permanent record of your achievement.
+TRADUCCION:

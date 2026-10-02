@@ -1,0 +1,19 @@
+[1|1|2|1]
+ORIGINAL: The ground suddenly began to shake!
+TRADUCCION:
+
+[1|1|3|1]
+ORIGINAL: Your Z-Power Ring lit up!
+TRADUCCION:
+
+[3|1|0|3]
+ORIGINAL: \bArthur: So you managed to catch Kyurem. That´s great! But remember, it´s a very powerful Pokémon, so be careful.
+TRADUCCION:
+
+[3|1|4|2]
+ORIGINAL: \bI think we´re ready to go. Come on, let´s stop this bastard!
+TRADUCCION:
+
+[3|1|14|2]
+ORIGINAL: \bMh, we shouldn´t go without Kyurem. Please add Kyurem to your team before we go in there.
+TRADUCCION:

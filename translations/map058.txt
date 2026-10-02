@@ -1,0 +1,351 @@
+[5|1|0|1]
+ORIGINAL: Check results for which challenge?
+TRADUCCION:
+
+[5|1|11|1]
+ORIGINAL: \PN's Battle Palace Level 50 Single Battle results:
+TRADUCCION:
+
+[5|1|12|1]
+ORIGINAL: Last win streak: \v[1]\nRecord win streak: \v[2]
+TRADUCCION:
+
+[5|1|23|1]
+ORIGINAL: \PN's Battle Palace Open Level Single Battle results:
+TRADUCCION:
+
+[5|1|24|1]
+ORIGINAL: Last win streak: \v[1]\nRecord win streak: \v[2]
+TRADUCCION:
+
+[6|1|0|1]
+ORIGINAL: Check results for which challenge?
+TRADUCCION:
+
+[6|1|11|1]
+ORIGINAL: \PN's Battle Palace Level 50 Double Battle results:
+TRADUCCION:
+
+[6|1|12|1]
+ORIGINAL: Last win streak: \v[1]\nRecord win streak: \v[2]
+TRADUCCION:
+
+[6|1|23|1]
+ORIGINAL: \PN's Battle Palace Open Level Double Battle results:
+TRADUCCION:
+
+[6|1|24|1]
+ORIGINAL: Last win streak: \v[1]\nRecord win streak: \v[2]
+TRADUCCION:
+
+[7|1|9|1]
+ORIGINAL: Which heading do you want to read?
+TRADUCCION:
+
+[7|1|12|2]
+ORIGINAL: In the Battle Palace, Pokémon are required to think by themselves.
+TRADUCCION:
+
+[7|1|14|2]
+ORIGINAL: Unlike in the wild, Pokémon that live with people behave differently depending on their nature.
+TRADUCCION:
+
+[7|1|19|2]
+ORIGINAL: Depending on its nature, a Pokémon may prefer to attack no matter what.
+TRADUCCION:
+
+[7|1|21|2]
+ORIGINAL: Another Pokémon may prefer to protect itself from harm.
+TRADUCCION:
+
+[7|1|23|2]
+ORIGINAL: Yet another may enjoy vexing or confounding its foes.
+TRADUCCION:
+
+[7|1|25|2]
+ORIGINAL: A Pokémon's nature determines which moves it is good at using, and which moves it has trouble using.
+TRADUCCION:
+
+[7|1|30|2]
+ORIGINAL: There are offensive moves that deal direct damage on the foe.
+TRADUCCION:
+
+[7|1|32|2]
+ORIGINAL: There are defensive moves that are used to prepare for enemy attacks or used to heal HP and so on.
+TRADUCCION:
+
+[7|1|34|3]
+ORIGINAL: And there are other somewhat-odd moves that may enfeeble the foe with status problems including poison and paralysis.
+TRADUCCION:
+
+[7|1|37|2]
+ORIGINAL: Pokémon will consider using moves in these three categories.
+TRADUCCION:
+
+[7|1|42|3]
+ORIGINAL: When not taking commands from its Trainer, a Pokémon may be unable to effectively use certain kinds of moves.
+TRADUCCION:
+
+[7|1|45|2]
+ORIGINAL: A Pokémon is not good at using any move that it dislikes.
+TRADUCCION:
+
+[7|1|47|3]
+ORIGINAL: If a Pokémon only knows moves that don't conform to its nature, it will often be unable to live up to its potential.
+TRADUCCION:
+
+[7|1|55|3]
+ORIGINAL: Depending on its nature, a Pokémon may start using moves that don't match its nature when it is in trouble.
+TRADUCCION:
+
+[7|1|58|2]
+ORIGINAL: If a Pokémon begins behaving oddly in a pinch, watch it carefully.
+TRADUCCION:
+
+[7|1|71|1]
+ORIGINAL: There is no battle recorded.
+TRADUCCION:
+
+[3|1|0|1]
+ORIGINAL: \bWelcome to the Battle Palace.
+TRADUCCION:
+
+[3|1|1|1]
+ORIGINAL: \bWould you like to participate in a single battle?
+TRADUCCION:
+
+[3|1|4|2]
+ORIGINAL: \bDo you want to take the Level 50 challenge, or the Open Level challenge?
+TRADUCCION:
+
+[3|1|27|2]
+ORIGINAL: \bSorry, you can't participate. You need three different Pokémon to enter.
+TRADUCCION:
+
+[3|1|29|2]
+ORIGINAL: \bThey must be of a different species and hold different items.
+TRADUCCION:
+
+[3|1|31|2]
+ORIGINAL: \bCertain exotic species, as well as eggs, are ineligible.
+TRADUCCION:
+
+[3|1|36|1]
+ORIGINAL: \bPlease choose the three Pokémon that will enter.
+TRADUCCION:
+
+[3|1|42|1]
+ORIGINAL: \bPlease come this way.
+TRADUCCION:
+
+[3|1|76|1]
+ORIGINAL: \bCome back another time.
+TRADUCCION:
+
+[3|2|2|1]
+ORIGINAL: \bCongratulations for winning.
+TRADUCCION:
+
+[3|2|4|1]
+ORIGINAL: \bPlease accept these Battle Point(s).
+TRADUCCION:
+
+[3|2|17|1]
+ORIGINAL: \PN obtained \v[1] Battle Point(s).
+TRADUCCION:
+
+[3|2|21|1]
+ORIGINAL: \bWould you like to record your last battle?
+TRADUCCION:
+
+[3|2|25|1]
+ORIGINAL: \se[Pkmn exp full]The battle was recorded.
+TRADUCCION:
+
+[3|2|32|1]
+ORIGINAL: Your results will be recorded.\wtnp[15]
+TRADUCCION:
+
+[3|2|34|1]
+ORIGINAL: \bCome back another time.
+TRADUCCION:
+
+[3|2|40|1]
+ORIGINAL: \bThanks for playing.
+TRADUCCION:
+
+[3|2|42|1]
+ORIGINAL: \bWould you like to record your last battle?
+TRADUCCION:
+
+[3|2|46|1]
+ORIGINAL: \se[Pkmn exp full]The battle was recorded.
+TRADUCCION:
+
+[3|2|53|1]
+ORIGINAL: Your results will be recorded.\wtnp[15]
+TRADUCCION:
+
+[3|2|55|1]
+ORIGINAL: \bCome back another time.
+TRADUCCION:
+
+[3|2|60|2]
+ORIGINAL: \bWe've been waiting for you. Please come this way.
+TRADUCCION:
+
+[3|2|89|2]
+ORIGINAL: \bExcuse me, but you didn't save before finishing your challenge last time.
+TRADUCCION:
+
+[3|2|91|1]
+ORIGINAL: \bSorry, but your challenge has been canceled.
+TRADUCCION:
+
+[4|1|0|1]
+ORIGINAL: \bWelcome to the Battle Palace.
+TRADUCCION:
+
+[4|1|1|1]
+ORIGINAL: \bWould you like to participate in a double battle?
+TRADUCCION:
+
+[4|1|4|2]
+ORIGINAL: \bDo you want to take the Level 50 challenge, or the Open Level challenge?
+TRADUCCION:
+
+[4|1|27|2]
+ORIGINAL: \bSorry, you can't participate. You need three different Pokémon to enter.
+TRADUCCION:
+
+[4|1|29|2]
+ORIGINAL: \bThey must be of a different species and hold different items.
+TRADUCCION:
+
+[4|1|31|2]
+ORIGINAL: \bCertain exotic species, as well as eggs, are ineligible.
+TRADUCCION:
+
+[4|1|36|1]
+ORIGINAL: \bPlease choose the four Pokémon that will enter.
+TRADUCCION:
+
+[4|1|42|1]
+ORIGINAL: \bPlease come this way.
+TRADUCCION:
+
+[4|1|76|1]
+ORIGINAL: \bCome back another time.
+TRADUCCION:
+
+[4|2|2|1]
+ORIGINAL: \bCongratulations for winning.
+TRADUCCION:
+
+[4|2|4|1]
+ORIGINAL: \bPlease accept these Battle Point(s).
+TRADUCCION:
+
+[4|2|17|1]
+ORIGINAL: \PN obtained \v[1] Battle Point(s).
+TRADUCCION:
+
+[4|2|21|1]
+ORIGINAL: \bWould you like to record your last battle?
+TRADUCCION:
+
+[4|2|25|1]
+ORIGINAL: \se[Pkmn exp full]The battle was recorded.
+TRADUCCION:
+
+[4|2|32|1]
+ORIGINAL: Your results will be recorded.\wtnp[15]
+TRADUCCION:
+
+[4|2|34|1]
+ORIGINAL: \bCome back another time.
+TRADUCCION:
+
+[4|2|40|1]
+ORIGINAL: \bThanks for playing.
+TRADUCCION:
+
+[4|2|42|1]
+ORIGINAL: \bWould you like to record your last battle?
+TRADUCCION:
+
+[4|2|46|1]
+ORIGINAL: \se[Pkmn exp full]The battle was recorded.
+TRADUCCION:
+
+[4|2|53|1]
+ORIGINAL: Your results will be recorded.\wtnp[15]
+TRADUCCION:
+
+[4|2|55|1]
+ORIGINAL: \bCome back another time.
+TRADUCCION:
+
+[4|2|60|2]
+ORIGINAL: \bWe've been waiting for you. Please come this way.
+TRADUCCION:
+
+[4|2|89|2]
+ORIGINAL: \bExcuse me, but you didn't save before finishing your challenge last time.
+TRADUCCION:
+
+[4|2|91|1]
+ORIGINAL: \bSorry, but your challenge has been canceled.
+TRADUCCION:
+[5|1|1|OPCIONES]
+ORIGINAL: Level 50|Open Level|Cancel
+TRADUCCION:
+
+[6|1|1|OPCIONES]
+ORIGINAL: Level 50|Open Level|Cancel
+TRADUCCION:
+
+[7|1|6|OPCIONES]
+ORIGINAL: Battle Palace rules|Play recorded battle|Cancel
+TRADUCCION:
+
+[7|1|10|OPCIONES]
+ORIGINAL: Battle basics|Pokémon nature|Pokémon moves|Underpowered
+TRADUCCION:
+
+[7|1|53|OPCIONES]
+ORIGINAL: When in danger|Exit
+TRADUCCION:
+
+[3|1|2|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[3|1|6|OPCIONES]
+ORIGINAL: Level 50|Open Level|Cancel
+TRADUCCION:
+
+[3|2|22|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[3|2|43|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[4|1|2|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[4|1|6|OPCIONES]
+ORIGINAL: Level 50|Open Level|Cancel
+TRADUCCION:
+
+[4|2|22|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[4|2|43|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+

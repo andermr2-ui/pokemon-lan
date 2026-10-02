@@ -1,0 +1,183 @@
+[5|1|0|2]
+ORIGINAL: This ball contains a Pokémon caught by the Professor.
+TRADUCCION:
+
+[5|2|0|1]
+ORIGINAL: \bOak: So, you want Cyndaquil, the fire Pokémon?
+TRADUCCION:
+
+[5|2|9|1]
+ORIGINAL: \bOak: Choose carefully!
+TRADUCCION:
+
+[11|1|0|3]
+ORIGINAL: Game Variable 7 should store 1 if the player chose the Grass starter, 2 if they chose the Fire starter, and 3 if they chose the Water starter.
+TRADUCCION:
+
+[11|1|3|3]
+ORIGINAL: This information can be used later in the game, e.g. to determine which Pokémon the rival uses, and to detect when the player has chosen a starter at all.
+TRADUCCION:
+
+[6|1|0|2]
+ORIGINAL: This ball contains a Pokémon caught by the Professor.
+TRADUCCION:
+
+[6|2|0|1]
+ORIGINAL: \bOak: So, you want Squirtle, the water Pokémon?
+TRADUCCION:
+
+[6|2|9|1]
+ORIGINAL: \bOak: Choose carefully!
+TRADUCCION:
+
+[1|1|0|2]
+ORIGINAL: \bOak: You should battle with your Pokémon to make it strong.
+TRADUCCION:
+
+[1|1|3|2]
+ORIGINAL: \bOak: If you register me in your Pokégear, you can call me any time to rate your Pokédex completion.
+TRADUCCION:
+
+[1|1|8|1]
+ORIGINAL: \bOak: Please let me know how you get on!
+TRADUCCION:
+
+[1|1|11|2]
+ORIGINAL: \bOak: Oh, okay. Let me know if you change your mind.
+TRADUCCION:
+
+[1|2|0|1]
+ORIGINAL: \bOak: Well, which one do you want?
+TRADUCCION:
+
+[12|1|2|1]
+ORIGINAL: \PN received a Pokédex!
+TRADUCCION:
+
+[12|1|7|1]
+ORIGINAL: You already have a Pokédex.
+TRADUCCION:
+
+[2|2|0|1]
+ORIGINAL: \bOak: Wait, don't leave yet!
+TRADUCCION:
+
+[13|1|7|2]
+ORIGINAL: \bI can control your Pokédex access. What do you want me to do?
+TRADUCCION:
+
+[13|1|11|1]
+ORIGINAL: \bWhat about it?
+TRADUCCION:
+
+[13|1|15|1]
+ORIGINAL: \bThe Kanto Dex was unlocked.
+TRADUCCION:
+
+[13|1|19|1]
+ORIGINAL: \bThe Kanto Dex was locked.
+TRADUCCION:
+
+[13|1|27|1]
+ORIGINAL: \bWhat about it?
+TRADUCCION:
+
+[13|1|31|1]
+ORIGINAL: \bThe Johto Dex was unlocked.
+TRADUCCION:
+
+[13|1|35|1]
+ORIGINAL: \bThe Johto Dex was locked.
+TRADUCCION:
+
+[13|1|43|1]
+ORIGINAL: \bWhat about it?
+TRADUCCION:
+
+[13|1|48|1]
+ORIGINAL: \bThe National Dex was unlocked.
+TRADUCCION:
+
+[13|1|53|1]
+ORIGINAL: \bThe National Dex was locked.
+TRADUCCION:
+
+[3|1|10|3]
+ORIGINAL: \bOak: Here, take one of these rare Pokémon. They come from different regions and will make for great companions on your journey!
+TRADUCCION:
+
+[3|3|0|1]
+ORIGINAL: \bOak: Ah, you made your choice!
+TRADUCCION:
+
+[3|3|2|1]
+ORIGINAL: \bOak: Snivy, an excellent choice!
+TRADUCCION:
+
+[3|3|6|1]
+ORIGINAL: \bOak: Cyndaquil, an excellent choice!
+TRADUCCION:
+
+[3|3|9|1]
+ORIGINAL: \bOak: Squirtle, an excellent choice!
+TRADUCCION:
+
+[3|3|15|2]
+ORIGINAL: \bOak: If I had a grandson, he would probably want his own Pokémon around now...
+TRADUCCION:
+
+[4|1|0|2]
+ORIGINAL: This ball contains a Pokémon caught by the Professor.
+TRADUCCION:
+
+[4|2|0|1]
+ORIGINAL: \bOak: So, you want Snivy, the grass Pokémon?
+TRADUCCION:
+
+[4|2|9|1]
+ORIGINAL: \bOak: Choose carefully!
+TRADUCCION:
+
+[10|1|0|2]
+ORIGINAL: The event next to the Professor contains the autorun commands.
+TRADUCCION:
+
+[10|1|2|3]
+ORIGINAL: There are two times it does something: when the player first enters the map, and when the player has chosen a starter.
+TRADUCCION:
+
+[10|1|5|3]
+ORIGINAL: The second time is on a higher page number. Page numbers go in order of first to last cutscene, including pages for pauses between them if relevant.
+TRADUCCION:
+[5|2|1|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[6|2|1|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[1|1|5|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[13|1|9|OPCIONES]
+ORIGINAL: Kanto Dex access|Johto Dex access|National Dex access|Exit
+TRADUCCION:
+
+[13|1|12|OPCIONES]
+ORIGINAL: Unlock Kanto Dex|Lock Kanto Dex|Exit
+TRADUCCION:
+
+[13|1|28|OPCIONES]
+ORIGINAL: Unlock Johto Dex|Lock Johto Dex|Exit
+TRADUCCION:
+
+[13|1|44|OPCIONES]
+ORIGINAL: Unlock National Dex|Lock National Dex|Exit
+TRADUCCION:
+
+[4|2|1|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+

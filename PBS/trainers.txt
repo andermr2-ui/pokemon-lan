@@ -1,0 +1,5106 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[CAMPER,Liam]
+LoseText = A very good battle, indeed!
+Pokemon = DIGLETT,10
+Pokemon = BONSLY,11
+#-------------------------------
+[LEADER_Brock,Brock]
+Items = FULLRESTORE,FULLRESTORE
+LoseText = Very good.
+Pokemon = GEODUDE,12
+    Moves = DEFENSECURL,HEADSMASH,ROCKPOLISH,ROCKTHROW
+    AbilityIndex = 0
+    Gender = male
+    IV = 20,20,20,20,20,20
+Pokemon = ONIX,14
+    Name = Rocky
+    Moves = HEADSMASH,ROCKTHROW,RAGE,ROCKTOMB
+    AbilityIndex = 0
+    Item = SITRUSBERRY
+    Gender = male
+    IV = 20,20,20,20,20,20
+    Shiny = true
+    Ball = HEAVYBALL
+#-------------------------------
+[YOUNGSTER,Ben]
+LoseText = Aww, I lost.
+Pokemon = RATTATA,11
+Pokemon = EKANS,11
+#-------------------------------
+[CAMPER,Jeff]
+LoseText = A very good battle, indeed!
+Pokemon = SPEAROW,16
+Pokemon = SENTRET,16
+#-------------------------------
+[CAMPER,Jeff,1]
+LoseText = You beat me again!
+Pokemon = FEAROW,29
+Pokemon = FURRET,29
+#-------------------------------
+[PICNICKER,Susie]
+LoseText = Defeated! Oh my!
+Pokemon = MEOWTH,18
+#-------------------------------
+[PICNICKER,Susie,1]
+LoseText = Defeated! Oh my!
+Pokemon = PERSIAN,32
+#-------------------------------
+[HIKER,Ford]
+LoseText = You're too good for me!
+Pokemon = MACHOP,19
+#-------------------------------
+[FISHERMAN,Andrew]
+LoseText = Washed out!
+Pokemon = MAGIKARP,14
+Pokemon = MAGIKARP,18
+#-------------------------------
+[BEAUTY,Bridget]
+LoseText = My Skitty!
+Pokemon = SKITTY,18
+#-------------------------------
+[LASS,Crissy]
+LoseText = You didn't have to win so convincingly!
+Pokemon = PLUSLE,17
+Pokemon = MINUN,17
+#-------------------------------
+[COOLCOUPLE,Alice & Bob]
+LoseText = Our teamwork failed!
+Pokemon = TURTWIG,19
+Pokemon = CHIMCHAR,19
+#-------------------------------
+[POKEMONTRAINER_May,May]
+LoseText = ...
+Pokemon = COMBUSKEN,19
+#-------------------------------
+[SWIMMER2_F,Ariel]
+LoseText = Washed out!
+Pokemon = STARYU,15
+Pokemon = GOLDEEN,11
+#-------------------------------
+[RIVAL1,Blue]
+LoseText = Not too shabby.
+Pokemon = PIDGEOTTO,17
+Pokemon = RATTATA,15
+Pokemon = BULBASAUR,18
+#-------------------------------
+[RIVAL1,Blue,1]
+LoseText = Not too shabby.
+Pokemon = PIDGEOTTO,17
+Pokemon = RATTATA,15
+Pokemon = CHARMANDER,18
+#-------------------------------
+[RIVAL1,Blue,2]
+LoseText = Not too shabby.
+Pokemon = PIDGEOTTO,17
+Pokemon = RATTATA,15
+Pokemon = SQUIRTLE,18
+#-------------------------------
+[CHAMPION,Blue]
+LoseText = A good battle indeed!
+Pokemon = VENUSAUR,63
+    Item = SITRUSBERRY
+Pokemon = CHARIZARD,63
+    Item = SITRUSBERRY
+Pokemon = BLASTOISE,63
+    Item = SITRUSBERRY
+#-------------------------------
+[YOUNGSTER,Jonas]
+LoseText = There goes my pocket money...
+Pokemon = BIDOOF,3
+    Moves = TACKLE,GROWL
+    AbilityIndex = 0
+    Gender = male
+    Nature = QUIRKY
+    IV = 4,7,8,2,3,4
+#-------------------------------
+[RIVAL1,Zeke,2]
+LoseText = Nooooooooooo!!!
+Pokemon = GROOKEY,5
+    Gender = male
+    Nature = BRAVE
+    IV = 1,1,1,1,1,1
+#-------------------------------
+[RIVAL1,Zeke,3]
+LoseText = Nooooooooooo!!!
+Pokemon = CYNDAQUIL,5
+    Gender = male
+    Nature = QUIET
+    IV = 1,1,1,1,1,1
+#-------------------------------
+[RIVAL1,Zeke,1]
+LoseText = Nooooooooooo!!!
+Pokemon = OSHAWOTT,5
+    Gender = male
+    Nature = BRAVE
+    IV = 1,1,1,1,1,1
+#-------------------------------
+[YOUNGSTER,Tommy]
+LoseText = You could´ve held back...
+Pokemon = STARLY,4
+    Moves = TACKLE,GROWL
+    AbilityIndex = 0
+    Gender = female
+    Nature = HASTY
+    IV = 5,4,3,2,3,4
+#-------------------------------
+[BUGCATCHER,Kyle]
+LoseText = You´re spider-tastic!
+Pokemon = SPINARAK,5
+    Moves = POISONSTING,ABSORB,STRINGSHOT
+    AbilityIndex = 0
+    Gender = female
+    Nature = BASHFUL
+    IV = 7,10,3,2,4,5
+Pokemon = SPINARAK,5
+    Moves = POISONSTING,ABSORB,STRINGSHOT
+    AbilityIndex = 0
+    Gender = male
+    Nature = MILD
+    IV = 3,3,5,5,7,7
+#-------------------------------
+[AROMALADY,Kimberly]
+LoseText = You are ready!
+Pokemon = FOMANTIS,8
+    Moves = FURYCUTTER,LEAFAGE,GROWTH
+    AbilityIndex = 0
+    Gender = female
+    Nature = TIMID
+    IV = 6,7,8,2,3,4
+#-------------------------------
+[LEADER_Rose,Rose]
+LoseText = What a magnificent battle!
+Pokemon = SHROOMISH,9
+    Moves = TACKLE,ABSORB,STUNSPORE,LEECHSEED
+    AbilityIndex = 0
+    Gender = male
+    Nature = MODEST
+    IV = 8,7,6,3,4,5
+Pokemon = ROSELIA,11
+    Moves = MEGADRAIN,POISONSTING,BULLETSEED,GROWTH
+    AbilityIndex = 0
+    Gender = female
+    Nature = CAREFUL
+    IV = 10,9,8,7,6,5
+#-------------------------------
+[LEADER_Rose,Rose,1]
+Items = MEGARING,FULLRESTORE,FULLRESTORE
+LoseText = It has been an honor!
+Pokemon = BRELOOM,74
+    Moves = DRAINPUNCH,SEEDBOMB,STUNSPORE,GROWTH
+    AbilityIndex = 0
+    Gender = male
+    Nature = MODEST
+    IV = 8,7,6,3,4,5
+Pokemon = ROSERADE,75
+    Moves = GIGADRAIN,GROWTH,TOXICSPIKES,SLUDGEBOMB
+    AbilityIndex = 0
+    Gender = female
+    Nature = CAREFUL
+    IV = 10,9,8,7,6,5
+Pokemon = SCOVILLAIN,73
+    Moves = SUNNYDAY,SOLARBEAM,SPICYEXTRACT,FIREFANG
+    AbilityIndex = 0
+    Gender = male
+    Nature = JOLLY
+    IV = 21,21,21,21,21,21
+Pokemon = LILLIGANT,75
+    Moves = QUIVERDANCE,TEETERDANCE,PETALDANCE,ENERGYBALL
+    AbilityIndex = 0
+    Gender = female
+    Nature = LONELY
+    IV = 21,21,21,21,21,21
+Pokemon = TROPIUS,74
+    Moves = DRAGONHAMMER,DRAGONDANCE,AERIALACE,LEAFSTORM
+    AbilityIndex = 0
+    Gender = male
+    Nature = HARDY
+    IV = 21,21,21,21,21,21
+Pokemon = SCEPTILE,76
+    Moves = DUALCHOP,DOUBLETEAM,GIGADRAIN,XSCISSOR
+    AbilityIndex = 0
+    Item = SCEPTILITE
+    Gender = male
+    Nature = SERIOUS
+    IV = 21,21,21,21,21,21
+#-------------------------------
+[HIKER,Gerrit]
+LoseText = I have been rumbled...
+Pokemon = ARON,8
+    Moves = TACKLE,HARDEN,METALCLAW,ROCKTOMB
+    AbilityIndex = 0
+    Gender = male
+    Nature = NAIVE
+    IV = 3,4,5,6,5,4
+Pokemon = NOIBAT,9
+    Moves = TACKLE,ABSORB,GUST,SUPERSONIC
+    AbilityIndex = 0
+    Gender = female
+    Nature = NAUGHTY
+    IV = 4,5,6,7,6,5
+#-------------------------------
+[BLACKBELT,Keisuke]
+LoseText = You broke me...
+Pokemon = CRABRAWLER,9
+    Moves = BUBBLE,ROCKSMASH,LEER
+    AbilityIndex = 0
+    Gender = male
+    Nature = CAREFUL
+    IV = 4,5,4,5,4,5
+#-------------------------------
+[HIKER,Brendon]
+LoseText = Oh, you already know.
+Pokemon = GEODUDE,8
+    Moves = TACKLE,DEFENSECURL,SANDSTORM,ROCKPOLISH
+    AbilityIndex = 0
+    Gender = male
+    Nature = HARDY
+    IV = 5,3,8,9,5,7
+Pokemon = ROLYCOLY,10
+    Moves = TACKLE,SMOKESCREEN,RAPIDSPIN,SMACKDOWN
+    AbilityIndex = 0
+    Gender = male
+    Nature = ADAMANT
+    IV = 2,3,4,5,6,7
+#-------------------------------
+[SCIENTIST,Marcus]
+LoseText = That was fun.
+Pokemon = WOOLOO,4
+    Moves = TACKLE,GROWL,DEFENSECURL
+    AbilityIndex = 0
+    Gender = female
+    Nature = NAIVE
+    IV = 2,5,2,4,2,4
+#-------------------------------
+[LASS,Gina]
+LoseText = Aww...
+Pokemon = EEVEE,5
+    Moves = TACKLE,GROWL,TAILWHIP,SANDATTACK
+    AbilityIndex = 0
+    Gender = female
+    Nature = BOLD
+    IV = 2,5,6,4,5,6
+#-------------------------------
+[CRUSHGIRL,Sandy]
+LoseText = Alright, you do lift...
+Pokemon = RIOLU,11
+    Moves = QUICKATTACK,FEINT,METALCLAW,ENDURE
+    AbilityIndex = 0
+    Gender = male
+    Nature = CALM
+    IV = 7,5,3,4,5,7
+#-------------------------------
+[POKEMONRANGER_M,Ian]
+LoseText = There is no stopping you, huh.
+Pokemon = CHIMCHAR,10
+    Moves = SCRATCH,LEER,EMBER,TAUNT
+    AbilityIndex = 0
+    Gender = male
+    Nature = HASTY
+    IV = 5,5,5,5,5,5
+Pokemon = PAWNIARD,10
+    Moves = SCRATCH,LEER,FURYCUTTER,METALCLAW
+    AbilityIndex = 0
+    Gender = male
+    Nature = IMPISH
+    IV = 2,4,2,4,6,8
+#-------------------------------
+[GAMBLER,Francis]
+LoseText = Oh, it was black...
+Pokemon = MEOWTH,12
+    Moves = FAKEOUT,GROWL,SCRATCH,PAYDAY
+    AbilityIndex = 0
+    Gender = female
+    Nature = DOCILE
+    IV = 7,7,7,7,7,7
+#-------------------------------
+[ROCKER,Ozzy]
+LoseText = Help me I´m lost...
+Pokemon = SCRAGGY,10
+    Moves = LOWKICK,LEER,PAYBACK,HEADBUTT
+    AbilityIndex = 0
+    Gender = male
+    Nature = GENTLE
+    IV = 6,7,5,7,4,7
+Pokemon = ZUBAT,11
+    Moves = ABSORB,SUPERSONIC,ASTONISH,MEANLOOK
+    AbilityIndex = 0
+    Gender = female
+    Nature = LAX
+    IV = 2,7,6,8,6,3
+#-------------------------------
+[POKEMONRANGER_F,Julia]
+LoseText = You know your Pokémon.
+Pokemon = FUECOCO,12
+    Moves = TACKLE,LEER,EMBER,BITE
+    AbilityIndex = 0
+    Gender = male
+    Nature = JOLLY
+    IV = 5,6,7,5,6,7
+#-------------------------------
+[BLACKBELT,Adam]
+LoseText = I am not one with the mountain yet.
+Pokemon = ROGGENROLA,12
+    Moves = SANDATTACK,TACKLE,STEALTHROCK,MUDSLAP
+    AbilityIndex = 0
+    Gender = female
+    Nature = RELAXED
+    IV = 4,6,4,6,4,6
+Pokemon = MAKUHITA,13
+    Moves = FOCUSENERGY,ARMTHRUST,FAKEOUT,FORCEPALM
+    AbilityIndex = 0
+    Gender = male
+    Nature = SERIOUS
+    IV = 6,5,6,6,4,6
+#-------------------------------
+[CUEBALL,Jackson]
+LoseText = That´s tax evasion!
+Pokemon = SNUBBULL,11
+    Moves = ICEFANG,FIREFANG,THUNDERFANG,BITE
+    AbilityIndex = 0
+    Gender = female
+    Nature = RASH
+    IV = 9,2,8,3,7,4
+Pokemon = TOXEL,11
+    Moves = BELCH,TEARFULLOOK,NUZZLE,FLAIL
+    AbilityIndex = 0
+    Gender = male
+    Nature = NAIVE
+    IV = 7,7,8,8,9,9
+Pokemon = MURKROW,11
+    Moves = PECK,ASTONISH,GUST,HAZE
+    AbilityIndex = 0
+    Gender = female
+    Nature = SASSY
+    IV = 3,7,4,5,2,9
+#-------------------------------
+[PAINTER,Anna]
+LoseText = That was art.
+Pokemon = JIGGLYPUFF,13
+    Moves = COVET,SING,DEFENSECURL,ECHOEDVOICE
+    AbilityIndex = 0
+    Gender = female
+    Nature = GENTLE
+    IV = 5,5,5,12,12,5
+#-------------------------------
+[SCIENTIST,Albert]
+LoseText = That was one for the history books.
+Pokemon = ANORITH,15
+    Moves = SMACKDOWN,HARDEN,METALCLAW,WATERGUN
+    AbilityIndex = 0
+    Gender = female
+    Nature = CALM
+    IV = 5,5,5,5,5,5
+#-------------------------------
+[RIVAL2,Zeke,1]
+LoseText = God ******* damn it!
+Pokemon = GOLETT,14
+    Moves = MUDSLAP,DEFENSECURL,SHADOWPUNCH,ASTONISH
+    AbilityIndex = 0
+    Nature = TIMID
+    IV = 7,9,3,6,12,3
+Pokemon = VENIPEDE,14
+    Moves = ROLLOUT,PROTECT,POISONTAIL,DEFENSECURL
+    AbilityIndex = 0
+    Gender = female
+    Nature = CAREFUL
+    IV = 5,6,7,8,7,6
+Pokemon = DEWOTT,16
+    Moves = AERIALACE,TAILWHIP,WATERGUN,TACKLE
+    AbilityIndex = 0
+    Gender = male
+    Nature = BRAVE
+    IV = 7,8,7,8,7,8
+#-------------------------------
+[RIVAL2,Zeke,2]
+LoseText = God ******* damn it!
+Pokemon = GOLETT,14
+    Moves = MUDSLAP,DEFENSECURL,SHADOWPUNCH,ASTONISH
+    AbilityIndex = 0
+    Nature = TIMID
+    IV = 7,9,3,6,12,3
+Pokemon = VENIPEDE,14
+    Moves = ROLLOUT,PROTECT,POISONTAIL,DEFENSECURL
+    AbilityIndex = 0
+    Gender = female
+    Nature = CAREFUL
+    IV = 5,6,7,8,7,6
+Pokemon = THWACKEY,16
+    Moves = DOUBLEHIT,GROWL,BRANCHPOKE,RAZORLEAF
+    AbilityIndex = 0
+    Gender = male
+    Nature = BRAVE
+    IV = 7,8,7,8,7,8
+#-------------------------------
+[RIVAL2,Zeke,3]
+LoseText = God ******* damn it!
+Pokemon = GOLETT,14
+    Moves = MUDSLAP,DEFENSECURL,SHADOWPUNCH,ASTONISH
+    AbilityIndex = 0
+    Nature = TIMID
+    IV = 7,9,3,6,12,3
+Pokemon = VENIPEDE,14
+    Moves = ROLLOUT,PROTECT,POISONTAIL,DEFENSECURL
+    AbilityIndex = 0
+    Gender = female
+    Nature = CAREFUL
+    IV = 5,6,7,8,7,6
+Pokemon = QUILAVA,16
+    Moves = TACKLE,SMOKESCREEN,EMBER,QUICKATTACK
+    AbilityIndex = 0
+    Gender = male
+    Nature = QUIET
+    IV = 7,8,7,8,7,8
+#-------------------------------
+[RIVAL3,Zeke,1]
+LoseText = But how...
+Pokemon = GOLETT,34
+    Moves = STOMPINGTANTRUM,IRONDEFENSE,SHADOWPUNCH,GYROBALL
+    AbilityIndex = 0
+    Nature = TIMID
+    IV = 7,9,3,6,12,3
+Pokemon = SCOLIPEDE,34
+    Moves = BUGBITE,VENOSHOCK,TAKEDOWN,PROTECT
+    AbilityIndex = 0
+    Gender = female
+    Nature = CAREFUL
+    IV = 5,6,7,8,7,6
+Pokemon = AZUMARILL,33
+    Moves = BOUNCE,AQUATAIL,PLAYROUGH,SURF
+    AbilityIndex = 0
+    Gender = female
+    Nature = QUIRKY
+    IV = 10,14,12,7,12,8
+Pokemon = SAMUROTT,36
+    Moves = AERIALACE,WATERPULSE,AQUAJET,MEGAHORN
+    AbilityIndex = 0
+    Gender = male
+    Nature = BRAVE
+    IV = 7,8,7,8,7,8
+#-------------------------------
+[RIVAL3,Zeke,2]
+LoseText = But how...
+Pokemon = GOLETT,34
+    Moves = STOMPINGTANTRUM,IRONDEFENSE,SHADOWPUNCH,GYROBALL
+    AbilityIndex = 0
+    Nature = TIMID
+    IV = 7,9,3,6,12,3
+Pokemon = SCOLIPEDE,34
+    Moves = BUGBITE,VENOSHOCK,TAKEDOWN,PROTECT
+    AbilityIndex = 0
+    Gender = female
+    Nature = CAREFUL
+    IV = 5,6,7,8,7,6
+Pokemon = AZUMARILL,33
+    Moves = BOUNCE,AQUATAIL,PLAYROUGH,SURF
+    AbilityIndex = 0
+    Gender = female
+    Nature = QUIRKY
+    IV = 10,14,12,7,12,8
+Pokemon = RILLABOOM,36
+    Moves = SLAM,DRUMBEATING,KNOCKOFF,NOBLEROAR
+    AbilityIndex = 0
+    Gender = male
+    Nature = BRAVE
+    IV = 7,8,7,8,7,8
+#-------------------------------
+[RIVAL3,Zeke,3]
+LoseText = But how...
+Pokemon = GOLETT,34
+    Moves = STOMPINGTANTRUM,IRONDEFENSE,SHADOWPUNCH,GYROBALL
+    AbilityIndex = 0
+    Nature = TIMID
+    IV = 7,9,3,6,12,3
+Pokemon = SCOLIPEDE,34
+    Moves = BUGBITE,VENOSHOCK,TAKEDOWN,PROTECT
+    AbilityIndex = 0
+    Gender = female
+    Nature = CAREFUL
+    IV = 5,6,7,8,7,6
+Pokemon = AZUMARILL,33
+    Moves = BOUNCE,AQUATAIL,PLAYROUGH,SURF
+    AbilityIndex = 0
+    Gender = female
+    Nature = QUIRKY
+    IV = 10,14,12,7,12,8
+Pokemon = TYPHLOSION,36
+    Moves = FLAMEWHEEL,FLAMECHARGE,GYROBALL,SWIFT
+    AbilityIndex = 0
+    Gender = male
+    Nature = BRAVE
+    IV = 7,8,7,8,7,8
+#-------------------------------
+[RIVAL4,Zeke,1]
+Items = MEGARING,FULLRESTORE
+LoseText = You will always be the better one of us.
+Pokemon = GOLURK,61
+    Moves = FLY,EARTHQUAKE,HAMMERARM,PHANTOMFORCE
+    AbilityIndex = 0
+    Nature = TIMID
+    IV = 7,9,3,6,12,3
+Pokemon = SCOLIPEDE,60
+    Moves = BUGBITE,VENOMDRENCH,PROTECT,AGILITY
+    AbilityIndex = 0
+    Gender = female
+    Nature = CAREFUL
+    IV = 5,6,7,8,7,6
+Pokemon = AZUMARILL,61
+    Moves = BOUNCE,AQUATAIL,PLAYROUGH,SURF
+    AbilityIndex = 0
+    Gender = female
+    Nature = QUIRKY
+    IV = 10,14,12,7,12,8
+Pokemon = BAXCALIBUR,62
+    Moves = GLAIVERUSH,ICICLECRASH,BITE,DRAGONDANCE
+    AbilityIndex = 0
+    Gender = male
+    Nature = BOLD
+    IV = 22,27,25,24,23,26
+Pokemon = SAMUROTT,63
+    Moves = AERIALACE,HYDROPUMP,AQUAJET,SWORDSDANCE
+    AbilityIndex = 0
+    Gender = male
+    Nature = BRAVE
+    IV = 7,8,7,8,7,8
+Pokemon = ALAKAZAM,63
+    Moves = PSYCHIC,SHADOWBALL,FOCUSBLAST,CALMMIND
+    AbilityIndex = 0
+    Item = ALAKAZITE
+    Gender = male
+    Nature = MODEST
+    IV = 28,26,24,28,31,31
+#-------------------------------
+[RIVAL4,Zeke,2]
+Items = MEGARING,FULLRESTORE
+LoseText = You will always be the better one of us.
+Pokemon = GOLURK,61
+    Moves = FLY,EARTHQUAKE,HAMMERARM,PHANTOMFORCE
+    AbilityIndex = 0
+    Nature = TIMID
+    IV = 7,9,3,6,12,3
+Pokemon = SCOLIPEDE,60
+    Moves = BUGBITE,VENOMDRENCH,PROTECT,AGILITY
+    AbilityIndex = 0
+    Gender = female
+    Nature = CAREFUL
+    IV = 5,6,7,8,7,6
+Pokemon = AZUMARILL,61
+    Moves = BOUNCE,AQUATAIL,PLAYROUGH,SURF
+    AbilityIndex = 0
+    Gender = female
+    Nature = QUIRKY
+    IV = 10,14,12,7,12,8
+Pokemon = BAXCALIBUR,62
+    Moves = GLAIVERUSH,ICICLECRASH,BITE,DRAGONDANCE
+    AbilityIndex = 0
+    Gender = male
+    Nature = BOLD
+    IV = 22,27,25,24,23,26
+Pokemon = RILLABOOM,63
+    Moves = BOOMBURST,WOODHAMMER,KNOCKOFF,NOBLEROAR
+    AbilityIndex = 0
+    Gender = male
+    Nature = BRAVE
+    IV = 7,8,7,8,7,8
+Pokemon = ALAKAZAM,63
+    Moves = PSYCHIC,SHADOWBALL,FOCUSBLAST,CALMMIND
+    AbilityIndex = 0
+    Item = ALAKAZITE
+    Gender = male
+    Nature = MODEST
+    IV = 28,26,24,28,31,31
+#-------------------------------
+[RIVAL4,Zeke,3]
+Items = MEGARING,FULLRESTORE
+LoseText = You will always be the better one of us.
+Pokemon = GOLURK,61
+    Moves = FLY,EARTHQUAKE,HAMMERARM,PHANTOMFORCE
+    AbilityIndex = 0
+    Nature = TIMID
+    IV = 7,9,3,6,12,3
+Pokemon = SCOLIPEDE,60
+    Moves = BUGBITE,VENOMDRENCH,PROTECT,AGILITY
+    AbilityIndex = 0
+    Gender = female
+    Nature = CAREFUL
+    IV = 5,6,7,8,7,6
+Pokemon = AZUMARILL,61
+    Moves = BOUNCE,AQUATAIL,PLAYROUGH,SURF
+    AbilityIndex = 0
+    Gender = female
+    Nature = QUIRKY
+    IV = 10,14,12,7,12,8
+Pokemon = BAXCALIBUR,62
+    Moves = GLAIVERUSH,ICICLECRASH,BITE,DRAGONDANCE
+    AbilityIndex = 0
+    Gender = male
+    Nature = BOLD
+    IV = 22,27,25,24,23,26
+Pokemon = TYPHLOSION,63
+    Moves = FLAMETHROWER,SWIFT,SOLARBEAM,SUNNYDAY
+    AbilityIndex = 0
+    Gender = male
+    Nature = BRAVE
+    IV = 7,8,7,8,7,8
+Pokemon = ALAKAZAM,63
+    Moves = PSYCHIC,SHADOWBALL,FOCUSBLAST,CALMMIND
+    AbilityIndex = 0
+    Item = ALAKAZITE
+    Gender = male
+    Nature = MODEST
+    IV = 28,26,24,28,31,31
+#-------------------------------
+[COOLTRAINER_M,Liam]
+LoseText = Too much heat…
+Pokemon = VULPIX,16
+    Moves = TAILWHIP,QUICKATTACK,SPITE,INCINERATE
+    AbilityIndex = 0
+    Gender = female
+    Nature = LAX
+    IV = 8,9,8,9,8,9
+Pokemon = SIZZLIPEDE,16
+    Moves = SMOKESCREEN,WRAP,BITE,FLAMEWHEEL
+    AbilityIndex = 0
+    Gender = male
+    Nature = QUIRKY
+    IV = 5,12,5,12,10,6
+#-------------------------------
+[COOLTRAINER_F,Lara]
+LoseText = Ouch! I got burned…
+Pokemon = FLETCHINDER,17
+    Moves = FLAMECHARGE,PECK,QUICKATTACK,FLAIL
+    AbilityIndex = 0
+    Gender = female
+    Nature = BRAVE
+    IV = 5,10,4,8,3,7
+#-------------------------------
+[LEADER_Solan,Solan]
+LoseText = You cooled me down...
+Pokemon = LARVESTA,16
+    Moves = FLAMECHARGE,STRUGGLEBUG,STRINGSHOT,EMBER
+    AbilityIndex = 0
+    Gender = male
+    Nature = RASH
+    IV = 8,7,6,15,14,12
+Pokemon = SLUGMA,16
+    Moves = YAWN,ROCKTHROW,HARDEN,INCINERATE
+    AbilityIndex = 1
+    Gender = male
+    Nature = LONELY
+    IV = 8,7,12,11,8,7
+Pokemon = MAGMAR,18
+    Moves = FLAMEWHEEL,SMOKESCREEN,CLEARSMOG,THUNDERPUNCH
+    AbilityIndex = 0
+    Gender = male
+    Nature = NAUGHTY
+    IV = 9,9,9,10,9,8
+#-------------------------------
+[LEADER_Solan,Solan,1]
+Items = MEGARING,FULLRESTORE,FULLRESTORE
+LoseText = Your passion burns hotter than mine!
+Pokemon = VOLCARONA,74
+    Moves = QUIVERDANCE,FIERYDANCE,BUGBUZZ,TAILWIND
+    AbilityIndex = 0
+    Gender = male
+    Nature = RASH
+    IV = 8,7,6,15,14,12
+Pokemon = MAGCARGO,73
+    Moves = EARTHPOWER,FLAMETHROWER,ANCIENTPOWER,AMNESIA
+    AbilityIndex = 1
+    Gender = male
+    Nature = LONELY
+    IV = 8,7,12,11,8,7
+Pokemon = MAGMORTAR,75
+    Moves = SUNNYDAY,FLAMETHROWER,FOCUSBLAST,THUNDERBOLT
+    AbilityIndex = 0
+    Gender = male
+    Nature = NAUGHTY
+    IV = 9,9,9,10,9,8
+Pokemon = CERULEDGE,75
+    Moves = SOLARBLADE,SWORDSDANCE,BITTERBLADE,SHADOWCLAW
+    AbilityIndex = 0
+    Gender = male
+    Nature = ADAMANT
+    IV = 22,22,22,22,22,22
+Pokemon = TALONFLAME,74
+    Moves = FLY,STEELWING,FLAREBLITZ,ROOST
+    AbilityIndex = 0
+    Gender = female
+    Nature = CAREFUL
+    IV = 22,22,22,22,22,22
+Pokemon = HOUNDOOM,76
+    Moves = NASTYPLOT,FLAMETHROWER,DARKPULSE,SOLARBEAM
+    AbilityIndex = 0
+    Item = HOUNDOOMINITE
+    Gender = female
+    Nature = MODEST
+    IV = 22,22,22,22,22,22
+#-------------------------------
+[LASS,Rachel]
+LoseText = You could´ve at least appreciated the view...
+Pokemon = WOOPER,6
+    Moves = WATERGUN,TAILWHIP,RAINDANCE
+    AbilityIndex = 1
+    Gender = male
+    Nature = BOLD
+    IV = 3,2,4,3,5,4
+#-------------------------------
+[CAMPER,Marcel]
+LoseText = And you were strong...
+Pokemon = HOUNDOUR,6
+    Moves = LEER,EMBER,HOWL
+    AbilityIndex = 0
+    Gender = male
+    Nature = HASTY
+    IV = 2,2,3,3,5,4
+#-------------------------------
+[YOUNGSTER,Owen]
+LoseText = At least I learned something...
+Pokemon = AZURILL,11
+    Moves = BUBBLEBEAM,CHARM,TAILWHIP,HELPINGHAND
+    AbilityIndex = 0
+    Gender = female
+    Nature = JOLLY
+    IV = 5,2,3,5,5,4
+Pokemon = SKIDDO,13
+    Moves = TACKLE,RAZORLEAF,GROWTH,LEECHSEED
+    AbilityIndex = 0
+    Gender = male
+    Nature = MILD
+    IV = 4,2,3,4,5,4
+#-------------------------------
+[LADY,Celine]
+LoseText = But you would make a lady loose...
+Pokemon = DEERLING,16
+    Form = 3
+    Moves = SANDATTACK,DOUBLEKICK,LEECHSEED,FEINTATTACK
+    AbilityIndex = 0
+    Gender = female
+    Nature = JOLLY
+    IV = 6,12,4,6,5,7
+Pokemon = AXEW,14
+    Moves = BITE,TAUNT,LEER,ASSURANCE
+    AbilityIndex = 1
+    Gender = male
+    Nature = ADAMANT
+    IV = 6,8,6,6,8,8
+#-------------------------------
+[HIKER,Chris]
+LoseText = I´m better at hiking anyways...
+Pokemon = ROCKRUFF,16
+    Moves = TACKLE,DOUBLETEAM,ROCKTHROW,HOWL
+    AbilityIndex = 0
+    Gender = male
+    Nature = IMPISH
+    IV = 7,4,8,9,10,5
+Pokemon = MACHOP,16
+    Moves = LOWKICK,FOCUSENERGY,LOWSWEEP,KNOCKOFF
+    AbilityIndex = 0
+    Gender = male
+    Nature = NAIVE
+    IV = 16,9,6,6,10,10
+#-------------------------------
+[COOLTRAINER_M,Eddy]
+LoseText = I underestimated you...
+Pokemon = MIENFOO,15
+    Moves = DETECT,FAKEOUT,REVERSAL,FURYSWIPES
+    AbilityIndex = 0
+    Gender = male
+    Nature = BRAVE
+    IV = 6,4,7,6,15,14
+Pokemon = MASCHIFF,14
+    Moves = BITE,HONECLAWS,LICK,SCARYFACE
+    AbilityIndex = 0
+    Gender = male
+    Nature = IMPISH
+    IV = 7,4,7,6,10,11
+Pokemon = GIBLE,16
+    Moves = SANDTOMB,TACKLE,DRAGONBREATH,SANDATTACK
+    AbilityIndex = 0
+    Gender = male
+    Nature = MILD
+    IV = 7,8,8,9,10,12
+#-------------------------------
+[CHANNELER,Ivy]
+LoseText = You´ve haunted me...
+Pokemon = PHANTUMP,18
+    Moves = ASTONISH,BRANCHPOKE,CONFUSERAY,WILLOWISP
+    AbilityIndex = 0
+    Gender = male
+    Nature = HARDY
+    IV = 12,13,14,14,13,12
+Pokemon = PUMPKABOO,18
+    Form = 3
+    Moves = SHADOWSNEAK,CONFUSERAY,TRICKORTREAT,RAZORLEAF
+    AbilityIndex = 0
+    Gender = female
+    Nature = SASSY
+    IV = 14,14,12,12,11,11
+#-------------------------------
+[PSYCHIC_F,Lilly]
+LoseText = The Dark Forest has made you strong.
+Pokemon = MEDITITE,19
+    Moves = FEINT,DETECT,FORCEPALM,CONFUSION
+    AbilityIndex = 0
+    Gender = female
+    Nature = SERIOUS
+    IV = 10,11,12,10,11,12
+#-------------------------------
+[BIKER,Ralph]
+LoseText = Maybe I like bikes too much...
+Pokemon = CYCLIZAR,16
+    Moves = RAPIDSPIN,TAUNT,BREAKINGSWIPE,GROWL
+    AbilityIndex = 0
+    Gender = male
+    Nature = TIMID
+    IV = 15,15,9,9,12,12
+#-------------------------------
+[RUINMANIAC,Alexander]
+LoseText = You made me look ancient...
+Pokemon = RELICANTH,19
+    Moves = HARDEN,ANCIENTPOWER,YAWN,WATERGUN
+    AbilityIndex = 1
+    Gender = male
+    Nature = GENTLE
+    IV = 5,5,5,12,12,12
+#-------------------------------
+[BLACKBELT,Kazuma]
+LoseText = You don´t bend steel, you break it!
+Pokemon = SAWK,18
+    Moves = ROCKSMASH,FOCUSENERGY,DOUBLEKICK,QUICKGUARD
+    AbilityIndex = 0
+    Gender = male
+    Nature = LONELY
+    IV = 8,20,8,8,8,8
+Pokemon = SILICOBRA,19
+    Moves = MINIMIZE,BRUTALSWING,BULLDOZE,WRAP
+    AbilityIndex = 0
+    Gender = female
+    Nature = HASTY
+    IV = 6,9,15,5,7,9
+#-------------------------------
+[TAMER,Draco]
+LoseText = That was mighty!
+Pokemon = DRATINI,19
+    Moves = TWISTER,THUNDERWAVE,DRAGONTAIL,WRAP
+    Gender = male
+    Nature = RASH
+    IV = 11,9,14,12,7,11
+Pokemon = BAGON,18
+    Moves = EMBER,BITE,DRAGONBREATH,HEADBUTT
+    AbilityIndex = 0
+    Gender = female
+    Nature = MODEST
+    IV = 16,14,11,11,6,12
+#-------------------------------
+[CAMPER,Ewan]
+LoseText = I apologize...
+Pokemon = SNORLAX,18
+    Moves = YAWN,LICK,BITE,METRONOME
+    AbilityIndex = 0
+    Gender = female
+    Nature = LAX
+    IV = 20,5,5,5,5,20
+#-------------------------------
+[GENTLEMAN,William]
+LoseText = Thank you.
+Pokemon = VAROOM,19
+    Moves = TAUNT,SLUDGE,GYROBALL,ASSURANCE
+    AbilityIndex = 0
+    Gender = male
+    Nature = RASH
+    IV = 12,12,6,7,8,11
+Pokemon = GLIGAR,19
+    Moves = QUICKATTACK,FURYCUTTER,MUDSLAP,KNOCKOFF
+    AbilityIndex = 1
+    Gender = male
+    Nature = BRAVE
+    IV = 17,6,4,8,13,11
+#-------------------------------
+[BURGLAR,Cooper]
+LoseText = At least you´re not a cop...
+Pokemon = SNEASEL,20
+    Moves = TAUNT,QUICKATTACK,METALCLAW,THIEF
+    AbilityIndex = 0
+    Gender = female
+    Nature = DOCILE
+    IV = 10,6,13,14,8,11
+#-------------------------------
+[COOLTRAINER_F,Kylie]
+LoseText = You´re not the weak one here...
+Pokemon = KIRLIA,20
+    Moves = DOUBLETEAM,HYPNOSIS,DRAININGKISS,PSYBEAM
+    AbilityIndex = 0
+    Gender = female
+    Nature = CALM
+    IV = 15,5,6,16,18,11
+Pokemon = STARAVIA,21
+    Moves = QUICKATTACK,WINGATTACK,DOUBLETEAM,ENDEAVOR
+    AbilityIndex = 0
+    Gender = male
+    Nature = NAIVE
+    IV = 12,11,8,6,12,5
+Pokemon = DRIFLOON,20
+    Moves = GUST,FOCUSENERGY,HEX,SHADOWBALL
+    AbilityIndex = 0
+    Gender = male
+    Nature = IMPISH
+    IV = 12,11,8,6,12,5
+#-------------------------------
+[PSYCHIC_M,Xavier]
+LoseText = Oh wow, that was impressive...
+Pokemon = METANG,19
+    Moves = BULLETPUNCH,ZENHEADBUTT,MAGNETRISE,FLASHCANNON
+    AbilityIndex = 0
+    Nature = LAX
+    IV = 20,15,15,12,10,11
+Pokemon = SIGILYPH,20
+    Moves = GRAVITY,HYPNOSIS,AIRCUTTER,PSYBEAM
+    AbilityIndex = 0
+    Gender = male
+    Nature = JOLLY
+    IV = 12,12,12,12,12,12
+#-------------------------------
+[ROCKER,Dave]
+LoseText = This battle was metal!
+Pokemon = SKARMORY,21
+    Moves = FURYATTACK,METALCLAW,AGILITY,WINGATTACK
+    AbilityIndex = 1
+    Gender = female
+    Nature = RELAXED
+    IV = 18,12,18,10,10,8
+#-------------------------------
+[SWIMMER_F,Lucy]
+LoseText = Haha, you´re waterproof!
+Pokemon = PSYDUCK,22
+    Moves = WATERPULSE,DISABLE,ZENHEADBUTT,SCREECH
+    AbilityIndex = 1
+    Gender = male
+    Nature = HARDY
+    IV = 7,11,10,10,11,6
+Pokemon = WINGULL,23
+    Moves = QUICKATTACK,SUPERSONIC,WINGATTACK,WATERPULSE
+    AbilityIndex = 0
+    Gender = female
+    Nature = QUIRKY
+    IV = 5,6,12,14,20,3
+#-------------------------------
+[SWIMMER_M,Sergio]
+LoseText = Looks like low tide for me...
+Pokemon = FINNEON,24
+    Moves = ATTRACT,RAINDANCE,GUST,WATERPULSE
+    AbilityIndex = 0
+    Gender = male
+    Nature = CALM
+    IV = 9,8,11,11,7,16
+#-------------------------------
+[SWIMMER2_F,Maddy]
+LoseText = I´m a disappointment to my family.
+Pokemon = FINIZEN,21
+    Moves = ASTONISH,FOCUSENERGY,AQUAJET,DIVE
+    AbilityIndex = 0
+    Gender = female
+    Nature = HASTY
+    IV = 11,12,7,10,9,8
+Pokemon = ARAQUANID,21
+    Moves = BUGBITE,BITE,BUBBLEBEAM,AQUARING
+    AbilityIndex = 0
+    Gender = male
+    Nature = BRAVE
+    IV = 9,9,4,5,12,18
+Pokemon = FRILLISH,23
+    Moves = ABSORB,POISONSTING,HEX,WATERPULSE
+    AbilityIndex = 0
+    Gender = female
+    Nature = MODEST
+    IV = 10,10,9,8,7,7
+#-------------------------------
+[LEADER_Azura,Azura]
+LoseText = I didn´t run for cover fast enough...
+Pokemon = DREDNAW,22
+    Moves = ROCKTOMB,RAZORSHELL,HEADBUTT,ROCKPOLISH
+    AbilityIndex = 0
+    Gender = male
+    Nature = BASHFUL
+    IV = 10,11,10,9,10,10
+Pokemon = GYARADOS,22
+    Moves = ICEFANG,BRINE,SCARYFACE,TWISTER
+    AbilityIndex = 0
+    Gender = male
+    Nature = SERIOUS
+    IV = 5,10,9,11,12,8
+Pokemon = WISHIWASHI,25
+    Moves = IRONTAIL,BRINE,TEARFULLOOK,DIVE
+    AbilityIndex = 0
+    Gender = female
+    Nature = HASTY
+    IV = 20,10,10,10,10,20
+#-------------------------------
+[LEADER_Azura,Azura,1]
+Items = MEGARING,FULLRESTORE,FULLRESTORE
+LoseText = And I thought I could win against the Champion...
+Pokemon = DREDNAW,73
+    Moves = JAWLOCK,HEADSMASH,LIQUIDATION,ICEFANG
+    AbilityIndex = 0
+    Gender = male
+    Nature = BASHFUL
+    IV = 10,11,10,9,10,10
+Pokemon = GYARADOS,74
+    Moves = ICEFANG,AQUATAIL,DRAGONDANCE,EARTHQUAKE
+    AbilityIndex = 0
+    Gender = male
+    Nature = SERIOUS
+    IV = 5,10,9,11,12,8
+Pokemon = WISHIWASHI,75
+    Moves = ICEBEAM,SURF,IRONTAIL,AQUARING
+    AbilityIndex = 0
+    Gender = female
+    Nature = HASTY
+    IV = 20,10,10,10,10,20
+Pokemon = CLAWITZER,74
+    Moves = AURASPHERE,WATERPULSE,DRAGONPULSE,ICEBEAM
+    AbilityIndex = 0
+    Gender = male
+    Nature = LAX
+    IV = 23,23,23,23,23,23
+Pokemon = KINGDRA,75
+    Moves = DRACOMETEOR,BLIZZARD,HYDROPUMP,HYPERBEAM
+    AbilityIndex = 0
+    Gender = female
+    Nature = SASSY
+    IV = 23,23,23,23,23,23
+Pokemon = SHARPEDO,76
+    Moves = CRUNCH,AQUAJET,LIQUIDATION,ZENHEADBUTT
+    AbilityIndex = 0
+    Item = SHARPEDONITE
+    Gender = female
+    Nature = QUIRKY
+    IV = 23,23,23,23,23,23
+#-------------------------------
+[POKEMONRANGER_F,Xenia]
+LoseText = I almost fell...
+Pokemon = SERVINE,22
+    Moves = VINEWHIP,WRAP,GROWTH,LEAFTORNADO
+    AbilityIndex = 0
+    Gender = female
+    Nature = TIMID
+    IV = 9,8,11,11,7,16
+#-------------------------------
+[POKEMANIAC,McLovin]
+LoseText = That was something else!
+Pokemon = DREEPY,20
+    Moves = ASTONISH,INFESTATION,QUICKATTACK,BITE
+    AbilityIndex = 0
+    Gender = male
+    Nature = LAX
+    IV = 16,14,15,16,15,16
+Pokemon = TANDEMAUS,21
+    Moves = SUPERFANG,DOUBLEHIT,BULLETSEED,BABYDOLLEYES
+    AbilityIndex = 0
+    Nature = DOCILE
+    IV = 12,11,8,7,15,15
+#-------------------------------
+[TEAMROCKET_M,Grunt]
+LoseText = I´m getting fired for sure...
+Pokemon = SALANDIT,23
+    Moves = SCRATCH,POISONGAS,EMBER,POISONFANG
+    AbilityIndex = 0
+    Gender = male
+    Nature = MILD
+    IV = 11,11,9,11,8,7
+Pokemon = GURDURR,24
+    Moves = LOWKICK,FOCUSENERGY,ROCKSLIDE,SLAM
+    AbilityIndex = 0
+    Gender = male
+    Nature = ADAMANT
+    IV = 14,13,11,16,15,17
+#-------------------------------
+[TEAMROCKET_M,Grunt,1]
+LoseText = We had one job...
+Pokemon = MIGHTYENA,24
+    Moves = SNARL,SWAGGER,HOWL,FIREFANG
+    AbilityIndex = 0
+    Gender = male
+    Nature = BRAVE
+    IV = 14,9,8,11,11,11
+Pokemon = KOFFING,25
+    Moves = SMOKESCREEN,ASSURANCE,SLUDGE,HAZE
+    AbilityIndex = 0
+    Gender = male
+    Nature = NAUGHTY
+    IV = 16,16,7,6,7,17
+#-------------------------------
+[TEAMROCKET_M,Grunt,2]
+LoseText = I need to get out of here...
+Pokemon = GOLBAT,29
+    Moves = ASTONISH,MEANLOOK,POISONFANG,AIRCUTTER
+    AbilityIndex = 0
+    Gender = male
+    Nature = LAX
+    IV = 12,13,11,15,16,12
+Pokemon = SANDYGAST,31
+    Moves = MEGADRAIN,SANDATTACK,BULLDOZE,HYPNOSIS
+    AbilityIndex = 0
+    Gender = male
+    Nature = NAIVE
+    IV = 19,17,20,18,15,21
+#-------------------------------
+[TEAMROCKET_M,Grunt,3]
+LoseText = Now I´m in Trouble...
+Pokemon = WOBBUFFET,40
+    Moves = COUNTER,MIRRORCOAT,SAFEGUARD,ENCORE
+    AbilityIndex = 0
+    Gender = male
+    Nature = MILD
+    IV = 25,22,26,17,17,18
+Pokemon = GOLBAT,40
+    Moves = POISONFANG,QUICKGUARD,AIRCUTTER,BITE
+    AbilityIndex = 0
+    Gender = female
+    Nature = SASSY
+    IV = 22,21,20,20,21,22
+#-------------------------------
+[TEAMROCKET_M,Grunt,4]
+LoseText = How did the boss see this coming?!
+Pokemon = MUK,42
+    Moves = VENOMDRENCH,MINIMIZE,SLUDGEWAVE,MUDSLAP
+    AbilityIndex = 0
+    Gender = male
+    Nature = TIMID
+    IV = 20,22,25,18,17,19
+#-------------------------------
+[TEAMROCKET_M,Grunt,5]
+LoseText = How can this be?!
+Pokemon = HONCHKROW,40
+    Moves = NIGHTSLASH,SUCKERPUNCH,AIRCUTTER,MEANLOOK
+    AbilityIndex = 0
+    Gender = female
+    Nature = ADAMANT
+    IV = 16,18,19,17,19,20
+Pokemon = DRAPION,42
+    Moves = NIGHTSLASH,CROSSPOISON,PINMISSILE,TOXIC
+    AbilityIndex = 1
+    Gender = male
+    Nature = BOLD
+    IV = 18,20,16,14,25,24
+#-------------------------------
+[TEAMROCKET_M,Grunt,6]
+LoseText = The boss would´ve won!
+Pokemon = GLALIE,42
+    Moves = FREEZEDRY,BITE,ICESHARD,DOUBLETEAM
+    AbilityIndex = 0
+    Gender = male
+    Nature = BRAVE
+    IV = 18,18,18,18,18,18
+Pokemon = COFAGRIGUS,44
+    Moves = SHADOWBALL,SHADOWCLAW,WILLOWISP,ENERGYBALL
+    AbilityIndex = 0
+    Gender = male
+    Nature = DOCILE
+    IV = 28,27,26,22,23,24
+#-------------------------------
+[TEAMROCKET_M,Grunt,7]
+LoseText = I ******* hate kids!
+Pokemon = POLIWRATH,43
+    Moves = HYPNOSIS,SUBMISSION,BUBBLEBEAM,EARTHPOWER
+    AbilityIndex = 0
+    Gender = male
+    Nature = BOLD
+    IV = 17,24,22,20,20,24
+Pokemon = ELECTABUZZ,43
+    Moves = THUNDERPUNCH,LOWKICK,QUICKATTACK,THUNDERWAVE
+    AbilityIndex = 0
+    Gender = male
+    Nature = TIMID
+    IV = 22,26,23,17,15,23
+#-------------------------------
+[TEAMROCKET_M,Grunt,8]
+LoseText = This might be the wrong job...
+Pokemon = CRYOGONAL,52
+    Moves = ICEBEAM,ANCIENTPOWER,NIGHTSLASH,ACIDARMOR
+    AbilityIndex = 0
+    Nature = NAIVE
+    IV = 20,18,16,14,24,22
+#-------------------------------
+[TEAMROCKET_M,Grunt,9]
+LoseText = It got too ugly...
+Pokemon = SLOWKING,54
+    Moves = SURF,PSYCHIC,AMNESIA,YAWN
+    AbilityIndex = 0
+    Gender = male
+    Nature = JOLLY
+    IV = 20,19,24,24,19,23
+#-------------------------------
+[TEAMROCKET_M,Grunt,10]
+LoseText = You can still turn around...
+Pokemon = BRAMBLEGHAST,54
+    Moves = PHANTOMFORCE,GIGADRAIN,PAINSPLIT,CURSE
+    AbilityIndex = 0
+    Gender = male
+    Nature = SASSY
+    IV = 23,22,21,20,19,18
+#-------------------------------
+[TEAMROCKET_M,Grunt,11]
+LoseText = Nice try, but you´re going nowhere!
+Pokemon = LIEPARD,53
+    Moves = NIGHTSLASH,PLAYROUGH,SUCKERPUNCH,HONECLAWS
+    AbilityIndex = 0
+    Gender = female
+    Nature = HARDY
+    IV = 18,16,20,25,23,21
+Pokemon = BOUFFALANT,51
+    Moves = THROATCHOP,HEADCHARGE,SWORDSDANCE,MEGAHORN
+    AbilityIndex = 0
+    Gender = male
+    Nature = BOLD
+    IV = 17,15,20,18,15,15
+Pokemon = MORPEKO,53
+    Moves = BITE,SPARK,AGILITY,TORMENT
+    AbilityIndex = 0
+    Gender = female
+    Nature = TIMID
+    IV = 19,20,20,24,15,17
+#-------------------------------
+[TEAMROCKET_F,Grunt]
+LoseText = But my paycheck...
+Pokemon = IMPIDIMP,28
+    Moves = ASSURANCE,FAKEOUT,SWAGGER,SUCKERPUNCH
+    AbilityIndex = 0
+    Gender = male
+    Nature = QUIRKY
+    IV = 10,9,12,13,13,18
+Pokemon = GOGOAT,32
+    Moves = AERIALACE,EARTHQUAKE,SEEDBOMB,SYNTHESIS
+    AbilityIndex = 0
+    Gender = female
+    Nature = SERIOUS
+    IV = 12,18,12,8,7,16
+#-------------------------------
+[TEAMROCKET_F,Grunt,1]
+LoseText = There goes my promotion...
+Pokemon = HOUNDOOM,33
+    Moves = INFERNO,NASTYPLOT,THUNDERFANG,BITE
+    AbilityIndex = 0
+    Gender = female
+    Nature = MODEST
+    IV = 15,19,10,16,17,11
+#-------------------------------
+[TEAMROCKET_F,Grunt,2]
+LoseText = Ahhhh, my salary!
+Pokemon = MUSHARNA,42
+    Moves = HYPNOSIS,DREAMEATER,CALMMIND,MOONBLAST
+    AbilityIndex = 1
+    Gender = female
+    Nature = MODEST
+    IV = 22,12,25,15,22,12
+#-------------------------------
+[TEAMROCKET_F,Grunt,3]
+LoseText = You´re gonna regret this!
+Pokemon = GRAFAIAI,42
+    Moves = DOODLE,SUBSTITUTE,POISONJAB,UTURN
+    AbilityIndex = 0
+    Gender = male
+    Nature = SASSY
+    IV = 19,22,22,24,22,19
+Pokemon = SHIFTRY,41
+    Moves = RAZORLEAF,PAYBACK,ROLLOUT,GROWTH
+    AbilityIndex = 1
+    Gender = male
+    Nature = MILD
+    IV = 15,16,23,26,27,17
+Pokemon = GOTHITELLE,42
+    Moves = PSYCHIC,HYPNOSIS,DREAMEATER,THIEF
+    AbilityIndex = 0
+    Gender = female
+    Nature = SERIOUS
+    IV = 24,22,21,23,22,21
+#-------------------------------
+[TEAMROCKET_F,Grunt,4]
+LoseText = Don´t say I didn´t warn you...
+Pokemon = KLANG,43
+    Moves = GEARGRIND,SHIFTGEAR,METALSOUND,DISCHARGE
+    AbilityIndex = 0
+    Nature = ADAMANT
+    IV = 17,23,23,29,17,19
+Pokemon = PANGORO,42
+    Moves = NIGHTSLASH,BODYSLAM,VITALTHROW,TAUNT
+    AbilityIndex = 0
+    Gender = male
+    Nature = CAREFUL
+    IV = 22,21,26,12,28,15
+#-------------------------------
+[TEAMROCKET_F,Grunt,5]
+LoseText = But I need this job...
+Pokemon = SWALOT,53
+    Moves = STOCKPILE,SPITUP,SWALLOW,SLUDGEBOMB
+    AbilityIndex = 0
+    Gender = male
+    Nature = TIMID
+    IV = 19,22,16,14,18,20
+Pokemon = ORICORIO,52
+    Form = 3
+    Moves = AGILITY,HURRICANE,AIRSLASH,ICYWIND
+    AbilityIndex = 0
+    Gender = female
+    Nature = MILD
+    IV = 21,15,15,25,15,15
+#-------------------------------
+[TEAMROCKET_F,Grunt,6]
+LoseText = You don´t even understand us!
+Pokemon = ANNIHILAPE,52
+    Moves = SHADOWPUNCH,RAGEFIST,STOMPINGTANTRUM,SPITE
+    AbilityIndex = 0
+    Gender = male
+    Nature = BRAVE
+    IV = 17,20,23,26,11,11
+Pokemon = PINSIR,52
+    Moves = VITALTHROW,XSCISSOR,STRENGTH,SWORDSDANCE
+    AbilityIndex = 0
+    Gender = male
+    Nature = HASTY
+    IV = 19,23,23,23,17,17
+#-------------------------------
+[TEAMROCKET_F,Grunt,7]
+LoseText = Screw you!
+Pokemon = LUDICOLO,53
+    Moves = RAINDANCE,ZENHEADBUTT,GIGADRAIN,BUBBLEBEAM
+    AbilityIndex = 1
+    Gender = female
+    Nature = QUIRKY
+    IV = 21,20,23,22,22,21
+#-------------------------------
+[TEAMROCKET_F,Grunt,8]
+LoseText = Damn it!
+Pokemon = ZIGZAGOON,19
+    Form = 1
+    Moves = HEADBUTT,PINMISSILE,SNARL,SANDATTACK
+    AbilityIndex = 0
+    Gender = male
+    Nature = SASSY
+    IV = 8,8,8,7,7,7
+#-------------------------------
+[CHANNELER,Lorain]
+LoseText = I can hear them!
+Pokemon = FRILLISH,22
+    Moves = NIGHTSHADE,WATERPULSE,RAINDANCE,HEX
+    AbilityIndex = 0
+    Gender = male
+    Nature = LONELY
+    IV = 9,8,11,12,8,9
+Pokemon = GASTLY,22
+    Moves = LICK,HYPNOSIS,PAYBACK,CURSE
+    AbilityIndex = 0
+    Gender = female
+    Nature = NAUGHTY
+    IV = 13,14,13,13,13,12
+Pokemon = DUSKULL,22
+    Moves = SHADOWSNEAK,CONFUSERAY,NIGHTSHADE,PAYBACK
+    AbilityIndex = 0
+    Gender = male
+    Nature = NAIVE
+    IV = 13,12,13,14,13,13
+Pokemon = MIMIKYU,22
+    Moves = WOODHAMMER,COPYCAT,SHADOWSNEAK,DOUBLETEAM
+    AbilityIndex = 0
+    Gender = female
+    Nature = ADAMANT
+    IV = 8,8,8,8,6,26
+#-------------------------------
+[SAILOR,Gerald]
+LoseText = Please make it stop...
+Pokemon = QUAGSIRE,23
+    Moves = WATERGUN,MUDSHOT,SLAM,YAWN
+    AbilityIndex = 1
+    Gender = male
+    Nature = IMPISH
+    IV = 16,9,8,8,11,11
+Pokemon = CLODSIRE,24
+    Moves = MUDSHOT,SLAM,YAWN,POISONJAB
+    AbilityIndex = 0
+    Gender = male
+    Nature = QUIRKY
+    IV = 12,9,17,9,11,10
+#-------------------------------
+[POKEMONRANGER_M,Jacob]
+LoseText = The conditions were in your favor...
+Pokemon = MARSHTOMP,22
+    Moves = MUDSHOT,WATERPULSE,PROTECT,SUPERSONIC
+    AbilityIndex = 0
+    Gender = male
+    Nature = CAREFUL
+    IV = 7,6,11,8,11,5
+Pokemon = KIRLIA,24
+    Moves = DOUBLETEAM,LIFEDEW,DRAININGKISS,PSYBEAM
+    AbilityIndex = 0
+    Gender = male
+    Nature = SASSY
+    IV = 11,11,7,6,12,14
+#-------------------------------
+[RUINMANIAC,Nick]
+LoseText = I praise you!
+Pokemon = ROGGENROLA,24
+    Moves = STEALTHROCK,MUDSLAP,SMACKDOWN,IRONDEFENSE
+    AbilityIndex = 0
+    Gender = male
+    Nature = QUIRKY
+    IV = 9,9,15,9,15,9
+Pokemon = HIPPOPOTAS,24
+    Moves = SANDTOMB,DIG,BITE,SANDSTORM
+    AbilityIndex = 0
+    Gender = female
+    Nature = LONELY
+    IV = 6,9,4,20,9,11
+#-------------------------------
+[AROMALADY,Dana]
+LoseText = Maybe you´re the reason...
+Pokemon = SNOVER,25
+    Moves = MIST,ICESHARD,RAZORLEAF,HAIL
+    AbilityIndex = 0
+    Gender = female
+    Nature = TIMID
+    IV = 12,12,7,12,19,12
+#-------------------------------
+[COOLTRAINER_M,Rodrigo]
+LoseText = Well, at least one of us has the confidence now...
+Pokemon = RABSCA,23
+    Moves = PSYBEAM,STRUGGLEBUG,SAFEGUARD,ROLLOUT
+    AbilityIndex = 0
+    Gender = female
+    Nature = IMPISH
+    IV = 10,10,10,11,9,10
+Pokemon = PACHIRISU,22
+    Moves = NUZZLE,CHARM,SWIFT,SPARK
+    AbilityIndex = 0
+    Gender = male
+    Nature = JOLLY
+    IV = 12,10,8,8,10,12
+Pokemon = GROWLITHE,23
+    Moves = HOWL,BITE,FLAMEWHEEL,AGILITY
+    AbilityIndex = 0
+    Gender = male
+    Nature = BRAVE
+    IV = 9,11,12,10,9,11
+#-------------------------------
+[FISHERMAN,Jake]
+LoseText = That helped, the frustration is gone!
+Pokemon = WINGULL,23
+    Moves = QUICKATTACK,SUPERSONIC,WINGATTACK,WATERPULSE
+    AbilityIndex = 1
+    Gender = female
+    Nature = DOCILE
+    IV = 9,11,6,9,4,20
+Pokemon = GYARADOS,24
+    Moves = ICEFANG,BRINE,SCARYFACE,WHIRLPOOL
+    AbilityIndex = 0
+    Gender = male
+    Nature = QUIRKY
+    IV = 7,9,10,10,12,21
+#-------------------------------
+[JUGGLER,Damian]
+LoseText = Haha, maybe I should jump!
+Pokemon = MRMIME,25
+    Moves = ENCORE,CONFUSION,ROLEPLAY,PROTECT
+    AbilityIndex = 0
+    Gender = male
+    Nature = QUIET
+    IV = 9,9,9,9,9,9
+#-------------------------------
+[MEGATRAINER_Molly,Molly]
+Items = MEGARING
+LoseText = That was entertaining!
+Pokemon = MEOWSTIC,25
+    Form = 1
+    Moves = FAKEOUT,DISARMINGVOICE,PSYBEAM,SUCKERPUNCH
+    AbilityIndex = 0
+    Gender = female
+    Nature = RASH
+    IV = 12,12,12,5,7,22
+Pokemon = PASSIMIAN,24
+    Moves = ROCKSMASH,FOCUSENERGY,BEATUP,TACKLE
+    AbilityIndex = 0
+    Gender = male
+    Nature = QUIRKY
+    IV = 6,7,8,14,15,16
+Pokemon = ABSOL,26
+    Moves = DOUBLETEAM,KNOCKOFF,SLASH,DETECT
+    AbilityIndex = 0
+    Item = ABSOLITE
+    Gender = female
+    Nature = NAUGHTY
+    IV = 12,11,10,10,11,12
+#-------------------------------
+[MEGATRAINER_Molly,Molly,1]
+Items = MEGARING
+LoseText = That was entertaining!
+Pokemon = MEOWSTIC,53
+    Form = 1
+    Moves = REFLECT,LIGHTSCREEN,PSYSHOCK,SUCKERPUNCH
+    AbilityIndex = 0
+    Gender = female
+    Nature = RASH
+    IV = 12,12,12,5,7,22
+Pokemon = PASSIMIAN,52
+    Moves = BULKUP,CLOSECOMBAT,FOCUSENERGY,TAKEDOWN
+    AbilityIndex = 0
+    Gender = male
+    Nature = QUIRKY
+    IV = 6,7,8,14,15,16
+Pokemon = ABSOL,54
+    Moves = DOUBLETEAM,SWORDSDANCE,NIGHTSLASH,SLASH
+    AbilityIndex = 0
+    Gender = female
+    Nature = NAUGHTY
+    IV = 12,11,10,10,11,12
+Pokemon = GALLADE,56
+    Moves = PSYCHOCUT,SWORDSDANCE,DRAINPUNCH,LEAFBLADE
+    AbilityIndex = 0
+    Item = GALLADITE
+    Gender = male
+    Nature = SERIOUS
+    IV = 21,21,21,21,21,21
+#-------------------------------
+[COP,Smith]
+LoseText = Stupid brat!
+Pokemon = LILLIPUP,14
+    Moves = BITE,TACKLE,RETALIATE,WORKUP
+    AbilityIndex = 0
+    Gender = male
+    Nature = CAREFUL
+    IV = 9,11,9,11,9,11
+#-------------------------------
+[COP,Reed]
+LoseText = Damn it...
+Pokemon = GROWLITHE,25
+    Moves = FIREFANG,AGILITY,BITE,HOWL
+    AbilityIndex = 0
+    Gender = male
+    Nature = HARDY
+    IV = 9,11,9,11,9,11
+#-------------------------------
+[COP,West]
+LoseText = NOOOOO!!!
+Pokemon = MANECTRIC,34
+    Moves = THUNDERFANG,BITE,HOWL,FIREFANG
+    AbilityIndex = 0
+    Gender = male
+    Nature = SERIOUS
+    IV = 9,11,9,11,9,11
+#-------------------------------
+[YOUNGSTER,Steph]
+LoseText = You´re stronger than me!
+Pokemon = EEVEE,25
+    Moves = SANDATTACK,QUICKATTACK,SWIFT,BITE
+    AbilityIndex = 0
+    Gender = female
+    Nature = TIMID
+    IV = 16,17,18,7,8,9
+Pokemon = GLACEON,27
+    Moves = BABYDOLLEYES,ICESHARD,BITE,IRONTAIL
+    AbilityIndex = 0
+    Gender = male
+    Nature = MODEST
+    IV = 11,9,16,16,9,5
+#-------------------------------
+[LADY,Hanji]
+LoseText = I couldn´t focus, they´re just too cute!
+Pokemon = EEVEE,25
+    Moves = SANDATTACK,DIG,SWIFT,BITE
+    AbilityIndex = 0
+    Gender = male
+    Nature = LAX
+    IV = 5,21,23,11,15,12
+Pokemon = EEVEE,25
+    Moves = SANDATTACK,QUICKATTACK,HEADBUTT,BITE
+    AbilityIndex = 0
+    Gender = female
+    Nature = HARDY
+    IV = 18,18,9,19,11,11
+Pokemon = LEAFEON,27
+    Moves = BABYDOLLEYES,LEECHSEED,MAGICALLEAF,BITE
+    AbilityIndex = 0
+    Gender = female
+    Nature = ADAMANT
+    IV = 7,9,15,20,25,8
+#-------------------------------
+[SCIENTIST,Paul]
+LoseText = Fascinating!
+Pokemon = FLAREON,25
+    Moves = DOUBLETEAM,QUICKATTACK,EMBER,BITE
+    AbilityIndex = 0
+    Gender = male
+    Nature = CALM
+    IV = 15,20,19,7,14,16
+Pokemon = VAPOREON,26
+    Moves = BABYDOLLEYES,WATERPULSE,BITE,IRONTAIL
+    AbilityIndex = 0
+    Gender = female
+    Nature = BRAVE
+    IV = 11,12,26,26,12,11
+#-------------------------------
+[ENGINEER,Alac]
+LoseText = I just work here...
+Pokemon = JOLTEON,28
+    Moves = QUICKATTACK,THUNDERWAVE,DOUBLEKICK,THUNDERSHOCK
+    AbilityIndex = 0
+    Gender = male
+    Nature = LAX
+    IV = 17,16,21,15,6,20
+#-------------------------------
+[LEADER_Emmett,Emmett]
+Items = HYPERPOTION
+LoseText = You had a breakthrough!
+Pokemon = ESPEON,27
+    Moves = REFLECT,LIGHTSCREEN,PSYCHIC,SWIFT
+    AbilityIndex = 0
+    Gender = male
+    Nature = TIMID
+    IV = 12,8,14,25,9,12
+Pokemon = UMBREON,27
+    Moves = QUICKATTACK,CONFUSERAY,ASSURANCE,BITE
+    AbilityIndex = 0
+    Gender = male
+    Nature = JOLLY
+    IV = 11,12,15,12,11,31
+Pokemon = SYLVEON,30
+    Moves = BABYDOLLEYES,DRAININGKISS,DOUBLEEDGE,DOUBLETEAM
+    AbilityIndex = 0
+    Gender = female
+    Nature = NAIVE
+    IV = 11,12,26,26,12,11
+#-------------------------------
+[LEADER_Emmett,Emmett,1]
+Items = FULLRESTORE,FULLRESTORE
+LoseText = Eureka!
+Pokemon = ESPEON,75
+    Moves = REFLECT,LIGHTSCREEN,PSYCHIC,SHADOWBALL
+    AbilityIndex = 0
+    Gender = male
+    Nature = TIMID
+    IV = 12,8,14,25,9,12
+Pokemon = UMBREON,75
+    Moves = MOONLIGHT,CONFUSERAY,PSYCHIC,FOULPLAY
+    AbilityIndex = 0
+    Gender = male
+    Nature = JOLLY
+    IV = 11,12,15,12,11,31
+Pokemon = LEAFEON,73
+    Moves = SWORDSDANCE,LEAFBLADE,AERIALACE,IRONTAIL
+    AbilityIndex = 0
+    Gender = female
+    Nature = IMPISH
+    IV = 24,24,24,24,24,24
+Pokemon = FLAREON,74
+    Moves = FLAREBLITZ,BITE,SCORCHINGSANDS,SCARYFACE
+    AbilityIndex = 0
+    Gender = male
+    Nature = LAX
+    IV = 24,24,24,24,24,24
+Pokemon = VAPOREON,74
+    Moves = HYDROPUMP,AURORABEAM,AQUARING,ACIDARMOR
+    AbilityIndex = 0
+    Gender = female
+    Nature = MODEST
+    IV = 24,24,24,24,24,24
+Pokemon = SYLVEON,76
+    Moves = BABYDOLLEYES,MOONBLAST,HYPERVOICE,DOUBLETEAM
+    AbilityIndex = 0
+    Gender = female
+    Nature = NAIVE
+    IV = 11,12,26,26,12,11
+#-------------------------------
+[SUPERNERD,Danny]
+LoseText = I´m not Ready yet...
+Pokemon = SANDILE,26
+    Moves = BITE,TORMENT,DIG,SWAGGER
+    AbilityIndex = 0
+    Gender = male
+    Nature = ADAMANT
+    IV = 19,20,19,8,14,15
+Pokemon = CORVISQUIRE,26
+    Moves = HONECLAWS,FURYATTACK,PLUCK,TAUNT
+    AbilityIndex = 0
+    Gender = male
+    Nature = LONELY
+    IV = 15,10,22,21,12,15
+#-------------------------------
+[BUGCATCHER,Ramsey]
+LoseText = See, I need something stronger!
+Pokemon = DOTTLER,15
+    Moves = REFLECT,LIGHTSCREEN,CONFUSION,STRUGGLEBUG
+    AbilityIndex = 0
+    Gender = female
+    Nature = LAX
+    IV = 5,5,5,5,5,5
+#-------------------------------
+[CRUSHGIRL,Nadine]
+LoseText = You were a worthy opponent!
+Pokemon = CLOBBOPUS,14
+    Moves = ROCKSMASH,LEER,FEINT,BIND
+    AbilityIndex = 0
+    Gender = male
+    Nature = ADAMANT
+    IV = 6,5,6,5,6,5
+Pokemon = TAUROS,15
+    Moves = TACKLE,WORKUP,PAYBACK,ASSURANCE
+    AbilityIndex = 0
+    Gender = male
+    Nature = RASH
+    IV = 6,7,6,5,6,3
+#-------------------------------
+[LASS,Yvonne]
+LoseText = Haha, you invited yourself!
+Pokemon = BRELOOM,27
+    Moves = STUNSPORE,LEECHSEED,MEGADRAIN,MACHPUNCH
+    AbilityIndex = 1
+    Gender = male
+    Nature = BRAVE
+    IV = 15,25,20,11,11,12
+#-------------------------------
+[CRUSHGIRL,Tamara]
+LoseText = You´re strong!
+Pokemon = DUNSPARCE,25
+    Moves = FLAIL,DEFENSECURL,GLARE,ANCIENTPOWER
+    AbilityIndex = 0
+    Gender = female
+    Nature = LAX
+    IV = 10,9,14,9,15,20
+Pokemon = BEWEAR,27
+    Moves = BRUTALSWING,ENDURE,STRENGTH,TAKEDOWN
+    AbilityIndex = 0
+    Gender = male
+    Nature = HARDY
+    IV = 8,12,8,14,15,9
+#-------------------------------
+[BURGLAR,Lamar]
+LoseText = There goes the money I stole fair n´ square...
+Pokemon = THIEVUL,28
+    Moves = THIEF,QUICKATTACK,HONECLAWS,SUCKERPUNCH
+    AbilityIndex = 0
+    Gender = male
+    Nature = RELAXED
+    IV = 9,9,15,15,9,9
+#-------------------------------
+[POKEMONBREEDER,Beth]
+LoseText = Oh yeah, you really wanted this!
+Pokemon = GOTHITA,24
+    Moves = PSYBEAM,CHARM,PSYSHOCK,HYPNOSIS
+    AbilityIndex = 0
+    Gender = female
+    Nature = NAUGHTY
+    IV = 10,9,14,9,15,20
+Pokemon = TOGETIC,26
+    Moves = CHARM,FAIRYWIND,YAWN,METRONOME
+    AbilityIndex = 0
+    Gender = male
+    Nature = HARDY
+    IV = 8,12,8,14,15,9
+Pokemon = CHARJABUG,26
+    Moves = STRINGSHOT,BUGBITE,BITE,SPARK
+    AbilityIndex = 0
+    Gender = female
+    Nature = CALM
+    IV = 16,12,8,11,9,7
+#-------------------------------
+[BUGCATCHER,Vince]
+LoseText = I´m still lost...
+Pokemon = MASQUERAIN,28
+    Moves = SWEETSCENT,BUGBUZZ,AIRCUTTER,STUNSPORE
+    AbilityIndex = 0
+    Gender = male
+    Nature = MODEST
+    IV = 8,12,11,22,22,22
+#-------------------------------
+[AROMALADY,Zara]
+LoseText = Oh, you won´t get lost.
+Pokemon = MINCCINO,27
+    Moves = SWIFT,SING,ENCORE,TRIPLEAXEL
+    AbilityIndex = 0
+    Gender = female
+    Nature = CAREFUL
+    IV = 13,12,13,6,7,12
+Pokemon = COTTONEE,26
+    Moves = FAIRYWIND,GROWTH,POISONPOWDER,GIGADRAIN
+    AbilityIndex = 0
+    Gender = female
+    Nature = DOCILE
+    IV = 12,21,21,12,12,21
+#-------------------------------
+[GENTLEMAN,Peter]
+LoseText = Another dead end...
+Pokemon = TOEDSCOOL,29
+    Moves = MEGADRAIN,SCREECH,MUDSHOT,HEX
+    AbilityIndex = 0
+    Gender = male
+    Nature = JOLLY
+    IV = 18,19,12,17,21,11
+#-------------------------------
+[BURGLAR,Jeffrey]
+LoseText = Alright, take my money, but don´t be a snitch...
+Pokemon = NUZLEAF,18
+    Moves = RAZORLEAF,THIEF,GROWTH,ROLLOUT
+    AbilityIndex = 0
+    Gender = male
+    Nature = JOLLY
+    IV = 8,9,12,7,11,11
+#-------------------------------
+[LADY,Remina]
+LoseText = Alright, you convinced me.
+Pokemon = GLOOM,26
+    Moves = SLEEPPOWDER,GIGADRAIN,TOXIC,ACID
+    AbilityIndex = 0
+    Item = SITRUSBERRY
+    Gender = male
+    Nature = SERIOUS
+    IV = 21,14,12,14,12,21
+Pokemon = DUBWOOL,27
+    Moves = DEFENSECURL,DOUBLEKICK,HEADBUTT,TAKEDOWN
+    AbilityIndex = 1
+    Item = CHOPLEBERRY
+    Gender = female
+    Nature = TIMID
+    IV = 8,8,20,8,20,20
+Pokemon = GIRAFARIG,26
+    Moves = ASSURANCE,STOMP,PSYBEAM,AGILITY
+    AbilityIndex = 0
+    Item = SALACBERRY
+    Gender = male
+    Nature = LAX
+    IV = 14,14,12,18,11,16
+#-------------------------------
+[ROCKER,James]
+LoseText = That was too heavy...
+Pokemon = CUFANT,25
+    Moves = ROCKSMASH,BULLDOZE,STOMP,IRONDEFENSE
+    AbilityIndex = 0
+    Gender = male
+    Nature = RELAXED
+    IV = 15,16,17,8,22,14
+Pokemon = HARIYAMA,28
+    Moves = FAKEOUT,FORCEPALM,KNOCKOFF,BELLYDRUM
+    AbilityIndex = 0
+    Gender = male
+    Nature = RASH
+    IV = 25,20,25,5,5,5
+#-------------------------------
+[HIKER,Samuel]
+LoseText = I stood no chance...
+Pokemon = MUDSDALE,30
+    Moves = IRONDEFENSE,DOUBLEKICK,STOMP,HIGHHORSEPOWER
+    AbilityIndex = 0
+    Gender = female
+    Nature = TIMID
+    IV = 10,8,20,8,20,10
+#-------------------------------
+[CUEBALL,Tyrone]
+LoseText = I apologize. I wasn´t familiar with your game.
+Pokemon = MILTANK,27
+    Moves = ROLLOUT,DEFENSECURL,STOMP,HEALBELL
+    AbilityIndex = 0
+    Gender = female
+    Nature = DOCILE
+    IV = 14,13,14,15,11,21
+Pokemon = ARBOK,27
+    Moves = STOCKPILE,SWALLOW,SPITUP,ICEFANG
+    AbilityIndex = 0
+    Gender = male
+    Nature = SERIOUS
+    IV = 10,10,23,24,22,15
+#-------------------------------
+[BIRDKEEPER,Florian]
+LoseText = You clipped my wings…
+Pokemon = XATU,26
+    Moves = AIRSLASH,TAILWIND,CONFUSERAY,NIGHTSHADE
+    AbilityIndex = 0
+    Gender = female
+    Nature = JOLLY
+    IV = 15,8,12,7,14,12
+Pokemon = KILOWATTREL,26
+    Moves = QUICKATTACK,PLUCK,SPARK,ROOST
+    AbilityIndex = 0
+    Gender = male
+    Nature = ADAMANT
+    IV = 12,14,10,8,10,10
+Pokemon = FEAROW,26
+    Moves = ASSURANCE,AERIALACE,DRILLRUN,TAKEDOWN
+    AbilityIndex = 0
+    Gender = male
+    Nature = HARDY
+    IV = 22,11,18,11,12,11
+#-------------------------------
+[FISHERMAN,Nigel]
+LoseText = I fell for your bait...
+Pokemon = CARVANHA,27
+    Moves = AQUAJET,POISONFANG,ICEFANG,SCREECH
+    AbilityIndex = 0
+    Gender = male
+    Nature = CAREFUL
+    IV = 12,12,10,10,12,16
+Pokemon = ALOMOMOLA,29
+    Moves = HYDROPUMP,AQUAJET,AQUARING,DOUBLESLAP
+    AbilityIndex = 1
+    Gender = female
+    Nature = RASH
+    IV = 18,14,10,12,8,14
+#-------------------------------
+[YOUNGCOUPLE,Alicia & Alexander]
+LoseText = We stood no chance…
+Pokemon = PONYTA,8
+    Moves = TACKLE,GROWL,TAILWHIP
+    AbilityIndex = 0
+    Gender = female
+    Nature = DOCILE
+    IV = 5,4,6,3,8,7
+Pokemon = FOONGUS,8
+    Moves = ABSORB,ASTONISH,GROWTH,STUNSPORE
+    AbilityIndex = 0
+    Gender = male
+    Nature = ADAMANT
+    IV = 6,4,4,6,4,4
+#-------------------------------
+[COOLCOUPLE,Madison & Mathew]
+LoseText = That was not disappointing at all!
+Pokemon = SKORUPI,17
+    Moves = FELLSTINGER,POISONFANG,BITE,TOXICSPIKES
+    AbilityIndex = 0
+    Gender = female
+    Nature = HARDY
+    IV = 10,8,8,8,8,10
+Pokemon = ZORUA,18
+    Moves = SCRATCH,HONECLAWS,FURYSWIPES,SCARYFACE
+    AbilityIndex = 0
+    Gender = male
+    Nature = TIMID
+    IV = 8,10,10,10,10,8
+#-------------------------------
+[TWINS,Nia & Mia]
+LoseText = But we never lose...
+Pokemon = AIPOM,26
+    Moves = SANDATTACK,ASTONISH,SWIFT,SCREECH
+    AbilityIndex = 0
+    Gender = female
+    Nature = JOLLY
+    IV = 18,14,12,16,12,12
+Pokemon = PETILIL,28
+    Moves = MAGICALLEAF,SLEEPPOWDER,GIGADRAIN,LEECHSEED
+    AbilityIndex = 0
+    Gender = female
+    Nature = SERIOUS
+    IV = 14,10,12,14,16,8
+Pokemon = VENONAT,28
+    Moves = POISONPOWDER,PSYBEAM,STUNSPORE,MEGADRAIN
+    AbilityIndex = 0
+    Gender = female
+    Nature = NAIVE
+    IV = 12,14,12,16,12,18
+Pokemon = PAWMO,27
+    Moves = ARMTHRUST,NUZZLE,DIG,SPARK
+    AbilityIndex = 0
+    Gender = male
+    Nature = RASH
+    IV = 8,10,12,14,16,14
+#-------------------------------
+[PSYCHIC_F,Nora]
+LoseText = You have what it takes!
+Pokemon = SOLOSIS,28
+    Moves = PSYSHOCK,LIGHTSCREEN,ENDEAVOR,REFLECT
+    AbilityIndex = 0
+    Gender = female
+    Nature = MODEST
+    IV = 10,10,5,20,25,20
+#-------------------------------
+[PSYCHIC_M,Nolan]
+LoseText = You were Ready for this!
+Pokemon = ELGYEM,28
+    Moves = PSYBEAM,POWERSPLIT,GUARDSPLIT,ENERGYBALL
+    AbilityIndex = 1
+    Gender = male
+    Nature = JOLLY
+    IV = 8,10,8,25,25,12
+#-------------------------------
+[POKEMONRANGER_M,Darius]
+LoseText = That was great!
+Pokemon = DARTRIX,30
+    Moves = RAZORLEAF,SYNTHESIS,PLUCK,NASTYPLOT
+    AbilityIndex = 0
+    Gender = male
+    Nature = HARDY
+    IV = 12,12,11,9,15,16
+#-------------------------------
+[POKEMONRANGER_F,Wanda]
+LoseText = Ew, the sand got everywhere...
+Pokemon = PRINPLUP,30
+    Moves = PECK,BUBBLEBEAM,SWAGGER,METALCLAW
+    AbilityIndex = 0
+    Gender = male
+    Nature = DOCILE
+    IV = 12,12,16,9,15,9
+Pokemon = ONIX,29
+    Moves = DRAGONBREATH,ROCKSLIDE,SCREECH,SANDTOMB
+    AbilityIndex = 1
+    Gender = female
+    Nature = SERIOUS
+    IV = 11,22,12,15,15,28
+#-------------------------------
+[HIKER,Chase]
+LoseText = You handled the heat well.
+Pokemon = ORTHWORM,28
+    Moves = SMACKDOWN,BULLDOZE,HARDEN,IRONHEAD
+    AbilityIndex = 0
+    Gender = male
+    Nature = ADAMANT
+    IV = 10,12,14,21,15,21
+Pokemon = TRAPINCH,27
+    Moves = ASTONISH,BITE,SANDTOMB,DIG
+    AbilityIndex = 0
+    Gender = male
+    Nature = BRAVE
+    IV = 18,12,10,8,8,15
+Pokemon = RHYHORN,30
+    Moves = BULLDOZE,HORNATTACK,SCARYFACE,ROCKBLAST
+    AbilityIndex = 0
+    Gender = male
+    Nature = BOLD
+    IV = 15,9,8,10,26,24
+#-------------------------------
+[CRUSHGIRL,Asa]
+LoseText = You didn´t even flinch!
+Pokemon = LUCARIO,31
+    Moves = AURASPHERE,METALCLAW,METALSOUND,POWERUPPUNCH
+    AbilityIndex = 0
+    Gender = male
+    Nature = QUIRKY
+    IV = 8,10,8,12,6,18
+#-------------------------------
+[CAMPER,Cem]
+LoseText = Please let me put my tent here...
+Pokemon = LEDIAN,30
+    Moves = AERIALACE,MACHPUNCH,ROOST,STRUGGLEBUG
+    AbilityIndex = 0
+    Gender = female
+    Nature = TIMID
+    IV = 12,11,11,10,10,19
+#-------------------------------
+[YOUNGSTER,Greg]
+LoseText = The wild Greg fainted...
+Pokemon = PARASECT,29
+    Moves = ABSORB,FURYCUTTER,SPORE,SLASH
+    AbilityIndex = 0
+    Gender = male
+    Nature = LAX
+    IV = 16,17,12,11,20,18
+#-------------------------------
+[ENGINEER,Hugh]
+LoseText = Thanks, I needed that.
+Pokemon = VOLTORB,28
+    Moves = ROLLOUT,SCREECH,CHARGEBEAM,ELECTROBALL
+    AbilityIndex = 1
+    Nature = MODEST
+    IV = 10,8,10,28,20,15
+Pokemon = ELECTRODE,31
+    Moves = GYROBALL,SCREECH,CHARGEBEAM,SPARK
+    AbilityIndex = 1
+    Nature = HARDY
+    IV = 17,16,12,17,22,19
+#-------------------------------
+[BUGCATCHER,Owen]
+LoseText = I thought this one was stronger...
+Pokemon = SCYTHER,30
+    Moves = FURYCUTTER,WINGATTACK,DOUBLETEAM,SLASH
+    AbilityIndex = 0
+    Gender = male
+    Nature = BRAVE
+    IV = 16,15,12,10,22,12
+#-------------------------------
+[ELECTRICIAN,Sparky]
+LoseText = You´re amped up!
+Pokemon = TOGEDEMARU,33
+    Moves = NUZZLE,FELLSTINGER,SPARK,PINMISSILE
+    AbilityIndex = 0
+    Gender = male
+    Nature = DOCILE
+    IV = 14,15,14,13,20,14
+#-------------------------------
+[COOLTRAINER_F,Rika]
+LoseText = I need to recharge...
+Pokemon = ZEBSTRIKA,31
+    Moves = FLAMECHARGE,PURSUIT,SPARK,STOMP
+    AbilityIndex = 0
+    Gender = female
+    Nature = BRAVE
+    IV = 14,15,22,17,22,18
+Pokemon = DEDENNE,32
+    Moves = NUZZLE,DAZZLINGGLEAM,CHARM,PARABOLICCHARGE
+    AbilityIndex = 0
+    Gender = female
+    Nature = JOLLY
+    IV = 12,14,18,19,23,22
+#-------------------------------
+[BEAUTY,Beatrix]
+LoseText = You didn´t hold back, I love it!
+Pokemon = RAICHU,31
+    Form = 1
+    Moves = PSYCHIC,THUNDERBOLT,MAGNETRISE,IRONTAIL
+    AbilityIndex = 0
+    Gender = female
+    Nature = NAIVE
+    IV = 12,14,26,27,24,14
+Pokemon = PAWMOT,33
+    Moves = ARMTHRUST,SPARK,SLAM,THUNDERWAVE
+    AbilityIndex = 0
+    Gender = male
+    Nature = QUIRKY
+    IV = 10,24,28,9,13,29
+#-------------------------------
+[LEADER_Watron,Watron]
+Items = MEGARING,HYPERPOTION
+LoseText = That was shocking!
+Pokemon = MAGNEZONE,33
+    Moves = TRIATTACK,GYROBALL,SPARK,MAGNETRISE
+    AbilityIndex = 1
+    Nature = SERIOUS
+    IV = 16,14,18,15,17,10
+Pokemon = RAICHU,33
+    Moves = THUNDERPUNCH,THUNDER,IRONTAIL,DOUBLETEAM
+    AbilityIndex = 0
+    Gender = male
+    Nature = RASH
+    IV = 12,16,11,13,15,31
+Pokemon = AMPHAROS,35
+    Moves = THUNDERPUNCH,FIREPUNCH,DRAGONPULSE,CONFUSERAY
+    AbilityIndex = 0
+    Item = AMPHAROSITE
+    Gender = female
+    Nature = MODEST
+    IV = 15,22,14,18,15,19
+#-------------------------------
+[LEADER_Watron,Watron,1]
+Items = MEGARING,FULLRESTORE,FULLRESTORE
+LoseText = At least I tried...
+Pokemon = MAGNEZONE,75
+    Moves = DISCHARGE,FLASHCANNON,TRIATTACK,ELECTRICTERRAIN
+    AbilityIndex = 1
+    Nature = SERIOUS
+    IV = 16,14,18,15,17,10
+Pokemon = RAICHU,74
+    Moves = THUNDERPUNCH,THUNDER,IRONTAIL,DOUBLETEAM
+    AbilityIndex = 0
+    Gender = male
+    Nature = RASH
+    IV = 12,16,11,13,15,31
+Pokemon = TOXTRICITY,74
+    Moves = OVERDRIVE,POISONJAB,BOOMBURST,NOBLEROAR
+    AbilityIndex = 0
+    Gender = male
+    Nature = RELAXED
+    IV = 25,25,25,25,25,25
+Pokemon = EELEKTROSS,73
+    Moves = THUNDERBOLT,FLAMETHROWER,CRUNCH,COIL
+    AbilityIndex = 0
+    Gender = female
+    Nature = QUIRKY
+    IV = 25,25,25,25,25,25
+Pokemon = ELECTIVIRE,75
+    Moves = THUNDERPUNCH,WILDCHARGE,GIGAIMPACT,EARTHQUAKE
+    AbilityIndex = 0
+    Gender = male
+    Nature = ADAMANT
+    IV = 25,25,25,25,25,25
+Pokemon = AMPHAROS,76
+    Moves = DISCHARGE,BULLDOZE,DRAGONPULSE,LIGHTSCREEN
+    AbilityIndex = 0
+    Item = AMPHAROSITE
+    Gender = female
+    Nature = MODEST
+    IV = 15,22,14,18,15,19
+#-------------------------------
+[SWIMMER_M,Gaston]
+LoseText = Those repels wouldn´t have stopped you anyways...
+Pokemon = KINGLER,31
+    Moves = HAMMERARM,METALCLAW,BUBBLEBEAM,HARDEN
+    AbilityIndex = 0
+    Gender = male
+    Nature = BOLD
+    IV = 12,23,25,12,15,14
+#-------------------------------
+[POKEMONRANGER_F,Helena]
+LoseText = That made me tumble...
+Pokemon = DRIZZILE,32
+    Moves = WATERPULSE,TEARFULLOOK,SUCKERPUNCH,UTURN
+    AbilityIndex = 0
+    Gender = female
+    Nature = DOCILE
+    IV = 22,13,14,22,14,13
+Pokemon = BERGMITE,33
+    Moves = ICEFANG,RAPIDSPIN,RECOVER,CRUNCH
+    AbilityIndex = 1
+    Gender = male
+    Nature = SERIOUS
+    IV = 24,16,11,12,14,15
+#-------------------------------
+[YOUNGCOUPLE,Alejandro & Joana]
+LoseText = But this is our spot...
+Pokemon = LITWICK,32
+    Moves = HEX,WILLOWISP,FIRESPIN,NIGHTSHADE
+    AbilityIndex = 1
+    Gender = male
+    Nature = MODEST
+    IV = 16,9,17,18,13,20
+Pokemon = CROAGUNK,32
+    Moves = VENOSHOCK,SUCKERPUNCH,SWAGGER,POISONJAB
+    AbilityIndex = 0
+    Gender = male
+    Nature = ADAMANT
+    IV = 13,13,21,9,8,25
+#-------------------------------
+[TUBER2_F,Tammy]
+LoseText = I was in your way...
+Pokemon = OCTILLERY,33
+    Moves = OCTAZOOKA,BULLETSEED,LOCKON,AURORABEAM
+    AbilityIndex = 0
+    Gender = male
+    Nature = QUIRKY
+    IV = 5,26,16,15,9,8
+Pokemon = MANTINE,31
+    Moves = WINGATTACK,PSYBEAM,AGILITY,BUBBLEBEAM
+    AbilityIndex = 1
+    Gender = female
+    Nature = JOLLY
+    IV = 8,9,15,16,26,5
+#-------------------------------
+[SWIMMER2_M,Luigi]
+LoseText = The risk was calculated, but I´m bad at math...
+Pokemon = CHARCADET,34
+    Moves = WILLOWISP,NIGHTSHADE,FLAMECHARGE,LAVAPLUME
+    AbilityIndex = 0
+    Gender = male
+    Nature = TIMID
+    IV = 12,16,16,21,9,9
+#-------------------------------
+[SWIMMER2_F,Delia]
+LoseText = That was a good one!
+Pokemon = LOMBRE,32
+    Moves = MEGADRAIN,FAKEOUT,BUBBLEBEAM,NATUREPOWER
+    AbilityIndex = 0
+    Gender = male
+    Nature = BRAVE
+    IV = 16,17,21,18,14,14
+Pokemon = CORSOLA,31
+    Moves = AQUARING,ENDURE,ANCIENTPOWER,BUBBLEBEAM
+    AbilityIndex = 0
+    Gender = female
+    Nature = BOLD
+    IV = 5,15,14,24,6,16
+Pokemon = BEAUTIFLY,32
+    Moves = AIRCUTTER,LEECHLIFE,ATTRACT,GIGADRAIN
+    AbilityIndex = 0
+    Gender = female
+    Nature = BOLD
+    IV = 31,21,20,10,19,9
+#-------------------------------
+[POKEMONRANGER_F,Britney]
+LoseText = You should become a ranger!
+Pokemon = DECIDUEYE,35
+    Moves = SPIRITSHACKLE,SYNTHESIS,PLUCK,RAZORLEAF
+    AbilityIndex = 0
+    Gender = male
+    Nature = NAIVE
+    IV = 20,20,22,22,20,20
+#-------------------------------
+[POKEMONRANGER_M,Tristan]
+LoseText = Your Pokémon are even stronger!
+Pokemon = BRAIXEN,34
+    Moves = FLAMECHARGE,PSYBEAM,FIRESPIN,LIGHTSCREEN
+    AbilityIndex = 0
+    Gender = female
+    Nature = SERIOUS
+    IV = 22,20,20,20,20,22
+Pokemon = MAWILE,33
+    Moves = SUCKERPUNCH,IRONDEFENSE,FAIRYWIND,CRUNCH
+    AbilityIndex = 0
+    Gender = male
+    Nature = CALM
+    IV = 22,20,20,20,20,22
+#-------------------------------
+[ROCKER,Angus]
+LoseText = You rocked the stage!
+Pokemon = GIGALITH,33
+    Moves = STEALTHROCK,POWERGEM,HEADBUTT,ROCKSLIDE
+    AbilityIndex = 1
+    Gender = male
+    Nature = CAREFUL
+    IV = 18,13,24,25,11,12
+Pokemon = STEELIX,34
+    Moves = ROCKSLIDE,FIREFANG,THUNDERFANG,SCREECH
+    AbilityIndex = 1
+    Gender = male
+    Nature = ADAMANT
+    IV = 14,16,12,20,15,13
+Pokemon = BELLIBOLT,32
+    Moves = CHARGE,MUDSHOT,FLAIL,DISCHARGE
+    AbilityIndex = 1
+    Gender = male
+    Nature = MODEST
+    IV = 21,19,17,13,13,13
+#-------------------------------
+[YOUNGSTER,Pecco]
+LoseText = But I thought my Pokémon were strong...
+Pokemon = SHARPEDO,34
+    Moves = CRUNCH,AQUAJET,ICEFANG,POISONFANG
+    AbilityIndex = 0
+    Gender = female
+    Nature = RASH
+    IV = 31,13,3,1,13,31
+Pokemon = VIGOROTH,33
+    Moves = PLAYROUGH,HEADBUTT,YAWN,SLACKOFF
+    AbilityIndex = 0
+    Gender = male
+    Nature = SASSY
+    IV = 18,17,14,21,16,17
+#-------------------------------
+[NECKBEARD,Marc]
+LoseText = Yup, you´re banned!
+Pokemon = VAPOREON,34
+    Moves = QUICKATTACK,BABYDOLLEYES,WATERPULSE,AURORABEAM
+    AbilityIndex = 0
+    Gender = female
+    Nature = JOLLY
+    IV = 4,20,6,9,4,20
+Pokemon = LOPUNNY,33
+    Moves = DOUBLEKICK,DEFENSECURL,BATONPASS,HEADBUTT
+    AbilityIndex = 0
+    Gender = female
+    Nature = BRAVE
+    IV = 6,9,4,20,4,20
+Pokemon = GARDEVOIR,34
+    Moves = MOONBLAST,DRAININGKISS,PSYBEAM,HYPNOSIS
+    AbilityIndex = 0
+    Gender = female
+    Nature = MODEST
+    IV = 4,20,4,20,6,9
+#-------------------------------
+[LADY,Jeanny]
+LoseText = You must be a virgin...
+Pokemon = MACHAMP,35
+    Moves = KNOCKOFF,ATTRACT,VITALTHROW,BODYSLAM
+    AbilityIndex = 0
+    Gender = male
+    Nature = BOLD
+    IV = 6,9,6,9,4,20
+Pokemon = CONKELDURR,33
+    Moves = BULKUP,ROCKSLIDE,POUND,LOWKICK
+    AbilityIndex = 0
+    Gender = male
+    Nature = ADAMANT
+    IV = 4,20,4,20,4,20
+#-------------------------------
+[POKEMONBREEDER,Ava]
+LoseText = What a rash young trainer! You´re my type!
+Pokemon = ELEKID,33
+    Moves = BODYSLAM,THUNDERPUNCH,DISCHARGE,ATTRACT
+    AbilityIndex = 0
+    Gender = male
+    Nature = DOCILE
+    IV = 4,20,6,9,4,20
+Pokemon = MUNCHLAX,34
+    Moves = STOCKPILE,SWALLOW,LICK,BITE
+    AbilityIndex = 1
+    Gender = male
+    Nature = QUIRKY
+    IV = 4,20,4,20,6,9
+#-------------------------------
+[ROCKER,Neil]
+LoseText = You should turn around...
+Pokemon = TOGETIC,36
+    Moves = ANCIENTPOWER,YAWN,FAIRYWIND,METRONOME
+    AbilityIndex = 0
+    Gender = male
+    Nature = CAREFUL
+    IV = 15,16,12,12,14,16
+#-------------------------------
+[BIKER,Harrison]
+LoseText = Listen to me, don´t go through this forest!
+Pokemon = LAIRON,32
+    Moves = HEADBUTT,PROTECT,ROCKSLIDE,IRONHEAD
+    AbilityIndex = 0
+    Gender = male
+    Nature = BRAVE
+    IV = 21,21,15,17,14,16
+Pokemon = TOEDSCRUEL,32
+    Moves = MEGADRAIN,SCREECH,MUDSHOT,HEX
+    AbilityIndex = 0
+    Gender = male
+    Nature = NAIVE
+    IV = 16,24,20,22,18,8
+Pokemon = CUBCHOO,32
+    Moves = BRINE,FROSTBREATH,SLASH,CHARM
+    AbilityIndex = 0
+    Gender = female
+    Nature = LAX
+    IV = 12,14,16,18,20,22
+#-------------------------------
+[JUGGLER,Jared]
+LoseText = Hey, why won´t you trust me?
+Pokemon = HYPNO,36
+    Moves = HYPNOSIS,PSYBEAM,NASTYPLOT,HEADBUTT
+    AbilityIndex = 0
+    Gender = male
+    Nature = RELAXED
+    IV = 4,20,6,9,6,9
+#-------------------------------
+[TWINS,Letty & Betty]
+LoseText = Haha, do you want to tickle us now?
+Pokemon = TINKATUFF,34
+    Moves = DRAININGKISS,BRUTALSWING,SLAM,FLASHCANNON
+    AbilityIndex = 0
+    Gender = female
+    Nature = BRAVE
+    IV = 15,14,12,15,16,17
+Pokemon = ARIADOS,34
+    Moves = SHADOWSNEAK,FURYSWIPES,SUCKERPUNCH,LEECHLIFE
+    AbilityIndex = 0
+    Gender = female
+    Nature = SERIOUS
+    IV = 14,10,12,14,16,16
+#-------------------------------
+[SUPERNERD,Wallace]
+LoseText = Who´s gonna step on me now?
+Pokemon = TSAREENA,36
+    Moves = STOMP,TROPKICK,TEETERDANCE,SWEETSCENT
+    AbilityIndex = 0
+    Gender = female
+    Nature = SASSY
+    IV = 17,16,17,15,16,15
+#-------------------------------
+[CUEBALL,Fangio]
+LoseText = Please, for your own good, get out of here already.
+Pokemon = HAKAMOO,35
+    Moves = DRAGONTAIL,SCARYFACE,HEADBUTT,DRAGONCLAW
+    AbilityIndex = 0
+    Gender = male
+    Nature = DOCILE
+    IV = 25,27,22,18,24,26
+Pokemon = COALOSSAL,34
+    Moves = FLAMECHARGE,ANCIENTPOWER,INCINERATE,TARSHOT
+    AbilityIndex = 0
+    Gender = male
+    Nature = TIMID
+    IV = 28,20,20,31,20,20
+#-------------------------------
+[POKEMANIAC,Jolyon]
+LoseText = I got burned…
+Pokemon = SLUGMA,35
+    Moves = CLEARSMOG,ANCIENTPOWER,ROCKSLIDE,LAVAPLUME
+    AbilityIndex = 1
+    Gender = male
+    Nature = LAX
+    IV = 26,25,16,15,6,5
+Pokemon = SALAZZLE,36
+    Moves = POISONFANG,FIRELASH,NASTYPLOT,INCINERATE
+    AbilityIndex = 0
+    Gender = female
+    Nature = RELAXED
+    IV = 20,18,18,20,18,20
+#-------------------------------
+[COOLTRAINER_M,Dane]
+LoseText = You were on fire!
+Pokemon = SHELGON,35
+    Moves = EMBER,SCARYFACE,CRUNCH,DRAGONCLAW
+    AbilityIndex = 0
+    Gender = male
+    Nature = BRAVE
+    IV = 21,25,18,13,21,13
+Pokemon = WORMADAM,37
+    Moves = SOLARBEAM,QUIVERDANCE,BUGBITE,SUCKERPUNCH
+    AbilityIndex = 0
+    Gender = female
+    Nature = SASSY
+    IV = 15,18,17,23,20,18
+Pokemon = DARMANITAN,35
+    Moves = HAMMERARM,FIREPUNCH,BITE,UPROAR
+    AbilityIndex = 0
+    Gender = male
+    Nature = BOLD
+    IV = 16,18,16,18,20,18
+#-------------------------------
+[HIKER,Rob]
+LoseText = I´m sweating...
+Pokemon = ARCANINE,38
+    Moves = EXTREMESPEED,FIREFANG,CRUNCH,HOWL
+    AbilityIndex = 0
+    Gender = male
+    Nature = QUIRKY
+    IV = 15,16,8,28,16,15
+#-------------------------------
+[CRUSHGIRL,Alina]
+LoseText = You crushed me...
+Pokemon = BRONZONG,37
+    Moves = BLOCK,EXTRASENSORY,HEAVYSLAM,CONFUSERAY
+    AbilityIndex = 0
+    Nature = MODEST
+    IV = 18,23,13,18,13,23
+Pokemon = HAWLUCHA,37
+    Moves = ROOST,BOUNCE,SUBMISSION,WINGATTACK
+    AbilityIndex = 0
+    Gender = female
+    Nature = SERIOUS
+    IV = 21,18,16,14,18,21
+#-------------------------------
+[BIRDKEEPER,Clark]
+LoseText = It´s too late for sunscreen anyways...
+Pokemon = TALONFLAME,38
+    Moves = FLAMECHARGE,AERIALACE,AGILITY,FLAREBLITZ
+    AbilityIndex = 0
+    Gender = female
+    Nature = DOCILE
+    IV = 22,20,23,21,24,22
+#-------------------------------
+[LADY,Amanda]
+LoseText = Thank you, I learned a lot!
+Pokemon = MARACTUS,36
+    Moves = SPIKYSHIELD,SYNTHESIS,SOLARBEAM,SUCKERPUNCH
+    AbilityIndex = 1
+    Gender = female
+    Nature = CAREFUL
+    IV = 17,12,15,19,13,25
+Pokemon = MIMIKYU,35
+    Moves = WOODHAMMER,SHADOWSNEAK,DOUBLETEAM,MIMIC
+    AbilityIndex = 0
+    Gender = female
+    Nature = JOLLY
+    IV = 15,18,19,22,23,26
+Pokemon = AMBIPOM,36
+    Moves = DUALCHOP,DOUBLEHIT,AGILITY,BATONPASS
+    AbilityIndex = 0
+    Gender = male
+    Nature = BRAVE
+    IV = 17,19,23,23,19,17
+Pokemon = CAMERUPT,37
+    Moves = BULLDOZE,ERUPTION,ROCKSLIDE,LAVAPLUME
+    AbilityIndex = 0
+    Gender = male
+    Nature = RASH
+    IV = 19,19,21,21,20,20
+#-------------------------------
+[LASS,Celina]
+LoseText = You´re unstoppable!
+Pokemon = SKORUPI,38
+    Moves = BUGBITE,VENOSHOCK,SCARYFACE,NIGHTSLASH
+    AbilityIndex = 0
+    Gender = female
+    Nature = JOLLY
+    IV = 15,21,16,17,24,22
+Pokemon = LOKIX,40
+    Moves = BUGBITE,AGILITY,THROATCHOP,SUCKERPUNCH
+    AbilityIndex = 0
+    Gender = male
+    Nature = ADAMANT
+    IV = 20,25,22,21,18,19
+#-------------------------------
+[PICNICKER,Kate]
+LoseText = Aww, I didn´t get to show you...
+Pokemon = GALVANTULA,39
+    Moves = ELECTROWEB,DISCHARGE,BUGBITE,SUCKERPUNCH
+    AbilityIndex = 1
+    Gender = female
+    Nature = LAX
+    IV = 19,29,19,9,20,20
+Pokemon = YANMEGA,39
+    Moves = ANCIENTPOWER,AERIALACE,UPROAR,SUPERSONIC
+    AbilityIndex = 0
+    Gender = female
+    Nature = NAIVE
+    IV = 16,16,16,26,26,16
+#-------------------------------
+[GENTLEMAN,Gideon]
+LoseText = And I didn´t even hold back!
+Pokemon = NINCADA,36
+    Moves = MUDSLAP,ABSORB,METALCLAW,FURYSWIPES
+    AbilityIndex = 0
+    Gender = male
+    Nature = DOCILE
+    IV = 22,24,23,22,24,23
+Pokemon = SHEDINJA,39
+    Moves = CONFUSERAY,ABSORB,SHADOWSNEAK,FURYSWIPES
+    AbilityIndex = 0
+    Nature = DOCILE
+    IV = 1,31,13,20,20,20
+Pokemon = NINJASK,38
+    Moves = FURYCUTTER,DOUBLETEAM,METALCLAW,DIG
+    AbilityIndex = 0
+    Gender = male
+    Nature = SERIOUS
+    IV = 15,25,25,15,19,21
+#-------------------------------
+[BUGCATCHER,Isaac]
+LoseText = I tried everything...
+Pokemon = VESPIQUEN,41
+    Moves = AIRSLASH,POWERGEM,ATTACKORDER,DEFENDORDER
+    AbilityIndex = 0
+    Gender = female
+    Nature = CAREFUL
+    IV = 17,15,12,16,12,18
+#-------------------------------
+[LEADER_Nyssa,Nyssa]
+Items = MEGARING,HYPERPOTION,HYPERPOTION
+LoseText = That was fantastic!
+Pokemon = GOLISOPOD,41
+    Moves = FIRSTIMPRESSION,RAZORSHELL,PINMISSILE,SUCKERPUNCH
+    AbilityIndex = 0
+    Gender = male
+    Nature = BRAVE
+    IV = 25,22,26,27,22,16
+Pokemon = CENTISKORCH,39
+    Moves = INFERNO,FIRESPIN,COIL,BUGBITE
+    AbilityIndex = 0
+    Gender = female
+    Nature = TIMID
+    IV = 17,20,23,26,20,14
+Pokemon = ACCELGOR,40
+    Moves = UTURN,GIGADRAIN,WATERSHURIKEN,DOUBLETEAM
+    AbilityIndex = 0
+    Gender = male
+    Nature = NAIVE
+    IV = 25,13,23,15,23,25
+Pokemon = SCIZOR,43
+    Moves = BULLETPUNCH,XSCISSOR,IRONHEAD,IRONDEFENSE
+    AbilityIndex = 0
+    Item = SCIZORITE
+    Gender = male
+    Nature = ADAMANT
+    IV = 26,24,18,19,19,23
+#-------------------------------
+[LEADER_Nyssa,Nyssa,1]
+Items = MEGARING,FULLRESTORE,FULLRESTORE
+LoseText = That was lovely!
+Pokemon = GOLISOPOD,75
+    Moves = FIRSTIMPRESSION,LIQUIDATION,XSCISSOR,SUCKERPUNCH
+    AbilityIndex = 0
+    Gender = male
+    Nature = BRAVE
+    IV = 25,22,26,27,22,16
+Pokemon = CENTISKORCH,73
+    Moves = BURNUP,FIRELASH,COIL,LEECHLIFE
+    Gender = female
+    Nature = TIMID
+    IV = 17,20,23,26,20,14
+Pokemon = ACCELGOR,74
+    Moves = UTURN,BUGBUZZ,WATERSHURIKEN,DOUBLETEAM
+    AbilityIndex = 0
+    Gender = male
+    Nature = NAIVE
+    IV = 25,13,23,15,23,25
+Pokemon = YANMEGA,74
+    Moves = BUGBUZZ,AIRSLASH,ANCIENTPOWER,HYPNOSIS
+    AbilityIndex = 0
+    Gender = female
+    Nature = BRAVE
+    IV = 26,26,26,26,26,26
+Pokemon = VIKAVOLT,75
+    Moves = THUNDERBOLT,VOLTSWITCH,BUGBUZZ,STICKYWEB
+    AbilityIndex = 0
+    Gender = male
+    Nature = HARDY
+    IV = 26,26,26,26,26,26
+Pokemon = SCIZOR,76
+    Moves = BULLETPUNCH,XSCISSOR,AERIALACE,SWORDSDANCE
+    AbilityIndex = 0
+    Item = SCIZORITE
+    Gender = male
+    Nature = ADAMANT
+    IV = 26,24,18,19,19,23
+#-------------------------------
+[ROCKETBOSS,Giovanni]
+LoseText = I am impressed.
+Pokemon = VIRIZION,42
+    Moves = DOUBLEKICK,RETALIATE,GIGADRAIN,TAKEDOWN
+    AbilityIndex = 0
+    Nature = SERIOUS
+    IV = 21,21,21,21,21,21
+Pokemon = TERRAKION,42
+    Moves = DOUBLEKICK,RETALIATE,ROCKSLIDE,TAKEDOWN
+    AbilityIndex = 0
+    Nature = SERIOUS
+    IV = 21,21,21,21,21,21
+Pokemon = COBALION,42
+    Moves = DOUBLEKICK,RETALIATE,METALBURST,TAKEDOWN
+    AbilityIndex = 0
+    Nature = SERIOUS
+    IV = 21,21,21,21,21,21
+#-------------------------------
+[ROCKETBOSS,Giovanni,1]
+Items = MEGARING,FULLRESTORE
+LoseText = That was a mistake!
+Pokemon = NIDOKING,53
+    Moves = MEGAHORN,POISONJAB,EARTHQUAKE,TOXICSPIKES
+    AbilityIndex = 0
+    Gender = male
+    Nature = DOCILE
+    IV = 25,28,21,22,23,21
+Pokemon = NIDOQUEEN,53
+    Moves = SUPERPOWER,OUTRAGE,EARTHPOWER,STEALTHROCK
+    AbilityIndex = 0
+    Gender = female
+    Nature = SASSY
+    IV = 22,22,25,24,27,25
+Pokemon = PERSIAN,52
+    Moves = NASTYPLOT,POWERGEM,SLASH,PAYDAY
+    AbilityIndex = 0
+    Gender = female
+    Nature = TIMID
+    IV = 27,17,25,26,23,28
+Pokemon = RHYPERIOR,54
+    Moves = HAMMERARM,STONEEDGE,DRILLRUN,FIREPUNCH
+    AbilityIndex = 0
+    Gender = male
+    Nature = ADAMANT
+    IV = 24,23,27,25,21,22
+Pokemon = STEELIX,55
+    Moves = IRONTAIL,THUNDERFANG,EARTHQUAKE,MAGNETRISE
+    AbilityIndex = 0
+    Item = STEELIXITE
+    Gender = male
+    Nature = RASH
+    IV = 24,23,27,25,21,22
+#-------------------------------
+[ROCKETBOSS,Giovanni,2]
+LoseText = How is this even possible?!
+Pokemon = KYUREM,58
+    Moves = DRAGONPULSE,BLIZZARD,SLASH,NOBLEROAR
+    AbilityIndex = 0
+    Nature = HARDY
+    IV = 25,25,25,25,25,25
+#-------------------------------
+[CRUSHGIRL,Emily]
+LoseText = What a great training session!
+Pokemon = HITMONCHAN,39
+    Moves = FAKEOUT,DRAINPUNCH,CLOSECOMBAT,ICEPUNCH
+    AbilityIndex = 0
+    Gender = male
+    Nature = MILD
+    IV = 22,24,23,22,24,23
+Pokemon = HITMONLEE,39
+    Moves = BRICKBREAK,BLAZEKICK,CLOSECOMBAT,FAKEOUT
+    AbilityIndex = 0
+    Gender = male
+    Nature = DOCILE
+    IV = 8,15,13,20,20,20
+Pokemon = HITMONTOP,41
+    Moves = TRIPLEKICK,FAKEOUT,CLOSECOMBAT,SUCKERPUNCH
+    AbilityIndex = 0
+    Gender = male
+    Nature = SERIOUS
+    IV = 15,23,26,15,19,21
+#-------------------------------
+[LASS,Hina]
+LoseText = You´re a nerd AND a great Trainer!
+Pokemon = BOMBIRDIER,42
+    Moves = DUALWINGBEAT,THIEF,ROCKTOMB,HONECLAWS
+    AbilityIndex = 0
+    Gender = female
+    Nature = ADAMANT
+    IV = 17,21,10,25,20,10
+#-------------------------------
+[BLACKBELT,Kevin]
+LoseText = **** you!
+Pokemon = WEAVILE,40
+    Moves = ICESHARD,METALCLAW,ICYWIND,AGILITY
+    AbilityIndex = 0
+    Gender = male
+    Nature = QUIRKY
+    IV = 25,22,20,21,23,27
+Pokemon = LUCARIO,42
+    Moves = AURASPHERE,BONERUSH,METALSOUND,FLASHCANNON
+    AbilityIndex = 0
+    Gender = male
+    Nature = RELAXED
+    IV = 21,24,18,26,27,18
+#-------------------------------
+[ELECTRICIAN,Brian]
+LoseText = I got shocked...
+Pokemon = BELLIBOLT,40
+    Moves = DISCHARGE,ELECTRICTERRAIN,WEATHERBALL,MUDSHOT
+    AbilityIndex = 0
+    Gender = male
+    Nature = MODEST
+    IV = 18,27,29,12,11,15
+Pokemon = EMOLGA,42
+    Moves = ENCORE,VOLTSWITCH,ACROBATICS,NUZZLE
+    AbilityIndex = 0
+    Gender = female
+    Nature = QUIET
+    IV = 11,15,13,20,22,20
+#-------------------------------
+[LADY,Katarina]
+LoseText = But we trained so much…
+Pokemon = LYCANROC,41
+    Moves = SUCKERPUNCH,ACCELEROCK,DOUBLETEAM,ROCKSLIDE
+    AbilityIndex = 0
+    Gender = male
+    Nature = TIMID
+    IV = 18,25,23,10,20,10
+Pokemon = ELDEGOSS,41
+    Moves = AROMATHERAPY,HYPERVOICE,RAZORLEAF,COTTONSPORE
+    AbilityIndex = 0
+    Gender = female
+    Nature = LAX
+    IV = 17,22,21,18,26,22
+#-------------------------------
+[GENTLEMAN,Ivan]
+LoseText = Looks like we still have much to learn...
+Pokemon = PAWNIARD,40
+    Moves = NIGHTSLASH,SLASH,FURYCUTTER,TORMENT
+    AbilityIndex = 0
+    Gender = male
+    Nature = ADAMANT
+    IV = 22,25,9,15,13,28
+Pokemon = SEISMITOAD,42
+    Moves = DRAINPUNCH,MUDSHOT,AQUARING,BUBBLEBEAM
+    AbilityIndex = 1
+    Gender = male
+    Nature = TIMID
+    IV = 18,25,23,10,20,10
+#-------------------------------
+[RUINMANIAC,Percy]
+LoseText = I´m getting too old for this...
+Pokemon = TYRANTRUM,41
+    Moves = DRAGONCLAW,ROCKSLIDE,ROAR,BITE
+    AbilityIndex = 0
+    Gender = male
+    Nature = CALM
+    IV = 27,17,7,7,17,27
+Pokemon = OMASTAR,41
+    Moves = ANCIENTPOWER,BRINE,MUDSHOT,CRUNCH
+    AbilityIndex = 0
+    Gender = male
+    Nature = QUIRKY
+    IV = 17,23,19,24,18,21
+#-------------------------------
+[GAMBLER,Bruno]
+LoseText = You hit the Jackpot first!
+Pokemon = UNFEZANT,43
+    Moves = FEATHERDANCE,QUICKATTACK,DETECT,AIRSLASH
+    AbilityIndex = 1
+    Gender = male
+    Nature = CAREFUL
+    IV = 7,7,7,7,7,7
+#-------------------------------
+[AROMALADY,Fleur]
+LoseText = At least I tried...
+Pokemon = WHIMSICOTT,42
+    Moves = ENERGYBALL,ENDEAVOR,FAIRYWIND,HURRICANE
+    AbilityIndex = 0
+    Gender = female
+    Nature = MODEST
+    IV = 22,24,23,21,22,23
+Pokemon = TROPIUS,42
+    Moves = LEAFTORNADO,DRAGONDANCE,AIRSLASH,BODYSLAM
+    AbilityIndex = 0
+    Gender = male
+    Nature = TIMID
+    IV = 24,23,23,24,22,22
+#-------------------------------
+[BUGCATCHER,Cody]
+LoseText = I challenged the wrong trainer...
+Pokemon = PINECO,30
+    Moves = BUGBITE,RAPIDSPIN,ROLLOUT,SPIKES
+    AbilityIndex = 0
+    Gender = male
+    Nature = MILD
+    IV = 20,15,17,20,17,25
+#-------------------------------
+[JUGGLER,Theo]
+LoseText = I can´t perform under pressure...
+Pokemon = JYNX,30
+    Moves = ICEPUNCH,SING,CONFUSION,FAKETEARS
+    AbilityIndex = 0
+    Gender = female
+    Nature = CAREFUL
+    IV = 20,19,24,22,18,16
+Pokemon = XATU,29
+    Moves = AIRSLASH,NIGHTSHADE,PSYCHOSHIFT,CONFUSERAY
+    AbilityIndex = 0
+    Gender = male
+    Nature = DOCILE
+    IV = 12,18,17,16,10,15
+#-------------------------------
+[HIKER,Douglas]
+LoseText = That made me shiver...
+Pokemon = PILOSWINE,41
+    Moves = ICESHARD,FLAIL,ICEFANG,AMNESIA
+    AbilityIndex = 0
+    Gender = male
+    Nature = ADAMANT
+    IV = 25,22,21,21,25,23
+Pokemon = VANILLISH,40
+    Moves = ICICLESPEAR,UPROAR,ACIDARMOR,MIRRORCOAT
+    AbilityIndex = 0
+    Gender = female
+    Nature = MILD
+    IV = 19,29,27,25,23,21
+Pokemon = CETODDLE,41
+    Moves = AMNESIA,AVALANCHE,BOUNCE,BODYSLAM
+    AbilityIndex = 0
+    Gender = male
+    Nature = BRAVE
+    IV = 26,25,24,23,22,21
+Pokemon = BEARTIC,42
+    Moves = ICICLECRASH,BLIZZARD,THRASH,SWAGGER
+    AbilityIndex = 0
+    Gender = male
+    Nature = BOLD
+    IV = 22,22,22,22,22,22
+#-------------------------------
+[ROCKER,Alex]
+LoseText = Do I wanna know why you´re so strong?
+Pokemon = AVALUGG,43
+    Moves = BODYSLAM,BITE,ICEFANG,IRONDEFENSE
+    AbilityIndex = 0
+    Gender = female
+    Nature = SASSY
+    IV = 23,25,5,30,6,29
+Pokemon = AGGRON,45
+    Moves = IRONHEAD,TAKEDOWN,ROCKSLIDE,PROTECT
+    AbilityIndex = 1
+    Gender = male
+    Nature = SERIOUS
+    IV = 15,12,15,18,15,12
+#-------------------------------
+[COOLTRAINER_M,Connor]
+LoseText = Your passion melts any ice!
+Pokemon = SWELLOW,42
+    Moves = AGILITY,AIRSLASH,FLY,QUICKATTACK
+    AbilityIndex = 0
+    Gender = female
+    Nature = NAIVE
+    IV = 19,25,24,23,19,20
+Pokemon = MEDICHAM,41
+    Moves = DETECT,HIGHJUMPKICK,CALMMIND,PSYBEAM
+    AbilityIndex = 1
+    Gender = female
+    Nature = SERIOUS
+    IV = 15,12,15,18,15,12
+Pokemon = ARCTIBAX,43
+    Moves = DRAGONCLAW,BITE,ICEFANG,FOCUSENERGY
+    AbilityIndex = 0
+    Gender = male
+    Nature = QUIRKY
+    IV = 18,19,19,18,28,29
+#-------------------------------
+[POKEMONRANGER_F,Zoe]
+LoseText = Achooooo! I think I caught a cold...
+Pokemon = CHARIZARD,46
+    Moves = AIRSLASH,FLAMETHROWER,DRAGONCLAW,SCARYFACE
+    AbilityIndex = 0
+    Gender = male
+    Nature = DOCILE
+    IV = 24,22,26,27,25,23
+#-------------------------------
+[YOUNGCOUPLE,Tristan & Emma]
+LoseText = You warmed us up, thank you!
+Pokemon = NINETALES,44
+    Moves = FLAMETHROWER,EXTRASENSORY,WILLOWISP,CONFUSERAY
+    AbilityIndex = 0
+    Gender = female
+    Nature = MODEST
+    IV = 23,23,23,25,25,22
+Pokemon = NINETALES,44
+    Form = 1
+    Moves = ICEBEAM,EXTRASENSORY,DAZZLINGGLEAM,ROAR
+    AbilityIndex = 0
+    Gender = female
+    Nature = HARDY
+    IV = 19,29,29,19,19,29
+#-------------------------------
+[CHILLGUY,Alan]
+LoseText = I might have lost, but I´m just a chill guy.
+Pokemon = MAUSHOLD,47
+    Moves = COPYCAT,HYPERVOICE,PLAYROUGH,ENCORE
+    AbilityIndex = 0
+    Nature = RELAXED
+    IV = 25,18,21,17,20,25
+#-------------------------------
+[CHILLGUY,Calvin]
+LoseText = I tried everything, but I´m still just a chill guy.
+Pokemon = TAUROS,46
+    Moves = SWAGGER,TAKEDOWN,ZENHEADBUTT,ASSURANCE
+    AbilityIndex = 0
+    Gender = male
+    Nature = RELAXED
+    IV = 21,17,18,24,26,23
+Pokemon = ZANGOOSE,46
+    Moves = CRUSHCLAW,FACADE,DETECT,XSCISSOR
+    AbilityIndex = 0
+    Gender = male
+    Nature = RELAXED
+    IV = 20,25,18,13,23,28
+#-------------------------------
+[CHILLGUY,Travis]
+LoseText = You´re strong, and I´m just a chill guy.
+Pokemon = STARAPTOR,47
+    Moves = AGILITY,CLOSECOMBAT,AERIALACE,ENDEAVOR
+    AbilityIndex = 0
+    Gender = female
+    Nature = RELAXED
+    IV = 20,22,22,24,26,26
+Pokemon = STANTLER,46
+    Moves = ZENHEADBUTT,LUNGE,STOMP,HYPNOSIS
+    AbilityIndex = 0
+    Gender = male
+    Nature = RELAXED
+    IV = 26,24,24,22,20,20
+#-------------------------------
+[CHILLGUY,Derek]
+LoseText = The result doesn´t matter to me. After all, I´m just a chill guy.
+Pokemon = STOUTLAND,46
+    Moves = TAKEDOWN,CRUNCH,PLAYROUGH,WORKUP
+    AbilityIndex = 0
+    Gender = female
+    Nature = RELAXED
+    IV = 28,18,8,6,16,26
+Pokemon = BEWEAR,48
+    Moves = BIND,HAMMERARM,THRASH,PAYBACK
+    AbilityIndex = 0
+    Gender = male
+    Nature = RELAXED
+    IV = 24,27,23,13,14,15
+Pokemon = HELIOLISK,46
+    Moves = PARABOLICCHARGE,THUNDERWAVE,BULLDOZE,QUICKATTACK
+    AbilityIndex = 0
+    Gender = female
+    Nature = RELAXED
+    IV = 22,12,13,23,24,14
+#-------------------------------
+[LEADER_Wesley,Wesley]
+Items = MEGARING,MAXPOTION,MAXPOTION
+LoseText = Maybe I should´ve tried harder...
+Pokemon = EXPLOUD,49
+    Moves = UPROAR,SUPERSONIC,CRUNCH,GIGAIMPACT
+    AbilityIndex = 0
+    Gender = male
+    Nature = RELAXED
+    IV = 18,26,29,14,15,27
+Pokemon = SNORLAX,47
+    Moves = BODYSLAM,AMNESIA,HIGHHORSEPOWER,HAMMERARM
+    AbilityIndex = 1
+    Gender = male
+    Nature = RELAXED
+    IV = 30,10,1,30,10,1
+Pokemon = SLAKING,49
+    Moves = SLACKOFF,SWAGGER,GIGAIMPACT,ICEPUNCH
+    AbilityIndex = 0
+    Gender = male
+    Nature = RELAXED
+    IV = 26,18,16,18,20,27
+Pokemon = KANGASKHAN,51
+    Moves = SUCKERPUNCH,ENDURE,OUTRAGE,FAKEOUT
+    AbilityIndex = 0
+    Item = KANGASKHANITE
+    Gender = female
+    Nature = RELAXED
+    IV = 18,15,17,21,22,16
+#-------------------------------
+[LEADER_Wesley,Wesley,1]
+Items = MEGARING,FULLRESTORE,FULLRESTORE
+LoseText = And I actually tried this time...
+Pokemon = EXPLOUD,74
+    Moves = BOOMBURST,SUPERSONIC,CRUNCH,GIGAIMPACT
+    AbilityIndex = 0
+    Gender = male
+    Nature = RELAXED
+    IV = 18,26,29,14,15,27
+Pokemon = BRAVIARY,75
+    Moves = AERIALACE,CRUSHCLAW,TAILWIND,HONECLAWS
+    AbilityIndex = 1
+    Gender = male
+    Nature = RELAXED
+    IV = 27,27,27,27,27,27
+Pokemon = SNORLAX,73
+    Moves = BODYSLAM,AMNESIA,HIGHHORSEPOWER,HAMMERARM
+    AbilityIndex = 1
+    Gender = male
+    Nature = RELAXED
+    IV = 30,10,1,30,10,1
+Pokemon = SLAKING,75
+    Moves = SLACKOFF,HAMMERARM,GIGAIMPACT,ICEPUNCH
+    AbilityIndex = 0
+    Gender = male
+    Nature = RELAXED
+    IV = 26,18,16,18,20,27
+Pokemon = HELIOLISK,74
+    Moves = PARABOLICCHARGE,VOLTSWITCH,HYPERVOICE,THUNDERWAVE
+    AbilityIndex = 0
+    Gender = female
+    Nature = RELAXED
+    IV = 27,27,27,27,27,27
+Pokemon = KANGASKHAN,76
+    Moves = SUCKERPUNCH,WORKUP,OUTRAGE,HEADBUTT
+    AbilityIndex = 0
+    Item = KANGASKHANITE
+    Gender = female
+    Nature = RELAXED
+    IV = 18,15,17,21,22,16
+#-------------------------------
+[GENTLEMAN,Archibald]
+LoseText = I hope I was able to impress you.
+Pokemon = ZYGARDE,80
+    Form = 1
+    Moves = THOUSANDWAVES,CRUNCH,DRAGONBREATH,SANDSTORM
+    AbilityIndex = 0
+    Nature = SERIOUS
+    IV = 25,25,25,25,25,25
+Pokemon = ZYGARDE,80
+    Form = 1
+    Moves = THOUSANDARROWS,BITE,DRAGONPULSE,COIL
+    AbilityIndex = 0
+    Nature = SASSY
+    IV = 25,25,25,25,25,25
+Pokemon = ZYGARDE,80
+    Moves = EARTHQUAKE,CRUNCH,COREENFORCER,GLARE
+    AbilityIndex = 1
+    Nature = ADAMANT
+    IV = 25,25,25,25,25,25
+#-------------------------------
+[ELDER,Katsuro]
+LoseText = I have never met anyone as determined as you.
+Pokemon = VICTREEBEL,49
+    Moves = POISONJAB,LEAFTORNADO,KNOCKOFF,STUNSPORE
+    AbilityIndex = 0
+    Gender = female
+    Nature = SERIOUS
+    IV = 22,13,18,31,20,15
+Pokemon = ARCANINE,49
+    Moves = EXTREMESPEED,CRUNCH,FIREFANG,HOWL
+    AbilityIndex = 0
+    Gender = male
+    Nature = SASSY
+    IV = 14,16,31,12,25,25
+Pokemon = LAPRAS,51
+    Moves = ICEBEAM,BRINE,ICESHARD,SING
+    AbilityIndex = 0
+    Gender = female
+    Nature = MILD
+    IV = 31,25,24,22,26,21
+#-------------------------------
+[ELDER,Yamamoto]
+LoseText = You battle with your heart and soul!
+Pokemon = DONPHAN,50
+    Moves = ROCKTOMB,SCARYFACE,EARTHQUAKE,GIGAIMPACT
+    AbilityIndex = 0
+    Gender = male
+    Nature = CAREFUL
+    IV = 28,31,12,8,15,16
+Pokemon = KINGDRA,50
+    Moves = HYDROPUMP,DRAGONPULSE,ICEBEAM,AGILITY
+    AbilityIndex = 0
+    Gender = male
+    Nature = HARDY
+    IV = 16,19,25,22,31,20
+Pokemon = HERACROSS,52
+    Moves = THROATCHOP,PINMISSILE,SWORDSDANCE,AERIALACE
+    AbilityIndex = 1
+    Gender = male
+    Nature = TIMID
+    IV = 12,16,17,19,15,31
+#-------------------------------
+[ELDER,Asahiro]
+LoseText = That was truly magnificent.
+Pokemon = SABLEYE,51
+    Moves = POWERGEM,FAKEOUT,SHADOWBALL,FOULPLAY
+    AbilityIndex = 0
+    Gender = male
+    Nature = MODEST
+    IV = 25,26,18,31,12,16
+Pokemon = MANECTRIC,51
+    Moves = BITE,WILDCHARGE,FIREFANG,ROAR
+    AbilityIndex = 0
+    Gender = male
+    Nature = LAX
+    IV = 31,20,22,26,16,17
+Pokemon = FLYGON,53
+    Moves = DRAGONCLAW,EARTHQUAKE,BUGBUZZ,DRAGONDANCE
+    AbilityIndex = 0
+    Gender = female
+    Nature = ADAMANT
+    IV = 17,18,31,17,16,19
+#-------------------------------
+[ELDER,Kenshin]
+LoseText = You are worthy.
+Pokemon = ABOMASNOW,52
+    Moves = WOODHAMMER,ICEPUNCH,BLIZZARD,INGRAIN
+    AbilityIndex = 0
+    Gender = female
+    Nature = RASH
+    IV = 24,22,21,31,13,18
+Pokemon = GALLADE,52
+    Moves = PSYCHOCUT,SWORDSDANCE,NIGHTSLASH,BRICKBREAK
+    AbilityIndex = 0
+    Gender = male
+    Nature = QUIRKY
+    IV = 15,31,18,17,19,24
+Pokemon = TOGEKISS,54
+    Moves = AIRSLASH,METRONOME,FAIRYWIND,AURASPHERE
+    AbilityIndex = 0
+    Gender = male
+    Nature = JOLLY
+    IV = 16,18,19,21,15,31
+#-------------------------------
+[ELDER,Russel,1]
+LoseText = You have the spirit of a true warrior!
+Pokemon = LUCARIO,85
+    Moves = CLOSECOMBAT,EXTREMESPEED,METEORMASH,BONERUSH
+    AbilityIndex = 0
+    Gender = male
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+Pokemon = EMBOAR,84
+    Moves = HEATCRASH,HEADSMASH,HAMMERARM,BULKUP
+    AbilityIndex = 0
+    Gender = male
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+Pokemon = KOMMOO,85
+    Moves = CLOSECOMBAT,CLANGOROUSSOUL,BOOMBURST,DRAGONCLAW
+    AbilityIndex = 0
+    Gender = male
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+Pokemon = FALINKS,84
+    Moves = NORETREAT,CLOSECOMBAT,MEGAHORN,FIRSTIMPRESSION
+    AbilityIndex = 0
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+Pokemon = URSHIFU,87
+    Form = 1
+    Moves = SURGINGSTRIKES,AQUAJET,BRICKBREAK,AERIALACE
+    AbilityIndex = 0
+    Gender = male
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[ELDER,Russel,2]
+LoseText = You have the spirit of a true warrior!
+Pokemon = LUCARIO,85
+    Moves = CLOSECOMBAT,EXTREMESPEED,METEORMASH,BONERUSH
+    AbilityIndex = 0
+    Gender = male
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+Pokemon = EMBOAR,84
+    Moves = HEATCRASH,HEADSMASH,HAMMERARM,BULKUP
+    AbilityIndex = 0
+    Gender = male
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+Pokemon = KOMMOO,85
+    Moves = CLOSECOMBAT,CLANGOROUSSOUL,BOOMBURST,DRAGONCLAW
+    AbilityIndex = 0
+    Gender = male
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+Pokemon = FALINKS,84
+    Moves = NORETREAT,CLOSECOMBAT,MEGAHORN,FIRSTIMPRESSION
+    AbilityIndex = 0
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+Pokemon = URSHIFU,87
+    Form = 0
+    Moves = WICKEDBLOW,SUCKERPUNCH,BRICKBREAK,AERIALACE
+    AbilityIndex = 0
+    Gender = male
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[LEADER_Galvano,Galvano]
+Items = MEGARING,MAXPOTION,MAXPOTION
+LoseText = That shattered my expectations!
+Pokemon = ESCAVALIER,58
+    Moves = IRONHEAD,SWORDSDANCE,XSCISSOR,GIGAIMPACT
+    AbilityIndex = 0
+    Gender = male
+    Nature = HARDY
+    IV = 27,25,23,25,24,23
+Pokemon = EMPOLEON,57
+    Moves = AQUAJET,FLASHCANNON,DRILLPECK,SWORDSDANCE
+    AbilityIndex = 0
+    Gender = male
+    Nature = MILD
+    IV = 29,30,25,27,29,21
+Pokemon = ARCHALUDON,57
+    Moves = FLASHCANNON,ELECTROSHOT,DRAGONPULSE,METALSOUND
+    AbilityIndex = 1
+    Gender = female
+    Nature = MODEST
+    IV = 26,17,28,29,16,20
+Pokemon = METAGROSS,60
+    Moves = BULLETPUNCH,ZENHEADBUTT,HAMMERARM,EARTHQUAKE
+    AbilityIndex = 0
+    Item = METAGROSSITE
+    Nature = SERIOUS
+    IV = 25,31,29,28,16,25
+#-------------------------------
+[LEADER_Galvano,Galvano,1]
+Items = MEGARING,FULLRESTORE,FULLRESTORE
+LoseText = I take back what I said, you´re even harder to beat than Arthur.
+Pokemon = ESCAVALIER,75
+    Moves = IRONHEAD,SWORDSDANCE,XSCISSOR,GIGAIMPACT
+    AbilityIndex = 0
+    Gender = male
+    Nature = HARDY
+    IV = 27,25,23,25,24,23
+Pokemon = EMPOLEON,74
+    Moves = AQUAJET,FLASHCANNON,DRILLPECK,SWORDSDANCE
+    AbilityIndex = 0
+    Gender = male
+    Nature = MILD
+    IV = 29,30,25,27,29,21
+Pokemon = ARCHALUDON,74
+    Moves = FLASHCANNON,ELECTROSHOT,DRAGONPULSE,METALSOUND
+    AbilityIndex = 1
+    Gender = female
+    Nature = MODEST
+    IV = 26,17,28,29,16,20
+Pokemon = LUCARIO,75
+    Moves = AURASPHERE,BULKUP,METEORMASH,EXTREMESPEED
+    AbilityIndex = 0
+    Gender = male
+    Nature = ADAMANT
+    IV = 28,28,28,28,28,28
+Pokemon = SKARMORY,73
+    Moves = BRAVEBIRD,IRONDEFENSE,STEELWING,ROCKTOMB
+    AbilityIndex = 1
+    Gender = female
+    Nature = CAREFUL
+    IV = 28,28,28,28,28,28
+Pokemon = METAGROSS,76
+    Moves = BULLETPUNCH,ZENHEADBUTT,HAMMERARM,EARTHQUAKE
+    AbilityIndex = 0
+    Item = METAGROSSITE
+    Nature = SERIOUS
+    IV = 25,31,29,28,16,25
+
+#-------------------------------
+[ENGINEER,Oliver]
+LoseText = Yup, you´re build for this.
+Pokemon = ELECTABUZZ,50
+    Moves = LOWKICK,THUNDERWAVE,THUNDERBOLT,SWIFT
+    AbilityIndex = 0
+    Gender = male
+    Nature = LAX
+    IV = 21,18,17,24,22,26
+Pokemon = SANDSLASH,50
+    Form = 1
+    Moves = ICICLESPEAR,METALCLAW,SLASH,DEFENSECURL
+    AbilityIndex = 0
+    Gender = female
+    Nature = ADAMANT
+    IV = 20,24,23,29,23,18
+#-------------------------------
+[LADY,Isabelle]
+LoseText = Thanks for showing me.
+Pokemon = VIKAVOLT,52
+    Moves = FLY,THUNDERBOLT,BUGBUZZ,CHARGE
+    AbilityIndex = 0
+    Gender = male
+    Nature = DOCILE
+    IV = 25,25,25,27,25,23
+#-------------------------------
+[SAILOR,Clyde]
+LoseText = You´re in a different league...
+Pokemon = LANTURN,52
+    Moves = CHARGE,DISCHARGE,AQUARING,BUBBLEBEAM
+    AbilityIndex = 0
+    Gender = female
+    Nature = JOLLY
+    IV = 23,20,24,27,18,20
+Pokemon = WUGTRIO,50
+    Moves = AQUAJET,THROATCHOP,SUCKERPUNCH,DIG
+    AbilityIndex = 0
+    Gender = male
+    Nature = SASSY
+    IV = 17,18,24,19,23,22
+#-------------------------------
+[COOLTRAINER_F,Daisy]
+LoseText = Arceus in heaven, you´re way too good...
+Pokemon = SYLVEON,51
+    Moves = LIGHTSCREEN,REFLECT,MOONBLAST,MYSTICALFIRE
+    AbilityIndex = 0
+    Gender = female
+    Nature = CAREFUL
+    IV = 17,26,19,25,23,18
+Pokemon = MIGHTYENA,52
+    Moves = BITE,SUCKERPUNCH,YAWN,THUNDERFANG
+    AbilityIndex = 0
+    Gender = male
+    Nature = BRAVE
+    IV = 16,27,24,24,24,24
+Pokemon = FROSLASS,51
+    Moves = HEX,FROSTBREATH,WILLOWISP,DRAININGKISS
+    AbilityIndex = 0
+    Gender = female
+    Nature = NAIVE
+    IV = 19,24,22,25,18,21
+Pokemon = GOODRA,53
+    Moves = AQUATAIL,DRAGONPULSE,PROTECT,POISONTAIL
+    AbilityIndex = 0
+    Gender = female
+    Nature = CALM
+    IV = 28,22,26,18,23,21
+#-------------------------------
+[BIKER,Cisco]
+LoseText = You´re dangerous!
+Pokemon = REVAVROOM,54
+    Moves = SHIFTGEAR,POISONJAB,SPINOUT,MAGNETRISE
+    AbilityIndex = 0
+    Gender = male
+    Nature = SERIOUS
+    IV = 18,20,22,17,25,21
+#-------------------------------
+[BLACKBELT,Shiryu]
+LoseText = That was too tough...
+Pokemon = COPPERAJAH,51
+    Moves = HEAVYSLAM,PLAYROUGH,IRONHEAD,IRONDEFENSE
+    AbilityIndex = 0
+    Gender = female
+    Nature = MILD
+    IV = 19,19,19,25,19,13
+Pokemon = MEDICHAM,53
+    Moves = HIGHJUMPKICK,ZENHEADBUTT,THUNDERPUNCH,ACUPRESSURE
+    AbilityIndex = 0
+    Gender = female
+    Nature = BOLD
+    IV = 21,21,25,25,21,21
+Pokemon = CLAYDOL,51
+    Moves = HYPERBEAM,EARTHPOWER,EXTRASENSORY,POWERSPLIT
+    AbilityIndex = 0
+    Nature = QUIRKY
+    IV = 22,23,21,20,25,22
+#-------------------------------
+[POKEMONRANGER_F,Lexi]
+LoseText = Haha, there´s no need to worry about you.
+Pokemon = MEGANIUM,55
+    Moves = PETALDANCE,SWEETSCENT,SYNTHESIS,BODYSLAM
+    AbilityIndex = 0
+    Gender = male
+    Nature = HASTY
+    IV = 22,20,21,15,16,21
+#-------------------------------
+[CHANNELER,Lily]
+LoseText = You´re one with the thunder!
+Pokemon = SHUPPET,54
+    Moves = PHANTOMFORCE,SUCKERPUNCH,WILLOWISP,GRUDGE
+    AbilityIndex = 0
+    Gender = male
+    Nature = HARDY
+    IV = 24,21,20,23,25,22
+Pokemon = TREVENANT,53
+    Moves = SHADOWCLAW,WOODHAMMER,INGRAIN,GROWTH
+    AbilityIndex = 0
+    Gender = male
+    Nature = DOCILE
+    IV = 27,22,22,27,22,22
+#-------------------------------
+[HIKER,Grant]
+LoseText = What a neat battle!
+Pokemon = LYCANROC,54
+    Form = 1
+    Moves = STONEEDGE,CRUNCH,STEALTHROCK,COUNTER
+    AbilityIndex = 0
+    Gender = male
+    Nature = BOLD
+    IV = 25,19,26,22,21,24
+#-------------------------------
+[ALESSIO,Alessio]
+Items = MEGARING,FULLRESTORE
+LoseText = How can this be?! I was meant to become Champion!
+Pokemon = TURTONATOR,58
+    Moves = SHELLTRAP,FLAMETHROWER,DRAGONPULSE,PROTECT
+    AbilityIndex = 0
+    Gender = male
+    Nature = JOLLY
+    IV = 28,26,27,26,29,26
+Pokemon = CORVIKNIGHT,57
+    Moves = STEELWING,DRILLPECK,BRAVEBIRD,SWAGGER
+    AbilityIndex = 0
+    Gender = female
+    Nature = HARDY
+    IV = 26,26,28,26,29,29
+Pokemon = PALAFIN,56
+    Moves = FLIPTURN,JETPUNCH,ACROBATICS,CLOSECOMBAT
+    AbilityIndex = 0
+    Gender = male
+    Nature = SASSY
+    IV = 30,26,28,27,26,31
+Pokemon = PALOSSAND,58
+    Moves = SHADOWBALL,EARTHPOWER,GIGADRAIN,IRONDEFENSE
+    AbilityIndex = 0
+    Gender = male
+    Nature = ADAMANT
+    IV = 26,27,29,26,28,30
+Pokemon = GLACEON,57
+    Moves = BLIZZARD,FREEZEDRY,SWIFT,CHARM
+    AbilityIndex = 0
+    Gender = female
+    Nature = MILD
+    IV = 28,27,29,30,26,27
+Pokemon = VENUSAUR,60
+    Moves = SOLARBEAM,SYNTHESIS,SUNNYDAY,SLUDGEBOMB
+    AbilityIndex = 0
+    Item = VENUSAURITE
+    Gender = male
+    Nature = CALM
+    IV = 29,26,26,31,26,26
+#-------------------------------
+[FREYA,Freya]
+Items = MEGARING,FULLRESTORE
+LoseText = That was the best battle I´ve ever had!
+Pokemon = LUXRAY,60
+    Moves = VOLTSWITCH,BITE,THUNDERFANG,SCARYFACE
+    AbilityIndex = 1
+    Gender = male
+    Nature = TIMID
+    IV = 27,26,31,28,28,29
+Pokemon = LICKILICKY,59
+    Moves = ROLLOUT,BELLYDRUM,POWERWHIP,SLAM
+    AbilityIndex = 0
+    Gender = male
+    Nature = LAX
+    IV = 29,30,30,26,27,26
+Pokemon = MASQUERAIN,59
+    Moves = AIRSLASH,BUGBUZZ,STUNSPORE,WHIRLWIND
+    AbilityIndex = 0
+    Gender = female
+    Nature = HASTY
+    IV = 29,26,26,27,28,29
+Pokemon = KROOKODILE,60
+    Moves = FOULPLAY,EARTHQUAKE,OUTRAGE,HONECLAWS
+    AbilityIndex = 0
+    Gender = male
+    Nature = ADAMANT
+    IV = 30,27,26,29,28,29
+Pokemon = TINKATON,58
+    Moves = GIGATONHAMMER,PLAYROUGH,FAKEOUT,SWEETKISS
+    AbilityIndex = 0
+    Gender = female
+    Nature = SERIOUS
+    IV = 26,29,29,26,30,28
+Pokemon = BLAZIKEN,62
+    Moves = BLAZEKICK,AERIALACE,CLOSECOMBAT,BULKUP
+    AbilityIndex = 0
+    Item = BLAZIKENITE
+    Gender = male
+    Nature = DOCILE
+    IV = 27,31,27,27,27,27
+#-------------------------------
+[BUGCATCHER,Raphael]
+LoseText = You were too tough!
+Pokemon = FORRETRESS,57
+    Moves = BUGBITE,AUTOTOMIZE,HEAVYSLAM,SPIKES
+    AbilityIndex = 0
+    Gender = female
+    Nature = HARDY
+    IV = 24,28,20,20,19,21
+Pokemon = DURANT,56
+    Moves = IRONHEAD,IRONDEFENSE,CRUNCH,XSCISSOR
+    AbilityIndex = 0
+    Gender = male
+    Nature = CAREFUL
+    IV = 23,18,23,25,22,22
+#-------------------------------
+[ROCKER,Jimmy]
+LoseText = That rocked!
+Pokemon = KLINKLANG,56
+    Moves = GEARUP,LOCKON,ZAPCANNON,HYPERBEAM
+    AbilityIndex = 2
+    Nature = QUIRKY
+    IV = 22,20,20,20,20,22
+Pokemon = PROBOPASS,55
+    Moves = TRIATTACK,FLASHCANNON,POWERGEM,THUNDERWAVE
+    AbilityIndex = 0
+    Gender = male
+    Nature = CALM
+    IV = 20,22,22,22,22,20
+Pokemon = DURALUDON,56
+    Moves = FLASHCANNON,DRAGONTAIL,METALSOUND,BREAKINGSWIPE
+    AbilityIndex = 0
+    Gender = male
+    Nature = RELAXED
+    IV = 22,20,22,20,22,20
+#-------------------------------
+[POKEMANIAC,Mateo]
+LoseText = Theory isn´t everything...
+Pokemon = DOUBLADE,58
+    Moves = SWORDSDANCE,IRONHEAD,SACREDSWORD,SHADOWSNEAK
+    AbilityIndex = 0
+    Nature = DOCILE
+    IV = 20,27,22,20,16,20
+#-------------------------------
+[CRUSHGIRL,Camila]
+LoseText = You´re super strong!
+Pokemon = BISHARP,58
+    Moves = IRONDEFENSE,IRONHEAD,NIGHTSLASH,AERIALACE
+    AbilityIndex = 0
+    Nature = SERIOUS
+    IV = 25,23,27,24,24,24
+#-------------------------------
+[PAINTER,Leonora]
+LoseText = Yes, that´s exactly what I needed!
+Pokemon = SMEARGLE,56
+    Moves = SKETCH
+    AbilityIndex = 1
+    Gender = male
+    Nature = MILD
+    IV = 19,19,19,19,19,19
+Pokemon = SMEARGLE,56
+    Moves = SKETCH
+    AbilityIndex = 1
+    Gender = female
+    Nature = DOCILE
+    IV = 19,19,19,19,19,19
+Pokemon = SMEARGLE,56
+    Moves = SKETCH
+    AbilityIndex = 1
+    Gender = male
+    Nature = QUIRKY
+    IV = 19,19,19,19,19,19
+#-------------------------------
+[PSYCHIC_M,Joseph]
+LoseText = I guess I should hit the gym...
+Pokemon = MALAMAR,56
+    Moves = PSYCHOCUT,NIGHTSLASH,TOPSYTURVY,PLUCK
+    AbilityIndex = 0
+    Gender = male
+    Nature = SERIOUS
+    IV = 12,21,21,12,12,21
+Pokemon = ESPATHRA,57
+    Moves = LUMINACRASH,DAZZLINGGLEAM,AGILITY,UPROAR
+    AbilityIndex = 0
+    Gender = female
+    Nature = ADAMANT
+    IV = 23,13,18,17,20,20
+#-------------------------------
+[GAMBLER,Dante]
+LoseText = I´ll have to sell my kidney then...
+Pokemon = PYROAR,57
+    Moves = FLAMETHROWER,CRUNCH,HYPERVOICE,NOBLEROAR
+    AbilityIndex = 0
+    Gender = male
+    Nature = TIMID
+    IV = 21,25,16,18,20,19
+Pokemon = TOUCANNON,56
+    Moves = BEAKBLAST,BULLETSEED,DRILLPECK,ROOST
+    AbilityIndex = 0
+    Gender = male
+    Nature = HASTY
+    IV = 20,18,18,20,22,22
+#-------------------------------
+[ROCKER,Billie Joe]
+LoseText = I´m a basket case...
+Pokemon = TOXTRICITY,41
+    Moves = VENOSHOCK,DISCHARGE,CHARGE,TOXIC
+    AbilityIndex = 0
+    Gender = male
+    Nature = LAX
+    IV = 16,14,15,18,15,18
+Pokemon = TOXTRICITY,41
+    Form = 1
+    Moves = POISONJAB,SPARK,NUZZLE,TAUNT
+    AbilityIndex = 0
+    Gender = male
+    Nature = RELAXED
+    IV = 18,17,20,20,17,18
+#-------------------------------
+[HIKER,Stavros]
+LoseText = I´m not ready yet...
+Pokemon = GOLEM,61
+    Form = 1
+    Moves = STONEEDGE,HEAVYSLAM,DISCHARGE,STEALTHROCK
+    AbilityIndex = 1
+    Gender = male
+    Nature = ADAMANT
+    IV = 22,21,25,23,24,25
+Pokemon = WEEZING,59
+    Form = 1
+    Moves = FAIRYWIND,SLUDGEBOMB,AROMATHERAPY,CLEARSMOG
+    AbilityIndex = 0
+    Gender = male
+    Nature = RELAXED
+    IV = 23,24,25,26,25,26
+Pokemon = TAUROS,61
+    Form = 2
+    Moves = RAGINGBULL,FLAREBLITZ,SWAGGER,CLOSECOMBAT
+    AbilityIndex = 0
+    Gender = male
+    Nature = HARDY
+    IV = 22,24,23,22,21,21
+#-------------------------------
+[LADY,Astrid]
+LoseText = I need even more training.
+Pokemon = NOIVERN,62
+    Moves = TAILWIND,AIRSLASH,BOOMBURST,DRAGONPULSE
+    AbilityIndex = 0
+    Gender = female
+    Nature = TIMID
+    IV = 24,22,20,26,23,23
+Pokemon = HATTERENE,60
+    Moves = PSYCHIC,CALMMIND,DAZZLINGGLEAM,HEALPULSE
+    AbilityIndex = 0
+    Gender = female
+    Nature = JOLLY
+    IV = 22,23,23,26,24,21
+Pokemon = EXCADRILL,62
+    Moves = SWORDSDANCE,DRILLRUN,FISSURE,METALCLAW
+    AbilityIndex = 0
+    Gender = male
+    Nature = DOCILE
+    IV = 23,27,22,25,22,21
+#-------------------------------
+[SCIENTIST,Nikolai]
+LoseText = What an interesting result...
+Pokemon = PORYGON2,63
+    Moves = LOCKON,ZAPCANNON,TRIATTACK,CONVERSION2
+    AbilityIndex = 1
+    Nature = SERIOUS
+    IV = 16,16,16,16,16,16
+#-------------------------------
+[SCIENTIST,Anthony]
+Items = ZPOWERRING
+LoseText = Just like the simulations.
+Pokemon = PORYGONZ,75
+    Moves = THUNDERBOLT,TRICKROOM,TRIATTACK,CONVERSION2
+    AbilityIndex = 1
+    Nature = IMPISH
+    IV = 31,16,31,16,31,16
+Pokemon = METAGROSS,74
+    Moves = HAMMERARM,BULLETPUNCH,AGILITY,ZENHEADBUTT
+    AbilityIndex = 0
+    Nature = ADAMANT
+    IV = 25,25,25,25,25,25
+Pokemon = ROTOM,76
+    Moves = DISCHARGE,SHADOWBALL,DOUBLETEAM,THUNDERWAVE
+    AbilityIndex = 0
+    Item = GHOSTIUMZ
+    Nature = JOLLY
+    IV = 22,23,24,25,26,27
+#-------------------------------
+[ANTHONY,Anthony]
+LoseText = Argh, a miscalculation!
+Pokemon = GENESECT,85
+    Moves = TECHNOBLAST,BUGBUZZ,FLASHCANNON,METALSOUND
+    AbilityIndex = 0
+    Item = DOUSEDRIVE
+    Nature = MODEST
+    IV = 30,30,30,30,30,30
+#-------------------------------
+[ANTHONY,Anthony,1]
+Items = ZPOWERRING
+LoseText = Another setback...
+Pokemon = RESHIRAM,85
+    Moves = FUSIONFLARE,DRAGONPULSE,EXTRASENSORY,HYPERVOICE
+    AbilityIndex = 0
+    Item = FIRIUMZ
+    Nature = TIMID
+    IV = 30,30,30,30,30,30
+#-------------------------------
+[ANTHONY,Anthony,2]
+Items = ZPOWERRING
+LoseText = This can´t be happening...
+Pokemon = ZEKROM,85
+    Moves = FUSIONBOLT,DRAGONCLAW,ZENHEADBUTT,OUTRAGE
+    AbilityIndex = 0
+    Item = ELECTRIUMZ
+    Nature = RASH
+    IV = 30,30,30,30,30,30
+Pokemon = RESHIRAM,85
+    Moves = FUSIONFLARE,DRAGONPULSE,EXTRASENSORY,HYPERVOICE
+    AbilityIndex = 0
+    Item = FIRIUMZ
+    Nature = TIMID
+    IV = 30,30,30,30,30,30
+Pokemon = PORYGONZ,82
+    Moves = THUNDERBOLT,TRICKROOM,TRIATTACK,CONVERSION2
+    AbilityIndex = 1
+    Nature = IMPISH
+    IV = 31,16,31,16,31,16
+Pokemon = METAGROSS,81
+    Moves = HAMMERARM,BULLETPUNCH,AGILITY,ZENHEADBUTT
+    AbilityIndex = 0
+    Nature = ADAMANT
+    IV = 25,25,25,25,25,25
+Pokemon = ROTOM,84
+    Moves = DISCHARGE,SHADOWBALL,DOUBLETEAM,THUNDERWAVE
+    AbilityIndex = 0
+    Item = GHOSTIUMZ
+    Nature = JOLLY
+    IV = 22,23,24,25,26,27
+Pokemon = GENESECT,85
+    Moves = TECHNOBLAST,BUGBUZZ,FLASHCANNON,METALSOUND
+    AbilityIndex = 0
+    Item = DOUSEDRIVE
+    Nature = MODEST
+    IV = 30,30,30,30,30,30
+#-------------------------------
+[TAMER,Magnus]
+LoseText = Why do your Pokémon obey so much better than mine?!
+Pokemon = MIGHTYENA,62
+    Moves = SUCKERPUNCH,PLAYROUGH,SNARL,FIREFANG
+    AbilityIndex = 0
+    Gender = male
+    Nature = BOLD
+    IV = 22,22,25,25,22,22
+Pokemon = SALAZZLE,63
+    Moves = FIRELASH,VENOSHOCK,DRAGONPULSE,VENOMDRENCH
+    AbilityIndex = 0
+    Gender = female
+    Nature = MODEST
+    IV = 23,23,21,21,23,23
+#-------------------------------
+[COOLCOUPLE,Rose & Bruno]
+LoseText = I guess we were in your way...
+Pokemon = CENTISKORCH,62
+    Moves = FIRELASH,LUNGE,CRUNCH,COIL
+    AbilityIndex = 2
+    Gender = male
+    Nature = HASTY
+    IV = 23,23,25,26,22,21
+Pokemon = TOXAPEX,63
+    Moves = BANEFULBUNKER,POISONJAB,LIQUIDATION,WIDEGUARD
+    AbilityIndex = 0
+    Gender = female
+    Nature = ADAMANT
+    IV = 27,22,25,22,27,22
+Pokemon = CLAYDOL,64
+    Moves = EARTHPOWER,EXTRASENSORY,ANCIENTPOWER,COSMICPOWER
+    AbilityIndex = 0
+    Nature = RELAXED
+    IV = 21,26,26,21,26,26
+Pokemon = CRABOMINABLE,63
+    Moves = ICEHAMMER,CLOSECOMBAT,POWERUPPUNCH,IRONDEFENSE
+    AbilityIndex = 0
+    Gender = male
+    Nature = LAX
+    IV = 25,24,23,22,22,23
+#-------------------------------
+[BEAUTY,Aiko]
+LoseText = I still have a long way to go...
+Pokemon = ALTARIA,63
+    Moves = DRAGONPULSE,MOONBLAST,SKYATTACK,SING
+    AbilityIndex = 0
+    Gender = female
+    Nature = QUIRKY
+    IV = 20,20,25,25,20,20
+Pokemon = GOURGEIST,62
+    Form = 3
+    Moves = PHANTOMFORCE,TRICKORTREAT,SEEDBOMB,SCARYFACE
+    AbilityIndex = 0
+    Gender = male
+    Nature = NAUGHTY
+    IV = 22,22,22,25,23,21
+Pokemon = ARMAROUGE,64
+    Moves = PSYSHOCK,ARMORCANNON,CALMMIND,WILLOWISP
+    AbilityIndex = 0
+    Gender = male
+    Nature = JOLLY
+    IV = 24,22,21,26,25,24
+#-------------------------------
+[CUEBALL,Vidar]
+Items = MEGARING
+LoseText = You broke through the wall!
+Pokemon = AGGRON,68
+    Name = THE WALL
+    Moves = SUBSTITUTE,REST,SLEEPTALK,DRAGONTAIL
+    AbilityIndex = 0
+    Item = AGGRONITE
+    Gender = male
+    Nature = RELAXED
+    IV = 31,16,31,16,16,31
+#-------------------------------
+[BUGCATCHER,Emilio]
+LoseText = Oh, I guess you enlightened me.
+Pokemon = VIKAVOLT,64
+    Moves = THUNDERBOLT,BUGBUZZ,CHARGE,FLY
+    AbilityIndex = 0
+    Gender = male
+    Nature = QUIET
+    IV = 24,23,27,22,25,22
+Pokemon = SCYTHER,64
+    Moves = SWORDSDANCE,AGILITY,XSCISSOR,AIRSLASH
+    AbilityIndex = 0
+    Gender = male
+    Nature = IMPISH
+    IV = 26,25,27,24,23,26
+Pokemon = FLYGON,64
+    Moves = SANDSTORM,DRAGONCLAW,EARTHQUAKE,BUGBUZZ
+    AbilityIndex = 0
+    Gender = female
+    Nature = NAIVE
+    IV = 26,25,24,24,25,26
+#-------------------------------
+[ROCKER,Fred]
+LoseText = Damn, I wanna break stuff now!
+Pokemon = GARBODOR,63
+    Moves = STOCKPILE,SWALLOW,METALCLAW,SLUDGEBOMB
+    AbilityIndex = 0
+    Gender = male
+    Nature = GENTLE
+    IV = 25,22,22,25,27,22
+Pokemon = DONPHAN,65
+    Moves = EARTHQUAKE,ROLLOUT,GIGAIMPACT,DEFENSECURL
+    AbilityIndex = 0
+    Gender = female
+    Nature = JOLLY
+    IV = 22,28,28,28,20,20
+#-------------------------------
+[PSYCHIC_F,Runa]
+LoseText = Well done!
+Pokemon = REUNICLUS,64
+    Moves = LIGHTSCREEN,REFLECT,PSYCHIC,HAMMERARM
+    AbilityIndex = 0
+    Gender = female
+    Nature = DOCILE
+    IV = 22,24,22,20,26,26
+Pokemon = RAPIDASH,65
+    Form = 1
+    Moves = PSYCHOCUT,DAZZLINGGLEAM,STOMP,AGILITY
+    AbilityIndex = 0
+    Gender = female
+    Nature = BRAVE
+    IV = 23,23,21,22,23,24
+Pokemon = STARMIE,64
+    Moves = PSYCHIC,SURF,MINIMIZE,POWERGEM
+    AbilityIndex = 0
+    Nature = LAX
+    IV = 24,23,22,25,21,24
+#-------------------------------
+[COOLTRAINER_F,Oksana]
+LoseText = You´re ready for the League, that´s for sure.
+Pokemon = HAXORUS,65
+    Moves = DRAGONCLAW,DRAGONDANCE,OUTRAGE,GIGAIMPACT
+    AbilityIndex = 1
+    Gender = male
+    Nature = BOLD
+    IV = 25,24,25,24,25,24
+Pokemon = GALLADE,64
+    Moves = PSYCHOCUT,NIGHTSLASH,SWORDSDANCE,BRICKBREAK
+    AbilityIndex = 0
+    Gender = male
+    Nature = ADAMANT
+    IV = 25,22,24,22,22,24
+Pokemon = SKARMORY,64
+    Moves = STEELWING,DRILLPECK,BRAVEBIRD,IRONDEFENSE
+    AbilityIndex = 1
+    Gender = female
+    Nature = CAREFUL
+    IV = 29,26,31,19,18,31
+Pokemon = TORTERRA,66
+    Moves = EARTHQUAKE,SYNTHESIS,CRUNCH,WOODHAMMER
+    AbilityIndex = 0
+    Gender = female
+    Nature = QUIRKY
+    IV = 28,24,24,22,25,25
+#-------------------------------
+[CHANNELER,Karin]
+LoseText = You´re worthy.
+Pokemon = DUSKNOIR,64
+    Moves = SHADOWPUNCH,WILLOWISP,HEX,THUNDERPUNCH
+    AbilityIndex = 0
+    Gender = male
+    Nature = IMPISH
+    IV = 22,20,15,18,19,27
+Pokemon = DRAGAPULT,66
+    Moves = DRAGONDANCE,DRAGONDARTS,PHANTOMFORCE,TAKEDOWN
+    AbilityIndex = 0
+    Gender = female
+    Nature = SASSY
+    IV = 22,21,21,22,23,23
+#-------------------------------
+[SUPERNERD,Felipe]
+LoseText = There has been a miscalculation.
+Pokemon = FROSMOTH,65
+    Moves = AURORABEAM,QUIVERDANCE,BUGBUZZ,TAILWIND
+    AbilityIndex = 0
+    Gender = female
+    Nature = JOLLY
+    IV = 24,20,20,19,24,26
+Pokemon = BRONZONG,65
+    Moves = EXTRASENSORY,HEAVYSLAM,HYPNOSIS,IRONDEFENSE
+    AbilityIndex = 0
+    Nature = HARDY
+    IV = 16,18,20,22,22,18
+#-------------------------------
+[GENTLEMAN,Perceval]
+LoseText = Am I too old for this?
+Pokemon = ZWEILOUS,63
+    Moves = NASTYPLOT,DRAGONPULSE,HYPERVOICE,CRUNCH
+    AbilityIndex = 0
+    Gender = male
+    Nature = RASH
+    IV = 23,22,22,21,24,22
+Pokemon = LURANTIS,65
+    Moves = SUNNYDAY,SOLARBLADE,XSCISSOR,LEAFBLADE
+    AbilityIndex = 0
+    Gender = female
+    Nature = QUIRKY
+    IV = 21,19,20,23,20,21
+Pokemon = CERULEDGE,66
+    Moves = SOLARBLADE,PSYCHOCUT,SHADOWCLAW,BITTERBLADE
+    AbilityIndex = 0
+    Gender = male
+    Nature = TIMID
+    IV = 22,23,22,20,18,18
+#-------------------------------
+[SAILOR,Jules]
+LoseText = I´m still not used to this.
+Pokemon = WALREIN,64
+    Moves = BLIZZARD,BRINE,REST,SNORE
+    AbilityIndex = 0
+    Gender = male
+    Nature = RELAXED
+    IV = 22,21,24,24,22,22
+Pokemon = KILOWATTREL,65
+    Moves = VOLTSWITCH,DISCHARGE,DUALWINGBEAT,ROOST
+    AbilityIndex = 1
+    Gender = female
+    Nature = BRAVE
+    IV = 21,22,24,22,20,21
+Pokemon = DRAGONITE,65
+    Moves = DRAGONDANCE,EXTREMESPEED,DRAGONTAIL,FIREPUNCH
+    AbilityIndex = 0
+    Gender = male
+    Nature = GENTLE
+    IV = 20,25,26,25,22,22
+#-------------------------------
+[COOLTRAINER_M,Theodor]
+LoseText = Wow, that was epic!
+Pokemon = ARMALDO,65
+    Moves = XSCISSOR,ROCKBLAST,ANCIENTPOWER,PROTECT
+    AbilityIndex = 0
+    Gender = female
+    Nature = CALM
+    IV = 24,22,20,22,24,22
+Pokemon = CRAWDAUNT,64
+    Moves = CRUNCH,SURF,SWORDSDANCE,WATERFALL
+    AbilityIndex = 0
+    Gender = male
+    Nature = BOLD
+    IV = 20,26,24,25,26,22
+Pokemon = SIRFETCHD,66
+    Moves = FIRSTIMPRESSION,LEAFBLADE,BRICKBREAK,SWORDSDANCE
+    AbilityIndex = 0
+    Gender = male
+    Nature = ADAMANT
+    IV = 21,22,20,20,23,23
+Pokemon = NINETALES,65
+    Form = 1
+    Moves = DAZZLINGGLEAM,ICEBEAM,EXTRASENSORY,GRUDGE
+    AbilityIndex = 0
+    Gender = female
+    Nature = SERIOUS
+    IV = 26,28,25,22,28,22
+Pokemon = SALAMENCE,67
+    Moves = FLY,FLAMETHROWER,OUTRAGE,HEADBUTT
+    AbilityIndex = 0
+    Gender = male
+    Nature = HASTY
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[ELITEFOUR_Cassian,Cassian]
+Items = MEGARING,FULLRESTORE,FULLRESTORE
+LoseText = You found the antidote!
+Pokemon = MUK,67
+    Moves = MINIMIZE,BELCH,POISONJAB,DARKPULSE
+    AbilityIndex = 0
+    Gender = male
+    Nature = BRAVE
+    IV = 31,31,31,31,31,31
+Pokemon = DRAGALGE,66
+    Moves = DRAGONPULSE,THUNDERBOLT,HYDROPUMP,SLUDGEBOMB
+    AbilityIndex = 0
+    Gender = female
+    Nature = CAREFUL
+    IV = 31,31,31,31,31,31
+    Shiny = true
+Pokemon = DRAPION,68
+    Moves = CRUNCH,XSCISSOR,CROSSPOISON,ACUPRESSURE
+    AbilityIndex = 0
+    Gender = male
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+Pokemon = CROBAT,67
+    Moves = CROSSPOISON,AIRSLASH,BITE,MEANLOOK
+    AbilityIndex = 0
+    Gender = female
+    Nature = HARDY
+    IV = 31,31,31,31,31,31
+Pokemon = BEEDRILL,70
+    Moves = POISONJAB,FELLSTINGER,SWORDSDANCE,THROATCHOP
+    AbilityIndex = 0
+    Item = BEEDRILLITE
+    Gender = female
+    Nature = HASTY
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[ELITEFOUR_Cassian,Cassian,1]
+Items = MEGARING,FULLRESTORE,FULLRESTORE
+LoseText = I´m still not strong enough...
+Pokemon = GLIMMORA,81
+    Moves = SLUDGEWAVE,POWERGEM,STEALTHROCK,SPIKYSHIELD
+    AbilityIndex = 0
+    Item = MIRRORHERB
+    Gender = female
+    Nature = LONELY
+    IV = 31,31,31,31,31,31
+Pokemon = MUK,81
+    Moves = MINIMIZE,BELCH,POISONJAB,DARKPULSE
+    AbilityIndex = 0
+    Item = POISONBARB
+    Gender = male
+    Nature = BRAVE
+    IV = 31,31,31,31,31,31
+Pokemon = DRAGALGE,82
+    Moves = DRAGONPULSE,THUNDERBOLT,HYDROPUMP,SLUDGEBOMB
+    AbilityIndex = 0
+    Gender = female
+    Nature = CAREFUL
+    IV = 31,31,31,31,31,31
+    Shiny = true
+Pokemon = DRAPION,81
+    Moves = CRUNCH,XSCISSOR,CROSSPOISON,ACUPRESSURE
+    AbilityIndex = 0
+    Gender = male
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+Pokemon = CROBAT,80
+    Moves = CROSSPOISON,AIRSLASH,BITE,MEANLOOK
+    AbilityIndex = 0
+    Gender = female
+    Nature = HARDY
+    IV = 31,31,31,31,31,31
+Pokemon = BEEDRILL,83
+    Moves = POISONJAB,FELLSTINGER,SWORDSDANCE,THROATCHOP
+    AbilityIndex = 0
+    Item = BEEDRILLITE
+    Gender = female
+    Nature = HASTY
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[ELITEFOUR_Cassian,Cassian,2]
+Items = MEGARING,FULLRESTORE,FULLRESTORE
+LoseText = Will I ever be strong enough?!
+Pokemon = GLIMMORA,86
+    Moves = SLUDGEWAVE,POWERGEM,STEALTHROCK,SPIKYSHIELD
+    AbilityIndex = 0
+    Item = MIRRORHERB
+    Gender = female
+    Nature = LONELY
+    IV = 31,31,31,31,31,31
+Pokemon = MUK,86
+    Moves = MINIMIZE,BELCH,POISONJAB,DARKPULSE
+    AbilityIndex = 0
+    Item = POISONBARB
+    Gender = male
+    Nature = BRAVE
+    IV = 31,31,31,31,31,31
+Pokemon = DRAGALGE,87
+    Moves = DRAGONPULSE,THUNDERBOLT,HYDROPUMP,SLUDGEBOMB
+    AbilityIndex = 0
+    Gender = female
+    Nature = CAREFUL
+    IV = 31,31,31,31,31,31
+    Shiny = true
+Pokemon = DRAPION,86
+    Moves = CRUNCH,XSCISSOR,CROSSPOISON,ACUPRESSURE
+    AbilityIndex = 0
+    Gender = male
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+Pokemon = CROBAT,85
+    Moves = CROSSPOISON,AIRSLASH,BITE,MEANLOOK
+    AbilityIndex = 0
+    Gender = female
+    Nature = HARDY
+    IV = 31,31,31,31,31,31
+Pokemon = BEEDRILL,88
+    Moves = POISONJAB,FELLSTINGER,SWORDSDANCE,THROATCHOP
+    AbilityIndex = 0
+    Item = BEEDRILLITE
+    Gender = female
+    Nature = HASTY
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[ELITEFOUR_Ardenia,Ardenia]
+Items = MEGARING,FULLRESTORE,FULLRESTORE
+LoseText = That made me look old...
+Pokemon = TYRANTRUM,68
+    Moves = HEADSMASH,GIGAIMPACT,DRAGONCLAW,EARTHQUAKE
+    AbilityIndex = 1
+    Gender = male
+    Nature = BOLD
+    IV = 31,31,31,31,31,31
+    Shiny = true
+Pokemon = RAMPARDOS,67
+    Moves = HEADSMASH,ZENHEADBUTT,ASSURANCE,ROCKPOLISH
+    AbilityIndex = 0
+    Gender = male
+    Nature = IMPISH
+    IV = 31,31,31,31,31,31
+Pokemon = KABUTOPS,70
+    Moves = STONEEDGE,LEECHLIFE,AQUAJET,HARDEN
+    AbilityIndex = 0
+    Gender = male
+    Nature = LAX
+    IV = 31,31,31,31,31,31
+Pokemon = CRADILY,67
+    Moves = ENERGYBALL,BRINE,ANCIENTPOWER,INGRAIN
+    AbilityIndex = 0
+    Gender = female
+    Nature = MODEST
+    IV = 31,31,31,31,31,31
+Pokemon = AERODACTYL,71
+    Moves = STONEEDGE,AERIALACE,THUNDERFANG,EARTHQUAKE
+    AbilityIndex = 0
+    Item = AERODACTYLITE
+    Gender = male
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[ELITEFOUR_Ardenia,Ardenia,1]
+Items = MEGARING,FULLRESTORE,FULLRESTORE
+LoseText = Oh, I thought I could surprise you...
+Pokemon = TYRANTRUM,82
+    Moves = HEADSMASH,GIGAIMPACT,DRAGONCLAW,EARTHQUAKE
+    AbilityIndex = 1
+    Item = HARDSTONE
+    Gender = male
+    Nature = BOLD
+    IV = 31,31,31,31,31,31
+    Shiny = true
+Pokemon = RAMPARDOS,83
+    Moves = HEADSMASH,ZENHEADBUTT,ASSURANCE,ROCKPOLISH
+    AbilityIndex = 0
+    Item = PROTECTIVEPADS
+    Gender = male
+    Nature = IMPISH
+    IV = 31,31,31,31,31,31
+Pokemon = ARCTOZOLT,82
+    Moves = BOLTBEAK,ICICLECRASH,FREEZEDRY,ANCIENTPOWER
+    AbilityIndex = 1
+    Nature = RASH
+    IV = 31,31,31,31,31,31
+Pokemon = KABUTOPS,82
+    Moves = STONEEDGE,LEECHLIFE,AQUAJET,HARDEN
+    AbilityIndex = 0
+    Gender = male
+    Nature = LAX
+    IV = 31,31,31,31,31,31
+Pokemon = CRADILY,81
+    Moves = ENERGYBALL,BRINE,ANCIENTPOWER,INGRAIN
+    AbilityIndex = 0
+    Gender = female
+    Nature = MODEST
+    IV = 31,31,31,31,31,31
+Pokemon = AERODACTYL,84
+    Moves = STONEEDGE,AERIALACE,THUNDERFANG,EARTHQUAKE
+    AbilityIndex = 0
+    Item = AERODACTYLITE
+    Gender = male
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[ELITEFOUR_Ardenia,Ardenia,2]
+Items = MEGARING,FULLRESTORE,FULLRESTORE
+LoseText = You´re truly incredible!
+Pokemon = TYRANTRUM,87
+    Moves = HEADSMASH,GIGAIMPACT,DRAGONCLAW,EARTHQUAKE
+    AbilityIndex = 1
+    Item = HARDSTONE
+    Gender = male
+    Nature = BOLD
+    IV = 31,31,31,31,31,31
+    Shiny = true
+Pokemon = RAMPARDOS,88
+    Moves = HEADSMASH,ZENHEADBUTT,ASSURANCE,ROCKPOLISH
+    AbilityIndex = 0
+    Item = PROTECTIVEPADS
+    Gender = male
+    Nature = IMPISH
+    IV = 31,31,31,31,31,31
+Pokemon = DRACOVISH,87
+    Moves = FISHIOUSREND,CRUNCH,DRAGONRUSH,IRONHEAD
+    AbilityIndex = 1
+    Nature = SASSY
+    IV = 31,31,31,31,31,31
+Pokemon = KABUTOPS,87
+    Moves = STONEEDGE,LEECHLIFE,AQUAJET,HARDEN
+    AbilityIndex = 0
+    Gender = male
+    Nature = LAX
+    IV = 31,31,31,31,31,31
+Pokemon = CRADILY,86
+    Moves = ENERGYBALL,BRINE,ANCIENTPOWER,INGRAIN
+    AbilityIndex = 0
+    Gender = female
+    Nature = MODEST
+    IV = 31,31,31,31,31,31
+Pokemon = AERODACTYL,89
+    Moves = STONEEDGE,AERIALACE,THUNDERFANG,EARTHQUAKE
+    AbilityIndex = 0
+    Item = AERODACTYLITE
+    Gender = male
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[ELITEFOUR_Morgana,Morgana]
+Items = MEGARING,FULLRESTORE,FULLRESTORE
+LoseText = Can´t have shadow without light...
+Pokemon = ZOROARK,70
+    Moves = UTURN,FOULPLAY,FAKETEARS,AGILITY
+    AbilityIndex = 0
+    Gender = male
+    Nature = CAREFUL
+    IV = 31,31,31,31,31,31
+Pokemon = HYDREIGON,70
+    Moves = NASTYPLOT,DRACOMETEOR,DARKPULSE,TRIATTACK
+    AbilityIndex = 0
+    Gender = male
+    Nature = DOCILE
+    IV = 31,31,31,31,31,31
+    Shiny = true
+Pokemon = GRIMMSNARL,68
+    Moves = SPIRITBREAK,FOULPLAY,FAKETEARS,FAKEOUT
+    AbilityIndex = 0
+    Gender = male
+    Nature = BASHFUL
+    IV = 31,31,31,31,31,31
+Pokemon = SPIRITOMB,69
+    Moves = HYPNOSIS,DREAMEATER,DARKPULSE,SHADOWBALL
+    AbilityIndex = 0
+    Gender = female
+    Nature = SERIOUS
+    IV = 31,31,31,31,31,31
+Pokemon = GYARADOS,72
+    Moves = DRAGONDANCE,AQUATAIL,CRUNCH,HURRICANE
+    AbilityIndex = 0
+    Item = GYARADOSITE
+    Gender = male
+    Nature = BRAVE
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[ELITEFOUR_Morgana,Morgana,1]
+Items = MEGARING,FULLRESTORE,FULLRESTORE
+LoseText = What´s your weakness?! Come on, tell me!
+Pokemon = ZOROARK,83
+    Moves = UTURN,FOULPLAY,FAKETEARS,AGILITY
+    AbilityIndex = 0
+    Gender = male
+    Nature = CAREFUL
+    IV = 31,31,31,31,31,31
+Pokemon = HYDREIGON,84
+    Moves = NASTYPLOT,DRACOMETEOR,DARKPULSE,TRIATTACK
+    AbilityIndex = 0
+    Gender = male
+    Nature = DOCILE
+    IV = 31,31,31,31,31,31
+    Shiny = true
+Pokemon = GRIMMSNARL,83
+    Moves = SPIRITBREAK,FOULPLAY,FAKETEARS,FAKEOUT
+    AbilityIndex = 0
+    Item = BLACKGLASSES
+    Gender = male
+    Nature = BASHFUL
+    IV = 31,31,31,31,31,31
+Pokemon = SPIRITOMB,82
+    Moves = HYPNOSIS,DREAMEATER,DARKPULSE,SHADOWBALL
+    AbilityIndex = 0
+    Gender = female
+    Nature = SERIOUS
+    IV = 31,31,31,31,31,31
+Pokemon = KINGAMBIT,83
+    Moves = KOWTOWCLEAVE,IRONHEAD,AERIALACE,STONEEDGE
+    AbilityIndex = 0
+    Items = LIFEORB
+    Gender = male
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+Pokemon = GYARADOS,85
+    Moves = DRAGONDANCE,AQUATAIL,CRUNCH,HURRICANE
+    AbilityIndex = 0
+    Item = GYARADOSITE
+    Gender = male
+    Nature = BRAVE
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[ELITEFOUR_Morgana,Morgana,2]
+Items = MEGARING,FULLRESTORE,FULLRESTORE
+LoseText = That was the greatest battle of my life!
+Pokemon = ZOROARK,88
+    Moves = UTURN,FOULPLAY,FAKETEARS,AGILITY
+    AbilityIndex = 0
+    Gender = male
+    Nature = CAREFUL
+    IV = 31,31,31,31,31,31
+Pokemon = HYDREIGON,89
+    Moves = NASTYPLOT,DRACOMETEOR,DARKPULSE,TRIATTACK
+    AbilityIndex = 0
+    Gender = male
+    Nature = DOCILE
+    IV = 31,31,31,31,31,31
+    Shiny = true
+Pokemon = GRIMMSNARL,88
+    Moves = SPIRITBREAK,FOULPLAY,FAKETEARS,FAKEOUT
+    AbilityIndex = 0
+    Item = BLACKGLASSES
+    Gender = male
+    Nature = BASHFUL
+    IV = 31,31,31,31,31,31
+Pokemon = SPIRITOMB,87
+    Moves = HYPNOSIS,DREAMEATER,DARKPULSE,SHADOWBALL
+    AbilityIndex = 0
+    Gender = female
+    Nature = SERIOUS
+    IV = 31,31,31,31,31,31
+Pokemon = KINGAMBIT,88
+    Moves = KOWTOWCLEAVE,IRONHEAD,AERIALACE,STONEEDGE
+    AbilityIndex = 0
+    Items = LIFEORB
+    Gender = male
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+Pokemon = GYARADOS,90
+    Moves = DRAGONDANCE,AQUATAIL,CRUNCH,HURRICANE
+    AbilityIndex = 0
+    Item = GYARADOSITE
+    Gender = male
+    Nature = BRAVE
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[ELITEFOUR_Elysio,Elysio]
+Items = MEGARING,FULLRESTORE,FULLRESTORE
+LoseText = I didn´t get to show you the beauty...
+Pokemon = TOGEKISS,71
+    Moves = AIRSLASH,DAZZLINGGLEAM,AURASPHERE,CHARM
+    AbilityIndex = 0
+    Gender = female
+    Nature = JOLLY
+    IV = 31,31,31,31,31,31
+Pokemon = MAWILE,69
+    Moves = PLAYROUGH,IRONHEAD,SUCKERPUNCH,SWEETSCENT
+    AbilityIndex = 1
+    Gender = male
+    Nature = HARDY
+    IV = 31,31,31,31,31,31
+Pokemon = NINETALES,71
+    Form = 1
+    Moves = DAZZLINGGLEAM,ICEBEAM,NASTYPLOT,PSYSHOCK
+    AbilityIndex = 0
+    Gender = female
+    Nature = SASSY
+    IV = 31,31,31,31,31,31
+Pokemon = FLORGES,72
+    Form = 3
+    Moves = MOONBLAST,PETALBLIZZARD,SYNTHESIS,CALMMIND
+    AbilityIndex = 0
+    Gender = female
+    Nature = RELAXED
+    IV = 31,31,31,31,31,31
+Pokemon = GARDEVOIR,74
+    Moves = PSYCHIC,MOONBLAST,CALMMIND,MYSTICALFIRE
+    AbilityIndex = 0
+    Item = GARDEVOIRITE
+    Gender = female
+    Nature = MODEST
+    IV = 31,31,31,31,31,31
+    Shiny = true
+#-------------------------------
+[ELITEFOUR_Elysio,Elysio,1]
+Items = MEGARING,FULLRESTORE,FULLRESTORE
+LoseText = And I thought I had a chance...
+Pokemon = TOGEKISS,84
+    Moves = AIRSLASH,DAZZLINGGLEAM,AURASPHERE,CHARM
+    AbilityIndex = 0
+    Gender = female
+    Nature = JOLLY
+    IV = 31,31,31,31,31,31
+Pokemon = MAWILE,83
+    Moves = PLAYROUGH,IRONHEAD,SUCKERPUNCH,SWEETSCENT
+    AbilityIndex = 1
+    Gender = male
+    Nature = HARDY
+    IV = 31,31,31,31,31,31
+Pokemon = NINETALES,84
+    Form = 1
+    Moves = DAZZLINGGLEAM,ICEBEAM,NASTYPLOT,PSYSHOCK
+    AbilityIndex = 0
+    Gender = female
+    Nature = SASSY
+    IV = 31,31,31,31,31,31
+Pokemon = FLORGES,84
+    Form = 3
+    Moves = MOONBLAST,PETALBLIZZARD,SYNTHESIS,CALMMIND
+    AbilityIndex = 0
+    Item = FAIRYFEATHER
+    Gender = female
+    Nature = RELAXED
+    IV = 31,31,31,31,31,31
+Pokemon = GARDEVOIR,85
+    Moves = PSYCHIC,MOONBLAST,CALMMIND,MYSTICALFIRE
+    AbilityIndex = 0
+    Item = COVERTCLOAK
+    Gender = female
+    Nature = MODEST
+    IV = 31,31,31,31,31,31
+    Shiny = true
+Pokemon = ALTARIA,86
+    Moves = DRAGONPULSE,HYPERVOICE,AERIALACE,SING
+    AbilityIndex = 0
+    Item = ALTARIANITE
+    Gender = female
+    Nature = CAREFUL
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[ELITEFOUR_Elysio,Elysio,2]
+Items = MEGARING,FULLRESTORE,FULLRESTORE
+LoseText = I guess I will have to keep on trying...
+Pokemon = TOGEKISS,89
+    Moves = AIRSLASH,DAZZLINGGLEAM,AURASPHERE,CHARM
+    AbilityIndex = 0
+    Gender = female
+    Nature = JOLLY
+    IV = 31,31,31,31,31,31
+Pokemon = MAWILE,88
+    Moves = PLAYROUGH,IRONHEAD,SUCKERPUNCH,SWEETSCENT
+    AbilityIndex = 1
+    Gender = male
+    Nature = HARDY
+    IV = 31,31,31,31,31,31
+Pokemon = NINETALES,89
+    Form = 1
+    Moves = DAZZLINGGLEAM,ICEBEAM,NASTYPLOT,PSYSHOCK
+    AbilityIndex = 0
+    Gender = female
+    Nature = SASSY
+    IV = 31,31,31,31,31,31
+Pokemon = FLORGES,89
+    Form = 3
+    Moves = MOONBLAST,PETALBLIZZARD,SYNTHESIS,CALMMIND
+    AbilityIndex = 0
+    Item = FAIRYFEATHER
+    Gender = female
+    Nature = RELAXED
+    IV = 31,31,31,31,31,31
+Pokemon = GARDEVOIR,90
+    Moves = PSYCHIC,MOONBLAST,CALMMIND,MYSTICALFIRE
+    AbilityIndex = 0
+    Item = COVERTCLOAK
+    Gender = female
+    Nature = MODEST
+    IV = 31,31,31,31,31,31
+    Shiny = true
+Pokemon = ALTARIA,91
+    Moves = DRAGONPULSE,HYPERVOICE,AERIALACE,SING
+    AbilityIndex = 0
+    Item = ALTARIANITE
+    Gender = female
+    Nature = CAREFUL
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[CHAMPION,Arthur]
+Items = MEGARING,FULLRESTORE,FULLRESTORE
+LoseText = Good job, Champion!
+Pokemon = AEGISLASH,73
+    Moves = KINGSSHIELD,SACREDSWORD,IRONHEAD,SHADOWSNEAK
+    AbilityIndex = 0
+    Item = CLEARAMULET
+    Gender = male
+    Nature = QUIRKY
+    IV = 31,31,31,31,31,31
+Pokemon = GLISCOR,72
+    Moves = SWORDSDANCE,ACROBATICS,EARTHQUAKE,XSCISSOR
+    AbilityIndex = 0
+    Item = FOCUSSASH
+    Gender = male
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+Pokemon = KINGDRA,74
+    Moves = DRAGONPULSE,HYDROPUMP,ICEBEAM,LASERFOCUS
+    AbilityIndex = 0
+    Item = EXPERTBELT
+    Gender = female
+    Nature = MODEST
+    IV = 31,31,31,31,31,31
+Pokemon = VOLCARONA,75
+    Moves = QUIVERDANCE,BUGBUZZ,FIERYDANCE,GIGADRAIN
+    AbilityIndex = 0
+    Item = CHARCOAL
+    Gender = female
+    Nature = CAREFUL
+    IV = 31,31,31,31,31,31
+Pokemon = EELEKTROSS,74
+    Moves = THUNDERBOLT,CRUNCH,AQUATAIL,COIL
+    AbilityIndex = 0
+    Item = ABILITYSHIELD
+    Gender = male
+    Nature = LAX
+    IV = 31,31,31,31,31,31
+Pokemon = GENGAR,77
+    Moves = SHADOWBALL,SLUDGEWAVE,FOCUSBLAST,DOUBLETEAM
+    AbilityIndex = 0
+    Item = GENGARITE
+    Gender = male
+    Nature = RASH
+    IV = 31,31,31,31,31,31
+    Shiny = true
+#-------------------------------
+[CHAMPION,Arthur,1]
+Items = MEGARING,ZPOWERRING,FULLRESTORE,FULLRESTORE
+LoseText = Well done, you really deserve your title!
+Pokemon = AEGISLASH,90
+    Moves = KINGSSHIELD,SACREDSWORD,IRONHEAD,SHADOWSNEAK
+    AbilityIndex = 0
+    Item = CLEARAMULET
+    Gender = male
+    Nature = QUIRKY
+    IV = 31,31,31,31,31,31
+Pokemon = GLISCOR,89
+    Moves = SWORDSDANCE,ACROBATICS,EARTHQUAKE,XSCISSOR
+    AbilityIndex = 0
+    Item = FOCUSSASH
+    Gender = male
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+Pokemon = KINGDRA,91
+    Moves = DRAGONPULSE,HYDROPUMP,ICEBEAM,LASERFOCUS
+    AbilityIndex = 0
+    Item = DRAGONIUMZ
+    Gender = female
+    Nature = MODEST
+    IV = 31,31,31,31,31,31
+Pokemon = VOLCARONA,92
+    Moves = QUIVERDANCE,BUGBUZZ,FIERYDANCE,GIGADRAIN
+    AbilityIndex = 0
+    Item = CHARCOAL
+    Gender = female
+    Nature = CAREFUL
+    IV = 31,31,31,31,31,31
+Pokemon = GALLADE,91
+    Moves = SWORDSDANCE,NIGHTSLASH,PSYCHOCUT,CLOSECOMBAT
+    AbilityIndex = 0
+    Item = ABILITYSHIELD
+    Gender = male
+    Nature = JOLLY
+    IV = 31,31,31,31,31,31
+Pokemon = GENGAR,95
+    Moves = SHADOWBALL,SLUDGEWAVE,FOCUSBLAST,DOUBLETEAM
+    AbilityIndex = 0
+    Item = GENGARITE
+    Gender = male
+    Nature = RASH
+    IV = 31,31,31,31,31,31
+    Shiny = true
+#-------------------------------
+[GARY,Gary]
+Items = MEGARING,FULLRESTORE,FULLRESTORE
+LoseText = Oh my Arceus, that was intense!
+Pokemon = BLASTOISE,86
+    Moves = SURF,FLASHCANNON,ICEBEAM,SHELLSMASH
+    AbilityIndex = 0
+    Item = MYSTICWATER
+    Gender = male
+    Nature = CAREFUL
+    IV = 31,31,31,31,31,31
+Pokemon = UMBREON,84
+    Moves = SUCKERPUNCH,DARKPULSE,DOUBLETEAM,IRONTAIL
+    AbilityIndex = 0
+    Item = QUICKCLAW
+    Gender = female
+    Nature = BRAVE
+    IV = 31,31,31,31,31,31
+Pokemon = ELECTIVIRE,85
+    Moves = THUNDERPUNCH,ICEPUNCH,DARKESTLARIAT,EARTHQUAKE
+    AbilityIndex = 0
+    Item = PUNCHINGGLOVE
+    Gender = male
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+Pokemon = ARCANINE,86
+    Moves = EXTREMESPEED,PLAYROUGH,FLAREBLITZ,AGILITY
+    AbilityIndex = 0
+    Item = SCOPELENS
+    Gender = male
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+Pokemon = HATTERENE,85
+    Moves = CALMMIND,PSYCHIC,DAZZLINGGLEAM,SHADOWBALL
+    AbilityIndex = 0
+    Item = FAIRYFEATHER
+    Gender = female
+    Nature = MODEST
+    IV = 31,31,31,31,31,31
+Pokemon = TYRANITAR,88
+    Moves = STONEEDGE,EARTHQUAKE,CRUNCH,GIGAIMPACT
+    AbilityIndex = 0
+    Item = TYRANITARITE
+    Gender = male
+    Nature = SERIOUS
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[STEVEN,Steven]
+Items = MEGARING,ZPOWERRING,FULLRESTORE,FULLRESTORE
+LoseText = You´re a force of nature!
+Pokemon = SKARMORY,96
+    Moves = TOXIC,AERIALACE,SPIKES,STEELWING
+    AbilityIndex = 1
+    Item = SHARPBEAK
+    Gender = male
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+Pokemon = CLAYDOL,95
+    Moves = EXTRASENSORY,LIGHTSCREEN,REFLECT,EARTHPOWER
+    AbilityIndex = 0
+    Item = LIGHTCLAY
+    Nature = CAREFUL
+    IV = 31,31,31,31,31,31
+Pokemon = ARMALDO,95
+    Moves = XSCISSOR,ROCKBLAST,METALCLAW,CRUSHCLAW
+    AbilityIndex = 0
+    Item = QUICKCLAW
+    Gender = male
+    Nature = JOLLY
+    IV = 31,31,31,31,31,31
+Pokemon = AGGRON,97
+    Moves = STONEEDGE,EARTHQUAKE,IRONTAIL,DRAGONCLAW
+    AbilityIndex = 0
+    Item = ROCKIUMZ
+    Gender = male
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+Pokemon = CRADILY,95
+    Moves = GIGADRAIN,ANCIENTPOWER,SLUDGEBOMB,CONFUSERAY
+    AbilityIndex = 0
+    Item = BIGROOT
+    Gender = female
+    Nature = MODEST
+    IV = 31,31,31,31,31,31
+Pokemon = METAGROSS,100
+    Moves = BULLETPUNCH,ZENHEADBUTT,METEORMASH,GIGAIMPACT
+    AbilityIndex = 0
+    Item = METAGROSSITE
+    Nature = SERIOUS
+    IV = 31,31,31,31,31,31
+    Shiny = true
+#-------------------------------
+[CYNTHIA,Cynthia]
+Items = MEGARING,ZPOWERRING,FULLRESTORE,FULLRESTORE
+LoseText = That was one for the history books!
+Pokemon = SPIRITOMB,96
+    Moves = DARKPULSE,PSYCHIC,SHADOWBALL,SILVERWIND
+    AbilityIndex = 0
+    Item = LEFTOVERS
+    Gender = female
+    Nature = QUIRKY
+    IV = 31,31,31,31,31,31
+Pokemon = LUCARIO,95
+    Moves = AURASPHERE,EXTREMESPEED,PSYCHIC,EARTHQUAKE
+    AbilityIndex = 0
+    Item = LIFEORB
+    Gender = male
+    Nature = HARDY
+    IV = 31,31,31,31,31,31
+Pokemon = TOGEKISS,95
+    Moves = AIRSLASH,DAZZLINGGLEAM,AURASPHERE,THUNDERWAVE
+    AbilityIndex = 0
+    Item = METRONOME
+    Gender = male
+    Nature = SASSY
+    IV = 31,31,31,31,31,31
+Pokemon = MILOTIC,97
+    Moves = SURF,ICEBEAM,AQUARING,DRAGONPULSE
+    AbilityIndex = 0
+    Item = WATERIUMZ
+    Gender = female
+    Nature = CAREFUL
+    IV = 31,31,31,31,31,31
+Pokemon = ROSERADE,95
+    Moves = ENERGYBALL,SHADOWBALL,SLUDGEBOMB,DAZZLINGGLEAM
+    AbilityIndex = 0
+    Item = FOCUSSASH
+    Gender = female
+    Nature = LAX
+    IV = 31,31,31,31,31,31
+Pokemon = GARCHOMP,100
+    Moves = DRAGONCLAW,EARTHQUAKE,SWORDSDANCE,POISONJAB
+    AbilityIndex = 0
+    Item = GARCHOMPITE
+    Gender = female
+    Nature = IMPISH
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[ZEKE,Zeke]
+Items = MEGARING,ZPOWERRING,FULLRESTORE,FULLRESTORE
+LoseText = Wow, that was super fun!
+Pokemon = TOXAPEX,95
+    Moves = POISONJAB,LIQUIDATION,BANEFULBUNKER,TOXICSPIKES
+    AbilityIndex = 0
+    Item = CLEARAMULET
+    Gender = female
+    Nature = RELAXED
+    IV = 31,31,31,31,31,31
+Pokemon = FLUTTERMANE,96
+    Moves = MOONBLAST,SHADOWBALL,MYSTICALFIRE,POWERGEM
+    AbilityIndex = 0
+    Item = BOOSTERENERGY
+    Nature = SASSY
+    IV = 31,31,31,31,31,31
+Pokemon = XURKITREE,95
+    Moves = THUNDERBOLT,POWERWHIP,DAZZLINGGLEAM,VOLTSWITCH
+    AbilityIndex = 0
+    Item = WISEGLASSES
+    Nature = JOLLY
+    IV = 31,31,31,31,31,31
+Pokemon = BAXCALIBUR,96
+    Moves = GLAIVERUSH,ICICLECRASH,CRUNCH,ZENHEADBUTT
+    AbilityIndex = 0
+    Item = MIRRORHERB
+    Gender = male
+    Nature = BOLD
+    IV = 31,31,31,31,31,31
+Pokemon = INCINEROAR,98
+    Moves = DARKESTLARIAT,FLAREBLITZ,THUNDERPUNCH,EARTHQUAKE
+    AbilityIndex = 1
+    Item = INCINIUMZ
+    Gender = male
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+Pokemon = ALAKAZAM,100
+    Moves = PSYCHIC,SHADOWBALL,FOCUSBLAST,CALMMIND
+    AbilityIndex = 0
+    Item = ALAKAZITE
+    Gender = male
+    Nature = MODEST
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[ASH,Ash]
+Items = MEGARING,ZPOWERRING,FULLRESTORE,FULLRESTORE
+LoseText = You´ve made it to the top!
+Pokemon = INFERNAPE,100
+    Moves = DIG,FLAMETHROWER,MACHPUNCH,FLAREBLITZ
+    AbilityIndex = 0
+    Item = SCOPELENS
+    Gender = male
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+Pokemon = GENGAR,100
+    Moves = SLUDGEBOMB,SHADOWBALL,WILLOWISP,ICEPUNCH
+    AbilityIndex = 0
+    Item = BLACKSLUDGE
+    Gender = male
+    Nature = LONELY
+    IV = 31,31,31,31,31,31
+Pokemon = GRENINJA,100
+    Form = 1
+    Moves = WATERSHURIKEN,AERIALACE,NIGHTSLASH,ICEBEAM
+    AbilityIndex = 0
+    Item = WEAKNESSPOLICY
+    Gender = male
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+Pokemon = LUCARIO,100
+    Moves = AURASPHERE,EXTREMESPEED,BULLETPUNCH,EARTHQUAKE
+    AbilityIndex = 0
+    Item = LUCARIONITE
+    Gender = male
+    Nature = HASTY
+    IV = 31,31,31,31,31,31
+Pokemon = DRAGONITE,100
+    Moves = DRAGONDANCE,HYPERBEAM,HURRICANE,DRAGONCLAW
+    AbilityIndex = 0
+    Item = DRAGONFANG
+    Gender = female
+    Nature = LAX
+    IV = 31,31,31,31,31,31
+Pokemon = PIKACHU,100
+    Form = 14
+    Moves = THUNDERBOLT,VOLTTACKLE,IRONTAIL,QUICKATTACK
+    AbilityIndex = 0
+    Item = PIKASHUNIUMZ
+    Gender = male
+    Nature = SASSY
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[POKEMONRANGER_F,Robin]
+LoseText = Told you so!
+Pokemon = PRIMARINA,79
+    Moves = SPARKLINGARIA,SING,ICYWIND,MOONBLAST
+    AbilityIndex = 0
+    Gender = female
+    Nature = MODEST
+    IV = 25,24,22,25,25,25
+Pokemon = RUNERIGUS,81
+    Moves = EARTHQUAKE,SHADOWCLAW,POWERSPLIT,STONEEDGE
+    AbilityIndex = 0
+    Gender = male
+    Nature = RELAXED
+    IV = 22,22,22,22,22,22
+#-------------------------------
+[COOLTRAINER_M,Franky]
+LoseText = SUUUUUUUUPERRRRRR!!!
+Pokemon = MANECTRIC,80
+    Moves = ELECTRICTERRAIN,FIREFANG,THUNDERFANG,BITE
+    AbilityIndex = 0
+    Gender = male
+    Nature = ADAMANT
+    IV = 26,28,28,28,24,24
+Pokemon = MAGNEZONE,79
+    Moves = FLASHCANNON,DISCHARGE,LIGHTSCREEN,MIRRORCOAT
+    AbilityIndex = 0
+    Nature = CAREFUL
+    IV = 20,20,30,30,30,30
+Pokemon = POLIWRATH,81
+    Moves = HYPNOSIS,THROATCHOP,DRAINPUNCH,WATERFALL
+    AbilityIndex = 0
+    Gender = male
+    Nature = HASTY
+    IV = 31,30,29,28,27,26
+#-------------------------------
+[ROCKER,Brook]
+Items = ZPOWERRING
+LoseText = Yohohohoho! That was some music!
+Pokemon = NOIVERN,80
+    Moves = BOOMBURST,DRAGONPULSE,AIRSLASH,TAILWIND
+    AbilityIndex = 0
+    Gender = female
+    Nature = IMPISH
+    IV = 27,27,25,25,27,27
+Pokemon = LYCANROC,82
+    Form = 2
+    Moves = STONEEDGE,CRUNCH,ACCELEROCK,DOUBLETEAM
+    AbilityIndex = 0
+    Item = LYCANIUMZ
+    Gender = male
+    Nature = SASSY
+    IV = 26,26,26,26,26,26
+#-------------------------------
+[BEAUTY,Nami]
+LoseText = And there goes the money I need for my nails...
+Pokemon = MEOWSCARADA,83
+    Moves = THIEF,FLOWERTRICK,PLAYROUGH,UTURN
+    AbilityIndex = 0
+    Gender = female
+    Nature = QUIRKY
+    IV = 27,27,25,25,27,27
+#-------------------------------
+[GENTLEMAN,Sanji]
+LoseText = I prefer cooking and women anyways...
+Pokemon = BLAZIKEN,81
+    Moves = BLAZEKICK,DOUBLEKICK,BULKUP,AGILITY
+    AbilityIndex = 0
+    Gender = male
+    Nature = LONELY
+    IV = 28,28,28,28,18,18
+Pokemon = HITMONLEE,81
+    Moves = HIGHJUMPKICK,MEGAKICK,BLAZEKICK,LOWKICK
+    AbilityIndex = 1
+    Gender = male
+    Nature = HARDY
+    IV = 27,25,27,25,26,26
+#-------------------------------
+[SWIMMER_M,Ian]
+Items = MEGARING
+LoseText = Yohohohoho! That was some music!
+Pokemon = LAPRAS,82
+    Moves = ICEBEAM,PERISHSONG,SURF,DRAGONPULSE
+    AbilityIndex = 0
+    Gender = female
+    Nature = LAX
+    IV = 25,26,27,27,26,25
+Pokemon = YANMEGA,80
+    Moves = BUGBUZZ,AIRSLASH,ANCIENTPOWER,GIGADRAIN
+    AbilityIndex = 0
+    Gender = male
+    Nature = CALM
+    IV = 26,26,26,26,26,26
+Pokemon = MEDICHAM,82
+    Moves = HIGHJUMPKICK,THUNDERPUNCH,ZENHEADBUTT,POISONJAB
+    AbilityIndex = 0
+    Item = MEDICHAMITE
+    Gender = female
+    Nature = SASSY
+    IV = 30,30,30,30,30,30
+#-------------------------------
+[SWIMMER2_F,Eve]
+LoseText = Get out of my way now!
+Pokemon = MISMAGIUS,83
+    Moves = MYSTICALFIRE,POWERGEM,SHADOWBALL,ENERGYBALL
+    AbilityIndex = 0
+    Gender = female
+    Nature = TIMID
+    IV = 22,22,22,31,31,31
+#-------------------------------
+[CHANNELER,Makino]
+Items = MEGARING
+LoseText = Okay, I will let you through.
+Pokemon = DUSKNOIR,83
+    Moves = SHADOWPUNCH,WILLOWISP,BRICKBREAK,ICEPUNCH
+    AbilityIndex = 0
+    Gender = male
+    Nature = SERIOUS
+    IV = 31,31,31,31,31,31
+Pokemon = DHELMISE,82
+    Moves = PHANTOMFORCE,POWERWHIP,ANCHORSHOT,LIQUIDATION
+    AbilityIndex = 0
+    Nature = JOLLY
+    IV = 31,31,31,31,31,31
+Pokemon = CHANDELURE,82
+    Moves = SHADOWBALL,OVERHEAT,CALMMIND,SHOCKWAVE
+    AbilityIndex = 1
+    Gender = female
+    Nature = CAREFUL
+    IV = 31,31,31,31,31,31
+Pokemon = HOUNDSTONE,83
+    Moves = LASTRESPECTS,PLAYROUGH,FIREFANG,DIG
+    AbilityIndex = 1
+    Gender = male
+    Nature = HARDY
+    IV = 31,31,31,31,31,31
+Pokemon = BANETTE,85
+    Moves = SUCKERPUNCH,NIGHTSHADE,DAZZLINGGLEAM,THUNDERBOLT
+    AbilityIndex = 0
+    Item = BANETTITE
+    Gender = female
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[ELDER,Ryu]
+Items = MEGARING,FULLRESTORE,FULLRESTORE
+LoseText = And that´s why I retired.
+Pokemon = DRUDDIGON,82
+    Moves = HONECLAWS,DRAGONCLAW,IRONHEAD,CRUNCH
+    AbilityIndex = 0
+    Gender = male
+    Nature = BRAVE
+    IV = 31,31,31,31,31,31
+Pokemon = HAXORUS,83
+    Moves = DRAGONDANCE,OUTRAGE,GIGAIMPACT,EARTHQUAKE
+    AbilityIndex = 1
+    Gender = male
+    Nature = SASSY
+    IV = 31,31,31,31,31,31
+    Shiny = true
+Pokemon = HYDRAPPLE,83
+    Moves = FICKLEBEAM,EARTHPOWER,GIGADRAIN,NASTYPLOT
+    AbilityIndex = 0
+    Gender = male
+    Nature = LAX
+    IV = 31,31,31,31,31,31
+Pokemon = DRAMPA,82
+    Moves = HYPERVOICE,DRACOMETEOR,EXTRASENSORY,FLAMETHROWER
+    AbilityIndex = 0
+    Gender = male
+    Nature = MODEST
+    IV = 31,31,31,31,31,31
+Pokemon = SALAMENCE,85
+    Moves = DRAGONCLAW,DOUBLEEDGE,FIREFANG,HYDROPUMP
+    AbilityIndex = 0
+    Item = SALAMENCITE
+    Gender = male
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31

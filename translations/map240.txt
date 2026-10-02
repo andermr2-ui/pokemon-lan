@@ -1,0 +1,31 @@
+[5|1|2|2]
+ORIGINAL: \bWe would battle you, but with just one Pokémon on your team, this wouldn´t be fair.
+TRADUCCION:
+
+[5|1|8|2]
+ORIGINAL: \bI hope they´ll allow two Champions, because I want to stay with Rose!
+TRADUCCION:
+
+[5|2|0|2]
+ORIGINAL: \bWe´ll come back stronger, and then we´ll crush the league!
+TRADUCCION:
+
+[3|1|2|2]
+ORIGINAL: \bI need to become Champion, so I can challenge Diantha, my idol. Let´s train!
+TRADUCCION:
+
+[3|2|0|2]
+ORIGINAL: \bOne day, I will challenge Diantha, and nothing will stop me!
+TRADUCCION:
+
+[4|1|2|2]
+ORIGINAL: \bWe would battle you, but with just one Pokémon on your team, this wouldn´t be fair.
+TRADUCCION:
+
+[4|1|8|2]
+ORIGINAL: \bWe´ll challenge the League together, and you´re in our way!
+TRADUCCION:
+
+[4|2|0|2]
+ORIGINAL: \bDon´t think that this will knock us down. We´ll never give up!
+TRADUCCION:

@@ -1,0 +1,51 @@
+[5|1|0|2]
+ORIGINAL: It´s an ancient Pokémon Statue. A powerful aura is coming from within the statue.
+TRADUCCION:
+
+[5|1|3|1]
+ORIGINAL: The statue is shaking!
+TRADUCCION:
+
+[5|1|5|2]
+ORIGINAL: The power of your Delta Stone has been restored. Could certain Pokémon come back now?
+TRADUCCION:
+
+[11|2|4|2]
+ORIGINAL: \bAre you looking for the boss? Then I have bad news, you´ll have to deal with me!
+TRADUCCION:
+
+[11|3|0|3]
+ORIGINAL: \bThe boss said that we can´t keep on losing like this, so we had a brilliant idea. What if we just remove you by force?
+TRADUCCION:
+
+[11|3|3|1]
+ORIGINAL: \bNOW! GET HIM!
+TRADUCCION:
+
+[1|1|0|1]
+ORIGINAL: It´s an ancient plate with strange symbols.
+TRADUCCION:
+
+[2|1|0|1]
+ORIGINAL: It´s an ancient plate with strange symbols.
+TRADUCCION:
+
+[13|1|19|1]
+ORIGINAL: \bPoliwrath, use Hypnosis!
+TRADUCCION:
+
+[3|1|0|1]
+ORIGINAL: It´s an ancient plate with strange symbols.
+TRADUCCION:
+
+[4|1|0|1]
+ORIGINAL: It´s an ancient plate with strange symbols.
+TRADUCCION:
+
+[10|1|2|2]
+ORIGINAL: \bOh, look, it´s the kid that wants to be a hero. You´ve angered the wrong people!
+TRADUCCION:
+
+[10|2|0|1]
+ORIGINAL: \bOkay, go ahead.
+TRADUCCION:

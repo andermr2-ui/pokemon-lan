@@ -1,0 +1,243 @@
+[5|1|0|2]
+ORIGINAL: Don´t tell anyone that I sell this stuff. It´s illegal, and I don´t want to go to prison.
+TRADUCCION:
+
+[11|1|0|2]
+ORIGINAL: \bDo you want some weed? Then I have just the right Pokémon for the job.
+TRADUCCION:
+
+[11|1|2|2]
+ORIGINAL: \bSprigatito is the perfect Pokémon for getting high, and I can give you mine for just $20.000.
+TRADUCCION:
+
+[11|1|9|1]
+ORIGINAL: \bHave fun getting high!
+TRADUCCION:
+
+[11|1|13|1]
+ORIGINAL: \bWow, even I have never been that broke...
+TRADUCCION:
+
+[11|1|18|1]
+ORIGINAL: \bI thought you wanted to get high?
+TRADUCCION:
+
+[11|2|0|2]
+ORIGINAL: \bSprigatito weed is the best in the world. That stuff can send you to a different dimension.
+TRADUCCION:
+
+[6|1|0|1]
+ORIGINAL: \bDo you want to buy a rare Pokémon?
+TRADUCCION:
+
+[6|1|1|2]
+ORIGINAL: \bI´ve got a Fennekin, and you can get it for just $20.000. So, what do you say?
+TRADUCCION:
+
+[6|1|8|1]
+ORIGINAL: \bYou´ve made a good purchase.
+TRADUCCION:
+
+[6|1|12|2]
+ORIGINAL: \bWait, you don´t have enough money. Are you trying to scam me?!
+TRADUCCION:
+
+[6|1|18|1]
+ORIGINAL: \bYou´re missing out on a great deal...
+TRADUCCION:
+
+[6|2|0|2]
+ORIGINAL: \bOh, I didn´t steal that Fennekin. I found it, in, uhm, Unova? Or was it Paldea? Something like that...
+TRADUCCION:
+
+[1|1|0|3]
+ORIGINAL: \bWelcome to the Underground Market. You can buy absolutely everything here. Just remember to be quiet about this place. Have fun!
+TRADUCCION:
+
+[12|1|0|1]
+ORIGINAL: \bYou look like you want to have a Sobble!
+TRADUCCION:
+
+[12|1|1|2]
+ORIGINAL: \bAnd I happen to have a Sobble, which I´d sell to you for $20.000. Do you want it?
+TRADUCCION:
+
+[12|1|8|1]
+ORIGINAL: \bI hope you like your new Pokémon!
+TRADUCCION:
+
+[12|1|12|1]
+ORIGINAL: \bWhat? Why did you come here if you´re broke?!
+TRADUCCION:
+
+[12|1|17|1]
+ORIGINAL: \bBut this Sobble wants to be with a strong trainer...
+TRADUCCION:
+
+[12|2|0|2]
+ORIGINAL: \bUnderground markets like this one are the only way for folks like us to get around the inflation.
+TRADUCCION:
+
+[7|1|0|2]
+ORIGINAL: \bI have a rare Pokémon, and it can be yours for just $20.000.
+TRADUCCION:
+
+[7|1|2|2]
+ORIGINAL: \bIt´s a Froakie, which you won´t find in this region. Do you want it?
+TRADUCCION:
+
+[7|1|9|1]
+ORIGINAL: \bYou won´t regret it.
+TRADUCCION:
+
+[7|1|13|1]
+ORIGINAL: \bOh, you´re broke...
+TRADUCCION:
+
+[7|1|14|1]
+ORIGINAL: \bDamn, you should get a job.
+TRADUCCION:
+
+[7|1|19|1]
+ORIGINAL: \bYour loss.
+TRADUCCION:
+
+[7|2|0|2]
+ORIGINAL: \bAt this rate I can afford my vacation in Alola in no time!
+TRADUCCION:
+
+[2|1|0|2]
+ORIGINAL: If you´re interested in fossils, you´ve come to the right guy.
+TRADUCCION:
+
+[13|1|0|1]
+ORIGINAL: \bDo you have $20.000 that you don´t need?
+TRADUCCION:
+
+[13|1|1|2]
+ORIGINAL: \bI have a Scorbunny that I don´t need, so why don´t we trade?
+TRADUCCION:
+
+[13|1|8|1]
+ORIGINAL: \bIt was a pleasure to trade with you.
+TRADUCCION:
+
+[13|1|12|2]
+ORIGINAL: \bOh, you don´t have $20.000? You need every penny then...
+TRADUCCION:
+
+[13|1|18|1]
+ORIGINAL: \bCome on, let´s trade...
+TRADUCCION:
+
+[13|2|0|2]
+ORIGINAL: \bNow you have something you need and I have something I need.
+TRADUCCION:
+
+[8|1|0|2]
+ORIGINAL: \bHey hey, do you want to buy a Chespin? I´ve got one for just $20.000.
+TRADUCCION:
+
+[8|1|7|1]
+ORIGINAL: \bMh, the smell of cash...
+TRADUCCION:
+
+[8|1|11|2]
+ORIGINAL: \bAre you serious?! You don´t have $20.000?! Broke ass...
+TRADUCCION:
+
+[8|1|17|1]
+ORIGINAL: \bHuh, what´s the hold up?
+TRADUCCION:
+
+[8|2|0|2]
+ORIGINAL: \bWhy do people look down on selling Pokémon? It´s actually quite convenient for some people.
+TRADUCCION:
+
+[3|1|0|2]
+ORIGINAL: I´ve got the finest goods. This stuff is super rare, trust me.
+TRADUCCION:
+
+[9|1|0|2]
+ORIGINAL: \bDon´t let the others scam you, I can give you a rare Pokémon for just $12.000.
+TRADUCCION:
+
+[9|1|2|2]
+ORIGINAL: \bI´ve got a Fuecoco, which you can only find in Paldea. It can be yours. Come on, my price is great!
+TRADUCCION:
+
+[9|1|9|1]
+ORIGINAL: \bI told you it´s a great price.
+TRADUCCION:
+
+[9|1|13|2]
+ORIGINAL: \bWait, you can´t even afford my special price?! That´s just sad...
+TRADUCCION:
+
+[9|1|19|2]
+ORIGINAL: \bI can´t make it cheaper than that, so you have to be fair...
+TRADUCCION:
+
+[9|2|0|2]
+ORIGINAL: \bThere´s no reason to charge $20.000 for these Pokémon. Only collectors would pay that much...
+TRADUCCION:
+
+[4|1|0|2]
+ORIGINAL: I´ve got the best tech. It doesn´t get more advanced than this.
+TRADUCCION:
+
+[10|1|0|1]
+ORIGINAL: \bAre you looking for a Quaxly?
+TRADUCCION:
+
+[10|1|1|2]
+ORIGINAL: \bThen you´re in luck, because I can give you one for just $20.000.
+TRADUCCION:
+
+[10|1|8|1]
+ORIGINAL: \bThat´s what I like to see!
+TRADUCCION:
+
+[10|1|12|1]
+ORIGINAL: \bOh, you don´t have enough cash? Get lost!
+TRADUCCION:
+
+[10|1|17|1]
+ORIGINAL: \bYou won´t get a Quaxly anywhere else...
+TRADUCCION:
+
+[10|2|0|3]
+ORIGINAL: \bI might actually survive the economic crisis. I just need to sell one more Pokémon and then I´ve got nothing to worry about.
+TRADUCCION:
+[11|1|4|OPCIONES]
+ORIGINAL: I´m taking it|No, I don´t want it
+TRADUCCION:
+
+[6|1|3|OPCIONES]
+ORIGINAL: I´m taking it|No, I don´t want it
+TRADUCCION:
+
+[12|1|3|OPCIONES]
+ORIGINAL: I´m taking it|No, I don´t want it
+TRADUCCION:
+
+[7|1|4|OPCIONES]
+ORIGINAL: I´m taking it|No, I don´t want it
+TRADUCCION:
+
+[13|1|3|OPCIONES]
+ORIGINAL: I´m taking it|No, I don´t want it
+TRADUCCION:
+
+[8|1|2|OPCIONES]
+ORIGINAL: I´m taking it|No, I don´t want it
+TRADUCCION:
+
+[9|1|4|OPCIONES]
+ORIGINAL: I´m taking it|No, I don´t want it
+TRADUCCION:
+
+[10|1|3|OPCIONES]
+ORIGINAL: I´m taking it|No, I don´t want it
+TRADUCCION:
+

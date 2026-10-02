@@ -1,0 +1,39 @@
+[5|1|2|1]
+ORIGINAL: \bAre you with the cops? Stay away!
+TRADUCCION:
+
+[5|2|0|1]
+ORIGINAL: \bPlease don´t tell the cops, I can´t get locked up!
+TRADUCCION:
+
+[6|1|2|1]
+ORIGINAL: \bIron Mountain is not for the weak!
+TRADUCCION:
+
+[6|2|0|2]
+ORIGINAL: \bLooks like this is a walk in the park for you. Take care!
+TRADUCCION:
+
+[1|1|1|3]
+ORIGINAL: \bNot so fast, trainer. You should only enter this part of the cave once you´re absolutely sure that you can face it!
+TRADUCCION:
+
+[1|1|4|3]
+ORIGINAL: \bWhat do you mean you don´t know what that means? Iron Mountain is the only place in the Delta Region where you can find Duraludon.
+TRADUCCION:
+
+[1|1|7|3]
+ORIGINAL: \bThis rare Pokémon is very strong, so you shouldn´t underestimate it. But I won´t stop you, I am just here to warn people.
+TRADUCCION:
+
+[1|2|0|2]
+ORIGINAL: \bSo far, everyone who ignored my words has regretted it...
+TRADUCCION:
+
+[8|1|0|2]
+ORIGINAL: \bOh my, your Pokémon look tired. Let´s give them some rest.
+TRADUCCION:
+
+[8|1|5|2]
+ORIGINAL: \bThere we go. Be careful out there, and thanks for stopping bye!
+TRADUCCION:

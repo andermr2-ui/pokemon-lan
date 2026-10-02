@@ -1,0 +1,43 @@
+[5|1|3|3]
+ORIGINAL: \bI can´t let you through at the moment. The police is chasing after a fugitive Hypno. Kids like you should stay away from that Pokémon.
+TRADUCCION:
+
+[11|1|2|2]
+ORIGINAL: \bWe would battle you, but with just one Pokémon on your team, this wouldn´t be fair.
+TRADUCCION:
+
+[11|1|8|2]
+ORIGINAL: \bPlease, don´t disappoint us. My girlfriend is desperate for a good battle!
+TRADUCCION:
+
+[11|2|0|1]
+ORIGINAL: \bThank you. She was starting to go insane...
+TRADUCCION:
+
+[7|1|2|1]
+ORIGINAL: \bThe Dark Forest let you out? Mysterious...
+TRADUCCION:
+
+[7|2|0|1]
+ORIGINAL: \bMaybe the Dark Forest respected you?
+TRADUCCION:
+
+[8|1|2|1]
+ORIGINAL: \bI´m not a Cue Ball! I´m just a guy that likes bikes!
+TRADUCCION:
+
+[8|2|0|2]
+ORIGINAL: \bMy bike sadly won´t make it to Silver Peak. Not with Iron Mountain in the way.
+TRADUCCION:
+
+[10|1|2|2]
+ORIGINAL: \bWe would battle you, but with just one Pokémon on your team, this wouldn´t be fair.
+TRADUCCION:
+
+[10|1|8|2]
+ORIGINAL: \bWe are craving a good battle. Please, don´t disappoint us.
+TRADUCCION:
+
+[10|2|0|1]
+ORIGINAL: \bOur needs have been fulfilled.
+TRADUCCION:

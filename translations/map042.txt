@@ -1,0 +1,39 @@
+[11|1|0|3]
+ORIGINAL: \bArrow Ridge used to be much bigger, but 20 years ago a massive landslide destroyed almost the entire town.
+TRADUCCION:
+
+[11|1|3|1]
+ORIGINAL: \b12 people died in that incident...
+TRADUCCION:
+
+[11|1|4|2]
+ORIGINAL: \bLuckily there´s been no other incident since that day, but that doesn´t make it any less tragic.
+TRADUCCION:
+
+[11|1|6|1]
+ORIGINAL: \bI lost both of my parents on that day. I was 9...
+TRADUCCION:
+
+[6|1|0|1]
+ORIGINAL: Arrow Ridge Gym\nLeader: Rose
+TRADUCCION:
+
+[12|1|0|2]
+ORIGINAL: \bOi, you look like a tourist. We don´t want tourists in Arrow Ridge.
+TRADUCCION:
+
+[12|1|2|3]
+ORIGINAL: \bOh, you´re a Pokémon Trainer? Pfff, I don´t care. Y´all are no better than those dirty tourists. Leave me alone!
+TRADUCCION:
+
+[13|1|0|1]
+ORIGINAL: Pokémon Academy
+TRADUCCION:
+
+[14|1|0|1]
+ORIGINAL: \bYou look tired. Here, this should help.
+TRADUCCION:
+
+[14|2|0|2]
+ORIGINAL: \bMoo Moo Milk is the perfect refreshment for people and Pokémon!
+TRADUCCION:

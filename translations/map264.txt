@@ -1,0 +1,47 @@
+[2|1|0|3]
+ORIGINAL: \bMoving to Riverstone was a great decision. Everything we need is close by, and the battles in the Stadium are a treat for my family.
+TRADUCCION:
+
+[3|1|0|2]
+ORIGINAL: \bThis game is super fun. Look, I´m almost at the final level.
+TRADUCCION:
+
+[3|1|2|3]
+ORIGINAL: \bWhat do you mean, you don´t know what game this is? It´s New Super Mario Bros. for the Nintendo DS! This is a certified hood classic.
+TRADUCCION:
+
+[4|1|0|3]
+ORIGINAL: \bHey kid, listen up. I may look like I´ve made it in life, with my own house and a loving family. But really, I just moved here to be closer to the slot machines.
+TRADUCCION:
+
+[4|1|3|3]
+ORIGINAL: \bMy wife doesn´t know about this, and she thinks I´ve overcome my gambling addiction, but that´s not true.
+TRADUCCION:
+
+[4|1|6|3]
+ORIGINAL: \bAnyways, let me tell you about something that has been bothering me. My son is a great kid, a bit lazy but very smart.
+TRADUCCION:
+
+[4|1|9|3]
+ORIGINAL: \bSadly, he can be very ungrateful at times, and he even refused to accept the rare Pokémon that I got for his birthday.
+TRADUCCION:
+
+[4|1|12|3]
+ORIGINAL: \bI want to teach him a lesson. He tends to change his mind after a while, but this time his gift will already be gone, because I want you to take it.
+TRADUCCION:
+
+[4|1|15|2]
+ORIGINAL: \bDon´t be shy, my son deserves this. This is called parenting. Here you go.
+TRADUCCION:
+
+[4|1|22|1]
+ORIGINAL: There's no more room for Pokémon!
+TRADUCCION:
+
+[4|1|23|1]
+ORIGINAL: The Pokémon Boxes are full and can't accept any more!
+TRADUCCION:
+
+[4|2|0|2]
+ORIGINAL: \bWhen my son asks for the gift that he denied, he´ll realize what being ungrateful gets him. I´m a genius!
+TRADUCCION:

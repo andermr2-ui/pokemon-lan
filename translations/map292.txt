@@ -1,0 +1,47 @@
+[2|1|2|2]
+ORIGINAL: \bDear diary, today I saw a Bidoof. It didn´t even attack me in the tall grass, it was just staring at me.
+TRADUCCION:
+
+[2|1|4|2]
+ORIGINAL: \bI wonder what was going through that little guy´s mind...
+TRADUCCION:
+
+[3|1|0|3]
+ORIGINAL: \bHey kid, can you help me with something? I´ve been trying to think of the name of a Pokémon, but I just can´t remember...
+TRADUCCION:
+
+[3|1|3|3]
+ORIGINAL: \bIt´s rather small, and it resembles a cloud. It can fly, and it evolves into Altaria. Do you know how that Pokémon is called?
+TRADUCCION:
+
+[3|1|8|1]
+ORIGINAL: \bHm, no, I don´t think that was the right name...
+TRADUCCION:
+
+[3|1|11|1]
+ORIGINAL: \bHm, no, I don´t think that was the right name...
+TRADUCCION:
+
+[3|1|14|3]
+ORIGINAL: \bAh, yes, it was Swablu. Thank you! I keep on forgetting things like these as I get older. I guess that´s life...
+TRADUCCION:
+
+[3|1|17|1]
+ORIGINAL: \bHere, let me reward you for helping me.
+TRADUCCION:
+
+[3|1|19|3]
+ORIGINAL: \bIf you get your hands on an Altaria, let it hold this stone. Oh, but I believe that Swablu and Altaria are quite rare in this region...
+TRADUCCION:
+
+[3|1|22|1]
+ORIGINAL: \bYou´ll find one of them eventually. Take care now!
+TRADUCCION:
+
+[3|2|0|3]
+ORIGINAL: \bWrite down your best memories, kid. You´ll forget things when you grow old, and our memories are the most precious thing we have!
+TRADUCCION:
+[3|1|6|OPCIONES]
+ORIGINAL: Emolga|Pidove|Swablu
+TRADUCCION:
+

@@ -1,0 +1,12 @@
+=== map167 ===
+ev5 pg0 [2]: "\\bIt´s rock or bust!"
+ev5 pg1 [0]: "\\bIf you like rock music as much as I do, you need to visit the Roggenrola Festival in Unova. I´ve been there 5 times so far, and I want to go again!"
+ev1 pg0 [2]: "\\bOnly the most talented trainers are allowed to become Pokémon Rangers. Let me show you!"
+ev1 pg1 [0]: "\\bIf I had a Pokémon Ranger application form with me, I would give it to you. You have what it takes to become one of us!"
+ev2 pg0 [2]: "\\bWe have rare Pokémon, and they´re strong!"
+ev2 pg1 [0]: "\\bThe other Pokémon Rangers also use these rare Pokémon, which are sometimes gifted to young trainers who are starting their journey."
+ev2 pg1 [3]: "\\bThese special Pokémon are hard to come across in the wild, but there is a place in the Delta Region where you can find them."
+ev9 pg0 [0]: "Mesprit looks confused."
+ev9 pg0 [1]: "It wants to battle!"
+ev9 pg0 [3]: "\\bSPRIIIIIIT!!!"
+ev9 pg2 [0]: "Mesprit disappeared. Will it come back?"

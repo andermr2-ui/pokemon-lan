@@ -1,0 +1,31 @@
+[16|1|2|1]
+ORIGINAL: \bAre you worthy of challenging the League?
+TRADUCCION:
+
+[16|2|0|2]
+ORIGINAL: \bIt seems like you are worthy. But don´t overestimate your skills.
+TRADUCCION:
+
+[17|1|2|1]
+ORIGINAL: \bAccording to my calculations, you´re gonna lose!
+TRADUCCION:
+
+[17|2|0|1]
+ORIGINAL: \bPractice always beats theory...
+TRADUCCION:
+
+[18|1|2|2]
+ORIGINAL: \bI might be old, but I don´t want to retire without trying my luck at the Pokémon League!
+TRADUCCION:
+
+[18|2|0|2]
+ORIGINAL: \bYou caught me off guard, but don´t think I lack the spirit!
+TRADUCCION:
+
+[19|1|2|2]
+ORIGINAL: \bI´ve grown tired of sailing. I want to be Pokémon Champion!
+TRADUCCION:
+
+[19|2|0|2]
+ORIGINAL: \bMaybe I´ll start sailing again, this whole trainer thing can only go so far.
+TRADUCCION:

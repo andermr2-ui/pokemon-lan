@@ -1,0 +1,3 @@
+[2|1|0|2]
+ORIGINAL: \bWelcome to the Crystal Cove Lighthouse. The elevator will take you to the top. Enjoy the view!
+TRADUCCION: \bBienvenido al Faro de la Cueva de la Meta. El ascensor te llevará hasta arriba. ¡Disfruta de las vistas!

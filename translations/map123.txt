@@ -1,0 +1,15 @@
+[2|1|2|1]
+ORIGINAL: \bPraise the rock!
+TRADUCCION:
+
+[2|2|0|2]
+ORIGINAL: \bThis cool rock is one of Riverstone´s many cool attractions.
+TRADUCCION:
+
+[3|1|2|1]
+ORIGINAL: \bRiverstone Park is famous for it´s battles!
+TRADUCCION:
+
+[3|2|0|2]
+ORIGINAL: \bDon´t forget to take a look around the tall grass. Some very famous Pokémon live in this park.
+TRADUCCION:

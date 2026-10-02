@@ -1,0 +1,15 @@
+[5|1|0|1]
+ORIGINAL: \w[signskin]Cedolan Gym
+TRADUCCION:
+
+[6|1|0|1]
+ORIGINAL: \w[signskin]Move Maniac Meeting Room
+TRADUCCION:
+
+[10|1|9|1]
+ORIGINAL: \w[signskin]Pokémon Institute
+TRADUCCION:
+
+[10|1|10|1]
+ORIGINAL: \w[signskin]"Building Tomorrow Out Of Yesterday"
+TRADUCCION:

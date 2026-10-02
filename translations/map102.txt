@@ -1,0 +1,7 @@
+[1|1|1|3]
+ORIGINAL: \bCareful young trainer. The Dark Forest is an ominous place. It´s very easy to get lost, so be careful. Please, take this.
+TRADUCCION:
+
+[1|1|8|1]
+ORIGINAL: \bTake care!
+TRADUCCION:

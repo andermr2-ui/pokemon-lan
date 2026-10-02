@@ -1,0 +1,9 @@
+=== map278 ===
+ev1 pg0 [0]: "It´s an ancient plate with strange symbols."
+ev1 pg1 [0]: "It´s an ancient plate with strange symbols."
+ev1 pg1 [2]: "The Delta Stone in your pocket just lit up!"
+ev1 pg1 [3]: "Something powerful is approaching!"
+ev1 pg1 [5]: "\\bLELEEE!!!"
+ev1 pg2 [0]: "It´s an ancient plate with strange symbols."
+ev1 pg3 [0]: "Tapu Lele disappeared. Will it come back?"
+ev1 pg4 [0]: "It´s an ancient plate with strange symbols."

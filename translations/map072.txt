@@ -1,0 +1,95 @@
+[5|1|1|1]
+ORIGINAL: Deoxys is reacting to the meteor...
+TRADUCCION:
+
+[5|1|2|2]
+ORIGINAL: Would you like to bring the Deoxys in your party closer to the meteor?
+TRADUCCION:
+
+[5|1|12|2]
+ORIGINAL: \v[1] has changed to have superior stats for attacking!
+TRADUCCION:
+
+[5|1|16|1]
+ORIGINAL: Left the meteor alone.
+TRADUCCION:
+
+[5|1|21|1]
+ORIGINAL: It's a vicious-looking rock.
+TRADUCCION:
+
+[6|1|1|1]
+ORIGINAL: Deoxys is reacting to the meteor...
+TRADUCCION:
+
+[6|1|2|2]
+ORIGINAL: Would you like to bring the Deoxys in your party closer to the meteor?
+TRADUCCION:
+
+[6|1|12|2]
+ORIGINAL: \v[1] has changed to have superior stats when defending!
+TRADUCCION:
+
+[6|1|16|1]
+ORIGINAL: Left the meteor alone.
+TRADUCCION:
+
+[6|1|21|1]
+ORIGINAL: It's a sturdy-looking rock.
+TRADUCCION:
+
+[7|1|1|1]
+ORIGINAL: Deoxys is reacting to the meteor...
+TRADUCCION:
+
+[7|1|2|2]
+ORIGINAL: Would you like to bring the Deoxys in your party closer to the meteor?
+TRADUCCION:
+
+[7|1|12|1]
+ORIGINAL: \v[1] has changed to have increased speed!
+TRADUCCION:
+
+[7|1|15|1]
+ORIGINAL: Left the meteor alone.
+TRADUCCION:
+
+[7|1|20|1]
+ORIGINAL: It's a smooth-looking rock.
+TRADUCCION:
+
+[4|1|1|1]
+ORIGINAL: Deoxys is reacting to the meteor...
+TRADUCCION:
+
+[4|1|2|2]
+ORIGINAL: Would you like to bring the Deoxys in your party closer to the meteor?
+TRADUCCION:
+
+[4|1|12|1]
+ORIGINAL: \v[1] has changed to have balanced stats!
+TRADUCCION:
+
+[4|1|15|1]
+ORIGINAL: Left the meteor alone.
+TRADUCCION:
+
+[4|1|20|1]
+ORIGINAL: It's a regular-looking rock.
+TRADUCCION:
+[5|1|4|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[6|1|4|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[7|1|4|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[4|1|4|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+

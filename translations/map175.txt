@@ -1,0 +1,23 @@
+[2|1|0|2]
+ORIGINAL: The laptop shows a website. It´s called "Epstein and Friends".
+TRADUCCION:
+
+[3|1|0|1]
+ORIGINAL: \bWow, you were amazing!
+TRADUCCION:
+
+[3|1|1|1]
+ORIGINAL: \bYou´re an adult now, so let me reward you!
+TRADUCCION:
+
+[3|1|14|2]
+ORIGINAL: \bA responsible adult always uses protection, so take this.
+TRADUCCION:
+
+[3|1|17|1]
+ORIGINAL: \bYou´re welcome, honey!
+TRADUCCION:
+
+[3|2|0|1]
+ORIGINAL: \bRemember, don´t tell anyone about this!
+TRADUCCION:

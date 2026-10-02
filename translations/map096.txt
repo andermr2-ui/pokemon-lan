@@ -1,0 +1,35 @@
+[11|1|2|1]
+ORIGINAL: \bDo you feel the heat?
+TRADUCCION:
+
+[11|2|0|2]
+ORIGINAL: \bDo you need a hint? The switch next to me needs to be turned on.
+TRADUCCION:
+
+[11|3|0|1]
+ORIGINAL: \bWell done. Defeating Solan is a big achievement!
+TRADUCCION:
+
+[12|1|2|1]
+ORIGINAL: \bIt´s about to get hot!
+TRADUCCION:
+
+[12|2|0|2]
+ORIGINAL: \bDo you need a hint? I would help you but I don´t actually know the right combination.
+TRADUCCION:
+
+[12|3|0|3]
+ORIGINAL: \bWow, impressive! Solan always brings his Pokémon to the limit of what they can do, but you still triumphed!
+TRADUCCION:
+
+[2|1|0|3]
+ORIGINAL: \bWelcome to the Mistveil Gym. In this Gym, the trainers use Fire-Type Pokémon, which are weak to Ground-, Water- and Rock-Type attacks.
+TRADUCCION:
+
+[2|1|3|2]
+ORIGINAL: \bBut don´t underestimate Solan, the Gym Leader. He is known for ending trainer careers early. Good luck!
+TRADUCCION:
+
+[2|2|0|2]
+ORIGINAL: \bGood job! Solan is a fierce trainer, so you should be proud!
+TRADUCCION:

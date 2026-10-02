@@ -1,0 +1,43 @@
+[5|1|0|3]
+ORIGINAL: \bGary: Congratulations, \PN. I know how it feels to battle against you, and those trainers really gave it their all, but you crushed them all!
+TRADUCCION:
+
+[5|1|3|3]
+ORIGINAL: \bBut let me keep this short: After our battle, I called my old rival, Ash Ketchum. Yup, the former World Champion.
+TRADUCCION:
+
+[5|1|6|1]
+ORIGINAL: \bI told him about you, and I think he was interested.
+TRADUCCION:
+
+[5|1|7|3]
+ORIGINAL: \bAt the end of our call, he simply said: "Should \PN manage to become World Champion, then I´ll come out of retirement."
+TRADUCCION:
+
+[5|1|10|3]
+ORIGINAL: \bAnd guess what, the second you took down Zeke´s last Pokémon, he called me. He´s waiting for you on Route 1.
+TRADUCCION:
+
+[5|1|13|3]
+ORIGINAL: \bI should warn you though, Ash isn´t like the other trainers you´ve battled so far. He´s different. So don´t challenge him unprepared. Good luck!
+TRADUCCION:
+
+[5|2|0|2]
+ORIGINAL: \bGary: I should visit Gramps again, I want to see how he´s doing.
+TRADUCCION:
+
+[1|1|0|2]
+ORIGINAL: \bZeke: Here we are. I´m off to sign up for the tournament. And you better make it to the final round!
+TRADUCCION:
+
+[3|1|0|3]
+ORIGINAL: \bI wish I could afford a ticket to a tournament. Did you know Cynthia, the Sinnoh Champion, actually had a battle in this stadium 5 years ago?
+TRADUCCION:
+
+[3|1|3|2]
+ORIGINAL: \bI watched that on TV, and she smoked her opponent!
+TRADUCCION:
+
+[4|1|0|3]
+ORIGINAL: \bIf I train hard enough, I might be able to participate in a tournament one day. That´d be the coolest thing ever!
+TRADUCCION:

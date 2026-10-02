@@ -1,0 +1,71 @@
+[1|1|2|3]
+ORIGINAL: \bOh, looks like the new guy already lost. But that´s okay, because I haven´t had a battle in weeks. I´m Ardenia, and I love fossil Pokémon.
+TRADUCCION:
+
+[1|1|5|2]
+ORIGINAL: \bThese ancient creatures have been with me since my childhood, since my dad runs the Mistveil Institute. 
+TRADUCCION:
+
+[1|1|7|2]
+ORIGINAL: \bAs a member of the Elite Four, I want to show the world how strong these Pokémon are! Let´s rock!
+TRADUCCION:
+
+[1|1|11|3]
+ORIGINAL: \bThat was incredible! It´s very rare to see a trainer of your caliber, so this loss doesn´t even hurt that much.
+TRADUCCION:
+
+[1|1|14|3]
+ORIGINAL: \bYou can now go on to the next room. But heal your Pokémon before you challenge Morgana. I hope you succeed!
+TRADUCCION:
+
+[1|2|0|3]
+ORIGINAL: \bI think I´m gonna look for some Galarian fossils. That should give my team the final bit of strength it needs.
+TRADUCCION:
+
+[1|3|2|1]
+ORIGINAL: \bWhat´s up, \PN? How´s life as the Champ?
+TRADUCCION:
+
+[1|3|3|3]
+ORIGINAL: \bOne can only imagine how good it feels to be the best trainer out there. And it looks like that trainer is ready for a rematch!
+TRADUCCION:
+
+[1|3|6|3]
+ORIGINAL: \bI´ve made a strong addition to my team, and my choice might surprise you. Come on, let me show you!
+TRADUCCION:
+
+[1|3|11|3]
+ORIGINAL: \bHm, so even Arctozolt wasn´t enough to make you flinch. I need to optimize my team even more as it seems.
+TRADUCCION:
+
+[1|3|14|3]
+ORIGINAL: \bThere´s something about the bond between you and your Pokémon that I have never seen anywhere else. What´s your secret?!
+TRADUCCION:
+
+[1|3|17|3]
+ORIGINAL: \bNow hurry up and challenge Morgana, she can´t stop talking about your rematch. Apparently she has a new trick up her sleeve, so you should watch out.
+TRADUCCION:
+
+[1|4|0|3]
+ORIGINAL: \bMy fossil-based team might have its weaknesses, but once I manage to extract the full power of all of my Pokémon, no one will be able to stop me!
+TRADUCCION:
+
+[1|5|2|2]
+ORIGINAL: \bWhat´s up, Champion? I take it you want to have another battle?
+TRADUCCION:
+
+[1|5|4|2]
+ORIGINAL: \bThat´s great, ´cause today has been really boring. Here we go!
+TRADUCCION:
+
+[1|5|8|2]
+ORIGINAL: \bEven when I know what´s about to hit me, I´m still baffled every time we batte.
+TRADUCCION:
+
+[1|5|10|2]
+ORIGINAL: \bYou´re really, really good at this. I´ve learned a lot from you, so please challenge me again in the future!
+TRADUCCION:
+
+[1|6|0|2]
+ORIGINAL: \bI´ve grown a lot stronger since our first battle, but nothing compares to your strength.
+TRADUCCION:

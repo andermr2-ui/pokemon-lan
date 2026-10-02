@@ -1,0 +1,15 @@
+[1|1|0|1]
+ORIGINAL: \bThis is the Tiall Region.
+TRADUCCION:
+
+[1|1|1|1]
+ORIGINAL: \bDo you want to go back to the Essen Region?
+TRADUCCION:
+
+[1|1|11|1]
+ORIGINAL: \bLet me know if you do.
+TRADUCCION:
+[1|1|2|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+

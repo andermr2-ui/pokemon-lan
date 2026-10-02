@@ -1,0 +1,39 @@
+[6|1|0|1]
+ORIGINAL: \bWait a minute, this fishing stuff is hella boring...
+TRADUCCION:
+
+[6|1|1|3]
+ORIGINAL: \bI should´ve tried this with cheaper equipment first, but no, I had to buy the most expensive equipment immediately.
+TRADUCCION:
+
+[6|1|4|2]
+ORIGINAL: \bWould you mind taking this? I need to find a more exciting hobby, cause this ain´t it.
+TRADUCCION:
+
+[6|1|7|2]
+ORIGINAL: \bI´m glad I tried it out, but I guess I just don´t have the patience for fishing.
+TRADUCCION:
+
+[6|2|0|2]
+ORIGINAL: \bI need a hobby where I actually do stuff. Maybe surfing in Alola or Cycling in Kalos?
+TRADUCCION:
+
+[6|2|2|2]
+ORIGINAL: \bNah, I´m probably just gonna hit the slots again. My attention span cooked, and I don´t even use Insta...
+TRADUCCION:
+
+[2|1|2|2]
+ORIGINAL: \bI train with my father every day. Let us show you our progress!
+TRADUCCION:
+
+[2|2|0|2]
+ORIGINAL: \bWe need to train our Pokémon even more. I want to be as as strong as you!
+TRADUCCION:
+
+[3|1|2|2]
+ORIGINAL: \bMy daughter wants to train with me, and I can´t disappoint her!
+TRADUCCION:
+
+[3|2|0|2]
+ORIGINAL: \bMaybe my daughter is right. If we keep on training, we might get to your level one day!
+TRADUCCION:

@@ -1,0 +1,215 @@
+[11|1|0|1]
+ORIGINAL: This wall looks odd.
+TRADUCCION:
+
+[11|2|0|2]
+ORIGINAL: This wall looks odd. Do you want to remove some bricks?
+TRADUCCION:
+
+[11|2|5|1]
+ORIGINAL: There is a hole behind the wall. But it´s empty...
+TRADUCCION:
+
+[11|3|0|1]
+ORIGINAL: There is a hole behind the wall. But it´s empty...
+TRADUCCION:
+
+[12|1|0|1]
+ORIGINAL: This wall looks odd.
+TRADUCCION:
+
+[12|2|0|2]
+ORIGINAL: This wall looks odd. Do you want to remove some bricks?
+TRADUCCION:
+
+[12|2|5|2]
+ORIGINAL: There is a hole behind the wall. Something is hidden inside the hole.
+TRADUCCION:
+
+[12|3|0|1]
+ORIGINAL: There is a hole behind the wall. But it´s empty...
+TRADUCCION:
+
+[13|1|0|1]
+ORIGINAL: This wall looks odd.
+TRADUCCION:
+
+[13|2|0|2]
+ORIGINAL: This wall looks odd. Do you want to remove some bricks?
+TRADUCCION:
+
+[13|2|5|1]
+ORIGINAL: There is a hole behind the wall. But it´s empty...
+TRADUCCION:
+
+[13|3|0|1]
+ORIGINAL: There is a hole behind the wall. But it´s empty...
+TRADUCCION:
+
+[2|1|8|2]
+ORIGINAL: \bGiovanni: Ah, there you are. Of course these stupid grunts wouldn´t be able to intimidate you.
+TRADUCCION:
+
+[2|1|10|2]
+ORIGINAL: \bYou´ve arrived at the right time, because I´m about to begin the ritual. Come and join me.
+TRADUCCION:
+
+[2|1|20|2]
+ORIGINAL: \bGiovanni: Don´t interrupt me while I do this. Just watch.
+TRADUCCION:
+
+[2|1|24|1]
+ORIGINAL: \bVirizion.
+TRADUCCION:
+
+[2|1|27|1]
+ORIGINAL: \bCobalion.
+TRADUCCION:
+
+[2|1|30|1]
+ORIGINAL: \bTerrakion.
+TRADUCCION:
+
+[2|1|31|2]
+ORIGINAL: \bGiovanni: I have brought the three of you here, because only you can make Keldeo appear.
+TRADUCCION:
+
+[2|1|33|2]
+ORIGINAL: \bKeldeo has fascinated me since I first heard about it. The Pokémon that holds the power to seal Kyrem.
+TRADUCCION:
+
+[2|1|35|1]
+ORIGINAL: \bNow, it is time. Make Keldeo appear!
+TRADUCCION:
+
+[2|1|57|1]
+ORIGINAL: \bKel?
+TRADUCCION:
+
+[2|1|58|3]
+ORIGINAL: \bGiovanni: Hello, Keldeo. I´m pleased to finally meet you. My name is Giovanni, and I want to make an alliance with you.
+TRADUCCION:
+
+[2|1|61|2]
+ORIGINAL: \bIf you become my ally, you will no longer need to go into hiding. So, what do you say?
+TRADUCCION:
+
+[2|1|79|1]
+ORIGINAL: \bGiovanni: Ouch...
+TRADUCCION:
+
+[2|1|80|1]
+ORIGINAL: \bWhy did you do that?! What did I do to you?
+TRADUCCION:
+
+[2|1|81|3]
+ORIGINAL: \bThis is disappointing. Well, good thing I have another Master Ball. If you want to take the hard way like your teachers, then I´m okay with that.
+TRADUCCION:
+
+[2|1|84|1]
+ORIGINAL: \bYou´re mine!
+TRADUCCION:
+
+[2|1|98|2]
+ORIGINAL: \bGiovanni: You really made that harder than it needed to be.
+TRADUCCION:
+
+[2|1|107|2]
+ORIGINAL: \bGiovanni: Oh come on, you shouldn´t be surprised, I did the same thing with you.
+TRADUCCION:
+
+[2|1|112|3]
+ORIGINAL: \bAnd you shouldn´t be surprised either. I know that you want to stop me. You´re not the first kid that interfered with my business.
+TRADUCCION:
+
+[2|1|115|1]
+ORIGINAL: \bBut give me a second.
+TRADUCCION:
+
+[2|1|119|1]
+ORIGINAL: \bCome back into your Poké Balls now.
+TRADUCCION:
+
+[2|1|126|3]
+ORIGINAL: \bI have an offer to make. The Swords of Justice have fulfilled their task, so I don´t need them anymore.
+TRADUCCION:
+
+[2|1|129|3]
+ORIGINAL: \bAnd because I know that you´re a strong trainer, how about this: If you win against the Swords of Justice in battle, I will release them.
+TRADUCCION:
+
+[2|1|132|2]
+ORIGINAL: \bYeah, I knew you would say yes. And don´t worry, I am a man of my word.
+TRADUCCION:
+
+[2|1|135|2]
+ORIGINAL: \bI might have won our first battle, but that was quite a while ago. Show me what you´ve got!
+TRADUCCION:
+
+[2|1|139|1]
+ORIGINAL: \bAnd now, show me what you´ve got!
+TRADUCCION:
+
+[2|2|0|3]
+ORIGINAL: \bGiovanni: I expected you to be strong, but that shattered my expectations. As I said, I am a man of my word.
+TRADUCCION:
+
+[2|2|4|2]
+ORIGINAL: Giovanni released the Swords of Justice back into the wild.
+TRADUCCION:
+
+[2|2|6|3]
+ORIGINAL: \bGiovanni: You look surprised. Did you really think that I would lie to you? Who do you think I am, some weird gangster?
+TRADUCCION:
+
+[2|2|9|2]
+ORIGINAL: \bLet me tell you something. I am an honorable man that gets what he wants by sheer determination.
+TRADUCCION:
+
+[2|2|11|3]
+ORIGINAL: \bI will get going now. And if you follow me again,  there will be consequences. So far, I always went easy on you, because you´re just a kid.
+TRADUCCION:
+
+[2|2|14|3]
+ORIGINAL: \bBut you´re starting to remind of a certain someone, and you better not make the same mistakes as that guy. Goodbye, \PN.
+TRADUCCION:
+
+[8|1|0|1]
+ORIGINAL: This wall looks odd.
+TRADUCCION:
+
+[8|2|0|2]
+ORIGINAL: This wall looks odd. Do you want to remove some bricks?
+TRADUCCION:
+
+[8|2|5|1]
+ORIGINAL: There is a hole behind the wall. But it´s empty...
+TRADUCCION:
+
+[8|3|0|1]
+ORIGINAL: There is a hole behind the wall. But it´s empty...
+TRADUCCION:
+
+[9|1|0|2]
+ORIGINAL: \bOh I don´t actually want to battle you, I´m just supposed to stand here with a scary face.
+TRADUCCION:
+
+[10|1|0|2]
+ORIGINAL: \bAhhhh, please spare me, I just got paid to stand here, I´m not even a trainer!
+TRADUCCION:
+[11|2|2|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[12|2|2|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[13|2|2|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[8|2|2|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+

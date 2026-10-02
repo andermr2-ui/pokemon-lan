@@ -1,0 +1,7 @@
+[2|1|2|1]
+ORIGINAL: \bWhy do these bridges have no guardrail?
+TRADUCCION:
+
+[2|2|0|2]
+ORIGINAL: \bI should add some guardrails to this bridge. This is too dangerous otherwise.
+TRADUCCION:

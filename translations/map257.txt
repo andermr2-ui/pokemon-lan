@@ -1,0 +1,79 @@
+[2|1|0|3]
+ORIGINAL: \bWelcome to our house! I´m a big fan of a Pokémon called Accelgor, but my sister doesn´t want to trade her Shelmet with me.
+TRADUCCION:
+
+[2|1|3|3]
+ORIGINAL: \bDid you know that Shelmet and Karrablast can only evolve when they´re traded with each other? And my stupid sister refuses to trade with me out of spite.
+TRADUCCION:
+
+[2|1|6|2]
+ORIGINAL: \bDo you have a Shelmet that you want to trade for my Karrablast?
+TRADUCCION:
+
+[2|1|17|1]
+ORIGINAL: \bYou don't want to trade?  Aww...
+TRADUCCION:
+
+[2|1|20|1]
+ORIGINAL: \bOK, let's get started.
+TRADUCCION:
+
+[2|1|25|1]
+ORIGINAL: \PN traded Shelmet for Karrablast!
+TRADUCCION:
+
+[2|1|26|1]
+ORIGINAL: \bThanks a lot, you´re much nicer than my sister.
+TRADUCCION:
+
+[2|1|32|1]
+ORIGINAL: \bYou don't want to trade? Aww...
+TRADUCCION:
+
+[2|2|0|1]
+ORIGINAL: \bThanks for trading with me!
+TRADUCCION:
+
+[3|1|0|3]
+ORIGINAL: \bOh, hello. Welcome to our place. Would you mind doing me a little favor? Don´t worry, you´d benefit from this as well.
+TRADUCCION:
+
+[3|1|3|3]
+ORIGINAL: \bMy annoying brother wants me to trade my Shelmet for his Karrablast, which would make both Pokémon evolve, but I don´t want to give him the satisfaction.
+TRADUCCION:
+
+[3|1|6|2]
+ORIGINAL: \bWould you trade a Karrablast for my Shelmet in oder to make my brother shut up?
+TRADUCCION:
+
+[3|1|17|1]
+ORIGINAL: \bYou don't want to trade?  Aww...
+TRADUCCION:
+
+[3|1|20|1]
+ORIGINAL: \bOK, let's get started.
+TRADUCCION:
+
+[3|1|25|1]
+ORIGINAL: \PN traded Karrablast for Shelmet!
+TRADUCCION:
+
+[3|1|26|1]
+ORIGINAL: \bThank you, now my brother won´t bother me again.
+TRADUCCION:
+
+[3|1|32|1]
+ORIGINAL: \bYou don't want to trade? Aww...
+TRADUCCION:
+
+[3|2|0|1]
+ORIGINAL: \bThanks for trading with me!
+TRADUCCION:
+[2|1|8|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[3|1|8|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+

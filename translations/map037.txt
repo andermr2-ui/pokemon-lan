@@ -1,0 +1,7 @@
+[3|1|1|3]
+ORIGINAL: \bEverything in here uses a temporary switch to decide what to do, rather than a Self Switch, because it all needs to reset each time you enter.
+TRADUCCION:
+
+[3|2|0|1]
+ORIGINAL: \bYou beat me! Go on to the Hall of Fame.
+TRADUCCION:

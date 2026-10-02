@@ -1,0 +1,23 @@
+[2|1|2|2]
+ORIGINAL: \bThere´s three things in life that I love. Beautiful women, cooking, and Pokémon battles!
+TRADUCCION:
+
+[2|2|0|1]
+ORIGINAL: \bI need a woman in my life...
+TRADUCCION:
+
+[3|1|2|1]
+ORIGINAL: \bHey, get off my beach!
+TRADUCCION:
+
+[3|2|0|3]
+ORIGINAL: \bThis is easily the best beach in all of Delta, because hardly anyone comes here. This is what I call relaxing.
+TRADUCCION:
+
+[4|1|2|1]
+ORIGINAL: \bAhhhhhh, get out of my waaaaaay!!!
+TRADUCCION:
+
+[4|2|0|3]
+ORIGINAL: \bPlease get out of my way now, I really need to train. I have a competition coming up, and I don´t plan on losing!
+TRADUCCION:

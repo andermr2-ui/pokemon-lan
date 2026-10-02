@@ -1,0 +1,7 @@
+[7|1|0|2]
+ORIGINAL: \bI thought I could buy weed up here, but I guess the "Drugstore" doesn´t actually sell any drugs.
+TRADUCCION:
+
+[4|1|0|1]
+ORIGINAL: \sign[signskin]5F: Drugstore
+TRADUCCION:

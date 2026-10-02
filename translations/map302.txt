@@ -1,0 +1,11 @@
+[5|1|0|1]
+ORIGINAL: \bDo you like Latinas? I love Latinas!!!
+TRADUCCION:
+
+[3|1|0|2]
+ORIGINAL: \bI always have to be with my sister, because I get lost when I´m alone.
+TRADUCCION:
+
+[4|1|0|2]
+ORIGINAL: \bMy sister has no sense of direction, so she needs me to get around.
+TRADUCCION:

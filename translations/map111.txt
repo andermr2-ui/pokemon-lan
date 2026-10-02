@@ -1,0 +1,15 @@
+[1|1|2|1]
+ORIGINAL: \bAre you worthy of making it to Silver Peak?
+TRADUCCION:
+
+[1|2|0|2]
+ORIGINAL: \bSilver Peak is a very remote town, but it is a must visit if you´re attempting the Gym Challenge.
+TRADUCCION:
+
+[4|1|2|1]
+ORIGINAL: \bYoooooooo! This place is literally metal!
+TRADUCCION:
+
+[4|2|0|1]
+ORIGINAL: \bThis place is heaven for metalheads!
+TRADUCCION:

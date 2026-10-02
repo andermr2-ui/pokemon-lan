@@ -1,0 +1,7 @@
+[3|1|0|1]
+ORIGINAL: \bInflation has gotten really bad...
+TRADUCCION:
+
+[3|1|1|2]
+ORIGINAL: \bBeing a Pokémon Trainer these days is expensive, I would not wanna do that...
+TRADUCCION:

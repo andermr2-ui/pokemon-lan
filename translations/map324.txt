@@ -1,0 +1,143 @@
+[5|1|0|2]
+ORIGINAL: \bAh, so you want more Deity Balls? No problem, I have a few for you.
+TRADUCCION:
+
+[5|2|0|3]
+ORIGINAL: \bSorry, but we´re out of Deity Balls at the moment. New ones are currently being produced, so why don´t you come back later?
+TRADUCCION:
+
+[6|1|0|3]
+ORIGINAL: \bWhy did they ask their trainee to operate this machine? I only got here by using Rotom AI, I don´t know what any of these buttons do!
+TRADUCCION:
+
+[2|1|0|3]
+ORIGINAL: \bArthur: Welcome to the Delta Tech Company. This is were theory becomes reality. You´ve already used some of their products, the Deity Balls.
+TRADUCCION:
+
+[2|1|3|2]
+ORIGINAL: \bYou really helped us, so the least I can do is give you some super useful stuff.
+TRADUCCION:
+
+[2|1|8|1]
+ORIGINAL: \bBut wait, there´s more!
+TRADUCCION:
+
+[2|1|9|3]
+ORIGINAL: \bI´ve been allowed to test a new device called the Delta Scanner, and it was able to reveal the location of both Zekrom and Reshiram.
+TRADUCCION:
+
+[2|1|12|3]
+ORIGINAL: \bZekrom is currently roaming around somewhere on Thunder Pass, and Reshiram should be somewhere in the Scorching Valley.
+TRADUCCION:
+
+[2|1|15|3]
+ORIGINAL: \bYou could try to go after those, or you could take the ferry to the Delta Islands. Yup, they finally fixed that bloody boat!
+TRADUCCION:
+
+[2|1|18|2]
+ORIGINAL: \bYou should check out the Champions Village and the Hisui Wildlife Station, I highly recommend it.
+TRADUCCION:
+
+[2|1|20|3]
+ORIGINAL: \bWe still don´t know why the weather on Southside Beach is going crazy, but I´m sure you´ll figure it out eventually.
+TRADUCCION:
+
+[2|1|23|3]
+ORIGINAL: \bI´m thinking of challenging the Pokémon League again, because I want to take back my title. So be prepared, I will battle you again one day!
+TRADUCCION:
+
+[2|2|0|3]
+ORIGINAL: \bArthur: The Hisui Wildlife Station is a very special place. Seeing those nearly extinct Pokémon is a humbling experience.
+TRADUCCION:
+
+[3|1|0|3]
+ORIGINAL: \bAh, you must be the new Champion. Arthur has told us all about you. I bet you´re interested in obtaining a rare Pokémon!
+TRADUCCION:
+
+[3|1|3|3]
+ORIGINAL: \bAs you might know, we tested our new Deity Balls on a Pokémon called Type: Null, but we no longer need it for research purposes.
+TRADUCCION:
+
+[3|1|6|3]
+ORIGINAL: \bSince this Pokémon was made in a lab, its true power is unknown, so it should be with a very strong trainer.
+TRADUCCION:
+
+[3|1|9|1]
+ORIGINAL: \bAlright, here you go.
+TRADUCCION:
+
+[3|1|12|3]
+ORIGINAL: \bShould this Pokémon evolve or gain immense power in some way, please come back and show me the result.
+TRADUCCION:
+
+[3|1|18|1]
+ORIGINAL: There's no more room for Pokémon!
+TRADUCCION:
+
+[3|1|19|1]
+ORIGINAL: The Pokémon Boxes are full and can't accept any more!
+TRADUCCION:
+
+[3|2|1|2]
+ORIGINAL: \bHm? What? Type: Null actually evolved? That´s incredible! Could you show me the result?
+TRADUCCION:
+
+[3|2|4|3]
+ORIGINAL: \bAh, so that´s Silvally. But wait, are my eyes deceiving me?! Could this one actually be compatible with the discs that we got?!
+TRADUCCION:
+
+[3|2|7|3]
+ORIGINAL: \bIf you haven´t done so already, talk to one of my colleagues. She has weird memory discs that might be useful now.
+TRADUCCION:
+
+[3|2|10|3]
+ORIGINAL: \bAnyways, I bet you want to look after another mysterious Pokémon. Haha, then I have great news for you.
+TRADUCCION:
+
+[3|2|13|3]
+ORIGINAL: \bA few weeks ago, a very strange Pokémon was discovered. No one knows anything about it, so this sounds like a job for you.
+TRADUCCION:
+
+[3|2|16|1]
+ORIGINAL: \bHere you go.
+TRADUCCION:
+
+[3|2|19|1]
+ORIGINAL: \bAlright, have fun researching this one. Bye!
+TRADUCCION:
+
+[3|2|23|1]
+ORIGINAL: There's no more room for Pokémon!
+TRADUCCION:
+
+[3|2|24|1]
+ORIGINAL: The Pokémon Boxes are full and can't accept any more!
+TRADUCCION:
+
+[3|2|29|2]
+ORIGINAL: \bResearching the power of mysterious Pokémon is always exciting!
+TRADUCCION:
+
+[3|3|0|2]
+ORIGINAL: \bThere´re some mysterious Pokémon out there, wouldn´t you agree?
+TRADUCCION:
+
+[4|1|1|3]
+ORIGINAL: \bWhat? Type: Null evolved?! Then I believe these discs will work now. And since we gifted you the Pokémon, why don´t you take the discs as well?
+TRADUCCION:
+
+[4|1|21|1]
+ORIGINAL: \bThat´s all of them. Thanks for helping us out!
+TRADUCCION:
+
+[4|1|25|3]
+ORIGINAL: \bA team of scientists from Alola gifted us with Type: Null, a mysterious Pokémon which was born in their laboratory.
+TRADUCCION:
+
+[4|1|28|3]
+ORIGINAL: \bThey also gave us some weird discs, which are supposed to change Type: Null´s Type, but so far we haven´t been successful with that.
+TRADUCCION:
+
+[4|2|0|2]
+ORIGINAL: \bI wonder how many Pokémon have been made in labs so far...
+TRADUCCION:

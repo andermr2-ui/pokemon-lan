@@ -1,0 +1,7 @@
+[1|1|1|1]
+ORIGINAL: \bHello young trainer. You look exhausted. Take this.
+TRADUCCION:
+
+[1|1|6|1]
+ORIGINAL: \bTake care!
+TRADUCCION:

@@ -1,0 +1,3 @@
+[3|1|0|3]
+ORIGINAL: \bYou should buy some Repels if you want to swim in the Delta Sea. You don´t need to, but without them you´re gonna have to battle wild Pokémon out there.
+TRADUCCION: \bDeberías comprar algunos Repelentes si quieres nadar en el Mar Delta. No es obligatorio, pero sin ellos vas a tener que combatir contra Pokémon salvajes allí afuera.

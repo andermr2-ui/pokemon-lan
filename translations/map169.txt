@@ -1,0 +1,31 @@
+[1|1|0|1]
+ORIGINAL: It´s a Pokémon Statue dedicated to Latias.
+TRADUCCION:
+
+[1|2|0|1]
+ORIGINAL: It´s a Pokémon Statue dedicated to Latias.
+TRADUCCION:
+
+[1|2|2|1]
+ORIGINAL: The Delta Stone in your pocket just lit up!
+TRADUCCION:
+
+[1|2|3|1]
+ORIGINAL: Something powerful is approaching!
+TRADUCCION:
+
+[1|2|5|1]
+ORIGINAL: \bTIAAAS!!!
+TRADUCCION:
+
+[1|3|0|1]
+ORIGINAL: It´s a Pokémon Statue dedicated to Latias.
+TRADUCCION:
+
+[1|4|0|1]
+ORIGINAL: Latias disappeared. Will it come back?
+TRADUCCION:
+
+[1|5|0|1]
+ORIGINAL: It´s a Pokémon Statue dedicated to Latias.
+TRADUCCION:

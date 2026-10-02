@@ -1,0 +1,15 @@
+[2|1|1|1]
+ORIGINAL: \bRAKION!!!
+TRADUCCION:
+
+[2|3|0|1]
+ORIGINAL: Iron Boulder disappeared. Will it come back?
+TRADUCCION:
+
+[3|1|2|1]
+ORIGINAL: It´s a dead body...
+TRADUCCION:
+
+[4|1|2|1]
+ORIGINAL: It´s a dead body...
+TRADUCCION:

@@ -1,0 +1,31 @@
+[5|1|2|1]
+ORIGINAL: \bAh, finally I can use these new moves!
+TRADUCCION:
+
+[5|2|0|2]
+ORIGINAL: \bIt´s always exciting when your Pokémon learn new moves.
+TRADUCCION:
+
+[7|1|1|1]
+ORIGINAL: Calyrex is staring at you.
+TRADUCCION:
+
+[7|1|3|1]
+ORIGINAL: It wants to battle!
+TRADUCCION:
+
+[7|1|5|1]
+ORIGINAL: \bREEEEEX!!!
+TRADUCCION:
+
+[7|3|0|1]
+ORIGINAL: Calyrex disappeared. Will it come back?
+TRADUCCION:
+
+[4|1|2|2]
+ORIGINAL: \bRelic Cave is said to hold great treasures. And I´m gonna hit the jackpot!
+TRADUCCION:
+
+[4|2|0|2]
+ORIGINAL: \bYou remind me of myself when I was younger. Full of energy and ready for adventure!
+TRADUCCION:

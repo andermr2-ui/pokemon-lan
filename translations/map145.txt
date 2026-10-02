@@ -1,0 +1,59 @@
+[27|1|2|1]
+ORIGINAL: \bIt´s about to get heavy!
+TRADUCCION:
+
+[27|2|0|2]
+ORIGINAL: \bWith so many Pokémon living here, some of them must share my music taste.
+TRADUCCION:
+
+[28|1|2|1]
+ORIGINAL: \bWhat brings you to this crater?
+TRADUCCION:
+
+[28|2|0|2]
+ORIGINAL: \bRoute 8 has a lot of craters. That´s part of the reason why so many Pokémon live here.
+TRADUCCION:
+
+[29|1|2|1]
+ORIGINAL: \bOi, kiddo! Who allowed you to enter my territory.
+TRADUCCION:
+
+[29|2|0|1]
+ORIGINAL: \bI´m sorry, boss. I didn´t mean to anger you.
+TRADUCCION:
+
+[30|1|4|2]
+ORIGINAL: \bWe would battle you, but with just one Pokémon on your team, this wouldn´t be fair.
+TRADUCCION:
+
+[30|1|10|1]
+ORIGINAL: \bYou´re going to lose! I can read my sisters mind!
+TRADUCCION:
+
+[30|2|0|1]
+ORIGINAL: \bIf I try hard enough, I can see what she thinks.
+TRADUCCION:
+
+[25|1|2|2]
+ORIGINAL: \bOh, you want to visit my Berry Garden? Then convince me to let you in!
+TRADUCCION:
+
+[25|2|0|1]
+ORIGINAL: \bMy garden is your garden. Take what you need.
+TRADUCCION:
+
+[31|1|4|2]
+ORIGINAL: \bWe would battle you, but with just one Pokémon on your team, this wouldn´t be fair.
+TRADUCCION:
+
+[31|1|10|1]
+ORIGINAL: \bMy sister and I never lose, and we´ll show you!
+TRADUCCION:
+
+[31|2|0|2]
+ORIGINAL: \bShe thinks she can read my mind, but she just has ADHD.
+TRADUCCION:
+
+[26|1|0|1]
+ORIGINAL: Remina´s Berry Garden
+TRADUCCION:

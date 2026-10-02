@@ -1,0 +1,39 @@
+[7|1|2|1]
+ORIGINAL: \bAbove you!
+TRADUCCION:
+
+[7|2|0|2]
+ORIGINAL: \bThe birds on Route 8 are really strong. You should catch some of them.
+TRADUCCION:
+
+[8|1|2|1]
+ORIGINAL: \bHey, you! Look at what I caught!
+TRADUCCION:
+
+[8|2|0|2]
+ORIGINAL: \bHaving a fishing rod on Route 8 is awesome! There are a ton of Pokémon in these ponds!
+TRADUCCION:
+
+[3|1|1|1]
+ORIGINAL: \bWAIT!
+TRADUCCION:
+
+[3|1|2|1]
+ORIGINAL: \bDon´t just go up that hill! Lilligant lives at the top.
+TRADUCCION:
+
+[3|1|3|3]
+ORIGINAL: \bOh, but this is not a normal Lilligant. This one is from ancient times. Don´t disturbe its peace, you will just anger it!
+TRADUCCION:
+
+[3|2|0|1]
+ORIGINAL: \bThis form of Lilligant should be extinct...
+TRADUCCION:
+
+[10|1|2|1]
+ORIGINAL: \bHey! That´s where I was gonna put my tent!
+TRADUCCION:
+
+[10|2|0|1]
+ORIGINAL: \bI love camping at this lake.
+TRADUCCION:

@@ -1,0 +1,171 @@
+[3|1|20|3]
+ORIGINAL: \bWhat´s up? I´m Alessio, and I did the Gym Challenge with ease. I will win this tournament, and then the champion is done for!
+TRADUCCION:
+
+[3|2|0|3]
+ORIGINAL: \bMy Pokémon team wiped the floor with the Gym Leaders, but you came here and did the same thing with me...
+TRADUCCION:
+
+[3|2|3|1]
+ORIGINAL: \bWe will meet again.
+TRADUCCION:
+
+[3|4|20|3]
+ORIGINAL: \bHello, \PN. I was watching your first battle, and it really impressed me. I´m Freya, and I´ve wanted to become champion since I was young.
+TRADUCCION:
+
+[3|4|23|1]
+ORIGINAL: \bLet´s put on a show for the spectators!
+TRADUCCION:
+
+[3|5|0|2]
+ORIGINAL: \bIt hurts to lose like this. But I had a lot of fun! This battle was straight from a movie!
+TRADUCCION:
+
+[3|5|2|2]
+ORIGINAL: \bWe´ll have a rematch one day. Good luck for the last battle.
+TRADUCCION:
+
+[3|7|20|3]
+ORIGINAL: \bZeke: This is exactly what I wanted. A battle to find out who the stronger trainer is. You beat me before, because I had the wrong mindset.
+TRADUCCION:
+
+[3|7|23|3]
+ORIGINAL: \bBut I no longer want to be like you. I have a different goal. I want to become the best trainer in the entire world!
+TRADUCCION:
+
+[3|7|26|2]
+ORIGINAL: \bYou and the Champion are just small obstacles on my way to challenge the all time greats.
+TRADUCCION:
+
+[3|7|28|3]
+ORIGINAL: \bSteven Stone. Cynthia. Leon. Ash Ketchum. Those names sound familiar, don´t they? And I will surpass all of them!
+TRADUCCION:
+
+[3|7|31|2]
+ORIGINAL: \bI´ve created a strong team. I have mastered the Mega Evolution. And I will win this tournament!
+TRADUCCION:
+
+[3|8|0|1]
+ORIGINAL: \bZeke: It can´t be...
+TRADUCCION:
+
+[3|8|1|2]
+ORIGINAL: \bWhat do I have to do in order to surpass you? What am I doing wrong?!
+TRADUCCION:
+
+[3|8|3|1]
+ORIGINAL: \bNo, wait...
+TRADUCCION:
+
+[3|8|4|3]
+ORIGINAL: \bMaybe this is the limit. Maybe there´s a limit for each trainer. And you might be one of the few who managed to go past their limit.
+TRADUCCION:
+
+[3|8|7|1]
+ORIGINAL: \bDon´t worry, I won´t just give up like that.
+TRADUCCION:
+
+[3|8|8|2]
+ORIGINAL: \bMaybe I still don´t have the right mindset. Maybe I still need to figure out who I want to be.
+TRADUCCION:
+
+[3|8|10|3]
+ORIGINAL: \bI think I should travel the world. I really want to see Alola and Paldea. There´s so much to see and learn out there.
+TRADUCCION:
+
+[3|8|13|2]
+ORIGINAL: \bI´ve reached my limit, so there´s nothing else for me to do at home. Well, I guess I´m off now. See ya!
+TRADUCCION:
+
+[3|9|0|2]
+ORIGINAL: WE HAVE A WINNER! CONGRATULATIONS, YOU WON THE CHALLENGERS TOURNAMENT!
+TRADUCCION:
+
+[3|9|2|2]
+ORIGINAL: THERE`S  A SPECIAL PRICE FOR YOU. YOU CAN CLAIM IT AT THE REGESTRATION.
+TRADUCCION:
+
+[3|11|20|2]
+ORIGINAL: \bSteven: Hello, \PN. I guess it´s finally time to find out who the better trainer is.
+TRADUCCION:
+
+[3|11|22|3]
+ORIGINAL: \bYour rise to the top is quite impressive, but you shouldn´t underestimate me. Are you ready? Then show me what you´ve got!
+TRADUCCION:
+
+[3|12|0|3]
+ORIGINAL: \bSteven: Ah, now I get what all the fuzz is about. You´re always one step ahead of your opponent, huh?
+TRADUCCION:
+
+[3|12|3|1]
+ORIGINAL: \bGood luck for round 2, \PN. Bye!
+TRADUCCION:
+
+[3|14|1|2]
+ORIGINAL: \bCynthia: Hey, what´s this? Why isn´t my theme playing?!
+TRADUCCION:
+
+[3|14|4|1]
+ORIGINAL: \bThat´s more like it!
+TRADUCCION:
+
+[3|14|24|3]
+ORIGINAL: \bSo, \PN, are you ready for an amazing battle? I´ve honed my skills over the years, and I want to see what they can do against you.
+TRADUCCION:
+
+[3|14|27|2]
+ORIGINAL: \bI hope you brought a strong team, because you will need that now. Let´s go!
+TRADUCCION:
+
+[3|15|0|3]
+ORIGINAL: \bCynthia: Alright, that was a strong team. I´m impressed. You know what you´re doing, that´s for sure.
+TRADUCCION:
+
+[3|15|3|1]
+ORIGINAL: \bGood luck for the final battle. Give it your all!
+TRADUCCION:
+
+[3|17|20|3]
+ORIGINAL: \bZeke: Long time no see, my friend. First of all, I want to thank you for showing me my place back then.
+TRADUCCION:
+
+[3|17|23|3]
+ORIGINAL: \bIf it wasn´t for my loss, I would´ve never found the right path. But look at me now, I managed to become a Champion!
+TRADUCCION:
+
+[3|17|26|3]
+ORIGINAL: \bTravelling Paldea and Alola helped me understand who I wanted to be, and I managed to become that person.
+TRADUCCION:
+
+[3|17|29|3]
+ORIGINAL: \bAnd I know that this battle will make one of us the new World Champion, but let´s put that aside for now and just have fun. Here we go!
+TRADUCCION:
+
+[3|18|0|3]
+ORIGINAL: \bZeke: Wow, you´re truly in a league of your own. Congratulations, \PN, you´re now the World Champion!
+TRADUCCION:
+
+[3|18|3|1]
+ORIGINAL: \bBut most importantly: THAT WAS AMAZING!
+TRADUCCION:
+
+[3|18|4|2]
+ORIGINAL: \bI´ve never had this much fun in my whole life, and that´s all I wanted from this tournament.
+TRADUCCION:
+
+[3|18|6|3]
+ORIGINAL: \bBut I think it´s time for me to go home. I want to see mom again, I really miss her. Why don´t you come and visit me once in a while?
+TRADUCCION:
+
+[3|18|9|1]
+ORIGINAL: \bAlright, see ya!
+TRADUCCION:
+
+[3|19|0|1]
+ORIGINAL: AND WE HAVE A WINNER!!!
+TRADUCCION:
+
+[3|19|1|2]
+ORIGINAL: CONGRATULATIONS, YOU ARE THE NEW WORLD CHAMPION!!!
+TRADUCCION:

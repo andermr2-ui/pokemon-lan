@@ -1,0 +1,7 @@
+[3|1|0|2]
+ORIGINAL: \bThese doors are examples of good, solid door events.
+TRADUCCION:
+
+[3|1|2|3]
+ORIGINAL: \bWhen the player goes outside, be sure to transfer the player onto the door rather than next to it.  It looks better that way.
+TRADUCCION:

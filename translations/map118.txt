@@ -1,0 +1,47 @@
+[11|1|2|1]
+ORIGINAL: \bAre you afraid to get wet?
+TRADUCCION:
+
+[11|2|0|2]
+ORIGINAL: \bBefore Silver Peak was chosen for the Gym Challenge, this place was just a bath.
+TRADUCCION:
+
+[11|3|0|2]
+ORIGINAL: \bYou can be proud of yourself. Azura doesn´t make it easy for anyone.
+TRADUCCION:
+
+[12|1|2|1]
+ORIGINAL: \bWatch out, the tide is high!
+TRADUCCION:
+
+[12|2|0|2]
+ORIGINAL: \bI´ve tried to challenge Azura before but I stood no chance.
+TRADUCCION:
+
+[12|3|0|1]
+ORIGINAL: \bHow did you do that? You´re super talented!
+TRADUCCION:
+
+[2|1|0|3]
+ORIGINAL: \bWelcome to the Silver Peak Gym. You travelled all the way to Silver Peak, so I´m sure you have a fair chance at defeating Azura.
+TRADUCCION:
+
+[2|1|3|3]
+ORIGINAL: \bIn this Gym, the trainers use Water-Type Pokémon. With some Grass- and Electric-Type Pokémon in your team, you will have an advantage.
+TRADUCCION:
+
+[2|2|0|1]
+ORIGINAL: \bCongrats, you managed to stay afloat!
+TRADUCCION:
+
+[3|1|2|2]
+ORIGINAL: \bIf you want to meet my sis, you´ll have to go through me first!
+TRADUCCION:
+
+[3|2|0|2]
+ORIGINAL: \bAlright, you can challenge my sister now. I´m gonna keep swimmin´.
+TRADUCCION:
+
+[3|3|0|1]
+ORIGINAL: \bWow you actually won against sis!
+TRADUCCION:

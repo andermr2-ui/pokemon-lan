@@ -1,0 +1,3 @@
+[3|1|0|2]
+ORIGINAL: \bHm, are a few Great Balls enough, or do I need to buy an Ultra Ball?
+TRADUCCION: \bHmm, ¿bastarán unas Super Ball, o necesito comprar una Ultra Ball?

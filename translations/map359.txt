@@ -1,0 +1,175 @@
+[5|1|0|1]
+ORIGINAL: It´s an odd looking machine containing a Pokémon.
+TRADUCCION:
+
+[5|1|2|1]
+ORIGINAL: The Delta Stone in your pocket just lit up!
+TRADUCCION:
+
+[5|1|3|1]
+ORIGINAL: The Pokémon came back to life!
+TRADUCCION:
+
+[5|1|5|1]
+ORIGINAL: \bVELTAAAL!!!
+TRADUCCION:
+
+[5|2|0|1]
+ORIGINAL: It´s an odd looking machine.
+TRADUCCION:
+
+[5|3|0|2]
+ORIGINAL: Yveltal returned to a vegetative state. Will it wake up again?
+TRADUCCION:
+
+[5|4|0|1]
+ORIGINAL: It´s an odd looking machine containing a Pokémon.
+TRADUCCION:
+
+[1|1|13|1]
+ORIGINAL: \bIT WAS YOU!
+TRADUCCION:
+
+[2|1|17|2]
+ORIGINAL: \bYou´re the one who stole the Star Piece. UNFORGIVABLE!
+TRADUCCION:
+
+[2|1|19|1]
+ORIGINAL: \bBut wait, yeah, you´re the Champion?!
+TRADUCCION:
+
+[2|1|20|2]
+ORIGINAL: \bWhy would you do that? I thought the Champion was a good guy?!
+TRADUCCION:
+
+[2|1|22|3]
+ORIGINAL: \bHm, okay, I have to be honest with you: That Star Piece isn´t actually from the star that fell down 3000 years ago.
+TRADUCCION:
+
+[2|1|25|3]
+ORIGINAL: \bIt´s still worth a lot, but is has no historic relevance. I put it there because I wanted it to get stolen, as I´ve been pretty bored around here.
+TRADUCCION:
+
+[2|1|28|2]
+ORIGINAL: \bOh, and in case you´re wondering why the archive is off-limits: I´ve been experimenting on something.
+TRADUCCION:
+
+[2|1|30|2]
+ORIGINAL: \bA few weeks ago, we received a new delivery from Kalos, with stuff for the exhibition.
+TRADUCCION:
+
+[2|1|32|2]
+ORIGINAL: \bIn between all of the boring stuff, there were three very interesting objects.
+TRADUCCION:
+
+[2|1|34|2]
+ORIGINAL: \bAs it turns out, these objects were containing the Legendary Pokémon Xerneas, Yveltal and Zygarde.
+TRADUCCION:
+
+[2|1|36|3]
+ORIGINAL: \bThis would´ve made huge news, so I decided to hide them down here. You´re standing between the machines that I´m using to revive them!
+TRADUCCION:
+
+[2|1|39|2]
+ORIGINAL: \bAnd if that wasn´t crazy enough already, I´ve made quite some progress. May I show you?
+TRADUCCION:
+
+[2|1|42|2]
+ORIGINAL: \bWhat you just saw were Zygarde´s 10%-Form and its 50%-Form.
+TRADUCCION:
+
+[2|1|44|3]
+ORIGINAL: \bSince Zygarde consists of hundreds of cells, it can take different forms, depending on the amount of cells.
+TRADUCCION:
+
+[2|1|47|2]
+ORIGINAL: \bFurthermore, the cells can create multiple Zygardes, which is why I was able to use 3 of them.
+TRADUCCION:
+
+[2|1|49|3]
+ORIGINAL: \bBut only when all of the cells are together, Zygarde can turn into its Completed Form. In this form, it´s extremely powerful!
+TRADUCCION:
+
+[2|1|52|2]
+ORIGINAL: \bBut let me take a look at the current data, I want to know where I stand.
+TRADUCCION:
+
+[2|1|66|1]
+ORIGINAL: \bWait, this is odd.
+TRADUCCION:
+
+[2|1|67|1]
+ORIGINAL: \bAll cells have been revived?!
+TRADUCCION:
+
+[2|1|68|1]
+ORIGINAL: \bI was at 75% a few hours ago, how can this be?!
+TRADUCCION:
+
+[2|1|69|1]
+ORIGINAL: \bHm? You´re saying it´s your Delta Stone?
+TRADUCCION:
+
+[2|1|70|2]
+ORIGINAL: \bI don´t know what that is, but it must´ve done something.
+TRADUCCION:
+
+[2|1|72|1]
+ORIGINAL: \bOkay, wait, let me just do this...
+TRADUCCION:
+
+[2|1|73|1]
+ORIGINAL: \band then this...
+TRADUCCION:
+
+[2|1|74|1]
+ORIGINAL: \band done!
+TRADUCCION:
+
+[2|1|75|1]
+ORIGINAL: \bIncredible, Zygarde has been fully revived!
+TRADUCCION:
+
+[2|1|88|3]
+ORIGINAL: \bYes, you stole from the museum, but I hid crucial information from the world. So how about we make a deal?
+TRADUCCION:
+
+[2|1|91|2]
+ORIGINAL: \bYou get Zygarde, and in return this remains our little secret. Okay?
+TRADUCCION:
+
+[2|1|93|1]
+ORIGINAL: \bGood. Then here you go.
+TRADUCCION:
+
+[2|1|95|2]
+ORIGINAL: \bAlright, then I´ll say goodbye for now. And remember, don´t tell anyone about this.
+TRADUCCION:
+
+[4|1|0|1]
+ORIGINAL: It´s an odd looking machine containing a Pokémon.
+TRADUCCION:
+
+[4|1|2|1]
+ORIGINAL: The Delta Stone in your pocket just lit up!
+TRADUCCION:
+
+[4|1|3|1]
+ORIGINAL: The Pokémon came back to life!
+TRADUCCION:
+
+[4|1|5|1]
+ORIGINAL: \bXEEER!!!
+TRADUCCION:
+
+[4|2|0|1]
+ORIGINAL: It´s an odd looking machine.
+TRADUCCION:
+
+[4|3|0|2]
+ORIGINAL: Xerneas returned to a vegetative state. Will it wake up again?
+TRADUCCION:
+
+[4|4|0|1]
+ORIGINAL: It´s an odd looking machine containing a Pokémon.
+TRADUCCION:

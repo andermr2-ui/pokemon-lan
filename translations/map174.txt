@@ -1,0 +1,47 @@
+[5|1|2|2]
+ORIGINAL: \bHey, what´s a kid doing in this forest? You need to leave!
+TRADUCCION:
+
+[5|2|0|3]
+ORIGINAL: \bYou´ve pretty much made it to Ambergrove. Going through the Whispering Woods should not be allowed for kids, there´re too many freaks here.
+TRADUCCION:
+
+[1|1|2|1]
+ORIGINAL: \bI´m gonna touch you!
+TRADUCCION:
+
+[1|2|0|2]
+ORIGINAL: \bWhy are you so shy? Come one, let good ol´ Jared touch you. It won´t hurt, I promise.
+TRADUCCION:
+
+[2|1|2|2]
+ORIGINAL: \bWe would battle you, but with just one Pokémon on your team, this wouldn´t be fair.
+TRADUCCION:
+
+[2|1|8|2]
+ORIGINAL: \bThe people in this forest say that we´re mature for our age!
+TRADUCCION:
+
+[2|2|0|2]
+ORIGINAL: \bSomeone invited us home one day, and he tickled us!
+TRADUCCION:
+
+[3|1|2|2]
+ORIGINAL: \bWe would battle you, but with just one Pokémon on your team, this wouldn´t be fair.
+TRADUCCION:
+
+[3|1|8|2]
+ORIGINAL: \bThe people in this forest say that we´re mature for our age!
+TRADUCCION:
+
+[3|2|0|3]
+ORIGINAL: \bWe come here every day to look for the guy who invited us. But don´t tell our parents, they say he´s a bad person. But we like him!
+TRADUCCION:
+
+[4|1|2|1]
+ORIGINAL: \bMy Pokémon steps on me.
+TRADUCCION:
+
+[4|2|0|2]
+ORIGINAL: \bPokémon actually understand me. A nerd like me could never get a goth mommy...
+TRADUCCION:

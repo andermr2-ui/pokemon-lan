@@ -1,0 +1,13 @@
+=== map223 ===
+ev5 pg0 [2]: "\\bOh no, you´re not gonna stop us!"
+ev5 pg1 [0]: "\\bThis changes nothing. Soon, the boss will rule over everyone!"
+ev6 pg0 [2]: "\\bTurn around, or this will get ugly!"
+ev6 pg1 [0]: "\\bFine. Go ahead. But you will regret it!"
+ev7 pg0 [2]: "\\bGet lost!"
+ev7 pg1 [0]: "\\bI disappointed the boss..."
+ev8 pg0 [2]: "\\bWrong place wrong time, kid!"
+ev8 pg1 [0]: "\\bI´m serious, nothing will happen to you if you turn around now. But if you go ahead, then you´re gonna be in trouble."
+ev9 pg0 [2]: "\\bWhat? You already want to leave? Come on, the party hasn´t even started!"
+ev9 pg1 [0]: "\\bI won´t stop you if you use an Escape Rope, but you´re not taking the normal exit!"
+ev4 pg0 [2]: "\\bThe boss said that we´re all getting fired if someone gets to him. And I need the money!"
+ev4 pg1 [0]: "\\bThe boss will succeed with his plan. And then I won´t need to worry about money ever again!"

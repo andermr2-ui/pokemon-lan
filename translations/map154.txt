@@ -1,0 +1,103 @@
+[5|1|0|1]
+ORIGINAL: \bI think I can see Alola...
+TRADUCCION:
+
+[6|1|0|3]
+ORIGINAL: \bMy grandson is going to be a great swimmer one day. I also used to swim a lot, but my age has finally caught up with me.
+TRADUCCION:
+
+[7|1|0|2]
+ORIGINAL: \bThis is my favorite place in the Delta Region, so I just had to show it to my girlfriend.
+TRADUCCION:
+
+[2|2|0|1]
+ORIGINAL: \b???: The Delta Sea...
+TRADUCCION:
+
+[2|2|4|3]
+ORIGINAL: \b???: Oh, hello. We haven´t met before, have we? My name is Arthur, and I am currently researching the vast variation of Pokémon in the Delta Region.
+TRADUCCION:
+
+[2|2|7|3]
+ORIGINAL: \bArthur: Did you know that you can find almost every known Pokémon species in the Delta Region? No other region has this variation.
+TRADUCCION:
+
+[2|2|10|3]
+ORIGINAL: \bWhile we don´t know for sure why this is the case, one reason for this phenomen could be the age of this region.
+TRADUCCION:
+
+[2|2|13|3]
+ORIGINAL: \bWhen Arceus created the universe and our planet, he created this region before the others. This could have caused the Delta Region to have a special aura.
+TRADUCCION:
+
+[2|2|16|3]
+ORIGINAL: \bBecause of this aura, which I like to call "Delta Aura", many legendary and mythical Pokémon come to visit this region.
+TRADUCCION:
+
+[2|2|19|3]
+ORIGINAL: \bThey rest here and take in the Delta Aura, which gives them more power. I myself have managed to encounter a legendary Pokémon not far from here.
+TRADUCCION:
+
+[2|2|22|3]
+ORIGINAL: \bI´m talking about one of Alola´s Guardians, Tapu Fini. I didn´t challenge it to a battle though, I just observed it from a save distance.
+TRADUCCION:
+
+[2|2|25|2]
+ORIGINAL: \bMaybe the reason it showed up in the first place, was the Delta Stone I was carrying with me.
+TRADUCCION:
+
+[2|2|27|2]
+ORIGINAL: \bAlthough science can´t find a trace of this Delta Aura, some objects are said to emit it.
+TRADUCCION:
+
+[2|2|29|3]
+ORIGINAL: \bOne good example are Mega Stones. When a Pokémon mega evolves, it goes a step over it´s limit. This is likely a result of the Delta Aura.
+TRADUCCION:
+
+[2|2|32|3]
+ORIGINAL: \bThe Mega Stones spread around the world all originate from the Delta Region, which supports my theory.
+TRADUCCION:
+
+[2|2|35|3]
+ORIGINAL: \bYou seem like a nice guy, so I want you to have my second Delta Stone. Who knows, maybe this will help you meet legendary Pokémon?
+TRADUCCION:
+
+[2|2|41|3]
+ORIGINAL: \bArthur: I have to go now, my colleagues probably miss me already. I´m sure we will meet again. Goodbye!
+TRADUCCION:
+
+[8|1|0|1]
+ORIGINAL: \bFreddy was right, this place is beautiful.
+TRADUCCION:
+
+[9|1|2|2]
+ORIGINAL: \bI forgot my repels, so instead I caught this cool Pokémon!
+TRADUCCION:
+
+[9|2|0|2]
+ORIGINAL: \bWith how many different Pokémon there are in the Delta Sea, using repels might actually be a crime.
+TRADUCCION:
+
+[15|1|2|2]
+ORIGINAL: \bThe water is wonderful here! But you´re in my way!
+TRADUCCION:
+
+[15|2|0|1]
+ORIGINAL: \bDo you like swimming as much as I do?
+TRADUCCION:
+
+[15|2|3|1]
+ORIGINAL: \bAwesome!
+TRADUCCION:
+
+[15|2|6|1]
+ORIGINAL: \bOh, okay...
+TRADUCCION:
+
+[4|1|0|3]
+ORIGINAL: \bCrystal Beach is the perfect place to swim! You just have to watch out for the Pokémon, but usually a few repels are enough to get around that.
+TRADUCCION:
+[15|2|1|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+

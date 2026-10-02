@@ -1,0 +1,15 @@
+[1|1|0|3]
+ORIGINAL: \bHello Trainer. This is the entrance to Iron Mountain. If you want to get to Silver Peak, this is the only path that leads there.
+TRADUCCION:
+
+[1|1|3|3]
+ORIGINAL: \bYou need to be prepared for this journey, as Iron Mountain is inhabitet by Pokémon that are as hard as steel and as mighty as dragons.
+TRADUCCION:
+
+[3|1|2|2]
+ORIGINAL: \bDo you also want to find the ancient ruins of Iron Mountain?
+TRADUCCION:
+
+[3|2|0|2]
+ORIGINAL: \bYou should investigate some of the ruins in Iron Mountain. They hold ancient knowledge.
+TRADUCCION:

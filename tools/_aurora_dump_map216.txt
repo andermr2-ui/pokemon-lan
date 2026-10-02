@@ -1,0 +1,26 @@
+=== map216 ===
+ev7 pg0 [0]: "\\bHola, soy un borrador de movimientos. Puedo hacer que los Pokémon olviden sus movimientos."
+ev7 pg0 [2]: "\\b¿Te gustaría que lo hiciera?"
+ev7 pg0 [3] CHOICES: ["Sí", "No"]
+ev7 pg0 [6]: "\\b¿Qué Pokémon debería olvidar un movimiento?"
+ev7 pg0 [11]: "\\bVuelve si hay movimientos que necesiten olvidarse."
+ev7 pg0 [16]: "\\b¿Qué? Ningún Huevo debería saber movimientos."
+ev7 pg0 [21]: "\\b¿Qué? No puedo hacer que un Pokémon Sombra olvide un movimiento."
+ev7 pg0 [27]: "\\b\\v[3] solo parece saber un movimiento..."
+ev7 pg0 [31]: "\\b¿Qué movimiento debería olvidar?"
+ev7 pg0 [37]: "\\b¡Ajá! ¿\\v[4] de \\v[3]? ¿Ese movimiento debería olvidarse?"
+ev7 pg0 [38] CHOICES: ["Sí", "No"]
+ev7 pg0 [44]: "\\b¡Funcionó a la perfección!"
+ev7 pg0 [45]: "\\b\\v[3] ha olvidado \\v[4] por completo."
+ev7 pg0 [48]: "\\bVuelve si hay movimientos que necesiten olvidarse."
+ev7 pg0 [58]: "\\bVuelve si hay movimientos que necesiten olvidarse."
+ev2 pg0 [7]: "\\rRestauramos la salud de tus Pokémon cansados."
+ev2 pg0 [8]: "\\r¿Te gustaría que tus Pokémon descansaran?"
+ev2 pg0 [9] CHOICES: ["Sí", "No"]
+ev2 pg0 [47]: "\\rEs posible que tus Pokémon estén infectados de Pokérus."
+ev2 pg0 [48]: "\\rSe sabe poco sobre el Pokérus, salvo que son formas de vida microscópicas que se adhieren a los Pokémon."
+ev2 pg0 [50]: "\\rSe dice que, mientras están infectados, los Pokémon crecen excepcionalmente bien."
+ev2 pg0 [55]: "\\rHemos restaurado por completo la salud de tus Pokémon."
+ev2 pg1 [8]: "\\rPrimero deberías restaurar la salud de tus Pokémon."
+ev2 pg1 [44]: "\\rTus Pokémon han sido curados por completo."
+ev2 pg1 [51]: "\\r¡Esperamos que tengas mucho éxito!"

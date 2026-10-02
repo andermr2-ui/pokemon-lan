@@ -1,0 +1,63 @@
+[1|1|2|1]
+ORIGINAL: \bThis is the perfect place for a battle!
+TRADUCCION:
+
+[1|2|0|2]
+ORIGINAL: \bYou´ve almost made it to Granite Heights, but can you win against the Gym Leader?
+TRADUCCION:
+
+[2|1|2|1]
+ORIGINAL: \bLet me capture the emotions of a trainer in battle!
+TRADUCCION:
+
+[2|2|0|2]
+ORIGINAL: \bLook at the result, I think I captured your passion quite well.
+TRADUCCION:
+
+[3|1|2|1]
+ORIGINAL: \bI only need my mental strength to beat you!
+TRADUCCION:
+
+[3|2|0|2]
+ORIGINAL: \bLooks like you need mental AND physical strength to succeed.
+TRADUCCION:
+
+[9|1|0|1]
+ORIGINAL: It´s a shrine dedicated to Thundurus.
+TRADUCCION:
+
+[9|2|0|1]
+ORIGINAL: It´s a shrine dedicated to Thundurus.
+TRADUCCION:
+
+[9|2|2|1]
+ORIGINAL: The Delta Stone in your pocket just lit up!
+TRADUCCION:
+
+[9|2|3|1]
+ORIGINAL: Something powerful is approaching!
+TRADUCCION:
+
+[9|2|5|1]
+ORIGINAL: \bTHUUUUUN!!!
+TRADUCCION:
+
+[9|3|0|1]
+ORIGINAL: It´s a shrine dedicated to Thundurus.
+TRADUCCION:
+
+[9|4|0|1]
+ORIGINAL: Thundurus disappeared. Will it come back?
+TRADUCCION:
+
+[9|5|0|1]
+ORIGINAL: It´s a shrine dedicated to Thundurus.
+TRADUCCION:
+
+[4|1|2|1]
+ORIGINAL: \bI need more money for the casino!
+TRADUCCION:
+
+[4|2|0|2]
+ORIGINAL: \bI gambled my life savings away once, so I might as well do it twice.
+TRADUCCION:

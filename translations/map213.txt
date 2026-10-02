@@ -1,0 +1,147 @@
+[5|1|0|2]
+ORIGINAL: It´s a modern safe. It can be opened through voice activation.
+TRADUCCION:
+
+[5|2|0|2]
+ORIGINAL: It´s a modern safe. It is unlocked. Do you want to take what´s inside?
+TRADUCCION:
+
+[5|3|0|1]
+ORIGINAL: It´s an empty safe.
+TRADUCCION:
+
+[6|1|0|2]
+ORIGINAL: It´s Giovanni. His body is cold, and there is a hole on the side of his head. A gun lies next to him.
+TRADUCCION:
+
+[1|1|0|1]
+ORIGINAL: There´s something in the trash bin.
+TRADUCCION:
+
+[1|2|0|1]
+ORIGINAL: It´s an empty trash bin.
+TRADUCCION:
+
+[7|1|15|1]
+ORIGINAL: \bAnthony: Pff, what a moron...
+TRADUCCION:
+
+[7|1|16|2]
+ORIGINAL: \bDidn´t he say something to you about trying to become a better person?
+TRADUCCION:
+
+[7|1|18|3]
+ORIGINAL: \bClearly he failed, and he did what he was going to do if that happened. Even though he betrayed me, he went out as a man of his word.
+TRADUCCION:
+
+[7|1|32|2]
+ORIGINAL: \bHm, now it´s time to get what I came here for. That thing you just took out of that safe, give it to me.
+TRADUCCION:
+
+[7|1|34|1]
+ORIGINAL: \bCome on, hand it over already!
+TRADUCCION:
+
+[7|1|35|2]
+ORIGINAL: \bWhat do you mean, "this ain´t no translation device"? Of course it is.
+TRADUCCION:
+
+[7|1|37|2]
+ORIGINAL: \bDon´t make me angry, kid, we´re on this mission together.
+TRADUCCION:
+
+[7|1|39|1]
+ORIGINAL: \bHAND OVER THE DOUSE DRIVE RIGHT NOW!!!
+TRADUCCION:
+
+[7|1|40|1]
+ORIGINAL: You hand over the Douse Drive to Anthony.
+TRADUCCION:
+
+[7|1|42|1]
+ORIGINAL: \bSee, no big deal.
+TRADUCCION:
+
+[7|1|43|1]
+ORIGINAL: \bHm, aha, ahahahahahahahahahaha!!!
+TRADUCCION:
+
+[7|1|44|2]
+ORIGINAL: \bYOU MORON! YOU TRUSTED SOMEONE FROM TEAM ROCKET!
+TRADUCCION:
+
+[7|1|46|2]
+ORIGINAL: \bIt was too easy too fool you! You´ve fulfilled your purpose, \PN.
+TRADUCCION:
+
+[7|1|48|3]
+ORIGINAL: \bYou brought me to Southside Beach, you found the Hidden Cave, and you just handed me the final piece I need for my experiment!
+TRADUCCION:
+
+[7|1|51|2]
+ORIGINAL: \bShall I show you what I´ve been working on? Genesect, destroy this brat!
+TRADUCCION:
+
+[7|1|54|2]
+ORIGINAL: \bAnthony: Hm, so not even Genesect can stop the Champion...
+TRADUCCION:
+
+[7|1|56|3]
+ORIGINAL: \b**** it, that doesn´t matter now. I have all the components I need to find the Z-Crystal Cave, and then I´ll gain unmatched power!
+TRADUCCION:
+
+[7|1|59|3]
+ORIGINAL: \bFollowing me will be useless. I´m the only one who knows how to get into the real cave, so you can´t do anything.
+TRADUCCION:
+
+[7|1|62|3]
+ORIGINAL: \bI knew what the plates said the moment I walked into that cave. It´s the same language as all of the others, what else would it be?!
+TRADUCCION:
+
+[7|1|65|2]
+ORIGINAL: \bIf you try to interfere with my plan, then I´ll use you for my next experiment!
+TRADUCCION:
+
+[8|1|0|2]
+ORIGINAL: There´s a Pokémon in the box. Do you want to take it?
+TRADUCCION:
+
+[3|1|0|3]
+ORIGINAL: It´s a book about the Tao-Trio. The pages show drawings of Zekrom, Reshiram and Kyurem. What do you want to read?
+TRADUCCION:
+
+[3|1|5|3]
+ORIGINAL: \f[ZEKROM]Zekrom, the embodiment of ideals, was born from the split of a legendary Dragon Pokémon and sides with those who pursue idealistic visions.
+TRADUCCION:
+
+[3|1|8|3]
+ORIGINAL: \f[ZEKROM]Its immense lightning powers can obliterate entire regions and punish kingdoms that forsake righteousness.
+TRADUCCION:
+
+[3|1|13|3]
+ORIGINAL: \f[RESHIRAM]Reshiram, the embodiment of truth, was born from the split of a legendary Dragon Pokémon and aligns with those who seek truth above all else.
+TRADUCCION:
+
+[3|1|16|3]
+ORIGINAL: \f[RESHIRAM]Its blazing fire can raze entire regions and incinerate kingdoms consumed by greed and falsehoods.
+TRADUCCION:
+
+[3|1|21|3]
+ORIGINAL: \f[KYUREM]Kyurem, a mysterious Pokémon that once terrorized the Delta Region with its devastating icy power, was sealed away 100 years ago.
+TRADUCCION:
+
+[3|1|24|2]
+ORIGINAL: \f[KYUREM]It was formed from the remnants of a mighty dragon after it split into Reshiram and Zekrom.
+TRADUCCION:
+[5|2|2|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[8|1|2|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[3|1|3|OPCIONES]
+ORIGINAL: Zekrom|Reshiram|Kyurem|Stop Reading
+TRADUCCION:
+

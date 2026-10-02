@@ -1,0 +1,7 @@
+[1|1|1|2]
+ORIGINAL: \bHello young Trainer. Route 2 lies ahead. Take this for your journey.
+TRADUCCION:
+
+[1|1|7|1]
+ORIGINAL: \bTake care!
+TRADUCCION:

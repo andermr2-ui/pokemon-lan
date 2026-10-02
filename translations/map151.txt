@@ -1,0 +1,59 @@
+[1|1|1|1]
+ORIGINAL: \bURSAAAAAAAAAAA!!!
+TRADUCCION:
+
+[2|1|1|1]
+ORIGINAL: \bHey, wait!
+TRADUCCION:
+
+[2|1|2|3]
+ORIGINAL: \bAre you sure you want to go there? This is the territory of the Bloodmoon. At night, this place becomes dangerous.
+TRADUCCION:
+
+[2|1|5|2]
+ORIGINAL: \bYou should only face the Bloodmoon if you feel confident that you can defeat it. Please be careful!
+TRADUCCION:
+
+[2|2|0|3]
+ORIGINAL: \bThe Pokémon known as the Bloodmoon seems to be a form of the extinct Pokémon Ursaluna. No one knows how these forms are connected.
+TRADUCCION:
+
+[13|1|2|1]
+ORIGINAL: \bI´m bored. Let´s battle!
+TRADUCCION:
+
+[13|2|0|2]
+ORIGINAL: \bThere´s not much to fix on Route 8, so battles keep me busy.
+TRADUCCION:
+
+[15|1|0|1]
+ORIGINAL: It´s a Pokémon Statue dedicated to Meloetta.
+TRADUCCION:
+
+[15|2|0|1]
+ORIGINAL: It´s a Pokémon Statue dedicated to Meloetta.
+TRADUCCION:
+
+[15|2|2|1]
+ORIGINAL: The Delta Stone in your pocket just lit up!
+TRADUCCION:
+
+[15|2|3|1]
+ORIGINAL: Something powerful is approaching!
+TRADUCCION:
+
+[15|2|5|1]
+ORIGINAL: \bMELOETTAAA!!!
+TRADUCCION:
+
+[15|3|0|1]
+ORIGINAL: It´s a Pokémon Statue dedicated to Meloetta.
+TRADUCCION:
+
+[15|4|0|1]
+ORIGINAL: Meloetta disappeared. Will it come back?
+TRADUCCION:
+
+[15|5|0|1]
+ORIGINAL: It´s a Pokémon Statue dedicated to Meloetta.
+TRADUCCION:

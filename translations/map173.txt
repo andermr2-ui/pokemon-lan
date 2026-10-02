@@ -1,0 +1,67 @@
+[5|1|2|2]
+ORIGINAL: \bTurn around kid, there are weird people in this forest.
+TRADUCCION:
+
+[5|2|0|3]
+ORIGINAL: \bEven though this is the shortest way to Ambergrove, please go the long way. The people here should not be anywhere near kids.
+TRADUCCION:
+
+[11|1|0|1]
+ORIGINAL: Zacian is staring at you.
+TRADUCCION:
+
+[11|1|2|1]
+ORIGINAL: It wants to battle!
+TRADUCCION:
+
+[11|1|4|1]
+ORIGINAL: \bZAAAAA!!!
+TRADUCCION:
+
+[11|3|0|1]
+ORIGINAL: Zacian disappeared. Will it come back?
+TRADUCCION:
+
+[1|1|2|3]
+ORIGINAL: \bDid you know that in terms of male human and female Pokémon breeding, Vaporeon is the most compatible Pokémon for humans?
+TRADUCCION:
+
+[1|2|0|1]
+ORIGINAL: \bDon´t disrespect my authority!
+TRADUCCION:
+
+[2|1|2|1]
+ORIGINAL: \bOh, hi, what is your bodycount?
+TRADUCCION:
+
+[2|2|0|1]
+ORIGINAL: \bMy body count is 1. But if we inlcude Pokémon...
+TRADUCCION:
+
+[3|1|2|1]
+ORIGINAL: \bOh, aren´t you a cute one? 
+TRADUCCION:
+
+[3|2|0|2]
+ORIGINAL: \bI can show you a secret, but you can´t tell your parents. Are you ready?
+TRADUCCION:
+
+[3|2|4|2]
+ORIGINAL: \bAlright, follow me home. I´m gonna make you happy.
+TRADUCCION:
+
+[3|2|19|1]
+ORIGINAL: \bBut I need it...
+TRADUCCION:
+
+[4|1|2|1]
+ORIGINAL: \bThis is no place for kids.
+TRADUCCION:
+
+[4|2|0|2]
+ORIGINAL: \bPlease listen to me. Stay away from the freaks that hide in the Whispering Woods.
+TRADUCCION:
+[3|2|2|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+

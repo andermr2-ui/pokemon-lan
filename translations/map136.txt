@@ -1,0 +1,75 @@
+[5|1|0|1]
+ORIGINAL: \sign[signskin]Rooftop Square: Vending Machines
+TRADUCCION:
+
+[2|1|2|2]
+ORIGINAL: It's a vending machine.\nWhich drink would you like?\G
+TRADUCCION:
+
+[2|1|12|1]
+ORIGINAL: \GA Fresh Water dropped down!
+TRADUCCION:
+
+[2|1|19|1]
+ORIGINAL: \GBonus! Another Fresh Water dropped down.
+TRADUCCION:
+
+[2|1|27|1]
+ORIGINAL: \GYou have no room left in the Bag.
+TRADUCCION:
+
+[2|1|32|1]
+ORIGINAL: \GYou don't have enough money.
+TRADUCCION:
+
+[2|1|43|1]
+ORIGINAL: \GA Soda Pop dropped down!
+TRADUCCION:
+
+[2|1|50|1]
+ORIGINAL: \GBonus! Another Soda Pop dropped down.
+TRADUCCION:
+
+[2|1|58|1]
+ORIGINAL: \GYou have no room left in the Bag.
+TRADUCCION:
+
+[2|1|63|1]
+ORIGINAL: \GYou don't have enough money.
+TRADUCCION:
+
+[2|1|74|1]
+ORIGINAL: \GA Lemonade dropped down!
+TRADUCCION:
+
+[2|1|81|1]
+ORIGINAL: \GBonus! Another Lemonade dropped down.
+TRADUCCION:
+
+[2|1|89|1]
+ORIGINAL: \GYou have no room left in the Bag.
+TRADUCCION:
+
+[2|1|94|1]
+ORIGINAL: \GYou don't have enough money.
+TRADUCCION:
+
+[2|1|99|1]
+ORIGINAL: \GDecided not to buy a drink.
+TRADUCCION:
+
+[3|1|0|2]
+ORIGINAL: \bWow, we´re super high up! I need to hold on to my hat, it´s quite windy up here.
+TRADUCCION:
+
+[4|1|0|3]
+ORIGINAL: \bWhy does the bloody elevator stop at the fifth floor?! I had to use stairs for the final bit, and now I´m exhausted.
+TRADUCCION:
+
+[4|1|6|1]
+ORIGINAL: \bNow I need a drink...
+TRADUCCION:
+[2|1|4|OPCIONES]
+ORIGINAL: Fresh Water - $200|Soda Pop - $300|Lemonade - $350|Cancel
+TRADUCCION:
+

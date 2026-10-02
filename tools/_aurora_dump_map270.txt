@@ -1,0 +1,16 @@
+=== map270 ===
+ev2 pg0 [0]: "\\bThe cold mountain air is quite refreshing, isn´t it? I think it is, that´s why I live in Aurora Summit. It´s a charming little town, isn´t it?"
+ev2 pg0 [3]: "\\bBut what brings you here?"
+ev2 pg0 [4] CHOICES: ["The Gym Challenge", "Aurora Mountain", "Keldeo"]
+ev2 pg0 [6]: "\\bOh, how exciting. Wesley always acts like he´s a weak trainer, but he is one of the strongest trainers in the region."
+ev2 pg0 [11]: "\\bAh, the icon of our town. I personally don´t like that place, it´s slippery and dangerous. There´s some rare Pokémon in there though, so that´s cool I guess."
+ev2 pg0 [16]: "\\bKeldeo? Never heard of that. Whatever it might be, it´s not in this town."
+ev2 pg0 [20]: "\\bYou´re here for a reason, that´s for sure. How about a little gift? You seem quite busy, and I happen to have a Pokémon that might help you."
+ev2 pg0 [23]: "\\bI should warn you though, this little bugger keeps on biting me, so you should teach it some manners. Here you go."
+ev2 pg0 [28]: "\\bOne of my relatives from Sinnoh brought this Turtwig here, and it found a liking to this region, so I decided to take care of it."
+ev2 pg0 [31]: "\\bBut in the past few weeks the cold has been getting to this poor thing, so it´s more responsible to give it to a trainer that gets around."
+ev2 pg0 [34]: "\\bGood luck on your journey!"
+ev2 pg0 [38]: "There's no more room for Pokémon!"
+ev2 pg0 [39]: "The Pokémon Boxes are full and can't accept any more!"
+ev2 pg1 [0]: "\\bI should visit my relatives in Sinnoh. I heard the mountain air over there is even better than it is here."
+ev3 pg0 [0]: "\\bOnce you get used to the blizzards, Aurora Summit is the perfect place to live."

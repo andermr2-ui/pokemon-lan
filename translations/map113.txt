@@ -1,0 +1,91 @@
+[11|1|0|3]
+ORIGINAL: \bI´m sorry, but you can´t use the bridge at the moment. We´re doing necessary repairs to ensure its safety.
+TRADUCCION:
+
+[6|1|0|1]
+ORIGINAL: \bWAIT!!!
+TRADUCCION:
+
+[6|1|30|3]
+ORIGINAL: \bAzura: Good thing that you´re still here. I saw some weird looking guys leaving the Iron Shrine, and then I saw you. What happened there?
+TRADUCCION:
+
+[6|1|33|3]
+ORIGINAL: \bMh, okay. So there was a guy called Giovanni, a strong looking Pokémon and a guy from a group called Team Rocket?
+TRADUCCION:
+
+[6|1|36|3]
+ORIGINAL: \bWait, and you´re saying that this Giovanni was at the Flower Meadow with a Pokémon called Virizion as well?
+TRADUCCION:
+
+[6|1|39|1]
+ORIGINAL: \bVirizion...
+TRADUCCION:
+
+[6|1|40|1]
+ORIGINAL: \bWhere have I heard that name before? Hmm...
+TRADUCCION:
+
+[6|1|41|3]
+ORIGINAL: \bAHA! I remember now! Virizion is a legendary Pokémon. The Flower Meadow is a sacred place dedicated to it.
+TRADUCCION:
+
+[6|1|44|3]
+ORIGINAL: \bAnd, if this Giovanni visited Virizion at the Flower Meadow, then the Pokémon you saw at the Iron Shrine...
+TRADUCCION:
+
+[6|1|47|2]
+ORIGINAL: \b... is Cobalion! Cobalion is another legendary Pokémon.
+TRADUCCION:
+
+[6|1|49|2]
+ORIGINAL: \bI´m not familiar enough with the story of these Pokémon, but I have a bad feeling about this.
+TRADUCCION:
+
+[6|1|51|3]
+ORIGINAL: \bYou should head over to Riverstone and talk to my grandmother about this. She´s familiar with the story of these legendary Pokémon.
+TRADUCCION:
+
+[6|1|54|3]
+ORIGINAL: \bAnd, if you want to continue the Gym Challenge, Riverstone should be your next stop anyways. Okay land-dweller, bye!
+TRADUCCION:
+
+[1|1|2|1]
+ORIGINAL: \bLet´s have a battle in this great mountain range.
+TRADUCCION:
+
+[1|2|0|1]
+ORIGINAL: \bAll I want are epic battles.
+TRADUCCION:
+
+[8|1|0|1]
+ORIGINAL: It´s a Pokémon Statue dedicated to Zarude.
+TRADUCCION:
+
+[8|2|0|1]
+ORIGINAL: It´s a Pokémon Statue dedicated to Zarude.
+TRADUCCION:
+
+[8|2|2|1]
+ORIGINAL: The Delta Stone in your pocket just lit up!
+TRADUCCION:
+
+[8|2|3|1]
+ORIGINAL: Something powerful is approaching!
+TRADUCCION:
+
+[8|2|5|1]
+ORIGINAL: \bZARUUU!!!
+TRADUCCION:
+
+[8|3|0|1]
+ORIGINAL: It´s a Pokémon Statue dedicated to Zarude.
+TRADUCCION:
+
+[8|4|0|1]
+ORIGINAL: Zarude disappeared. Will it come back?
+TRADUCCION:
+
+[8|5|0|1]
+ORIGINAL: It´s a Pokémon Statue dedicated to Zarude.
+TRADUCCION:

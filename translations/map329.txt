@@ -1,0 +1,43 @@
+[5|1|2|2]
+ORIGINAL: \bThe battles on the Delta Islands are on another level!
+TRADUCCION:
+
+[5|2|0|1]
+ORIGINAL: \bI love to battle on these islands!
+TRADUCCION:
+
+[6|1|2|2]
+ORIGINAL: \bLet´s make this battle the cherry on top of this already amazing vacation!
+TRADUCCION:
+
+[6|2|0|2]
+ORIGINAL: \bNo matter the result of our battle, this vacation is fantastic!
+TRADUCCION:
+
+[1|1|0|1]
+ORIGINAL: Hisui Wildlife Station
+TRADUCCION:
+
+[7|1|2|1]
+ORIGINAL: \bYohoho! Let´s have a symphony of a battle!
+TRADUCCION:
+
+[7|2|0|1]
+ORIGINAL: \bYou should join my band, you have a great rhythm!
+TRADUCCION:
+
+[2|1|0|3]
+ORIGINAL: \bWelcome, Champion. This is the entrance to Champions Village. Only a few people are allowed to visit, and you are obviously one of them.
+TRADUCCION:
+
+[2|1|3|1]
+ORIGINAL: \bHave fun!
+TRADUCCION:
+
+[8|1|2|1]
+ORIGINAL: \bYou look like you´re rich. Gimme your money!
+TRADUCCION:
+
+[8|2|0|1]
+ORIGINAL: \bDon´t judge me, looking this good is expensive!
+TRADUCCION:

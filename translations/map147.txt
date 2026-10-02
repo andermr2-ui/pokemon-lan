@@ -1,0 +1,55 @@
+[11|1|2|1]
+ORIGINAL: \bLet´s have a battle in the sandstorm!
+TRADUCCION:
+
+[11|2|0|2]
+ORIGINAL: \bYou should cover your eyes on this part of Route 8. The sand can be annoying at times.
+TRADUCCION:
+
+[12|1|2|1]
+ORIGINAL: \bThe hot wind is blowing!
+TRADUCCION:
+
+[12|2|0|1]
+ORIGINAL: \bI thrive in this environment.
+TRADUCCION:
+
+[13|1|2|1]
+ORIGINAL: \bThe sandstorm makes me strong!
+TRADUCCION:
+
+[13|2|0|2]
+ORIGINAL: \bSand gets blown into this valley constantly. That´s why the sandstorm never stops.
+TRADUCCION:
+
+[20|1|0|1]
+ORIGINAL: It´s an ancient tomb. A dark aura is filling the air.
+TRADUCCION:
+
+[20|2|0|1]
+ORIGINAL: It´s an ancient tomb. A dark aura is filling the air.
+TRADUCCION:
+
+[20|2|2|1]
+ORIGINAL: The Delta Stone in your pocket just lit up!
+TRADUCCION:
+
+[20|2|3|1]
+ORIGINAL: An ominous creature is coming out of the tomb!
+TRADUCCION:
+
+[20|2|5|1]
+ORIGINAL: \bLUUUUU!!!
+TRADUCCION:
+
+[20|3|0|1]
+ORIGINAL: It´s an ancient tomb.
+TRADUCCION:
+
+[20|4|0|2]
+ORIGINAL: Ting-Lu returned to its tomb. Will it come out again?
+TRADUCCION:
+
+[20|5|0|1]
+ORIGINAL: It´s an ancient tomb. A dark aura is filling the air.
+TRADUCCION:

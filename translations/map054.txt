@@ -1,0 +1,43 @@
+[3|1|3|1]
+ORIGINAL: There is a questionnaire.\nWould you like to fill it out?
+TRADUCCION:
+
+[3|1|6|1]
+ORIGINAL: \PN filled in the questionnaire.
+TRADUCCION:
+
+[3|1|11|1]
+ORIGINAL: \bOh, hello!\nYou filled in the questionnaire?
+TRADUCCION:
+
+[3|1|12|1]
+ORIGINAL: \bThat means you must know about the Mystery Gift.
+TRADUCCION:
+
+[3|1|13|2]
+ORIGINAL: \bFrom now on, you should be receiving Mystery Gifts!
+TRADUCCION:
+
+[3|1|16|2]
+ORIGINAL: \w[signskin]Once you save your game, you can access the Mystery Gift.
+TRADUCCION:
+
+[4|2|1|1]
+ORIGINAL: \bHello. You must be \PN.
+TRADUCCION:
+
+[4|2|2|1]
+ORIGINAL: \bI've received a gift for you.\nHere you go!
+TRADUCCION:
+
+[4|2|7|1]
+ORIGINAL: \bI haven't received any other gifts for you.
+TRADUCCION:
+
+[4|2|10|1]
+ORIGINAL: \bWe look forward to your next visit.
+TRADUCCION:
+[3|1|4|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+

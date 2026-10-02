@@ -1,0 +1,366 @@
+1: Intro
+2: Lappet Town
+  8: Daisy's house
+  4: Pokémon Lab
+  78: Player's house
+5: Route 1
+  6: Kurt's house
+7: Cedolan City
+  10: Cedolan Gym
+  11: Pokémon Institute
+  12: Cedolan City Condo
+  13: Game Corner
+  14: Cedolan Dept. 1F
+    15: Cedolan Dept. 2F
+    16: Cedolan Dept. 3F
+    17: Cedolan Dept. 4F
+    18: Cedolan Dept. 5F
+    19: Cedolan Dept. Rooftop
+    20: Cedolan Dept. Elevator
+  9: Cedolan City Poké Center
+21: Route 2
+23: Lerucean Town
+  24: Lerucean Town Poké Center
+  25: Lerucean Town Mart
+  26: Pokémon Fan Club
+  27: Pokémon Day Care
+28: Natural Park
+  29: Natural Park Entrance
+  30: Natural Park Pavillion
+31: Route 3
+  34: Ice Cave
+35: Ingido Plateau outside
+  36: Pokémon League entrance
+  37: Pokémon League room 1
+  38: Hall of Fame
+39: Route 4
+  40: Route 4 Cycling Road
+  46: Route 4 Cycling Road gate
+41: Route 5
+  52: Battle Frontier
+    53: Battle Frontier Poké Center
+    54: Battle Frontier Mart
+    55: Battle Tower
+      57: Stadium Cup lobby
+      56: Battle Tower arena
+    58: Battle Palace
+      59: Battle Palace arena
+    60: Battle Arena
+      61: Battle Arena arena
+    62: Battle Factory
+      63: Battle Factory intro corridor
+      64: Battle Factory arena
+      65: Battle Factory corridor
+44: Route 6
+  45: Route 6 Cycling Road
+  74: Route 6 Cycling Road gate
+47: Route 7
+  49: Rock Cave 1F
+    50: Rock Cave B1F
+    51: Dungeon
+66: Safari Zone outside
+  67: Safari Zone gate
+  68: Safari Zone
+69: Route 8
+  70: Route 8 underwater
+  71: Route 8 harbor
+72: Berth Island
+73: Faraday Island
+22: Starter Valley
+  48: Starter Valley Pokémon Lab
+  77: Player's house SV
+  76: Jirachi Rock
+  313: Zeke´s House
+32: Route 1 (Delta)
+  362: Route 1 Extra
+33: Meadow Grove
+  43: Meadow Grove Poké Center
+  3: Route2Connection
+  79: Meadow Grove Mart
+  86: Marcus´ House
+  105: Route6Connection
+  260: Charmander House
+  290: House a
+  291: House b
+  292: House c
+  293: Patisserie Alcremie
+75: Tiall Region
+80: Route 2 (Delta)
+  98: Route 2.1 (Delta)
+42: Arrow Ridge
+  81: Arrow Ridge Gym
+  87: Arrow Ridge Poké Center
+  88: Arrow Ridge Mart
+  258: Pokémon Academy
+  294: Snivy House
+  295: House b
+83: Rumble Mountain South
+  85: Rumble Mountain Middle
+    366: border
+  89: Rumble Mountain North
+  283: Rumble Mountain East
+  284: Golem Chamber
+84: Lone Rock
+82: Route 3 (Delta)
+  107: Cut House
+90: Route 4 (Delta)
+91: Mistveil
+  92: Mistveil Institute
+  93: Mistveil Poké Center
+  94: Mistveil Mart
+  96: Mistveil Gym
+    97: Mistveil Gym 2
+  95: Mistveil Champ Store
+  259: Bulba House
+  282: Magearna House
+  296: Tepig House
+  297: NPC House
+  298: Underground Market
+    299: Market
+99: Route 5 (Delta)
+  100: Route 5.1 (Delta)
+101: Dark Forest
+  102: Route5Connection
+  103: Flower Meadow
+104: Route 6 (Delta)
+  106: Route 6.1 (Delta)
+    120: Smash House
+  342: border
+108: Iron Mountain F3
+  109: Iron Mountain F4
+    110: Dragon Chamber
+  111: Iron Mountain F3B
+  273: Iron Mountain F2
+  274: Golem Chamber
+  275: Iron Mountain F1
+  276: Thermal Chamber
+112: Route 7 (Delta)
+  113: Route 7.1 (Delta)
+  114: Route 7.2 (Delta)
+    121: Iron Shrine
+115: Silver Peak
+  116: Silver Peak Poké Center
+  117: Silver Peak Mart
+  118: Silver Peak Gym
+    119: Silver Peak Gym 2
+  261: Apt 1
+  262: Apt 2
+  300: Apt 3
+122: Thunder Swamps
+  277: Thunder Swamps North
+125: Riverstone
+  124: Riverstone Bridge
+  123: Riverstone Park
+    272: Riverstone Park North
+  126: Milotic River Segment
+  127: Riverstone Poké Center
+  128: Riverstone Champ Store
+  129: Riverstone Institute
+  130: Molly´s House
+  131: Debug Dep Store
+    132: RS Dept. 2F
+    133: RS Dept. 3F
+    134: RS Dept. 4F
+    135: RS Dept. 5F
+    136: RS Dept. Rooftop
+    137: RS Dept. Elevator
+  138: Trade Hall
+  139: Riverstone Gym
+    140: Riverstone Gym 2
+  141: Route8Connection
+  142: Riverstone Graveyard
+  188: Route10Connection
+  263: Game Corner
+  264: Chiko House
+  268: Apt 1
+  301: Mayor House
+  302: Big Apt F1
+    303: Big Apt F2
+    304: Big Apt F3
+    305: Big Apt F4
+  308: Department Store
+143: Route 8 A3
+  144: Route 8 B3
+  145: Route 8 B2
+  146: Route 8 A2
+    149: Surf House
+  147: Route 8 B1
+    279: Desert Chamber
+  148: Route 8 A1
+  150: Route 8 C2
+  151: Route 8 C3
+  152: Route 8 C1
+153: Crystal Cove
+  156: Route8Connection
+  158: Crystal Cove Mart
+  154: Crystal Beach
+    159: Lighthouse
+      160: Lighthouse Top
+      161: Lighthouse Elevator
+    164: Crystal Beach North
+      172: Fly House
+    155: Rocky Gate
+    165: Crystal Beach East
+      170: Ocean Chamber
+    166: Crystal Beach North East
+    168: Crystal Beach South
+    169: Crystal Beach South East
+  162: Crytal Cove Gym
+    163: Crytal Cove Gym 2
+  265: Mudkip House
+  289: Creselia House
+  175: Breeder House
+  306: npc House
+  157: Crystal Cove Poké Center
+167: Route 9
+  171: Route 9.1
+    178: Route 9.1 extra
+173: Whispering Woods
+  174: Whispering Woods West
+  278: Forest Chamber
+176: Ambergrove
+  177: Ambergrove West
+    184: Ambergrove Poké Center
+    185: Ambergrove Mart
+    257: Trade House
+    266: Treecko House
+    267: Pokémon Day Care
+  182: Ambergrove Gym
+    183: Ambergrove Gym 2
+  186: Ambergrove Champ Store
+179: Scorching Valley
+  180: Scorching Valley East
+    181: Ambergrove Cave
+187: Route 10
+  189: Route 10.1
+  190: Milotic River Segment
+  191: Milotic River Segment 2
+  192: Milotic River Segment 3
+  193: Route 10.2
+  199: Route 10.3
+  200: Route 10.4
+194: Sword Ruins
+195: Stadium Outside
+  196: Stadium Entrance Area
+    197: Stadium Battle Field
+198: Route 11
+  281: Deity Chamber
+201: Relic Cave F1
+  202: Relic Cave F2
+  203: Relic Cave F3
+  288: Chamber of the Giant
+204: Rocket Base
+  205: Member Room
+  206: Hallway
+  207: Storage Room
+  208: Bedrooms
+  212: Upper floor
+  213: Office
+209: Glimmerwood
+  210: Glimmerwood Poké Center
+  214: Route8Connection
+  269: Piplup House
+  307: npc House
+211: Route 12
+215: Aurora Summit
+  216: Aurora Summit Poké Center
+  217: Aurora Summit Mart
+  218: Aurora Summit Gym
+    219: Aurora Summit Gym 2
+  270: Turtwig House
+  309: npc House
+  310: Move Tutor
+  311: Name Rater
+220: Aurora Mountain F3
+  221: Treasure Chamber
+  222: Aurora Mountain F2
+  223: Aurora Mountain F1
+  224: Prison Chamber
+  225: Aurora Mountain F4
+  226: Aurora Mountain F3B
+  227: Aurora Mountain F3C
+  228: Aurora Mountain F2B
+  286: Golem Chamber
+231: Route 13
+  238: Route 13 Extra
+232: Granite Heights
+  233: Granite Heights Poké Center
+  234: Granite Heights Mart
+  236: Granite Heights Gym
+    237: Granite Heights Gym 2
+  271: Chimchar House
+  312: npc house
+235: Victory Road Gate
+239: Victory Road
+  240: Victory Road Part 2
+  241: Victory Road Part 3
+  242: Victory Road Part 4
+  243: Victory Road Part 5
+  244: Victory Road Part 6
+  287: Golem Chamber
+245: Pokémon League
+  246: Pokémon League entrance
+  247: Hallway 1
+  248: Elite 1 Room
+  249: Hallway 2
+  250: Elite 2 Room
+  251: Hallway 3
+  252: Elite 3 Room
+  253: Hallway 4
+  254: Elite 4 Room
+  256: Champ Room
+  255: Hall of Fame
+280: Aurora Peak
+229: Thunder Pass
+  230: Thunder Pass West
+  285: Golem Chamber
+314: Crystal Harbor
+  315: Ferry Station
+  316: Rotom AI Company
+    338: Reed´s Lab
+  324: Delta Tech Company
+  325: Crystal Harbor Poké Center
+  326: Crystal Harbor Mart
+  343: Route9Connection
+  358: Kalos Museum
+    359: Kalos Museum Archive
+  360: Freelancer Agency
+  361: Pikachu Fan Club
+317: Southside Beach Passage
+318: Southside Beach East
+  319: Southside Beach Center
+  320: Southside Beach West
+  363: SB South East
+  364: SB South
+  365: SB South West
+321: Route 14
+322: False Cave
+323: Z-Crystal Cave
+327: Delta Islands Harbor
+  328: Ferry Station
+329: Route 15
+330: Hisui Wildlife Station
+  331: Hisui Wildlife Station West
+  332: Hisui Wildlife Station North
+  333: HWS Gate
+334: Champions Village
+  351: CV Poké Center
+  352: CV Mart
+  353: CV Champ Store
+  354: Memorial Tower
+  355: Steven House
+  357: Cynthia House
+335: Champions Beach
+  336: Champions Beach North
+337: Shrouded Cove
+  356: Shrouded Chamber
+339: Eastern Beach
+340: Ruin Island
+  341: Distortion Temple
+344: Southford
+  345: Boulder House
+  346: Crown House
+  347: Leaves House
+  348: Southford Poké Center
+  349: Southford Mart
+  350: Southford Institute

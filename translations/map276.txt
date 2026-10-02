@@ -1,0 +1,27 @@
+[2|1|0|1]
+ORIGINAL: Heatran has fallen asleep.
+TRADUCCION:
+
+[2|2|0|1]
+ORIGINAL: Heatran has fallen asleep.
+TRADUCCION:
+
+[2|2|2|1]
+ORIGINAL: The Delta Stone in your pocket just lit up!
+TRADUCCION:
+
+[2|2|3|1]
+ORIGINAL: Heatran woke up!
+TRADUCCION:
+
+[2|2|5|1]
+ORIGINAL: \bHEATRAAAAA!!!
+TRADUCCION:
+
+[2|4|0|2]
+ORIGINAL: Heatran fell asleep. Will it wake up again?
+TRADUCCION:
+
+[2|5|0|1]
+ORIGINAL: Heatran has fallen asleep.
+TRADUCCION:

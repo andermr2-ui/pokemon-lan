@@ -1,0 +1,75 @@
+[2|1|5|1]
+ORIGINAL: \bWelcome to the Safari Zone!
+TRADUCCION:
+
+[2|1|8|1]
+ORIGINAL: \G\bFor just $500, you can play the Safari Game.
+TRADUCCION:
+
+[2|1|9|2]
+ORIGINAL: \G\bYou can roam the wide-open Safari Zone and catch whatever you like.
+TRADUCCION:
+
+[2|1|11|1]
+ORIGINAL: \G\bWould you like to play?
+TRADUCCION:
+
+[2|1|15|1]
+ORIGINAL: \G\bSorry, your PC boxes are full.
+TRADUCCION:
+
+[2|1|23|1]
+ORIGINAL: \G\bOops!\nNot enough money!
+TRADUCCION:
+
+[2|1|24|1]
+ORIGINAL: \G\bCome again.
+TRADUCCION:
+
+[2|1|31|1]
+ORIGINAL: \G\bThat'll be $500, please!\1
+TRADUCCION:
+
+[2|1|34|1]
+ORIGINAL: \G\bWe only use a special kind of Poké Ball here.
+TRADUCCION:
+
+[2|1|35|2]
+ORIGINAL: \G\PN received 30 Safari Balls from the attendant.\me[Item get]\wtnp[40]
+TRADUCCION:
+
+[2|1|37|2]
+ORIGINAL: \G\bWe'll call you on the PA when you run out of time or Safari Balls.
+TRADUCCION:
+
+[2|1|39|1]
+ORIGINAL: \G\bWell, I'll wish you the best of luck!
+TRADUCCION:
+
+[2|1|83|1]
+ORIGINAL: \G\bOkay.\nPlease come again!
+TRADUCCION:
+
+[2|2|4|1]
+ORIGINAL: \bAre you going to leave the Safari Zone early?
+TRADUCCION:
+
+[2|2|7|1]
+ORIGINAL: \bPlease return any Safari Balls you may have left.
+TRADUCCION:
+
+[2|2|16|1]
+ORIGINAL: \bGood luck!
+TRADUCCION:
+
+[2|2|36|1]
+ORIGINAL: \bDid you catch your fair share? Come again!
+TRADUCCION:
+[2|1|12|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[2|2|5|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+

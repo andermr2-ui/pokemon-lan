@@ -1,0 +1,39 @@
+[5|1|2|3]
+ORIGINAL: \bOak´s stupid favoritism isn´t gonna drag me down! I´m not who he thinks I am, and I´ll show him that I´m much more talented than you.
+TRADUCCION: \b¡El estúpido favoritismo de Miyagi no me va a hundir! No soy quien él cree que soy, y le voy a demostrar que soy mucho más talentoso que tú.
+
+[5|1|5|1]
+ORIGINAL: \bCome on, let´s battle!
+TRADUCCION: \b¡Vamos, a combatir!
+
+[5|1|7|3]
+ORIGINAL: \bFine, you win this one, but this ain´t over yet. You had the advantage because you got to pick your Pokémon first!
+TRADUCCION: \bBien, ganaste esta, pero esto no se acabó. ¡Tuviste ventaja porque elegiste tu Pokémon primero!
+
+[5|1|10|1]
+ORIGINAL: \bI´m gonna crush you the next time we meet!
+TRADUCCION: \b¡Te voy a aplastar la próxima vez que nos veamos!
+
+[1|1|2|1]
+ORIGINAL: \bHey you! Let´s battle!
+TRADUCCION: \b¡Eh, tú! ¡A combatir!
+
+[1|2|0|1]
+ORIGINAL: \bI should visit a Pokémon Center...
+TRADUCCION: \bDebería visitar un Centro Pokémon...
+
+[8|1|0|1]
+ORIGINAL: Manaphy looks scared.
+TRADUCCION: Manaphy parece asustado.
+
+[8|1|1|1]
+ORIGINAL: It wants to battle!
+TRADUCCION: ¡Quiere combatir!
+
+[8|1|3|1]
+ORIGINAL: \bPHYYY!!!
+TRADUCCION: \b¡FIII!!!
+
+[8|3|0|1]
+ORIGINAL: Manaphy disappeared. Will it come back?
+TRADUCCION: Manaphy desapareció. ¿Volverá?

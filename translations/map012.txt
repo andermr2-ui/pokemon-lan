@@ -1,0 +1,279 @@
+[5|1|0|1]
+ORIGINAL: \rHello! I'm a Move Tutor!
+TRADUCCION:
+
+[5|1|1|2]
+ORIGINAL: \rI can teach a special and powerful move to your Pokémon.
+TRADUCCION:
+
+[5|1|4|1]
+ORIGINAL: \rWhich special move would you like me to teach?
+TRADUCCION:
+
+[5|1|8|2]
+ORIGINAL: \rWould you like me to teach another Pokémon a special move?
+TRADUCCION:
+
+[5|1|25|2]
+ORIGINAL: \rWould you like me to teach another Pokémon a special move?
+TRADUCCION:
+
+[5|1|42|2]
+ORIGINAL: \rWould you like me to teach another Pokémon a special move?
+TRADUCCION:
+
+[5|1|60|1]
+ORIGINAL: \rCome back any time!
+TRADUCCION:
+
+[2|1|0|1]
+ORIGINAL: \bUh...\nOh, yes, I'm the Move Deleter.
+TRADUCCION:
+
+[2|1|1|1]
+ORIGINAL: \bI can make Pokémon forget their moves.
+TRADUCCION:
+
+[2|1|2|1]
+ORIGINAL: \bWould you like me to do that?
+TRADUCCION:
+
+[2|1|6|1]
+ORIGINAL: \bWhich Pokémon should forget a move?
+TRADUCCION:
+
+[2|1|11|2]
+ORIGINAL: \bCome again if there are moves that need to be forgotten.
+TRADUCCION:
+
+[2|1|16|1]
+ORIGINAL: \bWhat? No Egg should know any moves.
+TRADUCCION:
+
+[2|1|21|2]
+ORIGINAL: \bWhat? I can't make a Shadow Pokémon forget a move.
+TRADUCCION:
+
+[2|1|27|1]
+ORIGINAL: \b\v[3] seems to know only one move...
+TRADUCCION:
+
+[2|1|31|1]
+ORIGINAL: \bWhich move should be forgotten?
+TRADUCCION:
+
+[2|1|37|1]
+ORIGINAL: \bHm! \v[3]'s \v[4]? That move should be forgotten?
+TRADUCCION:
+
+[2|1|44|1]
+ORIGINAL: \bIt worked to perfection!
+TRADUCCION:
+
+[2|1|45|1]
+ORIGINAL: \b\v[3] has forgotten \v[4] completely.
+TRADUCCION:
+
+[2|1|48|2]
+ORIGINAL: \bCome again if there are moves that need to be forgotten.
+TRADUCCION:
+
+[2|1|58|2]
+ORIGINAL: \bCome again if there are moves that need to be forgotten.
+TRADUCCION:
+
+[3|1|1|1]
+ORIGINAL: \bI'm the Pokémon Move Maniac.
+TRADUCCION:
+
+[3|1|2|2]
+ORIGINAL: \bI know every single move that Pokémon learn growing up.
+TRADUCCION:
+
+[3|1|4|1]
+ORIGINAL: \bI'm also a collector of Heart Scales.
+TRADUCCION:
+
+[3|1|5|2]
+ORIGINAL: \bIf you bring me one, I'll teach a move to one of your Pokémon.
+TRADUCCION:
+
+[3|1|11|2]
+ORIGINAL: \bOh! That's it! That's an honest to goodness Heart Scale!
+TRADUCCION:
+
+[3|1|13|2]
+ORIGINAL: \bLet me guess, you want me to teach one of your Pokémon a move?
+TRADUCCION:
+
+[3|1|18|1]
+ORIGINAL: \bWhich Pokémon needs tutoring?
+TRADUCCION:
+
+[3|1|28|2]
+ORIGINAL: \bIf your Pokémon need to learn a move, come back with a Heart Scale.
+TRADUCCION:
+
+[3|1|33|2]
+ORIGINAL: \bHunh? There isn't a single move that I can teach an Egg.
+TRADUCCION:
+
+[3|1|39|2]
+ORIGINAL: \bNo way, I don't want to go near a Shadow Pokémon.
+TRADUCCION:
+
+[3|1|45|1]
+ORIGINAL: \bSorry...
+TRADUCCION:
+
+[3|1|46|2]
+ORIGINAL: \bIt doesn't appear as if I have any move I can teach to your \v[3].
+TRADUCCION:
+
+[3|1|51|1]
+ORIGINAL: \bWhich move should I teach to your \v[3]?
+TRADUCCION:
+
+[3|1|54|1]
+ORIGINAL: \PN handed over one Heart Scale in exchange.
+TRADUCCION:
+
+[3|1|55|2]
+ORIGINAL: \bIf your Pokémon need to learn a move, come back with a Heart Scale.
+TRADUCCION:
+
+[3|1|59|2]
+ORIGINAL: \bIf your Pokémon need to learn a move, come back with a Heart Scale.
+TRADUCCION:
+
+[3|1|67|2]
+ORIGINAL: \bIf your Pokémon need to learn a move, come back with a Heart Scale.
+TRADUCCION:
+
+[3|1|73|2]
+ORIGINAL: \bIf your Pokémon need to learn a move, come back with a Heart Scale.
+TRADUCCION:
+
+[4|1|0|1]
+ORIGINAL: \bHello, hello!\nI am the official Name Rater!
+TRADUCCION:
+
+[4|1|1|1]
+ORIGINAL: \bWant me to rate the nicknames of your Pokémon?
+TRADUCCION:
+
+[4|1|4|1]
+ORIGINAL: \bWhich Pokémon's nickname should I critique?
+TRADUCCION:
+
+[4|1|12|1]
+ORIGINAL: \bI see.\nDo come visit again.
+TRADUCCION:
+
+[4|1|18|1]
+ORIGINAL: \bNow, now... That is merely an Egg!
+TRADUCCION:
+
+[4|1|24|1]
+ORIGINAL: \bI wouldn't dare critique a Shadow Pokémon's name!
+TRADUCCION:
+
+[4|1|29|1]
+ORIGINAL: \bHmmm... \v[3] it is!
+TRADUCCION:
+
+[4|1|30|2]
+ORIGINAL: \bThis is a magnificent nickname! It is impeccably beyond reproach!
+TRADUCCION:
+
+[4|1|32|2]
+ORIGINAL: \bYou'll do well to cherish your \v[3] now and beyond.
+TRADUCCION:
+
+[4|1|37|1]
+ORIGINAL: \b\v[3], is it?\nThat is a decent nickname!
+TRADUCCION:
+
+[4|1|38|1]
+ORIGINAL: \bBut, would you like me to give it a nicer name?
+TRADUCCION:
+
+[4|1|39|1]
+ORIGINAL: \bHow about it?
+TRADUCCION:
+
+[4|1|42|1]
+ORIGINAL: \bAh, good. Then, what shall the new nickname be?
+TRADUCCION:
+
+[4|1|52|2]
+ORIGINAL: \bI see. You're right, there's no need to change this Pokémon's nickname.
+TRADUCCION:
+
+[4|1|54|1]
+ORIGINAL: \bIt already had a superb name!
+TRADUCCION:
+
+[4|1|62|2]
+ORIGINAL: \bDone! From now on, this Pokémon shall be knownas \v[3]!
+TRADUCCION:
+
+[4|1|64|2]
+ORIGINAL: \bIt looks no different from before, and yet, this is vastly superior!
+TRADUCCION:
+
+[4|1|66|1]
+ORIGINAL: \bHow fortunate for you!
+TRADUCCION:
+
+[4|1|74|2]
+ORIGINAL: \bDone! From now on, this Pokémon shall be knownas \v[5]!
+TRADUCCION:
+
+[4|1|76|2]
+ORIGINAL: \bIt is a better name than before!\nHow fortunate for you!
+TRADUCCION:
+
+[4|1|84|1]
+ORIGINAL: \bI see.\nDo come visit again.
+TRADUCCION:
+
+[4|1|89|1]
+ORIGINAL: \bI see.\nDo come visit again.
+TRADUCCION:
+[5|1|5|OPCIONES]
+ORIGINAL: Frenzy Plant|Blast Burn|Hydro Cannon|Exit
+TRADUCCION:
+
+[5|1|10|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[5|1|27|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[5|1|44|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[2|1|3|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[2|1|38|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[3|1|15|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[4|1|2|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[4|1|40|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+

@@ -1,0 +1,51 @@
+[16|1|6|2]
+ORIGINAL: \bI am the guardian of Memorial Tower. Show me that you´re allowed to be here!
+TRADUCCION:
+
+[16|1|11|2]
+ORIGINAL: \bOkay, you are allowed to be here. But respect the Pokémon that live here, this is a sacred place!
+TRADUCCION:
+
+[16|2|0|2]
+ORIGINAL: \bThe Memorial Tower is the oldest building in Delta. It has been here for thousands of years!
+TRADUCCION:
+
+[1|1|0|1]
+ORIGINAL: Deoxys is staring at you.
+TRADUCCION:
+
+[1|1|2|1]
+ORIGINAL: It wants to battle!
+TRADUCCION:
+
+[1|1|4|1]
+ORIGINAL: \c[5]XYSSS!!!
+TRADUCCION:
+
+[1|1|13|1]
+ORIGINAL: Deoxys is unfazed.
+TRADUCCION:
+
+[15|1|1|3]
+ORIGINAL: \bAh, I have been waiting for you. I am Ryu, and I used to be a member of the Elite Four in the Delta League.
+TRADUCCION:
+
+[15|1|4|3]
+ORIGINAL: \bI decided to quit because I felt like I didn´t have what it takes to be an Elite Four trainer, and I don´t regret that decision. 
+TRADUCCION:
+
+[15|1|7|3]
+ORIGINAL: \bBut would the new Champion be so kind to have a battle with me? I haven´t had one in a while and I do miss this feeling.
+TRADUCCION:
+
+[15|1|11|2]
+ORIGINAL: \bWow, thanks a lot! The new generation of trainers really is in a league of their own.
+TRADUCCION:
+
+[15|1|13|2]
+ORIGINAL: \bOh, and you should be careful when going through Memorial Tower, some powerful Pokémon live here.
+TRADUCCION:
+
+[15|2|0|3]
+ORIGINAL: \bMany years ago, I almost managed to become Champion. But our battle showed me that I would´ve lost my title very fast.
+TRADUCCION:

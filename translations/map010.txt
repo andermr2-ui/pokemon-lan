@@ -1,0 +1,43 @@
+[2|1|0|1]
+ORIGINAL: \bThis is an example of a Pokémon Gym.
+TRADUCCION:
+
+[2|1|1|3]
+ORIGINAL: \bThe only differences are that the trainers become inactive when the Leader is defeated, and the Leader gives you a Gym Badge and TM as a reward.
+TRADUCCION:
+
+[3|1|2|1]
+ORIGINAL: \bYou've made it this far, but can you beat me?
+TRADUCCION:
+
+[3|1|4|2]
+ORIGINAL: \me[Badge get]\bYou've earned the Boulder Badge.\wtnp[110]
+TRADUCCION:
+
+[3|1|8|1]
+ORIGINAL: \bHere, have this TM too.
+TRADUCCION:
+
+[3|1|10|2]
+ORIGINAL: \bYou may find the Pokémon on Route 1 are a little tougher now.
+TRADUCCION:
+
+[3|2|0|2]
+ORIGINAL: \bI often work in the caves on Route 7, digging up fossils.
+TRADUCCION:
+
+[3|2|2|2]
+ORIGINAL: \bThere's a man in the Pokémon Institute who can revive fossils into living Pokémon.
+TRADUCCION:
+
+[4|1|2|1]
+ORIGINAL: \bBattle me now!
+TRADUCCION:
+
+[4|2|0|2]
+ORIGINAL: \bYou're pretty hot. But not as hot asBrock!
+TRADUCCION:
+
+[4|3|0|2]
+ORIGINAL: \bYou're pretty hot. But not as hot asBrock!
+TRADUCCION:

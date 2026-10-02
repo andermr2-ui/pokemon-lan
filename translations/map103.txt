@@ -1,0 +1,47 @@
+[5|1|8|3]
+ORIGINAL: \b???: Hello Virizion. My name is Giovanni. I´m from the Kanto Region, and I have come here for a very specific reason. I want to meet your student.
+TRADUCCION:
+
+[5|1|11|3]
+ORIGINAL: \bGiovanni: You look surprised. Thanks to my extensive research, I discovered the existence of Keldeo. Since then I wanted to meet it.
+TRADUCCION:
+
+[5|2|0|3]
+ORIGINAL: \bGiovanni: Wait a minute...Who are you?! What are you doing here?! Get out of here kid, this forest is no place for children.
+TRADUCCION:
+
+[5|2|4|2]
+ORIGINAL: \bAre you deaf? Get lost already. You´ll regret staying here, trust me.
+TRADUCCION:
+
+[5|2|7|2]
+ORIGINAL: \bWell, you had your chance. Hey, you over there, remove this brat!
+TRADUCCION:
+
+[5|4|0|1]
+ORIGINAL: \bGiovanni: Argh!!! Useless!!!
+TRADUCCION:
+
+[5|4|1|3]
+ORIGINAL: \bOh, but that doesn´t matter now. I got what I came here for, so we´re gonna get going. Don´t interfere with our business again!
+TRADUCCION:
+
+[6|2|14|2]
+ORIGINAL: \bYou heard the boss, I´ll have to remove you the hard way now. Take this, you stupid little brat!
+TRADUCCION:
+
+[6|2|17|2]
+ORIGINAL: \bI´m sorry, boss. This kid is stronger than expected...
+TRADUCCION:
+
+[4|4|0|2]
+ORIGINAL: Virizion is thankful for saving Keldeo. It wants to challenge you!
+TRADUCCION:
+
+[4|4|3|1]
+ORIGINAL: \bVIRIIIII!!!
+TRADUCCION:
+
+[4|6|0|1]
+ORIGINAL: Virizion disappeared. Will it come back?
+TRADUCCION:

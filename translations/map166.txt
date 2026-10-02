@@ -1,0 +1,23 @@
+[3|1|1|1]
+ORIGINAL: The Delta Stone in your pocket just lit up!
+TRADUCCION:
+
+[4|1|0|1]
+ORIGINAL: Cresselia is staring at you.
+TRADUCCION:
+
+[4|1|1|1]
+ORIGINAL: It wants to battle!
+TRADUCCION:
+
+[4|1|3|1]
+ORIGINAL: \bSELIAAA!!!
+TRADUCCION:
+
+[4|2|0|1]
+ORIGINAL: It´s a Pokémon Stature dedicated to Latios.
+TRADUCCION:
+
+[4|3|0|1]
+ORIGINAL: Cresselia disappeared. Will it come back?
+TRADUCCION:

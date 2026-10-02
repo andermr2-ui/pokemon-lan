@@ -1,0 +1,143 @@
+[5|1|7|1]
+ORIGINAL: There is no battle recorded.
+TRADUCCION:
+
+[3|1|0|1]
+ORIGINAL: \bWelcome to the Battle Arena.
+TRADUCCION:
+
+[3|1|1|1]
+ORIGINAL: \bWould you like to participate in a battle?
+TRADUCCION:
+
+[3|1|4|2]
+ORIGINAL: \bDo you want to take the Level 50 challenge, or the Open Level challenge?
+TRADUCCION:
+
+[3|1|27|2]
+ORIGINAL: \bSorry, you can't participate. You need three different Pokémon to enter.
+TRADUCCION:
+
+[3|1|29|2]
+ORIGINAL: \bThey must be of a different species and hold different items.
+TRADUCCION:
+
+[3|1|31|2]
+ORIGINAL: \bCertain exotic species, as well as eggs, are ineligible.
+TRADUCCION:
+
+[3|1|36|1]
+ORIGINAL: \bPlease choose the three Pokémon that will enter.
+TRADUCCION:
+
+[3|1|42|1]
+ORIGINAL: \bPlease come this way.
+TRADUCCION:
+
+[3|1|76|1]
+ORIGINAL: \bCome back another time.
+TRADUCCION:
+
+[3|2|2|1]
+ORIGINAL: \bCongratulations for winning.
+TRADUCCION:
+
+[3|2|4|1]
+ORIGINAL: \bPlease accept these Battle Point(s).
+TRADUCCION:
+
+[3|2|20|1]
+ORIGINAL: \PN obtained \v[1] Battle Point(s).
+TRADUCCION:
+
+[3|2|24|1]
+ORIGINAL: \bWould you like to record your last battle?
+TRADUCCION:
+
+[3|2|28|1]
+ORIGINAL: \se[Pkmn exp full]The battle was recorded.
+TRADUCCION:
+
+[3|2|35|1]
+ORIGINAL: Your results will be recorded.\wtnp[15]
+TRADUCCION:
+
+[3|2|37|1]
+ORIGINAL: \bCome back another time.
+TRADUCCION:
+
+[3|2|43|1]
+ORIGINAL: \bThanks for playing.
+TRADUCCION:
+
+[3|2|45|1]
+ORIGINAL: \bWould you like to record your last battle?
+TRADUCCION:
+
+[3|2|49|1]
+ORIGINAL: \se[Pkmn exp full]The battle was recorded.
+TRADUCCION:
+
+[3|2|56|1]
+ORIGINAL: Your results will be recorded.\wtnp[15]
+TRADUCCION:
+
+[3|2|58|1]
+ORIGINAL: \bCome back another time.
+TRADUCCION:
+
+[3|2|63|2]
+ORIGINAL: \bWe've been waiting for you. Please come this way.
+TRADUCCION:
+
+[3|2|92|2]
+ORIGINAL: \bExcuse me, but you didn't save before finishing your challenge last time.
+TRADUCCION:
+
+[3|2|94|1]
+ORIGINAL: \bSorry, but your challenge has been canceled.
+TRADUCCION:
+
+[4|1|0|1]
+ORIGINAL: Check results for which challenge?
+TRADUCCION:
+
+[4|1|11|1]
+ORIGINAL: \PN's Battle Arena Level 50 results:
+TRADUCCION:
+
+[4|1|12|1]
+ORIGINAL: Last win streak: \v[1]\nRecord win streak: \v[2]
+TRADUCCION:
+
+[4|1|23|1]
+ORIGINAL: \PN's Battle Arena Open Level results:
+TRADUCCION:
+
+[4|1|24|1]
+ORIGINAL: Last win streak: \v[1]\nRecord win streak: \v[2]
+TRADUCCION:
+[5|1|1|OPCIONES]
+ORIGINAL: Play recorded battle|Exit
+TRADUCCION:
+
+[3|1|2|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[3|1|6|OPCIONES]
+ORIGINAL: Level 50|Open Level|Cancel
+TRADUCCION:
+
+[3|2|25|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[3|2|46|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[4|1|1|OPCIONES]
+ORIGINAL: Level 50|Open Level|Cancel
+TRADUCCION:
+

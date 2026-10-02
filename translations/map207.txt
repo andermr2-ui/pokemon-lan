@@ -1,0 +1,95 @@
+[5|1|0|2]
+ORIGINAL: A Porygon got out of the cage. It looks thankful and wants to join you.
+TRADUCCION:
+
+[5|1|5|1]
+ORIGINAL: The Porygon was holding something.
+TRADUCCION:
+
+[1|1|0|2]
+ORIGINAL: It´s an old poster. Do you want to tear it off?
+TRADUCCION:
+
+[1|2|0|1]
+ORIGINAL: Cage Lock: 0053
+TRADUCCION:
+
+[1|3|0|1]
+ORIGINAL: Cage Lock: 0053
+TRADUCCION:
+
+[7|1|4|1]
+ORIGINAL: You unlocked the door.
+TRADUCCION:
+
+[8|1|1|1]
+ORIGINAL: \bAh, you´re finally awake.
+TRADUCCION:
+
+[8|1|2|3]
+ORIGINAL: \bLet me welcome you to our base. This is the storage room, and this is where we´ll keep you locked up.
+TRADUCCION:
+
+[8|1|5|2]
+ORIGINAL: \bDon´t worry, we´ll let you out eventually, but only after we have accomplished our mission.
+TRADUCCION:
+
+[8|1|7|2]
+ORIGINAL: \bYou can use the spare bed, because even a jerk like you doesn´t deserve to sleep on the ground.
+TRADUCCION:
+
+[8|1|9|2]
+ORIGINAL: \bIf you need to eat and drink something, just look into the fridge over there.
+TRADUCCION:
+
+[8|1|11|3]
+ORIGINAL: \bAnd don´t get us wrong, we only treat you this well because you´re a kid. After all, we´re just people, not monsters.
+TRADUCCION:
+
+[8|1|14|2]
+ORIGINAL: \bI hope our storage room will keep you entertained. I´m gonna go now.
+TRADUCCION:
+
+[3|1|0|1]
+ORIGINAL: A Pokémon is locked inside the cage.
+TRADUCCION:
+
+[3|2|0|1]
+ORIGINAL: It´s an empty cage.
+TRADUCCION:
+
+[9|1|0|2]
+ORIGINAL: There´s some water in the fridge. Do you want to take it?
+TRADUCCION:
+
+[9|2|0|1]
+ORIGINAL: It´s an empty fridge.
+TRADUCCION:
+
+[4|1|0|2]
+ORIGINAL: A combination lock keeps the cage locked. It requires 4 numbers.
+TRADUCCION:
+
+[4|2|0|2]
+ORIGINAL: A combination lock keeps the cage locked. It requires 4 numbers.
+TRADUCCION:
+
+[4|2|2|1]
+ORIGINAL: Do you want to enter the code?
+TRADUCCION:
+
+[4|4|0|1]
+ORIGINAL: It´s an empty cage.
+TRADUCCION:
+[1|1|2|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[9|1|2|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[4|2|3|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+

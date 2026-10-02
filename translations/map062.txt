@@ -1,0 +1,291 @@
+[5|1|0|1]
+ORIGINAL: \bWelcome to the Battle Factory.
+TRADUCCION:
+
+[5|1|1|1]
+ORIGINAL: \bWould you like to participate in a double battle?
+TRADUCCION:
+
+[5|1|4|2]
+ORIGINAL: \bDo you want to take the Level 50 challenge, or the Open Level challenge?
+TRADUCCION:
+
+[5|1|31|1]
+ORIGINAL: \bPlease come this way.
+TRADUCCION:
+
+[5|1|65|1]
+ORIGINAL: \bCome back another time.
+TRADUCCION:
+
+[5|2|2|1]
+ORIGINAL: \bCongratulations for winning.
+TRADUCCION:
+
+[5|2|3|2]
+ORIGINAL: \bI will take your rental Pokémon back and return your own Pokémon.
+TRADUCCION:
+
+[5|2|6|1]
+ORIGINAL: \bPlease accept these Battle Point(s).
+TRADUCCION:
+
+[5|2|19|1]
+ORIGINAL: \PN obtained \v[1] Battle Point(s).
+TRADUCCION:
+
+[5|2|23|1]
+ORIGINAL: \bWould you like to record your last battle?
+TRADUCCION:
+
+[5|2|27|1]
+ORIGINAL: \se[Pkmn exp full]The battle was recorded.
+TRADUCCION:
+
+[5|2|34|1]
+ORIGINAL: \bYour results will be recorded.\wtnp[15]
+TRADUCCION:
+
+[5|2|36|1]
+ORIGINAL: \bCome back another time.
+TRADUCCION:
+
+[5|2|42|1]
+ORIGINAL: \bThanks for playing.
+TRADUCCION:
+
+[5|2|43|2]
+ORIGINAL: \bI will take your rental Pokémon back and return your own Pokémon.
+TRADUCCION:
+
+[5|2|46|1]
+ORIGINAL: \bWould you like to record your last battle?
+TRADUCCION:
+
+[5|2|50|1]
+ORIGINAL: \se[Pkmn exp full]The battle was recorded.
+TRADUCCION:
+
+[5|2|57|1]
+ORIGINAL: \bYour results will be recorded.\wtnp[15]
+TRADUCCION:
+
+[5|2|59|1]
+ORIGINAL: \bCome back another time.
+TRADUCCION:
+
+[5|2|64|2]
+ORIGINAL: \bWe've been waiting for you. Please come this way.
+TRADUCCION:
+
+[5|2|93|2]
+ORIGINAL: \bExcuse me, but you didn't save before finishing your challenge last time.
+TRADUCCION:
+
+[5|2|95|1]
+ORIGINAL: \bSorry, but your challenge has been canceled.
+TRADUCCION:
+
+[6|1|0|1]
+ORIGINAL: Check results for which challenge?
+TRADUCCION:
+
+[6|1|11|1]
+ORIGINAL: \PN's Battle Factory Level 50 Single Battle results:
+TRADUCCION:
+
+[6|1|12|1]
+ORIGINAL: Last win streak: \v[1]\nRecord win streak: \v[2]
+TRADUCCION:
+
+[6|1|23|1]
+ORIGINAL: \PN's Battle Factory Open Level Single Battle results:
+TRADUCCION:
+
+[6|1|24|1]
+ORIGINAL: Last win streak: \v[1]\nRecord win streak: \v[2]
+TRADUCCION:
+
+[7|1|0|1]
+ORIGINAL: Check results for which challenge?
+TRADUCCION:
+
+[7|1|11|1]
+ORIGINAL: \PN's Battle Factory Level 50 Double Battle results:
+TRADUCCION:
+
+[7|1|12|1]
+ORIGINAL: Last win streak: \v[1]\nRecord win streak: \v[2]
+TRADUCCION:
+
+[7|1|23|1]
+ORIGINAL: \PN's Battle Factory Open Level Double Battle results:
+TRADUCCION:
+
+[7|1|24|1]
+ORIGINAL: Last win streak: \v[1]\nRecord win streak: \v[2]
+TRADUCCION:
+
+[8|1|4|1]
+ORIGINAL: Which heading do you want to read?
+TRADUCCION:
+
+[8|1|7|3]
+ORIGINAL: In the Battle Factory, you fight using Pokémon provided for you. You must use three Pokémon out of a choice of six.
+TRADUCCION:
+
+[8|1|10|2]
+ORIGINAL: Pokémon in later rounds will be stronger than in earlier rounds, both yours and your opponents'.
+TRADUCCION:
+
+[8|1|15|2]
+ORIGINAL: When you defeat a Trainer, you may swap one of your Pokémon for one of theirs.
+TRADUCCION:
+
+[8|1|17|3]
+ORIGINAL: You can't check the details of the Trainer's Pokémon before you choose one to gain in a swap. You will have to remember what it was like from the battle.
+TRADUCCION:
+
+[8|1|20|3]
+ORIGINAL: Your team will remain in the same order even after a swap. For example, if you swap away your second Pokémon, the new Pokémon will now be second.
+TRADUCCION:
+
+[8|1|36|1]
+ORIGINAL: There is no battle recorded.
+TRADUCCION:
+
+[4|1|0|1]
+ORIGINAL: \bWelcome to the Battle Factory.
+TRADUCCION:
+
+[4|1|1|1]
+ORIGINAL: \bWould you like to participate in a single battle?
+TRADUCCION:
+
+[4|1|4|2]
+ORIGINAL: \bDo you want to take the Level 50 challenge, or the Open Level challenge?
+TRADUCCION:
+
+[4|1|26|1]
+ORIGINAL: \bPlease come this way.
+TRADUCCION:
+
+[4|1|60|1]
+ORIGINAL: \bCome back another time.
+TRADUCCION:
+
+[4|2|2|1]
+ORIGINAL: \bCongratulations for winning.
+TRADUCCION:
+
+[4|2|3|2]
+ORIGINAL: \bI will take your rental Pokémon back and return your own Pokémon.
+TRADUCCION:
+
+[4|2|6|1]
+ORIGINAL: \bPlease accept these Battle Point(s).
+TRADUCCION:
+
+[4|2|19|1]
+ORIGINAL: \PN obtained \v[1] Battle Point(s).
+TRADUCCION:
+
+[4|2|23|1]
+ORIGINAL: \bWould you like to record your last battle?
+TRADUCCION:
+
+[4|2|27|1]
+ORIGINAL: \se[Pkmn exp full]The battle was recorded.
+TRADUCCION:
+
+[4|2|34|1]
+ORIGINAL: \bYour results will be recorded.\wtnp[15]
+TRADUCCION:
+
+[4|2|36|1]
+ORIGINAL: \bCome back another time.
+TRADUCCION:
+
+[4|2|42|1]
+ORIGINAL: \bThanks for playing.
+TRADUCCION:
+
+[4|2|43|2]
+ORIGINAL: \bI will take your rental Pokémon back and return your own Pokémon.
+TRADUCCION:
+
+[4|2|46|1]
+ORIGINAL: \bWould you like to record your last battle?
+TRADUCCION:
+
+[4|2|50|1]
+ORIGINAL: \se[Pkmn exp full]The battle was recorded.
+TRADUCCION:
+
+[4|2|57|1]
+ORIGINAL: \bYour results will be recorded.\wtnp[15]
+TRADUCCION:
+
+[4|2|59|1]
+ORIGINAL: \bCome back another time.
+TRADUCCION:
+
+[4|2|64|2]
+ORIGINAL: \bWe've been waiting for you. Please come this way.
+TRADUCCION:
+
+[4|2|93|2]
+ORIGINAL: \bExcuse me, but you didn't save before finishing your challenge last time.
+TRADUCCION:
+
+[4|2|95|1]
+ORIGINAL: \bSorry, but your challenge has been canceled.
+TRADUCCION:
+[5|1|2|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[5|1|6|OPCIONES]
+ORIGINAL: Level 50|Open Level|Cancel
+TRADUCCION:
+
+[5|2|24|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[5|2|47|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[6|1|1|OPCIONES]
+ORIGINAL: Level 50|Open Level|Cancel
+TRADUCCION:
+
+[7|1|1|OPCIONES]
+ORIGINAL: Level 50|Open Level|Cancel
+TRADUCCION:
+
+[8|1|1|OPCIONES]
+ORIGINAL: Battle Factory rules|Play recorded battle|Cancel
+TRADUCCION:
+
+[8|1|5|OPCIONES]
+ORIGINAL: Basic Rules|Swapping|Exit
+TRADUCCION:
+
+[4|1|2|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[4|1|6|OPCIONES]
+ORIGINAL: Level 50|Open Level|Cancel
+TRADUCCION:
+
+[4|2|24|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[4|2|47|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+

@@ -1,0 +1,39 @@
+[2|1|0|1]
+ORIGINAL: \bYo yo yo! I´m da real Slim Shady!
+TRADUCCION:
+
+[2|1|1|2]
+ORIGINAL: \bWhat? My name is Marshall Mathers, and I´m da mayor of this town.
+TRADUCCION:
+
+[2|1|3|3]
+ORIGINAL: \bDr. Dre said I should get into politics, and this looked like a job for me. I promised my people that I´ll do this´till I collapse.
+TRADUCCION:
+
+[2|1|6|2]
+ORIGINAL: \bCan you go ´round the outside and find out what the Riverstone folks think about me?
+TRADUCCION:
+
+[2|1|8|2]
+ORIGINAL: \bYou will? That´s dope. Come back here once you know more.
+TRADUCCION:
+
+[2|2|0|2]
+ORIGINAL: \bPlease talk to more people so I can see if this really looks like a job for me. Don´t lose yourself kid.
+TRADUCCION:
+
+[2|3|0|1]
+ORIGINAL: \bAlright, what did my folks say?
+TRADUCCION:
+
+[2|3|1|3]
+ORIGINAL: \bHm, mh, okay, yeah. This does look like a job for me! Please, take this. I got it from Dre, and I don´t know what to do with it. Here you go!
+TRADUCCION:
+
+[2|3|5|3]
+ORIGINAL: \bIf these TMs could be used in rap battles, I´d use this move. But I´m so good that it probably wouldn´t be necessary. Bye!
+TRADUCCION:
+
+[2|4|0|2]
+ORIGINAL: \bI´m going to make a diss track. That dojo guy thinks I´m lazy or something, so I´m gonna end his career!
+TRADUCCION:

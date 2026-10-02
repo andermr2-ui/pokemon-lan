@@ -1,0 +1,15 @@
+[1|1|6|1]
+ORIGINAL: \bAnthony: This is even worse than I imagined...
+TRADUCCION:
+
+[1|1|7|2]
+ORIGINAL: \bWhy´s a sandstorm here? And look, over there, a thunderstorm!
+TRADUCCION:
+
+[1|1|9|3]
+ORIGINAL: \bAlso, because the beach hasn´t been used by people in a while, a bunch of strong Pokémon are wandering around here. We should be very careful.
+TRADUCCION:
+
+[1|1|12|3]
+ORIGINAL: \bI´m gonna search the coast for anything suspicious, and you can help me. Anything that looks unnatural could be a clue. Let´s do this!
+TRADUCCION:

@@ -1,0 +1,15 @@
+[11|1|0|1]
+ORIGINAL: This is another boulder-down-hole puzzle.
+TRADUCCION:
+
+[11|1|1|3]
+ORIGINAL: It is identical to the regular kind, except the boulder downstairs is just a regular immovable event rather than a boulder itself.
+TRADUCCION:
+
+[3|1|0|3]
+ORIGINAL: On the right is an example of a cracked ice tile.  You can walk over it once, but step on it again and you'll fall through to another map.
+TRADUCCION:
+
+[4|1|0|1]
+ORIGINAL: Ice you slide around on has terrain tag 12.
+TRADUCCION:

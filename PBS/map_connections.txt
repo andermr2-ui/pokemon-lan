@@ -1,0 +1,402 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+# Lappet Town (2) - Route 1 (5)
+2,North,0,5,South,4
+# Lappet Town (2) - Safari Zone outside (66)
+2,West,0,66,East,0
+# Route 8 (69) - Lappet Town (2)
+69,North,12,2,South,0
+# Route 6 (44) - Route 1 (5)
+44,South,43,5,North,0
+# Safari Zone outside (66) - Route 1 (5)
+66,North,18,5,South,0
+# Cedolan City (7) - Route 1 (5)
+7,South,0,5,North,2
+# Cedolan City (7) - Route 6 (44)
+7,West,5,44,East,0
+# Cedolan City (7) - Lerucean Town (23)
+7,East,0,23,West,78
+# Route 7 (47) - Cedolan City (7)
+47,West,0,7,East,0
+# Route 2 (21) - Cedolan City (7)
+21,South,0,7,North,21
+# Route 2 (21) - Lerucean Town (23)
+21,East,0,23,West,1
+# Route 2 (21) - Route 7 (47)
+21,East,77,47,West,0
+# Starter Valley (22) - Route 1 (Delta) (32)
+22,North,0,32,South,0
+# Meadow Grove (33) - Starter Valley (22)
+33,South,0,22,North,46
+# Jirachi Rock (76) - Starter Valley (22)
+76,West,0,22,East,0
+# Route 3 (31) - Lerucean Town (23)
+31,South,32,23,North,0
+# Route 3 (31) - Ingido Plateau outside (35)
+31,West,0,35,East,10
+# Meadow Grove (33) - Route 1 (Delta) (32)
+33,West,14,32,East,0
+# Jirachi Rock (76) - Route 1 (Delta) (32)
+76,North,0,32,South,40
+# Lone Rock (84) - Route 1 (Delta) (32)
+84,South,0,32,North,0
+# Route 1 Extra (362) - Route 1 (Delta) (32)
+362,South,0,32,North,22
+# Jirachi Rock (76) - Meadow Grove (33)
+76,North,6,33,South,0
+# Ingido Plateau outside (35) - Route 4 (39)
+35,West,11,39,East,0
+# Route 5 (41) - Route 4 Cycling Road (40)
+41,North,0,40,South,0
+# Route 5 (41) - Route 6 Cycling Road (45)
+41,South,6,45,North,0
+# Arrow Ridge (42) - Route 2.1 (Delta) (98)
+42,North,0,98,South,22
+# Route 3 (Delta) (82) - Arrow Ridge (42)
+82,West,14,42,East,0
+# Route 7 (47) - Battle Frontier (52)
+47,East,8,52,West,0
+# Route 8 (69) - Safari Zone outside (66)
+69,North,0,66,South,10
+# Route 2.1 (Delta) (98) - Route 2 (Delta) (80)
+98,North,0,80,South,12
+# Route 3 (Delta) (82) - Route 2 (Delta) (80)
+82,West,0,80,East,64
+# Route 3 (Delta) (82) - Route 2.1 (Delta) (98)
+82,West,0,98,East,14
+# Route 1 Extra (362) - Lone Rock (84)
+362,West,0,84,East,7
+# border (366) - Rumble Mountain Middle (85)
+366,South,0,85,North,9
+# Route 4 (Delta) (90) - Mistveil (91)
+90,West,0,91,East,24
+# Route 11 (198) - Route 4 (Delta) (90)
+198,South,0,90,North,0
+# Mistveil (91) - Route 5.1 (Delta) (100)
+91,North,0,100,South,0
+# Route 11 (198) - Mistveil (91)
+198,West,0,91,East,0
+# Route 5 (Delta) (99) - Mistveil (91)
+99,East,22,91,West,0
+# Route 5 (Delta) (99) - Route 5.1 (Delta) (100)
+99,East,0,100,West,38
+# Route 5.1 (Delta) (100) - Thunder Swamps (122)
+100,East,0,122,West,24
+# Route 11 (198) - Route 5.1 (Delta) (100)
+198,North,0,100,South,28
+# Flower Meadow (103) - Dark Forest (101)
+103,South,6,101,North,0
+# Route 6.1 (Delta) (106) - Route 6 (Delta) (104)
+106,East,32,104,West,0
+# border (342) - Route 6 (Delta) (104)
+342,South,0,104,North,32
+# Route 7 (Delta) (112) - Route 7.2 (Delta) (114)
+112,North,0,114,South,60
+# Route 7.1 (Delta) (113) - Route 7 (Delta) (112)
+113,South,20,112,North,0
+# Route 7.1 (Delta) (113) - Route 7.2 (Delta) (114)
+113,West,0,114,East,0
+# Silver Peak (115) - Route 7.1 (Delta) (113)
+115,South,49,113,North,0
+# Silver Peak (115) - Route 7.2 (Delta) (114)
+115,South,9,114,North,0
+# Iron Shrine (121) - Route 7.2 (Delta) (114)
+121,East,0,114,West,0
+# Iron Shrine (121) - Silver Peak (115)
+121,North,22,115,South,0
+# Thunder Swamps North (277) - Thunder Swamps (122)
+277,South,0,122,North,8
+# Riverstone Bridge (124) - Riverstone Park (123)
+124,West,0,123,East,3
+# Milotic River Segment (126) - Riverstone Park (123)
+126,West,21,123,East,0
+# Riverstone Park North (272) - Riverstone Park (123)
+272,South,0,123,North,4
+# Milotic River Segment (126) - Riverstone Bridge (124)
+126,South,0,124,North,0
+# Riverstone (125) - Riverstone Bridge (124)
+125,West,28,124,East,0
+# Riverstone Park North (272) - Riverstone Bridge (124)
+272,East,23,124,West,0
+# Riverstone (125) - Milotic River Segment (126)
+125,West,4,126,East,0
+# Riverstone Graveyard (142) - Riverstone (125)
+142,North,0,125,South,20
+# Stadium Outside (195) - Riverstone (125)
+195,South,0,125,North,12
+# Riverstone Park North (272) - Milotic River Segment (126)
+272,East,0,126,West,1
+# Route 8 A3 (143) - Route 8 B3 (144)
+143,East,0,144,West,0
+# Route 8 C2 (150) - Route 8 A3 (143)
+150,South,0,143,North,100
+# Route 8 B2 (145) - Route 8 A3 (143)
+145,West,40,143,East,0
+# Route 8 A2 (146) - Route 8 A3 (143)
+146,South,0,143,North,0
+# Route 8 B1 (147) - Route 8 A3 (143)
+147,West,80,143,East,0
+# Route 8 C2 (150) - Route 8 B3 (144)
+150,West,40,144,East,0
+# Route 8 B2 (145) - Route 8 B3 (144)
+145,South,0,144,North,0
+# Route 8 A2 (146) - Route 8 B3 (144)
+146,East,40,144,West,0
+# Route 8 A1 (148) - Route 8 B3 (144)
+148,East,80,144,West,0
+# Route 8 C3 (151) - Route 8 B3 (144)
+151,West,0,144,East,0
+# Route 8 C1 (152) - Route 8 B3 (144)
+152,West,80,144,East,0
+# Route 8 B2 (145) - Route 8 C2 (150)
+145,East,0,150,West,0
+# Route 8 A2 (146) - Route 8 B2 (145)
+146,East,0,145,West,0
+# Route 8 B1 (147) - Route 8 B2 (145)
+147,South,0,145,North,0
+# Route 8 A1 (148) - Route 8 B2 (145)
+148,East,40,145,West,0
+# Route 8 C3 (151) - Route 8 B2 (145)
+151,West,0,145,East,40
+# Route 8 C1 (152) - Route 8 B2 (145)
+152,West,40,145,East,0
+# Route 8 B1 (147) - Route 8 A2 (146)
+147,West,40,146,East,0
+# Route 8 A1 (148) - Route 8 A2 (146)
+148,South,0,146,North,0
+# Route 8 C3 (151) - Route 8 A2 (146)
+151,North,0,146,South,100
+# Route 8 C1 (152) - Route 8 A2 (146)
+152,South,0,146,North,100
+# Route 8 B1 (147) - Route 8 C2 (150)
+147,East,40,150,West,0
+# Route 8 A1 (148) - Route 8 B1 (147)
+148,East,0,147,West,0
+# Route 8 C3 (151) - Route 8 B1 (147)
+151,West,0,147,East,80
+# Route 8 C1 (152) - Route 8 B1 (147)
+152,West,0,147,East,0
+# Route 8 A1 (148) - Route 8 C2 (150)
+148,South,100,150,North,0
+# Route 8 C3 (151) - Route 8 C2 (150)
+151,North,0,150,South,0
+# Route 8 C1 (152) - Route 8 C2 (150)
+152,South,0,150,North,0
+# Crystal Cove (153) - Route 9 (167)
+153,South,6,167,North,0
+# Crystal Beach (154) - Crystal Cove (153)
+154,West,0,153,East,0
+# Rocky Gate (155) - Crystal Cove (153)
+155,South,0,153,North,14
+# Crystal Beach North (164) - Crystal Cove (153)
+164,South,0,153,North,40
+# Crystal Beach North East (166) - Crystal Cove (153)
+166,South,0,153,North,76
+# Crystal Beach South (168) - Crystal Cove (153)
+168,West,0,153,East,36
+# Crystal Beach South East (169) - Crystal Cove (153)
+169,North,0,153,South,76
+# Crystal Beach (154) - Route 9 (167)
+154,West,36,167,East,0
+# Rocky Gate (155) - Crystal Beach (154)
+155,South,32,154,North,0
+# Crystal Beach North (164) - Crystal Beach (154)
+164,South,6,154,North,0
+# Crystal Beach East (165) - Crystal Beach (154)
+165,West,0,154,East,0
+# Crystal Beach North East (166) - Crystal Beach (154)
+166,West,24,154,East,0
+# Crystal Beach South (168) - Crystal Beach (154)
+168,North,0,154,South,0
+# Crystal Beach South East (169) - Crystal Beach (154)
+169,West,0,154,East,36
+# Crystal Beach North (164) - Rocky Gate (155)
+164,West,0,155,East,0
+# Crystal Beach East (165) - Rocky Gate (155)
+165,North,0,155,South,62
+# Crystal Beach East (165) - Crystal Beach North (164)
+165,West,0,164,East,24
+# Crystal Beach North East (166) - Crystal Beach North (164)
+166,West,0,164,East,0
+# Crystal Beach South East (169) - Crystal Beach North (164)
+169,West,0,164,East,60
+# Crystal Beach East (165) - Route 9 (167)
+165,South,0,167,North,70
+# Crystal Beach North East (166) - Crystal Beach East (165)
+166,South,0,165,North,0
+# Crystal Beach South (168) - Crystal Beach East (165)
+168,North,30,165,South,0
+# Crystal Beach South East (169) - Crystal Beach East (165)
+169,North,0,165,South,0
+# Crystal Beach South (168) - Crystal Beach North East (166)
+168,East,0,166,West,60
+# Crystal Beach South (168) - Route 9 (167)
+168,West,0,167,East,0
+# Route 9.1 (171) - Route 9 (167)
+171,North,13,167,South,0
+# Route 9.1 extra (178) - Route 9 (167)
+178,North,33,167,South,0
+# Crystal Beach South East (169) - Crystal Beach South (168)
+169,West,0,168,East,0
+# Route 9.1 extra (178) - Route 9.1 (171)
+178,East,0,171,West,0
+# Whispering Woods West (174) - Whispering Woods (173)
+174,East,0,173,West,0
+# Glimmerwood (209) - Route 12 (211)
+209,North,0,211,South,0
+# Route 12 (211) - Aurora Summit (215)
+211,North,0,215,South,24
+# Thunder Pass West (230) - Route 12 (211)
+230,South,100,211,North,0
+# Aurora Summit (215) - Thunder Pass (229)
+215,West,0,229,East,1
+# Aurora Peak (280) - Aurora Summit (215)
+280,South,0,215,North,14
+# Thunder Pass West (230) - Thunder Pass (229)
+230,East,9,229,West,0
+# Route 13 (231) - Thunder Pass West (230)
+231,South,0,230,North,0
+# Granite Heights (232) - Route 13 (231)
+232,South,0,231,North,8
+# Route 13 Extra (238) - Route 13 (231)
+238,South,12,231,North,0
+# Route 13 Extra (238) - Granite Heights (232)
+238,East,0,232,West,15
+# Pokémon League (245) - Victory Road Part 6 (244)
+245,South,0,244,North,16
+# Southside Beach Center (319) - Southside Beach East (318)
+319,East,0,318,West,0
+# SB South East (363) - Southside Beach East (318)
+363,North,0,318,South,0
+# SB South (364) - Southside Beach East (318)
+364,North,30,318,South,0
+# SB South West (365) - Southside Beach East (318)
+365,North,60,318,South,0
+# Route 14 (321) - Southside Beach Center (319)
+321,East,30,319,West,0
+# Southside Beach West (320) - Southside Beach Center (319)
+320,East,0,319,West,10
+# SB South East (363) - Southside Beach Center (319)
+363,West,0,319,East,30
+# SB South (364) - Southside Beach Center (319)
+364,North,0,319,South,0
+# SB South West (365) - Southside Beach Center (319)
+365,North,30,319,South,0
+# Southside Beach West (320) - Route 14 (321)
+320,North,0,321,South,10
+# SB South East (363) - Southside Beach West (320)
+363,North,0,320,South,60
+# SB South (364) - Southside Beach West (320)
+364,West,0,320,East,20
+# SB South West (365) - Southside Beach West (320)
+365,North,0,320,South,0
+# Southford (344) - Route 14 (321)
+344,East,0,321,West,0
+# SB South (364) - Route 14 (321)
+364,West,0,321,East,60
+# Delta Islands Harbor (327) - Route 15 (329)
+327,East,0,329,West,2
+# Route 15 (329) - Eastern Beach (339)
+329,East,0,339,West,6
+# Champions Village (334) - Route 15 (329)
+334,North,0,329,South,14
+# Hisui Wildlife Station (330) - Route 15 (329)
+330,South,0,329,North,12
+# Hisui Wildlife Station West (331) - Route 15 (329)
+331,South,26,329,North,0
+# Ruin Island (340) - Route 15 (329)
+340,West,36,329,East,0
+# Hisui Wildlife Station West (331) - Hisui Wildlife Station (330)
+331,East,26,330,West,0
+# Hisui Wildlife Station North (332) - Hisui Wildlife Station (330)
+332,South,0,330,North,0
+# Hisui Wildlife Station North (332) - Hisui Wildlife Station West (331)
+332,West,0,331,East,0
+# Champions Beach (335) - Champions Village (334)
+335,North,0,334,South,0
+# Champions Beach North (336) - Champions Village (334)
+336,West,0,334,East,10
+# Champions Beach North (336) - Champions Beach (335)
+336,South,0,335,North,36
+# Shrouded Cove (337) - Champions Beach (335)
+337,North,0,335,South,0
+# Ruin Island (340) - Eastern Beach (339)
+340,South,0,339,North,0
+# SB South (364) - SB South East (363)
+364,East,0,363,West,0
+# SB South West (365) - SB South (364)
+365,East,0,364,West,0
+# Ambergrove West (177) - Route 10 (187)
+177,West,0,187,East,0
+# Route 10.3 (199) - Route 10 (187)
+199,North,0,187,South,0
+# Milotic River Segment (190) - Route 10 (187)
+190,East,28,187,West,0
+# Route 10.1 (189) - Route 10 (187)
+189,South,0,187,North,0
+# Milotic River Segment 2 (191) - Route 10 (187)
+191,East,4,187,West,0
+# Milotic River Segment 3 (192) - Route 10 (187)
+192,East,0,187,West,20
+# Relic Cave F3 (203) - Route 10 (187)
+203,East,0,187,West,44
+# Scorching Valley (179) - Route 10 (187)
+179,West,0,187,East,26
+# Scorching Valley East (180) - Route 10 (187)
+180,North,0,187,South,100
+# Route 10.2 (193) - Route 10 (187)
+193,North,0,187,South,36
+# Ambergrove (176) - Ambergrove West (177)
+176,West,0,177,East,0
+# Route 10.3 (199) - Ambergrove West (177)
+199,North,70,177,South,0
+# Route 10.1 (189) - Ambergrove West (177)
+189,South,70,177,North,0
+# Scorching Valley (179) - Ambergrove West (177)
+179,North,0,177,South,0
+# Scorching Valley East (180) - Ambergrove West (177)
+180,North,0,177,South,30
+# Route 10.2 (193) - Ambergrove West (177)
+193,North,34,177,South,0
+# Route 10.3 (199) - Ambergrove (176)
+199,North,120,176,South,0
+# Route 10.1 (189) - Ambergrove (176)
+189,South,120,176,North,0
+# Scorching Valley (179) - Ambergrove (176)
+179,North,50,176,South,0
+# Scorching Valley East (180) - Ambergrove (176)
+180,North,20,176,South,0
+# Route 10.2 (193) - Ambergrove (176)
+193,North,84,176,South,0
+# Milotic River Segment (190) - Route 10.3 (199)
+190,East,54,199,West,0
+# Milotic River Segment 2 (191) - Route 10.3 (199)
+191,East,30,199,West,0
+# Milotic River Segment 3 (192) - Route 10.3 (199)
+192,East,6,199,West,0
+# Relic Cave F3 (203) - Route 10.3 (199)
+203,East,0,199,West,18
+# Route 10.1 (189) - Milotic River Segment (190)
+189,West,0,190,East,0
+# Milotic River Segment 2 (191) - Milotic River Segment (190)
+191,North,0,190,South,0
+# Route 10.4 (200) - Milotic River Segment (190)
+200,East,0,190,West,47
+# Milotic River Segment 2 (191) - Route 10.1 (189)
+191,East,0,189,West,24
+# Milotic River Segment 3 (192) - Route 10.1 (189)
+192,East,0,189,West,48
+# Relic Cave F3 (203) - Route 10.1 (189)
+203,East,0,189,West,72
+# Milotic River Segment 3 (192) - Milotic River Segment 2 (191)
+192,North,0,191,South,0
+# Route 10.4 (200) - Milotic River Segment 2 (191)
+200,East,0,191,West,23
+# Route 10.4 (200) - Milotic River Segment 3 (192)
+200,East,1,192,West,0
+# Relic Cave F3 (203) - Milotic River Segment 3 (192)
+203,North,14,192,South,0
+# Scorching Valley East (180) - Scorching Valley (179)
+180,West,0,179,East,0
+# Route 10.2 (193) - Scorching Valley (179)
+193,East,0,179,West,0

@@ -1,0 +1,99 @@
+[2|1|0|1]
+ORIGINAL: \bHello, hello!\nI am the official Name Rater!
+TRADUCCION:
+
+[2|1|1|1]
+ORIGINAL: \bWant me to rate the nicknames of your Pokémon?
+TRADUCCION:
+
+[2|1|4|1]
+ORIGINAL: \bWhich Pokémon's nickname should I critique?
+TRADUCCION:
+
+[2|1|12|1]
+ORIGINAL: \bI see.\nDo come visit again.
+TRADUCCION:
+
+[2|1|18|1]
+ORIGINAL: \bNow, now... That is merely an Egg!
+TRADUCCION:
+
+[2|1|24|1]
+ORIGINAL: \bI wouldn't dare critique a Shadow Pokémon's name!
+TRADUCCION:
+
+[2|1|29|1]
+ORIGINAL: \bHmmm... \v[3] it is!
+TRADUCCION:
+
+[2|1|30|2]
+ORIGINAL: \bThis is a magnificent nickname! It is impeccably beyond reproach!
+TRADUCCION:
+
+[2|1|32|2]
+ORIGINAL: \bYou'll do well to cherish your \v[3] now and beyond.
+TRADUCCION:
+
+[2|1|37|1]
+ORIGINAL: \b\v[3], is it?\nThat is a decent nickname!
+TRADUCCION:
+
+[2|1|38|1]
+ORIGINAL: \bBut, would you like me to give it a nicer name?
+TRADUCCION:
+
+[2|1|39|1]
+ORIGINAL: \bHow about it?
+TRADUCCION:
+
+[2|1|42|1]
+ORIGINAL: \bAh, good. Then, what shall the new nickname be?
+TRADUCCION:
+
+[2|1|52|2]
+ORIGINAL: \bI see. You're right, there's no need to change this Pokémon's nickname.
+TRADUCCION:
+
+[2|1|54|1]
+ORIGINAL: \bIt already had a superb name!
+TRADUCCION:
+
+[2|1|62|2]
+ORIGINAL: \bDone! From now on, this Pokémon shall be knownas \v[3]!
+TRADUCCION:
+
+[2|1|64|2]
+ORIGINAL: \bIt looks no different from before, and yet, this is vastly superior!
+TRADUCCION:
+
+[2|1|66|1]
+ORIGINAL: \bHow fortunate for you!
+TRADUCCION:
+
+[2|1|74|2]
+ORIGINAL: \bDone! From now on, this Pokémon shall be knownas \v[5]!
+TRADUCCION:
+
+[2|1|76|2]
+ORIGINAL: \bIt is a better name than before!\nHow fortunate for you!
+TRADUCCION:
+
+[2|1|84|1]
+ORIGINAL: \bI see.\nDo come visit again.
+TRADUCCION:
+
+[2|1|89|1]
+ORIGINAL: \bI see.\nDo come visit again.
+TRADUCCION:
+
+[3|1|0|2]
+ORIGINAL: \bMy gramps is the only Name Rater in the entire region. It´s an honor to meet him!
+TRADUCCION:
+[2|1|2|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[2|1|40|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+

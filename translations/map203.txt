@@ -1,0 +1,7 @@
+[8|1|2|2]
+ORIGINAL: \bYou must be the kid that keeps bothering us. Enough of this!
+TRADUCCION:
+
+[8|2|0|3]
+ORIGINAL: \bYou should stop, for your own good. Relic Cave is a one-way cave, so once you jump over this ledge, there´s no turning back.
+TRADUCCION:

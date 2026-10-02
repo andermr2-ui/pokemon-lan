@@ -1,0 +1,63 @@
+[1|1|2|1]
+ORIGINAL: \bIsn´t this a pretty lake?
+TRADUCCION:
+
+[1|2|0|1]
+ORIGINAL: \bI could spend hours here.
+TRADUCCION:
+
+[7|1|0|1]
+ORIGINAL: It´s a Pokémon Statue dedicated to Suicune.
+TRADUCCION:
+
+[7|2|0|1]
+ORIGINAL: It´s a Pokémon Statue dedicated to Suicune.
+TRADUCCION:
+
+[7|2|2|1]
+ORIGINAL: The Delta Stone in your pocket just lit up!
+TRADUCCION:
+
+[7|2|3|1]
+ORIGINAL: Something powerful is approaching!
+TRADUCCION:
+
+[7|2|5|1]
+ORIGINAL: \bSUUUUUUIII!!!
+TRADUCCION:
+
+[7|3|0|1]
+ORIGINAL: It´s a Pokémon Statue dedicated to Suicune.
+TRADUCCION:
+
+[7|4|0|1]
+ORIGINAL: Suicune disappeared. Will it come back?
+TRADUCCION:
+
+[7|5|0|1]
+ORIGINAL: It´s a Pokémon Statue dedicated to Suicune.
+TRADUCCION:
+
+[8|1|0|1]
+ORIGINAL: Azelf looks worried.
+TRADUCCION:
+
+[8|1|1|1]
+ORIGINAL: It wants to battle!
+TRADUCCION:
+
+[8|1|3|1]
+ORIGINAL: \bZEEEEELF!!!
+TRADUCCION:
+
+[8|3|0|1]
+ORIGINAL: Azelf disappeared. Will it come back?
+TRADUCCION:
+
+[3|1|2|1]
+ORIGINAL: \bYou look strong. Let´s battle!
+TRADUCCION:
+
+[3|2|0|1]
+ORIGINAL: \bI want to be as strong as you are!
+TRADUCCION:

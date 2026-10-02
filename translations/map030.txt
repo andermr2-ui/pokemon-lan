@@ -1,0 +1,199 @@
+[5|2|0|2]
+ORIGINAL: Barry: \bI work a lot, but that's not good enough to win.
+TRADUCCION:
+
+[6|2|0|2]
+ORIGINAL: Samuel: \bI put lots of effort in, but that's not good enough to win.
+TRADUCCION:
+
+[7|2|0|2]
+ORIGINAL: Abby: \rI try my best, but that's not good enough to win.
+TRADUCCION:
+
+[2|1|5|2]
+ORIGINAL: \bWe hope you'll take part in a Bug-Catching Contest in the future!
+TRADUCCION:
+
+[2|1|10|1]
+ORIGINAL: \bToday's \v[1].
+TRADUCCION:
+
+[2|1|11|1]
+ORIGINAL: \bThat means the Bug-Catching Contest is on today.
+TRADUCCION:
+
+[2|1|12|1]
+ORIGINAL: \bThe rules are simple.
+TRADUCCION:
+
+[2|1|13|2]
+ORIGINAL: \bUsing one of your Pokémon, catch a Bug-type Pokémon to be judged.
+TRADUCCION:
+
+[2|1|15|1]
+ORIGINAL: \bWould you like to give it a try?
+TRADUCCION:
+
+[2|1|19|1]
+ORIGINAL: \bSorry, your PC boxes are full.
+TRADUCCION:
+
+[2|1|23|2]
+ORIGINAL: \bYou are only allowed to take 1 Pokémon into the Contest.
+TRADUCCION:
+
+[2|1|25|2]
+ORIGINAL: \bPlease choose which Pokémon you want to enter with.
+TRADUCCION:
+
+[2|1|35|1]
+ORIGINAL: \bOK. We hope you'll take part in the future.
+TRADUCCION:
+
+[2|1|39|1]
+ORIGINAL: \bYou will be entering with \v[2], then.
+TRADUCCION:
+
+[2|1|40|1]
+ORIGINAL: \bWe'll hold your other Pokémon while you compete.
+TRADUCCION:
+
+[2|1|41|2]
+ORIGINAL: \PN's Pokémon were left with the Contest Helper.\se[Pkmn exp full]\wtnp[20]
+TRADUCCION:
+
+[2|1|43|1]
+ORIGINAL: \bHere are the Sport Balls for the Contest.
+TRADUCCION:
+
+[2|1|44|1]
+ORIGINAL: \PN received 20 Sport Balls.\me[Item get]\wtnp[40]
+TRADUCCION:
+
+[2|1|45|2]
+ORIGINAL: \bThe person who gets the strongest bug Pokémon is the winner.
+TRADUCCION:
+
+[2|1|47|1]
+ORIGINAL: \bYou have 20 minutes.
+TRADUCCION:
+
+[2|1|48|1]
+ORIGINAL: \bIf you run out of Sport Balls, you're done.
+TRADUCCION:
+
+[2|1|49|2]
+ORIGINAL: \bYou can keep the last Pokémon you catch as your own.
+TRADUCCION:
+
+[2|1|51|2]
+ORIGINAL: \bGo out and catch the strongest Bug-type Pokémon you can find!
+TRADUCCION:
+
+[2|1|123|1]
+ORIGINAL: \bOK. We hope you'll take part in the future.
+TRADUCCION:
+
+[2|1|129|2]
+ORIGINAL: \bWe hold contests regularly in the Park. You should give it a shot.
+TRADUCCION:
+
+[2|3|3|2]
+ORIGINAL: \bYou still have some time left. Do you want to finish now?
+TRADUCCION:
+
+[2|3|7|2]
+ORIGINAL: \bPlease wait here for the announcement of the winners.
+TRADUCCION:
+
+[2|3|12|1]
+ORIGINAL: \bOK. Please go back outside and finish up.
+TRADUCCION:
+
+[2|4|0|1]
+ORIGINAL: \bWe will now judge the Pokémon you've caught.
+TRADUCCION:
+
+[2|4|1|1]
+ORIGINAL: ......\wt[10]\n......
+TRADUCCION:
+
+[2|4|2|2]
+ORIGINAL: \bWe have chosen the winners!\nAre you ready for this?
+TRADUCCION:
+
+[2|4|5|1]
+ORIGINAL: \bPlacing third is \v[1], who caught a writhing \v[2]!
+TRADUCCION:
+
+[2|4|6|1]
+ORIGINAL: \bThe score was \v[3] points!
+TRADUCCION:
+
+[2|4|8|2]
+ORIGINAL: \bPlacing second is \v[1], who caught a wriggling \v[2]!
+TRADUCCION:
+
+[2|4|10|1]
+ORIGINAL: \bThe score was \v[3] points!
+TRADUCCION:
+
+[2|4|12|1]
+ORIGINAL: \bThis Bug-Catching Contest winner is...
+TRADUCCION:
+
+[2|4|13|1]
+ORIGINAL: \b\v[1], who caught a whopping \v[2]!
+TRADUCCION:
+
+[2|4|14|1]
+ORIGINAL: \bThe score was \v[3] points!
+TRADUCCION:
+
+[2|4|28|2]
+ORIGINAL: \me[Bug contest 1st]\b\PN, the First Place finisher, wins the \v[3]!
+TRADUCCION:
+
+[2|4|33|2]
+ORIGINAL: \me[Bug contest 1st]\b\PN, the First Place finisher, wins the Sun Stone!
+TRADUCCION:
+
+[2|4|41|2]
+ORIGINAL: \me[Bug contest 2nd]\b\PN, the Second Place finisher, wins the Everstone!
+TRADUCCION:
+
+[2|4|47|2]
+ORIGINAL: \me[Bug contest 3rd]\b\PN, the Third Place finisher, wins the Sitrus Berry!
+TRADUCCION:
+
+[2|4|53|2]
+ORIGINAL: \bEveryone else gets a Shed Shell as a consolation prize!
+TRADUCCION:
+
+[2|4|58|2]
+ORIGINAL: \bWe'll return the Pokémon we kept for you. Here you go!\se[Pkmn exp full]
+TRADUCCION:
+
+[2|4|60|2]
+ORIGINAL: \bWe hope you'll take part in a Bug-Catching Contest in the future!
+TRADUCCION:
+
+[2|5|0|2]
+ORIGINAL: \bWe hope you'll take part in a Bug-Catching Contest in the future!
+TRADUCCION:
+
+[3|1|1|2]
+ORIGINAL: \bWe hold contests regularly in the Park. You should give it a shot.
+TRADUCCION:
+
+[4|2|0|2]
+ORIGINAL: Josh: \bI study a lot, but that's not good enough to win.
+TRADUCCION:
+[2|1|16|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[2|3|5|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+

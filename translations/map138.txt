@@ -1,0 +1,259 @@
+[5|1|0|1]
+ORIGINAL: \bLet´s trade Haunters.
+TRADUCCION:
+
+[5|1|1|2]
+ORIGINAL: \bDo you want to trade your Haunter for my Haunter?
+TRADUCCION:
+
+[5|1|12|1]
+ORIGINAL: \bYou don't want to trade?  Aww...
+TRADUCCION:
+
+[5|1|15|1]
+ORIGINAL: \bOK, let's get started.
+TRADUCCION:
+
+[5|1|19|1]
+ORIGINAL: \PN traded Haunter for Haunter!
+TRADUCCION:
+
+[5|1|20|1]
+ORIGINAL: \bThanks!
+TRADUCCION:
+
+[5|1|26|1]
+ORIGINAL: \bYou don't want to trade? Aww...
+TRADUCCION:
+
+[5|2|0|1]
+ORIGINAL: \bThanks for trading with me!
+TRADUCCION:
+
+[11|1|0|1]
+ORIGINAL: \bLet´s trade Kadabras.
+TRADUCCION:
+
+[11|1|1|2]
+ORIGINAL: \bDo you want to trade your Kadabra for my Kadabra?
+TRADUCCION:
+
+[11|1|12|1]
+ORIGINAL: \bYou don't want to trade?  Aww...
+TRADUCCION:
+
+[11|1|15|1]
+ORIGINAL: \bOK, let's get started.
+TRADUCCION:
+
+[11|1|19|1]
+ORIGINAL: \PN traded Kadabra for Kadabra!
+TRADUCCION:
+
+[11|1|20|1]
+ORIGINAL: \bThanks!
+TRADUCCION:
+
+[11|1|26|1]
+ORIGINAL: \bYou don't want to trade? Aww...
+TRADUCCION:
+
+[11|2|0|1]
+ORIGINAL: \bThanks for trading with me!
+TRADUCCION:
+
+[6|1|0|1]
+ORIGINAL: \bLet´s trade Boldores.
+TRADUCCION:
+
+[6|1|1|2]
+ORIGINAL: \bDo you want to trade your Boldore for my Boldore?
+TRADUCCION:
+
+[6|1|12|1]
+ORIGINAL: \bYou don't want to trade?  Aww...
+TRADUCCION:
+
+[6|1|15|1]
+ORIGINAL: \bOK, let's get started.
+TRADUCCION:
+
+[6|1|19|1]
+ORIGINAL: \PN traded Boldore for Boldore!
+TRADUCCION:
+
+[6|1|20|1]
+ORIGINAL: \bThanks!
+TRADUCCION:
+
+[6|1|26|1]
+ORIGINAL: \bYou don't want to trade? Aww...
+TRADUCCION:
+
+[6|2|0|1]
+ORIGINAL: \bThanks for trading with me!
+TRADUCCION:
+
+[7|1|0|1]
+ORIGINAL: \bLet´s trade Gurdurrs.
+TRADUCCION:
+
+[7|1|1|2]
+ORIGINAL: \bDo you want to trade your Gurdurr for my Gurdurr?
+TRADUCCION:
+
+[7|1|12|1]
+ORIGINAL: \bYou don't want to trade?  Aww...
+TRADUCCION:
+
+[7|1|15|1]
+ORIGINAL: \bOK, let's get started.
+TRADUCCION:
+
+[7|1|20|1]
+ORIGINAL: \PN traded Gurdurr for Gurdurr!
+TRADUCCION:
+
+[7|1|21|1]
+ORIGINAL: \bThanks!
+TRADUCCION:
+
+[7|1|27|1]
+ORIGINAL: \bYou don't want to trade? Aww...
+TRADUCCION:
+
+[7|2|0|1]
+ORIGINAL: \bThanks for trading with me!
+TRADUCCION:
+
+[2|1|0|1]
+ORIGINAL: \bLet´s trade Machokes.
+TRADUCCION:
+
+[2|1|1|2]
+ORIGINAL: \bDo you want to trade your Machoke for my Machoke?
+TRADUCCION:
+
+[2|1|12|1]
+ORIGINAL: \bYou don't want to trade?  Aww...
+TRADUCCION:
+
+[2|1|15|1]
+ORIGINAL: \bOK, let's get started.
+TRADUCCION:
+
+[2|1|20|1]
+ORIGINAL: \PN traded Machoke for Machoke!
+TRADUCCION:
+
+[2|1|21|1]
+ORIGINAL: \bThanks!
+TRADUCCION:
+
+[2|1|27|1]
+ORIGINAL: \bYou don't want to trade? Aww...
+TRADUCCION:
+
+[2|2|0|1]
+ORIGINAL: \bThanks for trading with me!
+TRADUCCION:
+
+[8|1|0|2]
+ORIGINAL: \bWelcome to the Trade Hall. In here, you can trade Pokémon with other trainers.
+TRADUCCION:
+
+[8|1|2|2]
+ORIGINAL: \bThe Pokémon that get traded here all become stronger after trading. Have fun!
+TRADUCCION:
+
+[3|1|0|1]
+ORIGINAL: \bLet´s trade Gravelers.
+TRADUCCION:
+
+[3|1|1|2]
+ORIGINAL: \bDo you want to trade your Graveler for my Alolan Graveler?
+TRADUCCION:
+
+[3|1|12|1]
+ORIGINAL: \bYou don't want to trade?  Aww...
+TRADUCCION:
+
+[3|1|15|1]
+ORIGINAL: \bOK, let's get started.
+TRADUCCION:
+
+[3|1|20|1]
+ORIGINAL: \PN traded Graveler for Graveler!
+TRADUCCION:
+
+[3|1|21|1]
+ORIGINAL: \bThanks!
+TRADUCCION:
+
+[3|1|27|1]
+ORIGINAL: \bYou don't want to trade? Aww...
+TRADUCCION:
+
+[3|2|0|1]
+ORIGINAL: \bThanks for trading with me!
+TRADUCCION:
+
+[4|1|0|1]
+ORIGINAL: \bLet´s trade Gravelers.
+TRADUCCION:
+
+[4|1|1|2]
+ORIGINAL: \bDo you want to trade your Graveler for my Graveler?
+TRADUCCION:
+
+[4|1|12|1]
+ORIGINAL: \bYou don't want to trade?  Aww...
+TRADUCCION:
+
+[4|1|15|1]
+ORIGINAL: \bOK, let's get started.
+TRADUCCION:
+
+[4|1|20|1]
+ORIGINAL: \PN traded Graveler for Graveler!
+TRADUCCION:
+
+[4|1|21|1]
+ORIGINAL: \bThanks!
+TRADUCCION:
+
+[4|1|27|1]
+ORIGINAL: \bYou don't want to trade? Aww...
+TRADUCCION:
+
+[4|2|0|1]
+ORIGINAL: \bThanks for trading with me!
+TRADUCCION:
+[5|1|3|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[11|1|3|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[6|1|3|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[7|1|3|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[2|1|3|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[3|1|3|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[4|1|3|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+

@@ -1,0 +1,7 @@
+[6|1|0|2]
+ORIGINAL: \bI think I´ll buy a Pokédoll for my granddaughter. Yeah, that´ll make her happy.
+TRADUCCION:
+
+[4|1|0|1]
+ORIGINAL: \sign[signskin]4F: Gifts and Element Stones
+TRADUCCION:

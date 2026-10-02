@@ -1,0 +1,15 @@
+[1|1|0|1]
+ORIGINAL: \bAnthony: Hm, two identical rocks...
+TRADUCCION:
+
+[1|1|1|1]
+ORIGINAL: \bIs that a Jojo reference?!
+TRADUCCION:
+
+[1|1|2|3]
+ORIGINAL: \bNah, I´m just kidding. Stuff like this could very well signify a hidden entrance, but the wall looks completely normal over here.
+TRADUCCION:
+
+[1|1|5|2]
+ORIGINAL: \bI haven´t checked the western side of the beach yet, so why don´t you do that?
+TRADUCCION:

@@ -1,0 +1,339 @@
+[5|1|0|1]
+ORIGINAL: Check results for which challenge?
+TRADUCCION:
+
+[5|1|11|1]
+ORIGINAL: \PN's Battle Tower Level 50 Single Battle results:
+TRADUCCION:
+
+[5|1|12|1]
+ORIGINAL: Last win streak: \v[1]\nRecord win streak: \v[2]
+TRADUCCION:
+
+[5|1|23|1]
+ORIGINAL: \PN's Battle Tower Open Level Single Battle results:
+TRADUCCION:
+
+[5|1|24|1]
+ORIGINAL: Last win streak: \v[1]\nRecord win streak: \v[2]
+TRADUCCION:
+
+[11|1|7|1]
+ORIGINAL: \rHello, and welcome to the Pokémon Center.
+TRADUCCION:
+
+[11|1|8|1]
+ORIGINAL: \rWe restore your tired Pokémon to full health.
+TRADUCCION:
+
+[11|1|9|1]
+ORIGINAL: \rWould you like to rest your Pokémon?
+TRADUCCION:
+
+[11|1|12|1]
+ORIGINAL: \rOK, I'll take your Pokémon for a few seconds.
+TRADUCCION:
+
+[11|1|49|1]
+ORIGINAL: \rYour Pokémon may be infected by Pokérus.
+TRADUCCION:
+
+[11|1|50|2]
+ORIGINAL: \rLittle is known about the Pokérus except that they are microscopic life-forms that attach to Pokémon.
+TRADUCCION:
+
+[11|1|52|2]
+ORIGINAL: \rWhile infected, Pokémon are said to grow exceptionally well.
+TRADUCCION:
+
+[11|1|57|1]
+ORIGINAL: \rThank you for waiting.
+TRADUCCION:
+
+[11|1|58|1]
+ORIGINAL: \rWe've restored your Pokémon to full health.
+TRADUCCION:
+
+[11|1|65|1]
+ORIGINAL: \rWe hope to see you again!
+TRADUCCION:
+
+[11|1|70|1]
+ORIGINAL: \rWe hope to see you again!
+TRADUCCION:
+
+[11|2|8|2]
+ORIGINAL: \rFirst, you should restore your Pokémon to full health.
+TRADUCCION:
+
+[11|2|44|1]
+ORIGINAL: \rYour Pokémon have been healed to perfect health.
+TRADUCCION:
+
+[11|2|51|1]
+ORIGINAL: \rWe hope you excel!
+TRADUCCION:
+
+[6|1|0|1]
+ORIGINAL: Check results for which challenge?
+TRADUCCION:
+
+[6|1|11|1]
+ORIGINAL: \PN's Battle Tower Level 50 Double Battle results:
+TRADUCCION:
+
+[6|1|12|1]
+ORIGINAL: Last win streak: \v[1]\nRecord win streak: \v[2]
+TRADUCCION:
+
+[6|1|23|1]
+ORIGINAL: \PN's Battle Tower Open Level Double Battle results:
+TRADUCCION:
+
+[6|1|24|1]
+ORIGINAL: Last win streak: \v[1]\nRecord win streak: \v[2]
+TRADUCCION:
+
+[7|1|7|1]
+ORIGINAL: There is no battle recorded.
+TRADUCCION:
+
+[3|1|0|1]
+ORIGINAL: \rWelcome to the Battle Tower.
+TRADUCCION:
+
+[3|1|1|1]
+ORIGINAL: \rWould you like to participate in a single battle?
+TRADUCCION:
+
+[3|1|4|2]
+ORIGINAL: \rDo you want to take the Level 50 challenge, or the Open Level challenge?
+TRADUCCION:
+
+[3|1|27|2]
+ORIGINAL: \rSorry, you can't participate. You need three different Pokémon to enter.
+TRADUCCION:
+
+[3|1|29|2]
+ORIGINAL: \rThey must be of a different species and hold different items.
+TRADUCCION:
+
+[3|1|31|2]
+ORIGINAL: \rCertain exotic species, as well as eggs, are ineligible.
+TRADUCCION:
+
+[3|1|36|1]
+ORIGINAL: \rPlease choose the three Pokémon that will enter.
+TRADUCCION:
+
+[3|1|42|1]
+ORIGINAL: \rPlease come this way.
+TRADUCCION:
+
+[3|1|106|1]
+ORIGINAL: \rCome back another time.
+TRADUCCION:
+
+[3|2|2|1]
+ORIGINAL: \rCongratulations for winning.
+TRADUCCION:
+
+[3|2|4|1]
+ORIGINAL: \rPlease accept these Battle Point(s).
+TRADUCCION:
+
+[3|2|17|1]
+ORIGINAL: \PN obtained \v[1] Battle Point(s).
+TRADUCCION:
+
+[3|2|21|1]
+ORIGINAL: \rWould you like to record your last battle?
+TRADUCCION:
+
+[3|2|25|1]
+ORIGINAL: \se[Pkmn exp full]The battle was recorded.
+TRADUCCION:
+
+[3|2|32|1]
+ORIGINAL: Your results will be recorded.\wtnp[15]
+TRADUCCION:
+
+[3|2|34|1]
+ORIGINAL: \rCome back another time.
+TRADUCCION:
+
+[3|2|40|1]
+ORIGINAL: \rThanks for playing.
+TRADUCCION:
+
+[3|2|42|1]
+ORIGINAL: \rWould you like to record your last battle?
+TRADUCCION:
+
+[3|2|46|1]
+ORIGINAL: \se[Pkmn exp full]The battle was recorded.
+TRADUCCION:
+
+[3|2|53|1]
+ORIGINAL: Your results will be recorded.\wtnp[15]
+TRADUCCION:
+
+[3|2|55|1]
+ORIGINAL: \rCome back another time.
+TRADUCCION:
+
+[3|2|60|1]
+ORIGINAL: \rWe've been waiting for you. Please come this way.
+TRADUCCION:
+
+[3|2|117|2]
+ORIGINAL: \rExcuse me, but you didn't save before finishing your challenge last time.
+TRADUCCION:
+
+[3|2|119|1]
+ORIGINAL: \rSorry, but your challenge has been canceled.
+TRADUCCION:
+
+[4|1|0|1]
+ORIGINAL: \rWelcome to the Battle Tower.
+TRADUCCION:
+
+[4|1|1|1]
+ORIGINAL: \rWould you like to participate in a double battle?
+TRADUCCION:
+
+[4|1|4|2]
+ORIGINAL: \rDo you want to take the Level 50 challenge, or the Open Level challenge?
+TRADUCCION:
+
+[4|1|27|2]
+ORIGINAL: \rSorry, you can't participate. You need three different Pokémon to enter.
+TRADUCCION:
+
+[4|1|29|2]
+ORIGINAL: \rThey must be of a different species and hold different items.
+TRADUCCION:
+
+[4|1|31|2]
+ORIGINAL: \rCertain exotic species, as well as eggs, are ineligible.
+TRADUCCION:
+
+[4|1|36|1]
+ORIGINAL: \rPlease choose the four Pokémon that will enter.
+TRADUCCION:
+
+[4|1|42|1]
+ORIGINAL: \rPlease come this way.
+TRADUCCION:
+
+[4|1|106|1]
+ORIGINAL: \rCome back another time.
+TRADUCCION:
+
+[4|2|2|1]
+ORIGINAL: \rCongratulations for winning.
+TRADUCCION:
+
+[4|2|4|1]
+ORIGINAL: \rPlease accept these Battle Point(s).
+TRADUCCION:
+
+[4|2|17|1]
+ORIGINAL: \PN obtained \v[1] Battle Point(s).
+TRADUCCION:
+
+[4|2|21|1]
+ORIGINAL: \rWould you like to record your last battle?
+TRADUCCION:
+
+[4|2|25|1]
+ORIGINAL: \se[Pkmn exp full]The battle was recorded.
+TRADUCCION:
+
+[4|2|32|1]
+ORIGINAL: Your results will be recorded.\wtnp[15]
+TRADUCCION:
+
+[4|2|34|1]
+ORIGINAL: \rCome back another time.
+TRADUCCION:
+
+[4|2|40|1]
+ORIGINAL: \rThanks for playing.
+TRADUCCION:
+
+[4|2|42|1]
+ORIGINAL: \rWould you like to record your last battle?
+TRADUCCION:
+
+[4|2|46|1]
+ORIGINAL: \se[Pkmn exp full]The battle was recorded.
+TRADUCCION:
+
+[4|2|53|1]
+ORIGINAL: Your results will be recorded.\wtnp[15]
+TRADUCCION:
+
+[4|2|55|1]
+ORIGINAL: \rCome back another time.
+TRADUCCION:
+
+[4|2|60|1]
+ORIGINAL: \rWe've been waiting for you. Please come this way.
+TRADUCCION:
+
+[4|2|117|2]
+ORIGINAL: \rExcuse me, but you didn't save before finishing your challenge last time.
+TRADUCCION:
+
+[4|2|119|1]
+ORIGINAL: \rSorry, but your challenge has been canceled.
+TRADUCCION:
+[5|1|1|OPCIONES]
+ORIGINAL: Level 50|Open Level|Cancel
+TRADUCCION:
+
+[11|1|10|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[6|1|1|OPCIONES]
+ORIGINAL: Level 50|Open Level|Cancel
+TRADUCCION:
+
+[7|1|1|OPCIONES]
+ORIGINAL: Play recorded battle|Exit
+TRADUCCION:
+
+[3|1|2|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[3|1|6|OPCIONES]
+ORIGINAL: Level 50|Open Level|Cancel
+TRADUCCION:
+
+[3|2|22|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[3|2|43|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[4|1|2|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[4|1|6|OPCIONES]
+ORIGINAL: Level 50|Open Level|Cancel
+TRADUCCION:
+
+[4|2|22|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[4|2|43|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+

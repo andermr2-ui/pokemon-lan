@@ -1,0 +1,519 @@
+[11|1|7|1]
+ORIGINAL: \rHello, and welcome to the Pokémon Center.
+TRADUCCION:
+
+[11|1|8|1]
+ORIGINAL: \rWe restore your tired Pokémon to full health.
+TRADUCCION:
+
+[11|1|9|1]
+ORIGINAL: \rWould you like to rest your Pokémon?
+TRADUCCION:
+
+[11|1|12|1]
+ORIGINAL: \rOK, I'll take your Pokémon for a few seconds.
+TRADUCCION:
+
+[11|1|49|1]
+ORIGINAL: \rYour Pokémon may be infected by Pokérus.
+TRADUCCION:
+
+[11|1|50|2]
+ORIGINAL: \rLittle is known about the Pokérus except that they are microscopic life-forms that attach to Pokémon.
+TRADUCCION:
+
+[11|1|52|2]
+ORIGINAL: \rWhile infected, Pokémon are said to grow exceptionally well.
+TRADUCCION:
+
+[11|1|57|1]
+ORIGINAL: \rThank you for waiting.
+TRADUCCION:
+
+[11|1|58|1]
+ORIGINAL: \rWe've restored your Pokémon to full health.
+TRADUCCION:
+
+[11|1|65|1]
+ORIGINAL: \rWe hope to see you again!
+TRADUCCION:
+
+[11|1|70|1]
+ORIGINAL: \rWe hope to see you again!
+TRADUCCION:
+
+[11|2|8|2]
+ORIGINAL: \rFirst, you should restore your Pokémon to full health.
+TRADUCCION:
+
+[11|2|44|1]
+ORIGINAL: \rYour Pokémon have been healed to perfect health.
+TRADUCCION:
+
+[11|2|51|1]
+ORIGINAL: \rWe hope you excel!
+TRADUCCION:
+
+[6|1|0|3]
+ORIGINAL: \bThe preparations for the upcoming Challengers Tournament are running. Soon, Delta´s strongest trainers will battle each other.
+TRADUCCION:
+
+[6|1|3|2]
+ORIGINAL: \bOh, so you want to participate? Well, have you completed the Gym Challenge yet?
+TRADUCCION:
+
+[6|1|5|3]
+ORIGINAL: \bOh, you haven´t? That´s a problem. Only those who claimed all 8 badges can sign up for the tournament.
+TRADUCCION:
+
+[6|1|8|2]
+ORIGINAL: \bHowever, you still have time to complete the challenge, as we haven´t fully prepared everything.
+TRADUCCION:
+
+[6|2|0|3]
+ORIGINAL: \bWelcome to Riverstone Stadium. The preparations for the Challengers Tournament are complete, but there´s room for one more trainer.
+TRADUCCION:
+
+[6|2|3|1]
+ORIGINAL: \bDid you manage to complete the Gym Challenge?
+TRADUCCION:
+
+[6|2|4|2]
+ORIGINAL: \bYou did?! Fantastic! Then you can sign up right now.
+TRADUCCION:
+
+[6|2|6|2]
+ORIGINAL: \bSo you´re \PN from Starter Valley, and you´re 10 years old? Alright, then you´re signed up!
+TRADUCCION:
+
+[6|2|8|1]
+ORIGINAL: \bThe tournament can begin!
+TRADUCCION:
+
+[6|3|1|1]
+ORIGINAL: ATTENTION ALL TRAINERS AND VISITORS!
+TRADUCCION:
+
+[6|3|2|2]
+ORIGINAL: THE SECOND EVER CHALLENGERS TOURNAMENT IS ABOUT TO BEGIN.
+TRADUCCION:
+
+[6|3|4|2]
+ORIGINAL: VISITORS, PLEASE HEAD TO THE SPECTATORS AREA NOW.
+TRADUCCION:
+
+[6|3|6|1]
+ORIGINAL: 8 TRAINERS HAVE ENTERED THE TOURNAMENT.
+TRADUCCION:
+
+[6|3|7|1]
+ORIGINAL: THESE WILL BE THE FIRST BATTLES:
+TRADUCCION:
+
+[6|3|8|1]
+ORIGINAL: \PN vs Alessio
+TRADUCCION:
+
+[6|3|9|1]
+ORIGINAL: Freya vs Kaito
+TRADUCCION:
+
+[6|3|10|1]
+ORIGINAL: Enzo vs Zeke
+TRADUCCION:
+
+[6|3|11|1]
+ORIGINAL: Lucien vs Sofia
+TRADUCCION:
+
+[6|3|12|2]
+ORIGINAL: THE FIRST BATTLE CAN BEGIN. TRAINERS, HEAD TO THE GATES.
+TRADUCCION:
+
+[6|4|0|2]
+ORIGINAL: \bGood luck, trainer. This tournament will bring you to your limit!
+TRADUCCION:
+
+[6|5|0|1]
+ORIGINAL: \bCongratulations! You ´ve made it to the semi-finals!
+TRADUCCION:
+
+[6|5|2|1]
+ORIGINAL: THE FIRST ROUND OF BATTLES IS OVER.
+TRADUCCION:
+
+[6|5|3|1]
+ORIGINAL: THE WINNERS ARE:
+TRADUCCION:
+
+[6|5|4|1]
+ORIGINAL: \PN
+TRADUCCION:
+
+[6|5|5|1]
+ORIGINAL: Freya
+TRADUCCION:
+
+[6|5|6|1]
+ORIGINAL: Zeke
+TRADUCCION:
+
+[6|5|7|1]
+ORIGINAL: Lucien
+TRADUCCION:
+
+[6|5|8|2]
+ORIGINAL: IT´S TIME FOR THE SEMI-FINALS. THESE ARE THE NEXT BATTLES:
+TRADUCCION:
+
+[6|5|10|1]
+ORIGINAL: \PN vs Freya
+TRADUCCION:
+
+[6|5|11|1]
+ORIGINAL: Zeke vs Lucien
+TRADUCCION:
+
+[6|5|12|2]
+ORIGINAL: TRAINERS, GO TO THE GATES. THE SEMI-FINALS BEGIN NOW!
+TRADUCCION:
+
+[6|6|0|1]
+ORIGINAL: \bNow there´s just 4 trainers left. Give it your all!
+TRADUCCION:
+
+[6|7|0|1]
+ORIGINAL: \bWow, you´ve made it to the final round!
+TRADUCCION:
+
+[6|7|2|1]
+ORIGINAL: THE SEMI-FINALS ARE OVER.
+TRADUCCION:
+
+[6|7|3|1]
+ORIGINAL: THE WINNERS ARE:
+TRADUCCION:
+
+[6|7|4|1]
+ORIGINAL: \PN
+TRADUCCION:
+
+[6|7|5|1]
+ORIGINAL: Zeke
+TRADUCCION:
+
+[6|7|6|2]
+ORIGINAL: IT´S TIME FOR THE FINAL ROUND. THIS WILL BE THE LAST BATTLE:
+TRADUCCION:
+
+[6|7|8|1]
+ORIGINAL: \PN vs Zeke
+TRADUCCION:
+
+[6|7|9|2]
+ORIGINAL: TRAINERS, GO TO THE GATES. THE FINAL ROUND BEGINS NOW!
+TRADUCCION:
+
+[6|8|0|2]
+ORIGINAL: \bYou´re one battle away from winning the Challengers Tournament. You can do it!
+TRADUCCION:
+
+[6|9|0|2]
+ORIGINAL: \bCongratulations, \PN. You just won the second ever Challengers Tournament. Please, take your prize.
+TRADUCCION:
+
+[6|10|0|2]
+ORIGINAL: \bWe´ll host other tournaments in the future. We´d be honored to have you participate again.
+TRADUCCION:
+
+[6|11|0|3]
+ORIGINAL: \bAh, welcome back, \PN. Let me get straight to the point. You might´ve heard that Riverstone Stadium will host the next World Championship Tournament.
+TRADUCCION:
+
+[6|11|3|2]
+ORIGINAL: \bThis event is unlike anything else in the world. The battles in this tournament will be outstanding!
+TRADUCCION:
+
+[6|11|5|2]
+ORIGINAL: \bAs the local Champion, you are allowed to participate in the tournament.
+TRADUCCION:
+
+[6|11|7|3]
+ORIGINAL: \bHm, of course that doesn´t surprise you. Who else but you would be allowed to represent the Delta Region?
+TRADUCCION:
+
+[6|11|10|3]
+ORIGINAL: \bThis isn´t the reason why I wanted to see you though. There´s a tradition that the local Champion of the tournament personally invites the other trainers.
+TRADUCCION:
+
+[6|11|13|2]
+ORIGINAL: \bDon´t worry, you don´t have to travel the world to do so, it´s much easier than that.
+TRADUCCION:
+
+[6|11|15|3]
+ORIGINAL: \bAll of the trainers that´ll participate in the tournament have to be a region´s Champion, which makes the selection quite straight forward.
+TRADUCCION:
+
+[6|11|18|3]
+ORIGINAL: \bAs there´re are more Champions than slots in the tournament, we can´t just invite all of them, so we had to choose the ones we wanted to invite.
+TRADUCCION:
+
+[6|11|21|3]
+ORIGINAL: \bI need you to sign the invitations for a few Champions that live far away, but some are actually visiting the Delta Region right now.
+TRADUCCION:
+
+[6|11|24|3]
+ORIGINAL: \bSteven, the current Champion of Hoenn, and Cynthia, the current Champion of Sinnoh, are on vacation in the Champions Village.
+TRADUCCION:
+
+[6|11|27|3]
+ORIGINAL: \bThe Champion Village is a town which only Champions and other important people can enter. It´s located on the Delta Islands.
+TRADUCCION:
+
+[6|11|30|2]
+ORIGINAL: \bIf you could head over there and personally invite them to the tournament, that´d be great.
+TRADUCCION:
+
+[6|11|32|2]
+ORIGINAL: \bBut now I´d like you to sign the invitation letters for the other Champions.
+TRADUCCION:
+
+[6|11|34|3]
+ORIGINAL: \bFirst up, we have the invitation for Lance, the current Champion of the Indigo League. Sign right there.
+TRADUCCION:
+
+[6|11|37|3]
+ORIGINAL: \bNext up, we have the invitation for Iris, the current Champion of the Unova League. Sign right there again.
+TRADUCCION:
+
+[6|11|40|2]
+ORIGINAL: \bThis one is for Diantha, the current Champion of the Kalos League. You know what to do.
+TRADUCCION:
+
+[6|11|42|2]
+ORIGINAL: \bThis invitation is for Leon, the current Champion of the Galar League. Yup, right there again.
+TRADUCCION:
+
+[6|11|44|2]
+ORIGINAL: \bIf we count Steven, Cynthia and you on top of the invitations, we´d have 7 participants.
+TRADUCCION:
+
+[6|11|46|1]
+ORIGINAL: \bHm, but who will be number 8?
+TRADUCCION:
+
+[6|11|47|3]
+ORIGINAL: \bThe obvious choice would´ve been Ash Ketchum, the current World Champion and the Champion of the Alola League, but he retired after claiming those titles.
+TRADUCCION:
+
+[6|11|50|3]
+ORIGINAL: \bAnother option would be Geeta, but unlike the other Champions her position in the Paldea League is a bit different, so we´re not too sure about that.
+TRADUCCION:
+
+[6|11|53|2]
+ORIGINAL: \bThere´s still some time until the tournament, so we´ll find a fitting trainer eventually.
+TRADUCCION:
+
+[6|11|55|1]
+ORIGINAL: \bThanks for helping us out, Champion!
+TRADUCCION:
+
+[6|12|0|3]
+ORIGINAL: \bYou can get to the Delta Islands by ship. Just go to Crystal Harbor and you´ll find a good option to get there.
+TRADUCCION:
+
+[6|13|0|3]
+ORIGINAL: \bI have excellent news. We are ready for the World Championship Tournament. We found 8 Champions who are eager to win, so it´s time to begin.
+TRADUCCION:
+
+[6|13|3|2]
+ORIGINAL: \bThe opening matches between the Gym Leaders are almost over, so you should get ready.
+TRADUCCION:
+
+[6|13|6|2]
+ORIGINAL: DEAR GUESTS, DEAR TRAINERS, DEAR CHAMPIONS!!!
+TRADUCCION:
+
+[6|13|8|2]
+ORIGINAL: THE OPENING TOURNAMENT OF THE WCT IS OVER, AND WE HAVE A WINNER:
+TRADUCCION:
+
+[6|13|10|2]
+ORIGINAL: MISTVEIL´S HIGHLY TALENTED GYM LEADER SOLAN!!!
+TRADUCCION:
+
+[6|13|12|2]
+ORIGINAL: AND NOW IT´S TIME FOR WHAT WE´VE ALL BEEN WAITING FOR!!!
+TRADUCCION:
+
+[6|13|14|3]
+ORIGINAL: OUR 8 CHAMPIONS HAVE ASSEMBLED, AND THEY ARE READY TO BECOME THE NEW WORLD CHAMPION!!!
+TRADUCCION:
+
+[6|13|17|1]
+ORIGINAL: LET ME INTRODUCE THESE FIERCE TRAINERS!
+TRADUCCION:
+
+[6|13|18|3]
+ORIGINAL: THE CURRENT CHAMPION OF THE DELTA LEAGUE, \PN!!! DOES ANYONE HAVE WHAT IT TAKES TO STOP THE NEW KID ON THE BLOCK?! 
+TRADUCCION:
+
+[6|13|21|3]
+ORIGINAL: THE CURRENT CHAMPION OF THE HOENN LEAGUE, STEVEN!!! CAN ANYONE BREAK HIS TOUGH POKÉMON?!
+TRADUCCION:
+
+[6|13|24|3]
+ORIGINAL: THE CURRENT CHAMPION OF THE INDIGO LEAGUE, LANCE!!! CAN ANYONE STOP HIM AND HIS DRAGONS?!
+TRADUCCION:
+
+[6|13|27|3]
+ORIGINAL: THE CURRENT CHAMPION OF THE SINNOH LEAGUE, CYNTHIA!!! DOES ANYONE STAND A CHANCE AGAINST HER HARD HITTING TEAM?!
+TRADUCCION:
+
+[6|13|30|3]
+ORIGINAL: THE CURRENT CHAMPION OF THE UNOVA LEAGUE, IRIS!!! IS ANYONE STRONG ENOUGH TO BEST THE MASTER OF DRAGONS?!
+TRADUCCION:
+
+[6|13|33|2]
+ORIGINAL: THE CURRENT CHAMPION OF THE KALOS LEAGUE, DIANTHA!!! CAN ANYONE MATCH HER BEAUTY?!
+TRADUCCION:
+
+[6|13|35|3]
+ORIGINAL: THE CURRENT CHAMPION OF THE GALAR LEAGUE, LEON!!! DOES ANYONE HAVE WHAT IT TAKES TO WIN AGAINST LAST YEAR´S RUNNER UP?!
+TRADUCCION:
+
+[6|13|38|1]
+ORIGINAL: AND LAST BUT NOT LEAST:
+TRADUCCION:
+
+[6|13|39|2]
+ORIGINAL: THE NEW CHAMPION OF THE ALOLA LEAGUE, ZEKE!!! HOW FAR WILL THIS YOUNG TALENT GO?!
+TRADUCCION:
+
+[6|13|41|1]
+ORIGINAL: AND THIS WILL BE THE FIRST ROUND:
+TRADUCCION:
+
+[6|13|42|1]
+ORIGINAL: \PN vs Steven
+TRADUCCION:
+
+[6|13|43|1]
+ORIGINAL: Lance vs Cynthia
+TRADUCCION:
+
+[6|13|44|1]
+ORIGINAL: Iris vs Diantha
+TRADUCCION:
+
+[6|13|45|1]
+ORIGINAL: Leon vs Zeke
+TRADUCCION:
+
+[6|13|46|1]
+ORIGINAL: MAY THE STRONGEST TRAINER WIN!!!
+TRADUCCION:
+
+[6|14|0|2]
+ORIGINAL: \bGood luck for your first battle, \PN. All of Delta is counting on you!
+TRADUCCION:
+
+[6|15|0|1]
+ORIGINAL: \bCongratulations! You ´ve made it to the semi-finals!
+TRADUCCION:
+
+[6|15|2|1]
+ORIGINAL: THE FIRST ROUND OF BATTLES IS OVER!!!
+TRADUCCION:
+
+[6|15|3|1]
+ORIGINAL: THE WINNERS ARE:
+TRADUCCION:
+
+[6|15|4|1]
+ORIGINAL: \PN
+TRADUCCION:
+
+[6|15|5|1]
+ORIGINAL: Cynthia
+TRADUCCION:
+
+[6|15|6|1]
+ORIGINAL: Iris
+TRADUCCION:
+
+[6|15|7|1]
+ORIGINAL: Zeke
+TRADUCCION:
+
+[6|15|8|1]
+ORIGINAL: IT´S TIME FOR ROUND 2:
+TRADUCCION:
+
+[6|15|9|1]
+ORIGINAL: \PN vs Cynthia
+TRADUCCION:
+
+[6|15|10|1]
+ORIGINAL: Iris vs Zeke
+TRADUCCION:
+
+[6|15|11|1]
+ORIGINAL: THE SEMI-FINALS BEGIN NOW!!!
+TRADUCCION:
+
+[6|16|0|2]
+ORIGINAL: \bYou´re only two battle away from becoming the new World Champion. You can do it!
+TRADUCCION:
+
+[6|17|0|1]
+ORIGINAL: \bYou´ve made it to the final round. That´s incredible!
+TRADUCCION:
+
+[6|17|2|1]
+ORIGINAL: THE SECOND ROUND OF BATTLES IS OVER!!!
+TRADUCCION:
+
+[6|17|3|1]
+ORIGINAL: ONLY TWO TRAINERS REMAIN,
+TRADUCCION:
+
+[6|17|4|3]
+ORIGINAL: SO THIS WILL BE \nTHE FINAL BATTLE TO DECIDE WHO THE NEW WORLD CHAMPION WILL BE:\PN vs Zeke
+TRADUCCION:
+
+[6|17|7|1]
+ORIGINAL: THE FINAL ROUND BEGINS NOW!!!
+TRADUCCION:
+
+[6|18|0|2]
+ORIGINAL: \bCome on, I believe in you! You only have to win one last battle!
+TRADUCCION:
+
+[6|19|0|2]
+ORIGINAL: \bCongratulations, \PN. You are the new World Champion!
+TRADUCCION:
+
+[6|19|2|1]
+ORIGINAL: \bPlease, take your well earned reward.
+TRADUCCION:
+
+[6|19|4|3]
+ORIGINAL: \bOh, and guess who stopped by a few minutes ago: Gary Oak. He´s waiting for you in front of the stadium.
+TRADUCCION:
+
+[6|20|0|3]
+ORIGINAL: \bYou´ve made all of Delta proud. And just in case you need to hear it: you are now officially the strongest trainer in the world!
+TRADUCCION:
+
+[3|1|0|2]
+ORIGINAL:  \bThis is the entrance to the spectators area. Do you have a ticket?
+TRADUCCION:
+
+[3|1|2|1]
+ORIGINAL: \bOh, you don´t? Well then you can´t go here.
+TRADUCCION:
+[11|1|10|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+

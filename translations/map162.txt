@@ -1,0 +1,55 @@
+[16|1|2|1]
+ORIGINAL: \bLet´s amp it up a bit!
+TRADUCCION:
+
+[16|2|0|2]
+ORIGINAL: \bThese switch boxes control the electric gate. Just turn them off and you´re good to go.
+TRADUCCION:
+
+[16|3|0|2]
+ORIGINAL: \bNow that Watron lost to two young trainers in a row, he should reconsider his job choice...
+TRADUCCION:
+
+[17|1|2|1]
+ORIGINAL: \bI´m charged up!
+TRADUCCION:
+
+[17|2|0|3]
+ORIGINAL: \bIf you want to stand any chance against Watron, you need to use strong Ground-Type moves. But even with that, he´s still hard to beat.
+TRADUCCION:
+
+[17|3|0|1]
+ORIGINAL: \bWow, you actually did it!
+TRADUCCION:
+
+[18|1|2|1]
+ORIGINAL: \bTime for a shocking battle!
+TRADUCCION:
+
+[18|2|0|2]
+ORIGINAL: \bDon´t underestimate Watron. He has some tricks up his sleeve.
+TRADUCCION:
+
+[18|3|0|2]
+ORIGINAL: \bLooks like you had more tricks up your sleeve. Good job!
+TRADUCCION:
+
+[2|1|0|3]
+ORIGINAL: \bWelcome to the Crystal Cove Gym. In this gym, trainers use Electric-Type Pokémon, which are only weak to Ground-Type attacks.
+TRADUCCION:
+
+[2|1|3|2]
+ORIGINAL: \bWithout a Ground-Type attack, you will struggle here. Good luck!
+TRADUCCION:
+
+[2|2|0|2]
+ORIGINAL: \bHaha, nothing can shock a trainer like you. Good job!
+TRADUCCION:
+
+[14|1|1|1]
+ORIGINAL: You deactivated the circuit.
+TRADUCCION:
+
+[15|1|1|1]
+ORIGINAL: You deactivated the circuit.
+TRADUCCION:

@@ -1,0 +1,59 @@
+[2|1|1|2]
+ORIGINAL: \bMarcus: Oh, hello. You must be the other kid that the Professor mentioned.
+TRADUCCION:
+
+[2|1|3|2]
+ORIGINAL: \bThere´s something I´m supposed to give to you, but I want to evaluate your performance first.
+TRADUCCION:
+
+[2|1|5|2]
+ORIGINAL: \bI hope you´re not as impulsive as the other kid, although he did do a solid job.
+TRADUCCION:
+
+[2|1|7|1]
+ORIGINAL: \bNow show me some results!
+TRADUCCION:
+
+[2|1|9|3]
+ORIGINAL: \bMarcus: My evaluation is complete. You are very talented! I have no doubt in my mind that you´ll do well in the Gym Challenge.
+TRADUCCION:
+
+[2|1|12|3]
+ORIGINAL: \bIt´s no secret that defeating all 8 Gym Leaders is very difficult, but if you catch some strong Pokémon and train them enough you´ll have a fair shot.
+TRADUCCION:
+
+[2|1|15|3]
+ORIGINAL: \bIf you want to complete the Pokédex, you´ll have to complete the Gym Challenge eventually, there´s no way around it.
+TRADUCCION:
+
+[2|1|18|2]
+ORIGINAL: \bAt the moment, 1025 different Pokémon have been found, with some of them having different forms.
+TRADUCCION:
+
+[2|1|20|3]
+ORIGINAL: \bCatching every single Pokémon is a task that some consider impossible, but in the Delta Region, you can come across a lot of different species.
+TRADUCCION:
+
+[2|1|23|3]
+ORIGINAL: \bYour Pokédex will gather a lot of data if you catch and train a lot of Pokémon, and you´d be helping us scientists a lot.
+TRADUCCION:
+
+[2|1|26|2]
+ORIGINAL: \bAnd before I forget, here´s the "little something" that I´m supposed to give to you. Take this Starter Kit.
+TRADUCCION:
+
+[2|1|32|3]
+ORIGINAL: \bMarcus: This Starter Kit provides you with everything you need to train your Pokémon. It even includes an Exp. Share!
+TRADUCCION:
+
+[2|1|35|3]
+ORIGINAL: \bNow you´re ready to attempt the Gym Challenge and fill your Pokédex. Your next stop should be Arrow Ridge.
+TRADUCCION:
+
+[2|1|38|2]
+ORIGINAL: \bYou can get there by using Route 2. Good luck out there!
+TRADUCCION:
+
+[2|2|0|1]
+ORIGINAL: \bMarcus: Don´t forget to heal your Pokémon.
+TRADUCCION:

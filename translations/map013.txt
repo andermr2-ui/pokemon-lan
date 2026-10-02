@@ -1,0 +1,475 @@
+[27|1|0|1]
+ORIGINAL: \rIf you win, I'll give you an Arceus card!
+TRADUCCION:
+
+[27|1|11|2]
+ORIGINAL: \rOh, you don't have enough cards to play. You need at least 5.
+TRADUCCION:
+
+[16|1|3|2]
+ORIGINAL: \bMr. Game: Show me how you play and make my heart pound with excitement!
+TRADUCCION:
+
+[22|1|0|1]
+ORIGINAL: \rI'm here to explain the rules of Triple Triad.
+TRADUCCION:
+
+[22|1|2|1]
+ORIGINAL: \rWhich topic do you want to learn about?
+TRADUCCION:
+
+[22|1|5|2]
+ORIGINAL: \rTriple Triad is a game played with special cards placed on a 3x3 board.
+TRADUCCION:
+
+[22|1|7|2]
+ORIGINAL: \rEach card has 4 numbers on it, one per side.  These numbers are so-called stats.
+TRADUCCION:
+
+[22|1|9|3]
+ORIGINAL: \rPlayers take turns placing cards on the board. As they do so, they try to capture and gain control of their opponent's cards.
+TRADUCCION:
+
+[22|1|12|3]
+ORIGINAL: \rThat's where the numbers come in. If a player places a card with a higher number next to a card with a lower number, the player captures that card.
+TRADUCCION:
+
+[22|1|15|2]
+ORIGINAL: \rThus, the goal of the game is to gain control of more cards than the other player by the end of the game.
+TRADUCCION:
+
+[22|1|20|2]
+ORIGINAL: \rThere are a number of optional game rules you can apply to individual games.
+TRADUCCION:
+
+[22|1|22|2]
+ORIGINAL: \rThey can affect card stats, how cards capture each other, the scoring and the prizes.
+TRADUCCION:
+
+[22|1|27|2]
+ORIGINAL: \rWhen you win a game, you will recive 1 random card from your opponent from their Deck.
+TRADUCCION:
+
+[22|1|29|3]
+ORIGINAL: \rThis also works the other way around: if you lose, you have to give your opponent one of your cards, chosen at random.
+TRADUCCION:
+
+[22|1|32|2]
+ORIGINAL: \rYou can change what you win or lose from a game by using an optional game rule.
+TRADUCCION:
+
+[28|1|0|1]
+ORIGINAL: \CN\bWe exchange your coins for prizes.
+TRADUCCION:
+
+[28|1|2|1]
+ORIGINAL: \CN\bWhich prize would you like?
+TRADUCCION:
+
+[28|1|27|1]
+ORIGINAL: \CN\bPlease save your Coins and come again!
+TRADUCCION:
+
+[28|1|36|1]
+ORIGINAL: \CN\bSo, you want the \v[3]?
+TRADUCCION:
+
+[28|1|40|1]
+ORIGINAL: \CN\bSorry, you'll need more coins than that.
+TRADUCCION:
+
+[28|1|44|1]
+ORIGINAL: \CN\bHere you go!\1
+TRADUCCION:
+
+[28|1|50|1]
+ORIGINAL: \CN\bYou have no room in your Bag.
+TRADUCCION:
+
+[17|1|0|2]
+ORIGINAL: \rThis is the Pokémon Lottery Corner. I'm Felicity, your attendant today.
+TRADUCCION:
+
+[17|1|2|2]
+ORIGINAL: \rIf the drawn number matches the ID No. of any of your Pokémon, you could win fabulous gifts.
+TRADUCCION:
+
+[17|1|4|1]
+ORIGINAL: \rWould you like to check today's lucky number?
+TRADUCCION:
+
+[17|1|7|2]
+ORIGINAL: \rFirst, I'll look up today's Pokémon Lottery Corner lucky number.
+TRADUCCION:
+
+[17|1|9|1]
+ORIGINAL: ...
+TRADUCCION:
+
+[17|1|14|1]
+ORIGINAL: \rYour Loto Ticket number is \v[1].
+TRADUCCION:
+
+[17|1|15|2]
+ORIGINAL: \rNow, let's see if it matches the ID No. of any of your Pokémon.
+TRADUCCION:
+
+[17|1|26|1]
+ORIGINAL: \rI'm sorry. You didn't get a match...
+TRADUCCION:
+
+[17|1|27|1]
+ORIGINAL: \rPlease do visit again.
+TRADUCCION:
+
+[17|1|35|1]
+ORIGINAL: \rCongratulations!
+TRADUCCION:
+
+[17|1|36|2]
+ORIGINAL: \rThe ID number of your team's \v[2] matches your Loto Ticket number!
+TRADUCCION:
+
+[17|1|40|1]
+ORIGINAL: \rCongratulations!
+TRADUCCION:
+
+[17|1|41|2]
+ORIGINAL: \rThe ID number of your PC-boxed \v[2] matches your Loto Ticket number!
+TRADUCCION:
+
+[17|1|48|1]
+ORIGINAL: \rOh my goodness, all five digits matched!
+TRADUCCION:
+
+[17|1|49|1]
+ORIGINAL: \rYou've won the jackpot prize!
+TRADUCCION:
+
+[17|1|51|2]
+ORIGINAL: \rPlease do visit again! Good-bye from Felicity, your attendant!
+TRADUCCION:
+
+[17|1|56|2]
+ORIGINAL: \rYou have no room left. Make room, then come see me.
+TRADUCCION:
+
+[17|1|65|2]
+ORIGINAL: \rThe last four digits matched, so you win the first prize!
+TRADUCCION:
+
+[17|1|68|2]
+ORIGINAL: \rPlease do visit again! Good-bye from Felicity, your attendant!
+TRADUCCION:
+
+[17|1|73|2]
+ORIGINAL: \rYou have no room left. Make room, then come see me.
+TRADUCCION:
+
+[17|1|82|2]
+ORIGINAL: \rThe last three digits matched, so you win the second prize!
+TRADUCCION:
+
+[17|1|85|2]
+ORIGINAL: \rPlease do visit again! Good-bye from Felicity, your attendant!
+TRADUCCION:
+
+[17|1|90|2]
+ORIGINAL: \rYou have no room left. Make room, then come see me.
+TRADUCCION:
+
+[17|1|99|2]
+ORIGINAL: \rThe last two digits matched, so you win the third prize!
+TRADUCCION:
+
+[17|1|102|2]
+ORIGINAL: \rPlease do visit again! Good-bye from Felicity, your attendant!
+TRADUCCION:
+
+[17|1|107|2]
+ORIGINAL: \rYou have no room left. Make room, then come see me.
+TRADUCCION:
+
+[17|1|116|1]
+ORIGINAL: \rThe last digit matched, so you win the fourth prize!
+TRADUCCION:
+
+[17|1|118|2]
+ORIGINAL: \rPlease do visit again! Good-bye from Felicity, your attendant!
+TRADUCCION:
+
+[17|1|123|2]
+ORIGINAL: \rYou have no room left. Make room, then come see me.
+TRADUCCION:
+
+[17|1|135|1]
+ORIGINAL: \rOh, I see.\nPlease do visit us again.
+TRADUCCION:
+
+[17|2|0|2]
+ORIGINAL: \rYou've already drawn a Loto Ticket today. Please come back tomorrow.
+TRADUCCION:
+
+[17|4|0|1]
+ORIGINAL: \rI've been waiting for you. Here's the item you won.
+TRADUCCION:
+
+[17|4|6|2]
+ORIGINAL: \rYou have no room left. Make room, then come see me.
+TRADUCCION:
+
+[23|1|1|1]
+ORIGINAL: \bWelcome to the Triad Card Shop.
+TRADUCCION:
+
+[23|1|6|1]
+ORIGINAL: \bAnything else I can do for you?
+TRADUCCION:
+
+[23|1|11|1]
+ORIGINAL: \bAnything else I can do for you?
+TRADUCCION:
+
+[23|1|15|2]
+ORIGINAL: \bHere is where you can purchase new cards for Triple Triad duels.
+TRADUCCION:
+
+[23|1|17|2]
+ORIGINAL: \bThe selection grows as you catch and find new Pokémon, so check often.
+TRADUCCION:
+
+[23|1|19|2]
+ORIGINAL: \bAnd, of course, stronger Pokémon cards cost more than weaker cards.
+TRADUCCION:
+
+[23|1|21|3]
+ORIGINAL: \bYou don't have to use this shop in your game. It's just an example of how the player could gain Triple Triad cards. You could implement other ways.
+TRADUCCION:
+
+[23|1|27|1]
+ORIGINAL: \bPlease come again.
+TRADUCCION:
+
+[18|1|1|1]
+ORIGINAL: \bMy name is Mr. Game!
+TRADUCCION:
+
+[18|1|2|2]
+ORIGINAL: \bMy heart pounds with excitement when people enjoy my Coin game!
+TRADUCCION:
+
+[18|1|4|1]
+ORIGINAL: \bIn fact, that's what I live for!\nGo ahead and play it!
+TRADUCCION:
+
+[18|1|5|1]
+ORIGINAL: \bMake my heart pound with excitement!
+TRADUCCION:
+
+[18|1|9|1]
+ORIGINAL: \bGo ahead and play my Coin game!
+TRADUCCION:
+
+[18|1|10|1]
+ORIGINAL: \bMake my heart pound with excitement!
+TRADUCCION:
+
+[29|1|0|1]
+ORIGINAL: \CN\bWe exchange your coins for prizes.
+TRADUCCION:
+
+[29|1|2|1]
+ORIGINAL: \CN\bWhich prize would you like?
+TRADUCCION:
+
+[29|1|32|1]
+ORIGINAL: \CN\bPlease save your Coins and come again!
+TRADUCCION:
+
+[29|1|40|2]
+ORIGINAL: \CN\bYour party's full!\nPlease make some room before you come back.
+TRADUCCION:
+
+[29|1|47|1]
+ORIGINAL: \CN\bWould you like \v[3]?
+TRADUCCION:
+
+[29|1|51|1]
+ORIGINAL: \CN\bSorry, you'll need more coins than that.
+TRADUCCION:
+
+[29|1|54|1]
+ORIGINAL: \CN\bHere you go!\1
+TRADUCCION:
+
+[29|1|60|1]
+ORIGINAL: \CN\PN received the \v[3]!
+TRADUCCION:
+
+[24|1|0|1]
+ORIGINAL: \bI'm ready to duel with you.
+TRADUCCION:
+
+[24|1|9|2]
+ORIGINAL: \bOh, you don't have enough cards to play. You need at least 5.
+TRADUCCION:
+
+[19|1|0|1]
+ORIGINAL: \G\CN\bWelcome to Rocket Game Corner!
+TRADUCCION:
+
+[19|1|2|2]
+ORIGINAL: \G\CN\bDo you need some game coins?\nWould you like to buy some?
+TRADUCCION:
+
+[19|1|4|1]
+ORIGINAL: \G\CN\bYou don't have a Coin Case.
+TRADUCCION:
+
+[19|1|8|2]
+ORIGINAL: \G\CN\bDo you need some game coins?\nWould you like to buy some?
+TRADUCCION:
+
+[19|1|13|1]
+ORIGINAL: \G\CN\bWhoops!\nYour Coin Case is full.
+TRADUCCION:
+
+[19|1|17|1]
+ORIGINAL: \G\CN\bYou can't afford the coins.
+TRADUCCION:
+
+[19|1|23|1]
+ORIGINAL: \G\CN\bThank you\nHere are your coins!
+TRADUCCION:
+
+[19|1|31|1]
+ORIGINAL: \G\CN\bWhoops!\nYour Coin Case is full.
+TRADUCCION:
+
+[19|1|35|1]
+ORIGINAL: \G\CN\bYou can't afford the coins.
+TRADUCCION:
+
+[19|1|41|1]
+ORIGINAL: \G\CN\bThank you\nHere are your coins!
+TRADUCCION:
+
+[19|1|48|1]
+ORIGINAL: \G\CN\bNo?\nPlease come play sometime!
+TRADUCCION:
+
+[30|1|0|1]
+ORIGINAL: \CN\bWe exchange your coins for prizes.
+TRADUCCION:
+
+[30|1|14|1]
+ORIGINAL: \CN\bWhich prize would you like?
+TRADUCCION:
+
+[30|1|39|1]
+ORIGINAL: \CN\bPlease save your Coins and come again!
+TRADUCCION:
+
+[30|1|50|1]
+ORIGINAL: \CN\bSo, you want the \v[3]?
+TRADUCCION:
+
+[30|1|54|1]
+ORIGINAL: \CN\bSorry, you'll need more coins than that.
+TRADUCCION:
+
+[30|1|58|1]
+ORIGINAL: \CN\bHere you go!\1
+TRADUCCION:
+
+[30|1|64|1]
+ORIGINAL: \CN\bYou have no room in your Bag.
+TRADUCCION:
+
+[25|1|0|1]
+ORIGINAL: \rReady for a real rule duel?
+TRADUCCION:
+
+[25|1|12|2]
+ORIGINAL: \rOh, you don't have enough cards to play. You need at least 5.
+TRADUCCION:
+
+[26|1|0|1]
+ORIGINAL: \bI built my deck specially for this!
+TRADUCCION:
+
+[26|1|11|2]
+ORIGINAL: \bOh, you don't have enough cards to play. You need at least 5.
+TRADUCCION:
+
+[21|1|0|1]
+ORIGINAL: \rWelcome!
+TRADUCCION:
+
+[21|1|2|1]
+ORIGINAL: \rOh, you don't have a Coin Case? Here.
+TRADUCCION:
+
+[21|1|4|2]
+ORIGINAL: \rYou can exchange your coins for fabulous prizes next door.
+TRADUCCION:
+
+[21|1|8|2]
+ORIGINAL: \rYou don't have any room for it. Come back when you do.
+TRADUCCION:
+
+[21|1|14|2]
+ORIGINAL: \rYou can exchange your coins for fabulous prizes next door.
+TRADUCCION:
+[22|1|3|OPCIONES]
+ORIGINAL: Basics|Game rules|Prizes|Exit
+TRADUCCION:
+
+[28|1|3|OPCIONES]
+ORIGINAL: Smoke Ball - 800 coins|Miracle Seed - 1000 coins|Charcoal - 1000 coins|Mystic Water - 1000 coins
+TRADUCCION:
+
+[28|1|21|OPCIONES]
+ORIGINAL: Yellow Flute - 1600 coins|No thanks
+TRADUCCION:
+
+[28|1|37|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[17|1|5|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[23|1|3|OPCIONES]
+ORIGINAL: Buy Cards|Sell Cards|Information|Exit
+TRADUCCION:
+
+[29|1|3|OPCIONES]
+ORIGINAL: Abra - 180 coins|Clefairy - 500 coins|Dratini - 2800 coins|Scyther - 5500 coins
+TRADUCCION:
+
+[29|1|25|OPCIONES]
+ORIGINAL: Porygon - 9999 coins|No thanks
+TRADUCCION:
+
+[29|1|48|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[19|1|10|OPCIONES]
+ORIGINAL: 50 coins [$1,000]|500 coins [$10,000]|Exit
+TRADUCCION:
+
+[30|1|15|OPCIONES]
+ORIGINAL: TM13 - 4000 coins|TM23 - 3500 coins|TM24 - 4000 coins|TM30 - 4500 coins
+TRADUCCION:
+
+[30|1|33|OPCIONES]
+ORIGINAL: TM35 - 4000 coins|No thanks
+TRADUCCION:
+
+[30|1|51|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+

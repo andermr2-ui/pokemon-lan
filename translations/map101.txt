@@ -1,0 +1,31 @@
+[5|1|1|1]
+ORIGINAL: Spectrier is staring at you.
+TRADUCCION:
+
+[5|1|3|1]
+ORIGINAL: It wants to battle!
+TRADUCCION:
+
+[5|1|5|1]
+ORIGINAL: \bSPEEEC!!!
+TRADUCCION:
+
+[5|3|0|1]
+ORIGINAL: Spectrier disappeared. Will it come back?
+TRADUCCION:
+
+[7|1|2|1]
+ORIGINAL: \bThese woods are haunted!
+TRADUCCION:
+
+[7|2|0|1]
+ORIGINAL: \bMay the spirits protect you.
+TRADUCCION:
+
+[10|1|2|2]
+ORIGINAL: \bHaha, you won´t even know what hit you. Give me your wallet!
+TRADUCCION:
+
+[10|2|0|2]
+ORIGINAL: \bI don´t care if you go to the police, they won´t find me here anyways.
+TRADUCCION:

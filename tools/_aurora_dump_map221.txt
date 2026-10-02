@@ -1,0 +1,3 @@
+=== map221 ===
+ev1 pg0 [0]: "There´s something hidden inside the stature."
+ev1 pg0 [2]: "You attached the Z-Power Ring to your bracelet."

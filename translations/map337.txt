@@ -1,0 +1,151 @@
+[5|1|2|1]
+ORIGINAL: Groudon is staring at Kyogre.
+TRADUCCION:
+
+[5|2|0|1]
+ORIGINAL: Groudon is staring at you.
+TRADUCCION:
+
+[5|2|2|1]
+ORIGINAL: It wants to battle!
+TRADUCCION:
+
+[5|2|4|1]
+ORIGINAL: \rGRRRRROOOOUUU!!!
+TRADUCCION:
+
+[5|4|0|1]
+ORIGINAL: Groudon disappeared. Will it come back?
+TRADUCCION:
+
+[6|1|2|1]
+ORIGINAL: Kyogre is staring at Groudon.
+TRADUCCION:
+
+[6|2|0|1]
+ORIGINAL: Kyogre is staring at you.
+TRADUCCION:
+
+[6|2|2|1]
+ORIGINAL: It wants to battle!
+TRADUCCION:
+
+[6|2|4|1]
+ORIGINAL: \bKYOOOOO!!!
+TRADUCCION:
+
+[6|4|0|1]
+ORIGINAL: Kyogre disappeared. Will it come back?
+TRADUCCION:
+
+[7|1|0|3]
+ORIGINAL: \bSteven: I didn´t even have time to prepare my device, that´s how fast these two went at each other´s throat!
+TRADUCCION:
+
+[7|1|3|1]
+ORIGINAL: \bOkay, wait a minute, let me get this ready.
+TRADUCCION:
+
+[7|1|5|2]
+ORIGINAL: \bThere we go. Okay, all I gotta do now is point it at these two.
+TRADUCCION:
+
+[7|1|10|1]
+ORIGINAL: \bOkay, here we go.
+TRADUCCION:
+
+[7|1|12|2]
+ORIGINAL: \rGroudon: Get the **** out of my sight before I turn you into a nice filet!
+TRADUCCION:
+
+[7|1|15|2]
+ORIGINAL: \bKyogre: Nuh uh, if you don´t step aside right ******* now, then I´ll show you what these hands can do!
+TRADUCCION:
+
+[7|1|18|1]
+ORIGINAL: \rGroudon: Hater ass fish!
+TRADUCCION:
+
+[7|1|20|1]
+ORIGINAL: \bKyogre: Bitch ass lizard!
+TRADUCCION:
+
+[7|1|22|1]
+ORIGINAL: \rGroudon: Kill yourself!
+TRADUCCION:
+
+[7|1|24|1]
+ORIGINAL: \bKyogre: I ****** your mom!
+TRADUCCION:
+
+[7|1|26|2]
+ORIGINAL: \c[3]???: STOP FIGHTING RIGHT NOW, OR I`LL BEAT YOUR ASSES!!!
+TRADUCCION:
+
+[7|1|28|1]
+ORIGINAL: \bSteven: Oh, I think I know who that is.
+TRADUCCION:
+
+[7|2|1|2]
+ORIGINAL: \c[3]Rayquaza: Don´t make me repeat myself. Have I made myself clear?
+TRADUCCION:
+
+[7|2|4|1]
+ORIGINAL: \rGroudon: Yes, boss...
+TRADUCCION:
+
+[7|2|6|2]
+ORIGINAL: \bKyogre: Alright, fine, the lizard can live for another day...
+TRADUCCION:
+
+[7|2|9|2]
+ORIGINAL: \c[3]Rayquaza: That´s what I like to hear. And remember, I´m always watching you.
+TRADUCCION:
+
+[7|2|12|1]
+ORIGINAL: \c[9]???: Ready for round 2, big guy?
+TRADUCCION:
+
+[7|2|14|2]
+ORIGINAL: \c[3]Rayquaza: Oh, why now?! IT`S THAT ******* ALIEN AGAIN!
+TRADUCCION:
+
+[7|2|16|2]
+ORIGINAL: \c[3]Rayquaza: Stay right where you are, I gotta beat this alien up first. Don´t do anything stupid!
+TRADUCCION:
+
+[7|3|0|2]
+ORIGINAL: \bSteven: Wait a bloody second, was the Pokémon that just flew by Deoxys?!
+TRADUCCION:
+
+[7|3|2|2]
+ORIGINAL: \bYou know, the Pokémon inside the asteroid that almost destroyed Hoenn?!
+TRADUCCION:
+
+[7|3|4|2]
+ORIGINAL: \bThat was about a year ago, and Rayquaza saved us on that day.
+TRADUCCION:
+
+[7|3|6|3]
+ORIGINAL: \bI think Deoxys was flying towards Memorial Tower. That´s a sign that we should head back to Champions Village.
+TRADUCCION:
+
+[7|3|9|3]
+ORIGINAL: \bBut if you want to, you can go to Memorial Tower to find out what´s going on. I´ll go back to my place, and I´ll be waiting for you with a gift.
+TRADUCCION:
+
+[7|3|12|2]
+ORIGINAL: \bYou really helped me here, so I want to reward you accordingly.
+TRADUCCION:
+
+[7|3|14|1]
+ORIGINAL: \bAlright, time to go.
+TRADUCCION:
+
+[2|1|13|2]
+ORIGINAL: \bSteven: This should be the place. Well, what are we waiting for, let´s go inside!
+TRADUCCION:
+
+[3|2|0|1]
+ORIGINAL: \bSteven: Come on, this will be exciting!
+TRADUCCION:

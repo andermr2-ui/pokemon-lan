@@ -1,0 +1,59 @@
+[2|1|0|3]
+ORIGINAL: \bThe cold mountain air is quite refreshing, isn´t it? I think it is, that´s why I live in Aurora Summit. It´s a charming little town, isn´t it?
+TRADUCCION:
+
+[2|1|3|1]
+ORIGINAL: \bBut what brings you here?
+TRADUCCION:
+
+[2|1|6|3]
+ORIGINAL: \bOh, how exciting. Wesley always acts like he´s a weak trainer, but he is one of the strongest trainers in the region.
+TRADUCCION:
+
+[2|1|11|3]
+ORIGINAL: \bAh, the icon of our town. I personally don´t like that place, it´s slippery and dangerous. There´s some rare Pokémon in there though, so that´s cool I guess.
+TRADUCCION:
+
+[2|1|16|2]
+ORIGINAL: \bKeldeo? Never heard of that. Whatever it might be, it´s not in this town.
+TRADUCCION:
+
+[2|1|20|3]
+ORIGINAL: \bYou´re here for a reason, that´s for sure. How about a little gift? You seem quite busy, and I happen to have a Pokémon that might help you.
+TRADUCCION:
+
+[2|1|23|3]
+ORIGINAL: \bI should warn you though, this little bugger keeps on biting me, so you should teach it some manners. Here you go.
+TRADUCCION:
+
+[2|1|28|3]
+ORIGINAL: \bOne of my relatives from Sinnoh brought this Turtwig here, and it found a liking to this region, so I decided to take care of it.
+TRADUCCION:
+
+[2|1|31|3]
+ORIGINAL: \bBut in the past few weeks the cold has been getting to this poor thing, so it´s more responsible to give it to a trainer that gets around.
+TRADUCCION:
+
+[2|1|34|1]
+ORIGINAL: \bGood luck on your journey!
+TRADUCCION:
+
+[2|1|38|1]
+ORIGINAL: There's no more room for Pokémon!
+TRADUCCION:
+
+[2|1|39|1]
+ORIGINAL: The Pokémon Boxes are full and can't accept any more!
+TRADUCCION:
+
+[2|2|0|2]
+ORIGINAL: \bI should visit my relatives in Sinnoh. I heard the mountain air over there is even better than it is here.
+TRADUCCION:
+
+[3|1|0|2]
+ORIGINAL: \bOnce you get used to the blizzards, Aurora Summit is the perfect place to live.
+TRADUCCION:
+[2|1|4|OPCIONES]
+ORIGINAL: The Gym Challenge|Aurora Mountain|Keldeo
+TRADUCCION:
+

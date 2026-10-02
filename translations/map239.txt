@@ -1,0 +1,31 @@
+[16|1|2|1]
+ORIGINAL: \bIt´s time for an experiment!
+TRADUCCION:
+
+[16|2|0|2]
+ORIGINAL: \bFrom here on out, the trainers will only get stronger. I hope you´ve brought enough potions.
+TRADUCCION:
+
+[17|1|2|2]
+ORIGINAL: \bMy Pokémon will obey, no matter what, so you stand no chance!
+TRADUCCION:
+
+[17|2|0|1]
+ORIGINAL: \bLooks like I should bond with my Pokémon more...
+TRADUCCION:
+
+[14|1|2|1]
+ORIGINAL: \bPlay time´s over, this is Victory Road!
+TRADUCCION:
+
+[14|2|0|3]
+ORIGINAL: \bSeems like you´re off to a great start! But don´t underestimate the trainers on Victory Road, they´re as determined as you.
+TRADUCCION:
+
+[15|1|2|2]
+ORIGINAL: \bI need more training if I want to challenge the Pokémon League, so let´s battle!
+TRADUCCION:
+
+[15|2|0|2]
+ORIGINAL: \bI will challenge the League, but you´ll make it there first.
+TRADUCCION:

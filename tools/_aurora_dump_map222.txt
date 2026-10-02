@@ -1,0 +1,5 @@
+=== map222 ===
+ev2 pg0 [0]: "A strange crystal is embedded into a socket. Do you want to take it?"
+ev2 pg0 [2] CHOICES: ["Sí", "No"]
+ev4 pg0 [2]: "\\bWait a minute, how did you get in here?! Well, the boss pays us to get rid of annoying folks like you, so I´m gonna remove you!"
+ev4 pg1 [0]: "\\bGood thing I already got this month´s pay check."

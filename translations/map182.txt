@@ -1,0 +1,175 @@
+[16|1|2|2]
+ORIGINAL: \bIf you want to know more about our family, you´ll have to defeat me!
+TRADUCCION:
+
+[16|2|0|3]
+ORIGINAL: \bAlright, listen up. Our family moved here from another region, because we wanted to live somewhere with less water.
+TRADUCCION:
+
+[16|2|3|3]
+ORIGINAL: \bWe´re really proud of Nyssa. Even though she had to move away from her friends, she never gave up and managed to become a Gym Leader!
+TRADUCCION:
+
+[16|3|0|2]
+ORIGINAL: \bYou might have won, but you have to admit that Nyssa didn´t make it easy for you.
+TRADUCCION:
+
+[5|1|2|2]
+ORIGINAL: \bDon´t think that my daughter is the only strong trainer in our family!
+TRADUCCION:
+
+[5|2|0|2]
+ORIGINAL: \bWhen Nyssa was old enough to start her journey, the professor didn´t have a Pokémon for her.
+TRADUCCION:
+
+[5|2|2|2]
+ORIGINAL: \bBecause it was her big dream to become a strong Pokémon trainer, I decided to gift her my Wimpod.
+TRADUCCION:
+
+[5|2|4|2]
+ORIGINAL: \bI´m glad I did that, because look at my daughter now. She managed to fulfil her dream!
+TRADUCCION:
+
+[5|3|0|3]
+ORIGINAL: \bWow, you won against my daughter. You should be proud of yourself, because we´re talking about someone who is respected by the Elite Four!
+TRADUCCION:
+
+[6|1|2|2]
+ORIGINAL: \bYou won´t even get to challenge big sis, because I will stop you right here!
+TRADUCCION:
+
+[6|2|0|2]
+ORIGINAL: \bI´m gonna tell you a secret about big sis, but only because you managed to win against me.
+TRADUCCION:
+
+[6|2|2|3]
+ORIGINAL: \bNyssa doesn´t really care too much about who you are and what you do, as long as you make a good first impression. Remember that.
+TRADUCCION:
+
+[6|3|0|2]
+ORIGINAL: \bI knew you were strong, but I didn´t expect you to be strong enough to beat big sis...
+TRADUCCION:
+
+[7|1|2|2]
+ORIGINAL: \bI´m gonna show you why my family uses Bug-Type Pokémon!
+TRADUCCION:
+
+[7|2|0|3]
+ORIGINAL: \bOur family loves Bug-Type Pokémon. They might seem weak at first, but they can actually be very powerful.
+TRADUCCION:
+
+[7|2|3|3]
+ORIGINAL: \bOh, and I don´t know if someone already told you, but we actually are 5 siblings! We all train with each other, and that´s why our Pokémon are so strong.
+TRADUCCION:
+
+[7|3|0|1]
+ORIGINAL: \bWow, not even her Scizor could stop you. Amazing!
+TRADUCCION:
+
+[2|1|0|3]
+ORIGINAL: \bWelcome to the Ambergrove Gym. The trainers in this Gym are all from Nyssa´s family, and they specialize in Bug-Type Pokémon.
+TRADUCCION:
+
+[2|1|3|3]
+ORIGINAL: \bRock-, Flying- and Fire-Type Attacks are going to give you an advantage here, but you shouldn´t underestimate this family. They´re strong!
+TRADUCCION:
+
+[2|2|0|2]
+ORIGINAL: \bDamn, I wish I would´ve seen your battle. Congrats on claiming the Arachno Badge!
+TRADUCCION:
+
+[3|1|0|2]
+ORIGINAL: \bYou´re only allowed to face Nyssa if you can answer her 4 questions.
+TRADUCCION:
+
+[3|1|3|2]
+ORIGINAL: \bHere comes the first question. What is Nyssa´s favorite Pokémon move?
+TRADUCCION:
+
+[3|1|7|1]
+ORIGINAL: \bI´m sorry, but that´s the wrong answer.
+TRADUCCION:
+
+[3|1|10|1]
+ORIGINAL: \bI´m sorry, but that´s the wrong answer.
+TRADUCCION:
+
+[3|1|13|2]
+ORIGINAL: \bCongratulations, that was correct! Now, here comes the second question.
+TRADUCCION:
+
+[3|1|15|1]
+ORIGINAL: \bWhat was Nyssa´s first Pokémon?
+TRADUCCION:
+
+[3|1|18|1]
+ORIGINAL: \bThat´s correct again! Onto the next one then.
+TRADUCCION:
+
+[3|1|19|1]
+ORIGINAL: \bWhich region is Nyssa from?
+TRADUCCION:
+
+[3|1|22|1]
+ORIGINAL: \bI´m sorry, but that´s the wrong answer.
+TRADUCCION:
+
+[3|1|25|1]
+ORIGINAL: \bI´m sorry, but that´s the wrong answer.
+TRADUCCION:
+
+[3|1|28|2]
+ORIGINAL: \bThat´s correct, Nyssa is from the Hoenn Region. You have made it to the final question!
+TRADUCCION:
+
+[3|1|30|1]
+ORIGINAL: \bHow many siblings does Nyssa have?
+TRADUCCION:
+
+[3|1|33|1]
+ORIGINAL: \bI´m sorry, but that´s the wrong answer.
+TRADUCCION:
+
+[3|1|36|1]
+ORIGINAL: \bI´m sorry, but that´s the wrong answer.
+TRADUCCION:
+
+[3|1|39|2]
+ORIGINAL: \bCongratulations, you answered every question correctly! You can proceed to the next room now.
+TRADUCCION:
+
+[3|1|54|1]
+ORIGINAL: \bI´m sorry, but that´s the wrong answer.
+TRADUCCION:
+
+[3|1|57|1]
+ORIGINAL: \bI´m sorry, but that´s the wrong answer.
+TRADUCCION:
+
+[3|1|64|2]
+ORIGINAL: \bTry to defeat the other trainers, and they might give you a hint.
+TRADUCCION:
+
+[4|1|0|2]
+ORIGINAL: \bGood luck in there. Nyssa´s Bug-Type Pokémon are tough.
+TRADUCCION:
+
+[4|2|0|2]
+ORIGINAL: \bGreat job! Nyssa never holds back, so you have to be super strong!
+TRADUCCION:
+[3|1|5|OPCIONES]
+ORIGINAL: Leech Life|Bug Buzz|First Impression
+TRADUCCION:
+
+[3|1|16|OPCIONES]
+ORIGINAL: Wimpod|Venipede|Spinarak
+TRADUCCION:
+
+[3|1|20|OPCIONES]
+ORIGINAL: Delta|Galar|Hoenn
+TRADUCCION:
+
+[3|1|31|OPCIONES]
+ORIGINAL: 2|3|4
+TRADUCCION:
+

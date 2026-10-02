@@ -1,0 +1,511 @@
+[11|1|0|1]
+ORIGINAL: Choose a destination.
+TRADUCCION:
+
+[6|1|1|1]
+ORIGINAL: Choose a topic.
+TRADUCCION:
+
+[6|1|4|3]
+ORIGINAL: The $player global variable contains information about the player, such as their trainer type, ID number, name, party Pokémon and money.
+TRADUCCION:
+
+[6|1|7|1]
+ORIGINAL: This information is in class Player.
+TRADUCCION:
+
+[6|1|11|3]
+ORIGINAL: Map connections are how two maps are displayed next to each other in the overworld, allowing you to walk from one to the other.
+TRADUCCION:
+
+[6|1|14|3]
+ORIGINAL: The connections are defined in the PBS file "map_connections.txt". There is a Debug feature that makes connecting maps easier.
+TRADUCCION:
+
+[6|1|17|3]
+ORIGINAL: In the Debug menu, go to "PBS File Editors..." > "Edit map_connections.txt". Instructions are available within. You can move maps around with the mouse.
+TRADUCCION:
+
+[6|1|23|3]
+ORIGINAL: Every tile in a tileset has a terrain tag, which is a number. This number is used to give certain tiles special effects.
+TRADUCCION:
+
+[6|1|26|3]
+ORIGINAL: For example, ledge tiles have terrain tag 1, which means the player jumps over them. Ledge tiles also have a single passable direction (set separately).
+TRADUCCION:
+
+[6|1|29|2]
+ORIGINAL: Grass tiles (in which you can have wild encounters) have terrain tag 2. Water tiles have terrain tag 6 or 7.
+TRADUCCION:
+
+[6|1|31|3]
+ORIGINAL: Terrain tag 0 means the tile has no special effect. See the wiki for more information and a complete list of all terrain tags and their effects.
+TRADUCCION:
+
+[6|1|34|3]
+ORIGINAL: You can only set terrain tags up to 7 via RPG Maker XP's Database. Essentials has terrain tags with higher numbers.
+TRADUCCION:
+
+[6|1|37|3]
+ORIGINAL: To fully set a tileset's terrain tags, open the Debug menu and go to "Other Editors..." > "Edit Terrain Tags".
+TRADUCCION:
+
+[12|1|8|3]
+ORIGINAL: \rI will offer you more than 4 choices at once. You can put multiple "Show Choices" commands in a row to do this.
+TRADUCCION:
+
+[12|1|11|1]
+ORIGINAL: \rPlease choose one.
+TRADUCCION:
+
+[12|1|14|1]
+ORIGINAL: Choice 1 was chosen.
+TRADUCCION:
+
+[12|1|17|1]
+ORIGINAL: Choice 2 was chosen.
+TRADUCCION:
+
+[12|1|20|1]
+ORIGINAL: Choice 3 was chosen.
+TRADUCCION:
+
+[12|1|23|1]
+ORIGINAL: Choice 4 was chosen.
+TRADUCCION:
+
+[12|1|28|1]
+ORIGINAL: Choice 5 was chosen.
+TRADUCCION:
+
+[12|1|31|1]
+ORIGINAL: Choice 6 was chosen.
+TRADUCCION:
+
+[12|1|36|1]
+ORIGINAL: Choice 7 was chosen.
+TRADUCCION:
+
+[12|1|39|1]
+ORIGINAL: The choice was cancelled.
+TRADUCCION:
+
+[12|1|48|1]
+ORIGINAL: \rPlease choose one. This choice can't be cancelled.
+TRADUCCION:
+
+[12|1|51|1]
+ORIGINAL: Choice 1 was chosen.
+TRADUCCION:
+
+[12|1|54|1]
+ORIGINAL: Choice 2 was chosen.
+TRADUCCION:
+
+[12|1|57|1]
+ORIGINAL: Choice 3 was chosen.
+TRADUCCION:
+
+[12|1|60|1]
+ORIGINAL: Choice 4 was chosen.
+TRADUCCION:
+
+[12|1|65|1]
+ORIGINAL: Choice 5 was chosen.
+TRADUCCION:
+
+[12|1|68|1]
+ORIGINAL: Choice 6 was chosen.
+TRADUCCION:
+
+[12|1|71|1]
+ORIGINAL: Choice 7 was chosen.
+TRADUCCION:
+
+[12|1|80|2]
+ORIGINAL: \rPlease choose one. Cancelling will result in Choice 3.
+TRADUCCION:
+
+[12|1|84|1]
+ORIGINAL: Choice 1 was chosen.
+TRADUCCION:
+
+[12|1|87|1]
+ORIGINAL: Choice 2 was chosen.
+TRADUCCION:
+
+[12|1|90|1]
+ORIGINAL: Choice 3 was chosen.
+TRADUCCION:
+
+[12|1|93|1]
+ORIGINAL: Choice 4 was chosen.
+TRADUCCION:
+
+[12|1|98|1]
+ORIGINAL: Choice 5 was chosen.
+TRADUCCION:
+
+[12|1|101|1]
+ORIGINAL: Choice 6 was chosen.
+TRADUCCION:
+
+[12|1|104|1]
+ORIGINAL: Choice 7 was chosen.
+TRADUCCION:
+
+[12|1|132|2]
+ORIGINAL: \rThis is an example of how to modify choices, using the hide_choice and rename_choice scripts.
+TRADUCCION:
+
+[12|1|136|1]
+ORIGINAL: This choice was renamed by rename_choice.
+TRADUCCION:
+
+[12|1|139|1]
+ORIGINAL: This choice is hidden if the player is not male.
+TRADUCCION:
+
+[12|1|142|1]
+ORIGINAL: This choice is hidden if the player is not female.
+TRADUCCION:
+
+[7|1|1|1]
+ORIGINAL: Choose a topic.
+TRADUCCION:
+
+[7|1|4|3]
+ORIGINAL: Debug mode is a special way of playing the game. It unlocks various developer features to make it easier to access all parts of the game and test things.
+TRADUCCION:
+
+[7|1|7|2]
+ORIGINAL: Playing in Debug mode allows you to access the Debug menu (press F9 or find it in the pause menu).
+TRADUCCION:
+
+[7|1|9|3]
+ORIGINAL: The party screen and Pokémon storage have a similar debug menu for modifying a Pokémon's properties, such as its level or species.
+TRADUCCION:
+
+[7|1|12|3]
+ORIGINAL: You can use field moves at any time, and hold Ctrl to skip any battles and decide the outcome of Trainer battles. Hold Ctrl while moving to walk over anything.
+TRADUCCION:
+
+[7|1|15|2]
+ORIGINAL: A full list of Debug mode features is available on the wiki.
+TRADUCCION:
+
+[7|1|18|3]
+ORIGINAL: The $DEBUG variable was set to true. This flag is set automatically during playtesting within RMXP. This is what causes the game to be in Debug mode.
+TRADUCCION:
+
+[7|1|27|2]
+ORIGINAL: Obtained all Gym Badges for the first and second regions.
+TRADUCCION:
+
+[7|1|29|3]
+ORIGINAL: To add a Gym Badge, use $player.badges[X]=true where X is a number from 0 through 7. Use$player.badges[X] to see if you have a Badge.
+TRADUCCION:
+
+[7|1|32|2]
+ORIGINAL: Note that the first Gym Badge is number 0, the second Badge is number 1, and so on.
+TRADUCCION:
+
+[7|1|34|2]
+ORIGINAL: In Debug mode, you can set which Gym Badges you have via the Debug menu.
+TRADUCCION:
+
+[7|1|39|1]
+ORIGINAL: Press F8 to take a screenshot of the game.
+TRADUCCION:
+
+[7|1|40|2]
+ORIGINAL: The screenshot will be put in the same folder as the one containing the save file.
+TRADUCCION:
+
+[13|1|1|1]
+ORIGINAL: Choose a text option.
+TRADUCCION:
+
+[13|1|4|2]
+ORIGINAL: \bThis is the text of a male character.\rThis is the text of a female character.
+TRADUCCION:
+
+[13|1|6|3]
+ORIGINAL: \pgThis text is the colour of the player's gender. \pogThis text is the colour of the opposite gender to the player.
+TRADUCCION:
+
+[13|1|9|3]
+ORIGINAL: \c[0]Default, \c[1]blue, \c[2]red, \c[3]green, \c[4]cyan, \c[5]magenta, \c[6]yellow, \c[7]grey, \c[8]white, \c[9]purple, \c[10]orange, \c[11]dark, \c[12]light.
+TRADUCCION:
+
+[13|1|15|3]
+ORIGINAL: <b>Bold text,</b> <i>italic text,</i> <u>underlined text,</u> <s>strikethrough text,</s> <outln>outline text,</outln> <outln2>thicker outline text.</outln2>
+TRADUCCION:
+
+[13|1|18|3]
+ORIGINAL: <fn=Power Clear Bold>Power Clear Bold text,</fn> <fs=25>size 25 text,</fs> <fs=40>size 40 text,</fs> <o=128>half-transparent text.</o>
+TRADUCCION:
+
+[13|1|21|3]
+ORIGINAL: This is a line\n break. Text is \n<r>right-aligned until next line\n break. Text is <ac>centred</ac> here. Text is <ar>right-aligned</ar> here.
+TRADUCCION:
+
+[13|1|27|2]
+ORIGINAL: \PN is the player's name, \PM is the player's money, \v[12] is the content of Game Variable 12.
+TRADUCCION:
+
+[13|1|29|3]
+ORIGINAL: This is <icon=bagPocket3> bagPocket3 from the folder Graphics/Icons. Icons shown this way are not padded.
+TRADUCCION:
+
+[13|1|35|1]
+ORIGINAL: \GThe money window is shown.
+TRADUCCION:
+
+[13|1|36|1]
+ORIGINAL: \CNThe coins window is shown.
+TRADUCCION:
+
+[13|1|37|2]
+ORIGINAL: \G\CNThe money and coins windows are both shown. The coins window must be shown second.
+TRADUCCION:
+
+[13|1|39|2]
+ORIGINAL: \f[introBoy]The introBoy picture from the Graphics/Pictures folder is shown.
+TRADUCCION:
+
+[13|1|41|2]
+ORIGINAL: \ff[introBoy]The introBoy picture is shown again, but cropped to the top-left 96x96 pixels of it.
+TRADUCCION:
+
+[13|1|48|2]
+ORIGINAL: \w[signskin]The windowskin has changed to "signskin" here.
+TRADUCCION:
+
+[13|1|50|3]
+ORIGINAL: \l[3]This message box has 3 lines to it rather than 2, so more text can be shown at once. Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+TRADUCCION:
+
+[13|1|53|1]
+ORIGINAL: \wuThis message box is at the top.
+TRADUCCION:
+
+[13|1|54|1]
+ORIGINAL: \wmThis message box is in the middle.
+TRADUCCION:
+
+[13|1|55|2]
+ORIGINAL: \wuThis message box is\wm jumping around the screen\wd in a rather off-putting way.
+TRADUCCION:
+
+[13|1|57|1]
+ORIGINAL: \opThis message box slides on-screen at the start.
+TRADUCCION:
+
+[13|1|58|1]
+ORIGINAL: \clThis message box slides off-screen at the end.
+TRADUCCION:
+
+[13|1|62|1]
+ORIGINAL: \ts[]This text appeared instantly!
+TRADUCCION:
+
+[13|1|63|1]
+ORIGINAL: \ts[5]This text is slow to appear.
+TRADUCCION:
+
+[13|1|64|3]
+ORIGINAL: Slow text speed is 4, normal speed is 2, fast speed is 1. It takes this many 1/80ths of a second for the next character in a message to appear.
+TRADUCCION:
+
+[13|1|70|2]
+ORIGINAL: \se[Pkmn move learnt]Sound effect "Pkmn move learnt" was played.
+TRADUCCION:
+
+[13|1|72|2]
+ORIGINAL: Music effect "Item get" will be played.\me[Item get]
+TRADUCCION:
+
+[13|1|79|2]
+ORIGINAL: A complete list of all message options is available on the wiki.
+TRADUCCION:
+
+[8|1|2|1]
+ORIGINAL: \PN received a Pokédex!
+TRADUCCION:
+
+[8|1|7|1]
+ORIGINAL: You already have a Pokédex.
+TRADUCCION:
+
+[14|1|1|1]
+ORIGINAL: Choose a topic.
+TRADUCCION:
+
+[14|1|11|1]
+ORIGINAL: You don't have any able Pokémon with you.
+TRADUCCION:
+
+[14|1|19|1]
+ORIGINAL: \v[2] is the first Pokémon in your party.
+TRADUCCION:
+
+[14|1|27|1]
+ORIGINAL: You have a Celebi in your party.
+TRADUCCION:
+
+[14|1|30|1]
+ORIGINAL: You don't have a Celebi in your party.
+TRADUCCION:
+
+[9|1|1|3]
+ORIGINAL: \rRemember to read the wiki for further information.  An Internet shortcut to the wiki can be found in the project's main folder.
+TRADUCCION:
+
+[9|1|9|1]
+ORIGINAL: You received a Pokégear and Running Shoes.
+TRADUCCION:
+
+[9|2|8|2]
+ORIGINAL: \rOh... Are you all right? Well, you'll have better luck this time.
+TRADUCCION:
+
+[9|2|11|3]
+ORIGINAL: [This message was triggered by the "Starting Over" Game Switch being ON. Now turning that Game Switch off.]
+TRADUCCION:
+
+[15|1|1|1]
+ORIGINAL: Choose a roaming Pokémon.
+TRADUCCION:
+
+[15|1|5|1]
+ORIGINAL: Switch 53 is on. Latias and Latios are roaming.
+TRADUCCION:
+
+[15|1|8|2]
+ORIGINAL: Switch 53 is off. Latias and Latios are not roaming. Do you want to make Latias and Latios roam?
+TRADUCCION:
+
+[15|1|13|1]
+ORIGINAL: Latias and Latios are now roaming.
+TRADUCCION:
+
+[15|1|24|1]
+ORIGINAL: Switch 54 is on. Kyogre is roaming.
+TRADUCCION:
+
+[15|1|27|2]
+ORIGINAL: Switch 54 is off. Kyogre is not roaming. Do you want to make Kyogre roam?
+TRADUCCION:
+
+[15|1|32|1]
+ORIGINAL: Kyogre is now roaming.
+TRADUCCION:
+
+[15|1|43|1]
+ORIGINAL: Switch 55 is on. Entei is roaming.
+TRADUCCION:
+
+[15|1|46|2]
+ORIGINAL: Switch 55 is off. Entei is not roaming. Do you want to make Entei roam?
+TRADUCCION:
+
+[15|1|51|1]
+ORIGINAL: Entei is now roaming.
+TRADUCCION:
+
+[10|1|0|1]
+ORIGINAL: Choose a destination.
+TRADUCCION:
+[11|1|1|OPCIONES]
+ORIGINAL: Game Corner|Trainer area|Shadow Pokémon area
+TRADUCCION:
+
+[11|1|21|OPCIONES]
+ORIGINAL: Bridges map|Water map
+TRADUCCION:
+
+[11|1|35|OPCIONES]
+ORIGINAL: Harbor|Cycle Road|Cancel
+TRADUCCION:
+
+[6|1|2|OPCIONES]
+ORIGINAL: About the trainer|Map connections|Terrain Tags|Cancel
+TRADUCCION:
+
+[12|1|12|OPCIONES]
+ORIGINAL: Choice 1|Choice 2|Choice 3|Choice 4
+TRADUCCION:
+
+[12|1|26|OPCIONES]
+ORIGINAL: Choice 5|Choice 6
+TRADUCCION:
+
+[12|1|34|OPCIONES]
+ORIGINAL: Choice 7
+TRADUCCION:
+
+[12|1|49|OPCIONES]
+ORIGINAL: Choice 1|Choice 2|Choice 3|Choice 4
+TRADUCCION:
+
+[12|1|63|OPCIONES]
+ORIGINAL: Choice 5|Choice 6|Choice 7
+TRADUCCION:
+
+[12|1|82|OPCIONES]
+ORIGINAL: Choice 1|Choice 2|Choice 3|Choice 4
+TRADUCCION:
+
+[12|1|96|OPCIONES]
+ORIGINAL: Choice 5|Choice 6|Choice 7
+TRADUCCION:
+
+[12|1|134|OPCIONES]
+ORIGINAL: You won't see me!|The player is male|The player is female|Cancel
+TRADUCCION:
+
+[7|1|2|OPCIONES]
+ORIGINAL: Debug mode|Give all badges|Taking screenshots|Cancel
+TRADUCCION:
+
+[13|1|2|OPCIONES]
+ORIGINAL: Text colours|Text formatting|Insert text/in-line graphics|Graphic and info windows
+TRADUCCION:
+
+[13|1|46|OPCIONES]
+ORIGINAL: Message box appearance|Text speed and audio|Audio|Cancel
+TRADUCCION:
+
+[14|1|2|OPCIONES]
+ORIGINAL: What is your first Pokémon?|Is a Celebi in your party?|Give a Celebi|Cancel
+TRADUCCION:
+
+[15|1|2|OPCIONES]
+ORIGINAL: Latias/Latios|Kyogre|Entei|Cancel
+TRADUCCION:
+
+[15|1|10|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[15|1|29|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[15|1|48|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[10|1|1|OPCIONES]
+ORIGINAL: Poké Center|Poké Mart|Pokémon Gym|Day Care
+TRADUCCION:
+
+[10|1|27|OPCIONES]
+ORIGINAL: Cave|Safari Zone|Bug Catching Contest|Battle Frontier
+TRADUCCION:
+
+[10|1|53|OPCIONES]
+ORIGINAL: Cancel
+TRADUCCION:
+

@@ -1,0 +1,143 @@
+[16|1|0|1]
+ORIGINAL: Glimmerwood
+TRADUCCION:
+
+[5|1|1|1]
+ORIGINAL: \bLILLIGAAAAA!!!
+TRADUCCION:
+
+[11|1|2|1]
+ORIGINAL: \bHey hey, you look like you need a good battle!
+TRADUCCION:
+
+[11|2|0|1]
+ORIGINAL: \bIf you go north from here, you´ll get to Route 12.
+TRADUCCION:
+
+[12|1|2|1]
+ORIGINAL: \bWanna see my cool tricks?
+TRADUCCION:
+
+[12|2|0|2]
+ORIGINAL: \bYou should try to learn my tricks. They won´t help you in battle, but they´re great for parties!
+TRADUCCION:
+
+[36|1|3|2]
+ORIGINAL: \bArthur: Be honest with me, \PN, what´s going on with you and these Team Rocket guys?
+TRADUCCION:
+
+[36|1|5|3]
+ORIGINAL: \bI didn´t think that they were actually back, but the second that I want to do something about it, you´ve already removed them on your own.
+TRADUCCION:
+
+[36|1|8|2]
+ORIGINAL: \bYou were doing a Champion´s job before you made it to the league, no wonder I lost against you.
+TRADUCCION:
+
+[36|1|10|2]
+ORIGINAL: \bWould you mind telling me about everything that happened? Don´t worry, I have time.
+TRADUCCION:
+
+[36|1|16|3]
+ORIGINAL: \bWow, you are really brave. You faced a dangerous criminal organisation all on your own, without asking for help?!
+TRADUCCION:
+
+[36|1|19|2]
+ORIGINAL: \bSomething about you frightens me, you know? But now that I´m up to date, let me lend you a hand.
+TRADUCCION:
+
+[36|1|23|1]
+ORIGINAL: \bWHAT WAS THAT?!
+TRADUCCION:
+
+[36|1|24|1]
+ORIGINAL: \bOh, you´re saying that noise was Kyurem?
+TRADUCCION:
+
+[36|1|25|1]
+ORIGINAL: \bWait, let me put these pieces together real quick.
+TRADUCCION:
+
+[36|1|26|1]
+ORIGINAL: \bAha! I have a theory, so listen up!
+TRADUCCION:
+
+[36|1|27|3]
+ORIGINAL: \bYou said that you found your Z-Power Ring in Aurora Mountain, the same place where Kyurem was sealed?
+TRADUCCION:
+
+[36|1|30|1]
+ORIGINAL: \bAnd that the Icium Z was in that cave as well?
+TRADUCCION:
+
+[36|1|31|3]
+ORIGINAL: \bThis Anthony guy must´ve opened the true entrance to the Z-Crystal Cave, then. These Crystals are clearly linked to Kyurem.
+TRADUCCION:
+
+[36|1|34|2]
+ORIGINAL: \bAll of this seems to be connected, there is no other way.
+TRADUCCION:
+
+[36|1|36|3]
+ORIGINAL: \bKeldeo, Kyurem, the Swords of Justice, Genesect. Anthony knows something that we don´t, and that worries me.
+TRADUCCION:
+
+[36|1|39|1]
+ORIGINAL: \bOh no, oh nooooooo. Kyurem...
+TRADUCCION:
+
+[36|1|40|1]
+ORIGINAL: \bKyurem...
+TRADUCCION:
+
+[36|1|41|1]
+ORIGINAL: \bKyurem...
+TRADUCCION:
+
+[36|1|42|2]
+ORIGINAL: \bIf Kyurem is involved in all of this, then there are two Pokémon that will play a roll in this as well.
+TRADUCCION:
+
+[36|1|44|1]
+ORIGINAL: \bZekrom and Reshiram, the legendary dragons.
+TRADUCCION:
+
+[36|1|45|2]
+ORIGINAL: \bAnthony somehow got hold of Genesect, which was believed to be extinct.
+TRADUCCION:
+
+[36|1|47|3]
+ORIGINAL: \bI have a feeling that the true treasure of the Z-Crystal Cave aren´t the Crystals, but something much stronger.
+TRADUCCION:
+
+[36|1|50|3]
+ORIGINAL: \bLet me tell you my plan. I have a certain device that could help us in this situation, but you´ll have to catch Kyurem.
+TRADUCCION:
+
+[36|1|53|3]
+ORIGINAL: \bThe opening of the Z-Crystal Cave must have angered it, but that means you should be able to find it.
+TRADUCCION:
+
+[36|1|56|3]
+ORIGINAL: \bI want you to have my only Master Ball, because you need to catch Kyurem. I have a feeling that we need it.
+TRADUCCION:
+
+[36|1|60|1]
+ORIGINAL: \bWe´ll meet on Southside Beach. Good luck!
+TRADUCCION:
+
+[15|1|0|1]
+ORIGINAL: Uxie looks frightened.
+TRADUCCION:
+
+[15|1|1|1]
+ORIGINAL: It wants to battle!
+TRADUCCION:
+
+[15|1|3|1]
+ORIGINAL: \bXIEEE!!!
+TRADUCCION:
+
+[15|3|0|1]
+ORIGINAL: Uxie disappeared. Will it come back?
+TRADUCCION:

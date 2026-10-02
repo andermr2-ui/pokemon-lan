@@ -1,0 +1,279 @@
+[5|1|0|3]
+ORIGINAL: \bIsn´t the Day Care just great? This is my part-time job, and I basically get paid for playing with cute Pokémon. It´s all I ever wanted!
+TRADUCCION:
+
+[3|1|1|2]
+ORIGINAL: \rAh, there you are! My husband was looking for you.
+TRADUCCION:
+
+[3|1|8|2]
+ORIGINAL: \rI'm Day Care Laura. We can raise Pokémon for you.
+TRADUCCION:
+
+[3|1|10|1]
+ORIGINAL: \rWould you like us to raise your Pokémon?
+TRADUCCION:
+
+[3|1|14|1]
+ORIGINAL: \rOh? But you only have one Pokémon with you.
+TRADUCCION:
+
+[3|1|15|2]
+ORIGINAL: \rYou can't go off without a Pokémon. Come back another time.
+TRADUCCION:
+
+[3|1|20|1]
+ORIGINAL: \rWhich Pokémon should we raise for you?
+TRADUCCION:
+
+[3|1|23|1]
+ORIGINAL: \rOh, fine, then.\nCome again.
+TRADUCCION:
+
+[3|1|28|2]
+ORIGINAL: \rIf you leave me that Pokémon, what are you gonna battle with?
+TRADUCCION:
+
+[3|1|30|1]
+ORIGINAL: \rCome back another time.
+TRADUCCION:
+
+[3|1|35|1]
+ORIGINAL: \rFine, we'll raise your \v[3] for a while.
+TRADUCCION:
+
+[3|1|36|1]
+ORIGINAL: \rCome back for it later.
+TRADUCCION:
+
+[3|1|38|2]
+ORIGINAL: \rWe can raise two of your Pokémon. Would you like us to raise another?
+TRADUCCION:
+
+[3|1|43|1]
+ORIGINAL: \rOh? But you only have one Pokémon with you.
+TRADUCCION:
+
+[3|1|44|2]
+ORIGINAL: \rYou can't go off without a Pokémon. Come back another time.
+TRADUCCION:
+
+[3|1|49|1]
+ORIGINAL: \rWhich Pokémon should we raise for you?
+TRADUCCION:
+
+[3|1|52|1]
+ORIGINAL: \rVery good. Come again.
+TRADUCCION:
+
+[3|1|57|2]
+ORIGINAL: \rIf you leave me that Pokémon, what are you gonna battle with?
+TRADUCCION:
+
+[3|1|59|1]
+ORIGINAL: \rCome back another time.
+TRADUCCION:
+
+[3|1|64|2]
+ORIGINAL: \rThat Pokémon looks like it would rather stay with you.
+TRADUCCION:
+
+[3|1|66|1]
+ORIGINAL: \rCome back another time.
+TRADUCCION:
+
+[3|1|71|1]
+ORIGINAL: \rFine, we'll raise your \v[3] for a while.
+TRADUCCION:
+
+[3|1|72|1]
+ORIGINAL: \rCome back for it later.
+TRADUCCION:
+
+[3|1|79|1]
+ORIGINAL: \rVery good. Come again.
+TRADUCCION:
+
+[3|1|86|1]
+ORIGINAL: \rOh, fine, then.\nCome again.
+TRADUCCION:
+
+[3|1|91|2]
+ORIGINAL: \rAh, it's you! Good to see you. Now, about your Pokémon...
+TRADUCCION:
+
+[3|1|94|1]
+ORIGINAL: \rBy level, your \v[3] has grown by about \v[4].
+TRADUCCION:
+
+[3|1|98|1]
+ORIGINAL: \rBy level, your \v[3] has grown by about \v[4].
+TRADUCCION:
+
+[3|1|107|1]
+ORIGINAL: \rDo you want your Pokémon back?
+TRADUCCION:
+
+[3|1|112|2]
+ORIGINAL: \rYour Pokémon team is full. Make room, then come see me.
+TRADUCCION:
+
+[3|1|122|1]
+ORIGINAL: \rVery good. Come again.
+TRADUCCION:
+
+[3|1|127|1]
+ORIGINAL: \G\rIf you want your \v[3] back, it will cost $\v[4].
+TRADUCCION:
+
+[3|1|132|1]
+ORIGINAL: \G\rYou don't have enough money...
+TRADUCCION:
+
+[3|1|139|1]
+ORIGINAL: \G\rExcellent\nHere's your Pokémon.
+TRADUCCION:
+
+[3|1|140|1]
+ORIGINAL: \PN took \v[3] back from Day Care Laura.
+TRADUCCION:
+
+[3|1|142|1]
+ORIGINAL: \G\rDo you want to take back the other one, too?
+TRADUCCION:
+
+[3|1|148|1]
+ORIGINAL: \rVery good. Come again.
+TRADUCCION:
+
+[3|1|153|1]
+ORIGINAL: \rVery good. Come again.
+TRADUCCION:
+
+[3|1|158|1]
+ORIGINAL: \rVery good. Come again.
+TRADUCCION:
+
+[3|1|163|1]
+ORIGINAL: \rVery good. Come again.
+TRADUCCION:
+
+[4|1|1|1]
+ORIGINAL: \bAh, it's you!
+TRADUCCION:
+
+[4|1|2|2]
+ORIGINAL: \bWe were raising your Pokémon, and my goodness, were we surprised!
+TRADUCCION:
+
+[4|1|4|1]
+ORIGINAL: \bYour Pokémon was holding an Egg!
+TRADUCCION:
+
+[4|1|5|2]
+ORIGINAL: \bWe don't know how it got there, but your Pokémon had it.
+TRADUCCION:
+
+[4|1|7|1]
+ORIGINAL: \bYou do want it, don't you?
+TRADUCCION:
+
+[4|1|12|2]
+ORIGINAL: \bYou have no room for it right now... Come back when you've made room.
+TRADUCCION:
+
+[4|1|17|2]
+ORIGINAL: \me[Egg get]\PN received the Egg from Day Care Daniel.
+TRADUCCION:
+
+[4|1|19|1]
+ORIGINAL: \bYou take good care of it.
+TRADUCCION:
+
+[4|1|23|1]
+ORIGINAL: \bI really will keep it. You do want this Egg, yes?
+TRADUCCION:
+
+[4|1|29|1]
+ORIGINAL: \bWell all right then, I'll take it. Thank you.
+TRADUCCION:
+
+[4|1|30|1]
+ORIGINAL: \bThat is, I don't think we'll ever find another...
+TRADUCCION:
+
+[4|1|31|2]
+ORIGINAL: \bNo, no, I'm sure we'll find another one. I'm definitely sure of it!
+TRADUCCION:
+
+[4|1|42|1]
+ORIGINAL: \bI'm Day Care Daniel.
+TRADUCCION:
+
+[4|1|43|2]
+ORIGINAL: \bI help take care of the precious Pokémon of trainers.
+TRADUCCION:
+
+[4|1|45|2]
+ORIGINAL: \bAny Pokémon you'd like to have raised you can leave in my wife's care.
+TRADUCCION:
+
+[4|1|51|1]
+ORIGINAL: \bAh, it's you!\nGood to see you!
+TRADUCCION:
+
+[4|1|52|1]
+ORIGINAL: \bYour \v[3] is doing just fine.
+TRADUCCION:
+
+[4|1|59|1]
+ORIGINAL: \bAh, it's you!\nGood to see you!
+TRADUCCION:
+
+[4|1|60|1]
+ORIGINAL: \bYour \v[3] and \v[4] are doing just fine.
+TRADUCCION:
+
+[4|1|62|2]
+ORIGINAL: \bThe two play with other Pokémon rather than with each other...
+TRADUCCION:
+
+[4|1|67|1]
+ORIGINAL: \bThe two don't seem to like each other much.
+TRADUCCION:
+
+[4|1|71|1]
+ORIGINAL: \bThe two seem to get along.
+TRADUCCION:
+
+[4|1|75|1]
+ORIGINAL: \bThe two seem to get along very well.
+TRADUCCION:
+[3|1|11|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[3|1|40|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[3|1|108|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[3|1|128|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[3|1|143|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[4|1|8|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[4|1|24|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+

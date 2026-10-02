@@ -1,0 +1,15 @@
+[2|1|2|2]
+ORIGINAL: \bIf I open the fridge often enough, something good will appear.
+TRADUCCION:
+
+[3|1|0|2]
+ORIGINAL: \bHave you read "Fairy-Types and where they come from"? It´s an amazing book!
+TRADUCCION:
+
+[3|1|2|3]
+ORIGINAL: \bI´ve been asking the question why we only found out about the Fairy-Type recently for quite some time now.
+TRADUCCION:
+
+[3|1|5|2]
+ORIGINAL: \bI like the theories in the book, but they still don´t quite explain how this Type came to be.
+TRADUCCION:

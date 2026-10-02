@@ -1,0 +1,79 @@
+[5|1|2|2]
+ORIGINAL: \bI hope you had a good journey, because it ends right here!
+TRADUCCION:
+
+[5|2|0|2]
+ORIGINAL: \bYou´re mighty impressive. You might be good enough to handle Mega Evolutions...
+TRADUCCION:
+
+[12|1|0|1]
+ORIGINAL: It´s an ancient tomb. A dark aura is filling the air.
+TRADUCCION:
+
+[12|2|0|1]
+ORIGINAL: It´s an ancient tomb. A dark aura is filling the air.
+TRADUCCION:
+
+[12|2|2|1]
+ORIGINAL: The Delta Stone in your pocket just lit up!
+TRADUCCION:
+
+[12|2|3|1]
+ORIGINAL: An ominous creature is coming out of the tomb!
+TRADUCCION:
+
+[12|2|5|1]
+ORIGINAL: \bCHIEEEEEEN!!!
+TRADUCCION:
+
+[12|3|0|1]
+ORIGINAL: It´s an ancient tomb.
+TRADUCCION:
+
+[12|4|0|2]
+ORIGINAL: Wo-Chien returned to its tomb. Will it come out again?
+TRADUCCION:
+
+[12|5|0|1]
+ORIGINAL: It´s an ancient tomb. A dark aura is filling the air.
+TRADUCCION:
+
+[1|2|0|3]
+ORIGINAL: \b???: So this is the Dark Forest? It must be here. It just has to. This time no one will stop me. I will reach my goal, and then the Delta Region is mine!
+TRADUCCION:
+
+[7|1|0|2]
+ORIGINAL: \bOh my, your Pokémon look tired. Let´s give them some rest.
+TRADUCCION:
+
+[7|1|5|2]
+ORIGINAL: \bThere we go. Be careful out there, and thanks for stopping bye!
+TRADUCCION:
+
+[13|1|0|1]
+ORIGINAL: Zamazenta is staring at you.
+TRADUCCION:
+
+[13|1|2|1]
+ORIGINAL: It wants to battle!
+TRADUCCION:
+
+[13|1|4|1]
+ORIGINAL: \bZAAAAA!!!
+TRADUCCION:
+
+[13|3|0|1]
+ORIGINAL: Zamazenta disappeared. Will it come back?
+TRADUCCION:
+
+[14|1|0|1]
+ORIGINAL: Dark Forest
+TRADUCCION:
+
+[4|1|2|1]
+ORIGINAL: \bIsn´t Hiking a treat?
+TRADUCCION:
+
+[4|2|0|2]
+ORIGINAL: \bSomeone told me that a legendary Pokémon lives in the Dark Forest. I don´t know if that´s true though.
+TRADUCCION:

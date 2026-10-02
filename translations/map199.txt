@@ -1,0 +1,15 @@
+[1|1|2|1]
+ORIGINAL: \bI might be old, but my Pokémon are older!
+TRADUCCION:
+
+[1|2|0|3]
+ORIGINAL: \bAfter I found these fossils, I brought them to the Mistveil Institute. They managed to bring these Pokémon back to life!
+TRADUCCION:
+
+[1|2|3|2]
+ORIGINAL: \bBy the way, I actually have a second Helix Fossil, which I don´t need. Why don´t you take it?
+TRADUCCION:
+
+[1|3|0|2]
+ORIGINAL: \bIf you give a fossil to the guys at the Mistveil Institute, they will do their best to revive it.
+TRADUCCION:

@@ -1,0 +1,11 @@
+[1|1|1|1]
+ORIGINAL: \bBe careful out there. Route 8 can be tough.
+TRADUCCION:
+
+[1|1|6|3]
+ORIGINAL: \bI´m sorry, but I can´t let you through at the moment. Only those who have at least 4 Gym Badges are allowed to enter Route 8.
+TRADUCCION:
+
+[1|2|0|3]
+ORIGINAL: \bYou´re free to go. We implented this badge rule, because an alarming number of people got injured on Route 8. Please be careful!
+TRADUCCION:

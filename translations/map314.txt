@@ -1,0 +1,307 @@
+[28|1|0|1]
+ORIGINAL: Southside Beach Passage Way (Currently Closed)
+TRADUCCION:
+
+[50|1|2|2]
+ORIGINAL: \bWow, Crystal Harbor is a lot bigger than I thought. What a view!
+TRADUCCION:
+
+[45|1|0|1]
+ORIGINAL: \bIt´s time for our cruise! This will be great!
+TRADUCCION:
+
+[29|1|0|3]
+ORIGINAL: \bThe Southside Beach Passage Way is currently closed due to dangerous weather in the area. No one is allowed to go there.
+TRADUCCION:
+
+[29|1|4|2]
+ORIGINAL: \bHm? Why do you need to go there? Can´t you wait until it´s safe again?
+TRADUCCION:
+
+[29|1|6|2]
+ORIGINAL: \bOh, you´re the Champion? Ah, yeah I recognize you now. Your face was all over the news.
+TRADUCCION:
+
+[29|1|8|3]
+ORIGINAL: \bBecause you´re a very capable trainer, I´m willing to make an exception, but if anything happens to you, it´s not my fault.
+TRADUCCION:
+
+[51|1|0|3]
+ORIGINAL: \bI´m the owner of the Pikachu Fan Club. We had some fun times, but I´ve gotten too old and we were running out of members.
+TRADUCCION:
+
+[51|1|3|3]
+ORIGINAL: \bAfter 50 amazing years, I made the decision to disband the club and sell the house. I am still sad about it, but nothing lasts forever.
+TRADUCCION:
+
+[24|1|0|2]
+ORIGINAL: \bZeke: Oh, it´s you. Did you really come here just to say goodbye?
+TRADUCCION:
+
+[24|1|2|3]
+ORIGINAL: \bHm, thanks I guess. Ah, and congrats on becoming Champion. You know, it makes me feel a bit better to know that I lost against the Champ out of all people.
+TRADUCCION:
+
+[24|1|5|2]
+ORIGINAL: \bBut a loss is still a loss. I need to get onto the ship to Paldea very soon, and I´ll be gone for a while.
+TRADUCCION:
+
+[24|1|7|2]
+ORIGINAL: \bSeeing the world has been one of my top priorities for quite some time now, and it´s finally happening.
+TRADUCCION:
+
+[24|1|9|3]
+ORIGINAL: \bBefore I leave, I have something for you. This is a parting gift, as I don´t even know if we´ll meet again, and it is an apology.
+TRADUCCION:
+
+[24|1|12|3]
+ORIGINAL: \bWe never really got along too well, and that´s mostly my fault. I´m a jealous little bitch, and I need to change that.
+TRADUCCION:
+
+[24|1|15|1]
+ORIGINAL: \bSo please, take this.
+TRADUCCION:
+
+[24|1|30|3]
+ORIGINAL: \bI gave some of my Pokémon to the Day Care in Ambergrove, and when I went to pick them up, I also got an egg.
+TRADUCCION:
+
+[24|1|33|3]
+ORIGINAL: \bI think you know this Pokémon by now, and it is hard to find in the Delta Region. Maybe it will be of more use to you than it was to me...
+TRADUCCION:
+
+[24|1|36|1]
+ORIGINAL: \bAHHHH, I NEED TO GET ON THE SHIP!!!
+TRADUCCION:
+
+[24|1|37|1]
+ORIGINAL: \bSee ya, \PN!
+TRADUCCION:
+
+[24|1|46|1]
+ORIGINAL: There's no more room for Pokémon!
+TRADUCCION:
+
+[24|1|47|1]
+ORIGINAL: The Pokémon Boxes are full and can't accept any more!
+TRADUCCION:
+
+[46|1|0|1]
+ORIGINAL: \bYaaaaay! Big ship!
+TRADUCCION:
+
+[30|1|0|3]
+ORIGINAL: \bAnthony: I´ve already tried to convince the guard, but he won´t let me through. You gotta do this, I´m sorry.
+TRADUCCION:
+
+[30|2|0|3]
+ORIGINAL: \bAnthony: Okay, that worked. I hope you´re prepared, ´cause it´s gonna get rough on the other side!
+TRADUCCION:
+
+[25|1|13|2]
+ORIGINAL: \b???: Excuse me, does that thing on your arm happen to be a Z-Power Ring?
+TRADUCCION:
+
+[25|1|15|1]
+ORIGINAL: \bHm, so I was right. You´re from Alola, aren´t you?
+TRADUCCION:
+
+[25|1|16|2]
+ORIGINAL: \bHm?! You´re from Delta?! Then where did you get that ring from?!
+TRADUCCION:
+
+[25|1|18|2]
+ORIGINAL: \bOh, you wanna know who I am? Of course, how rude of me to not introduce myself.
+TRADUCCION:
+
+[25|1|20|3]
+ORIGINAL: \bI am Doctor Anthony Reed, but you can call me Anthony. I work for the Rotom AI Company here in Crystal Harbor.
+TRADUCCION:
+
+[25|1|23|2]
+ORIGINAL: \bAnthony: But back to my question, where did you get that ring from?
+TRADUCCION:
+
+[25|1|25|2]
+ORIGINAL: \bHm?! You found it in a secret chamber in Aurora Mountain?!
+TRADUCCION:
+
+[25|1|27|2]
+ORIGINAL: \bPlease, let me take a closer look at that ring. This is very fascinating, you know.
+TRADUCCION:
+
+[25|1|36|1]
+ORIGINAL: \bHm, yes, this is indeed fascinating.
+TRADUCCION:
+
+[25|1|44|3]
+ORIGINAL: \bYou´re the first person that I´ve met in the Delta Region with a Z-Power Ring. Not only that, but this one is different from the ones in Alola.
+TRADUCCION:
+
+[25|1|47|3]
+ORIGINAL: \bWhen I visited Alola a few years ago, I was researching Z-Power and the use of powerful Z-Moves.
+TRADUCCION:
+
+[25|1|50|2]
+ORIGINAL: \bNone of my results had scientific relevance, so I gave up on my research.
+TRADUCCION:
+
+[25|1|52|2]
+ORIGINAL: \bBut what I´m seeing here is making me wanna study Z-Power all over again!
+TRADUCCION:
+
+[25|1|54|2]
+ORIGINAL: \bLet me tell you what´s special about that ring. Unlike the Z-Rings used in Alola, yours is ancient.
+TRADUCCION:
+
+[25|1|56|2]
+ORIGINAL: \bIt looks modern at first glance, but it´s not build with today´s technology.
+TRADUCCION:
+
+[25|1|58|1]
+ORIGINAL: \bTHIS CHANGES EVERYTHING!!!
+TRADUCCION:
+
+[25|1|59|1]
+ORIGINAL: \bPlease, meet me at the Rotom AI Company.
+TRADUCCION:
+
+[25|1|60|2]
+ORIGINAL: \bIt´s the building with the large antennas on the roof, the one right behind me.
+TRADUCCION:
+
+[25|1|62|3]
+ORIGINAL: \bTogether, we can help each other. You can add to my research with that ring of yours, and I can make you a strong trainer...
+TRADUCCION:
+
+[25|1|65|1]
+ORIGINAL: \bBut wait...
+TRADUCCION:
+
+[25|1|66|1]
+ORIGINAL: \bYou´re the new Champion, aren´t you?!
+TRADUCCION:
+
+[25|1|67|2]
+ORIGINAL: \bHaha, that´s even better! If you want to help me out, I´m waiting for you. Until then!
+TRADUCCION:
+
+[47|1|0|2]
+ORIGINAL: \bI always get seasick on ships, but I´m doing this for my son and my wife.
+TRADUCCION:
+
+[42|1|0|3]
+ORIGINAL: \bDo you know that feeling when your vacation is about to end, and you´re trying to take it all in one last time? That´s what I´m going through right now.
+TRADUCCION:
+
+[42|1|3|3]
+ORIGINAL: \bWell, at least it was a fun vacation! The one thing that would´ve made it perfect is a Kantonian Raichu. I really want one, because they´re sooo cute!
+TRADUCCION:
+
+[42|1|6|2]
+ORIGINAL: \bYou don´t happen to have a Kantonian Raichu that you´d be willing to trade for my Alolan Raichu?
+TRADUCCION:
+
+[42|1|17|1]
+ORIGINAL: \bYou don't want to trade?  Aww...
+TRADUCCION:
+
+[42|1|20|1]
+ORIGINAL: \bWow, you actually have one!
+TRADUCCION:
+
+[42|1|21|1]
+ORIGINAL: \bOK, let's get started.
+TRADUCCION:
+
+[42|1|26|1]
+ORIGINAL: \PN traded Raichu for Raichu!
+TRADUCCION:
+
+[42|1|27|3]
+ORIGINAL: \bThank you so much! You really made my day! Actually, because you helped me out, I want you to have this.
+TRADUCCION:
+
+[42|1|31|1]
+ORIGINAL: \bOnce again, thanks for helping me. Take care!
+TRADUCCION:
+
+[42|1|37|1]
+ORIGINAL: \bYeah, that would´ve been a miracle.
+TRADUCCION:
+
+[42|2|0|1]
+ORIGINAL: \bThanks for trading with me!
+TRADUCCION:
+
+[31|2|0|3]
+ORIGINAL: \bPlease be careful on Southside Beach. Before we closed the Passage Way, there were several casualties.
+TRADUCCION:
+
+[26|2|1|3]
+ORIGINAL: \bAnthony: Ah, there you are. I hope you learned something new today, as a Champion should know how things work in our world.
+TRADUCCION:
+
+[26|2|4|3]
+ORIGINAL: \bStatistically speaking, I´m cooked. You should win this battle with ease, but I´m willing to let the experiment speak for itself.
+TRADUCCION:
+
+[26|2|7|1]
+ORIGINAL: \bLet´s begin!
+TRADUCCION:
+
+[26|2|9|2]
+ORIGINAL: \bAnthony: Yup, that was the expected result. Thanks for giving me this opportunity.
+TRADUCCION:
+
+[26|2|11|3]
+ORIGINAL: \bAfter all, only very few people actually get to battle the Champion. But it´s time to tell you about my plan now.
+TRADUCCION:
+
+[26|2|14|3]
+ORIGINAL: \bThe hidden entrance to the Z-Crystal Cave is supposed to be somewhere on Southside Beach, which is a problem.
+TRADUCCION:
+
+[26|2|17|3]
+ORIGINAL: \bEven if the cave is there, and even if we found the entrance, Southside Beach isn´t as pleasent as it sounds.
+TRADUCCION:
+
+[26|2|20|3]
+ORIGINAL: \bThe weather on that beach has been going crazy for quite a while now, and no one knows the reason why.
+TRADUCCION:
+
+[26|2|23|2]
+ORIGINAL: \bThere´re thunderstorms, sandstorms and blizzards all on one beach, and no one is allowed to go there.
+TRADUCCION:
+
+[26|2|25|2]
+ORIGINAL: \bIt has gotten so bad that Route 14 and Southford have been cut off from the rest of the region.
+TRADUCCION:
+
+[26|2|27|2]
+ORIGINAL: \bEmergency supplies have been brought to that town, and the people have been told to stay inside.
+TRADUCCION:
+
+[26|2|29|3]
+ORIGINAL: \bThere are guards at the Southside Beach Passage Way, and they let no one through. The only person that they might allow through is you!
+TRADUCCION:
+
+[26|2|32|3]
+ORIGINAL: \bIf you´re ready for an adventure, then follow me to the passage way. This could get dangerous, but that has never stopped us scientists!
+TRADUCCION:
+
+[37|1|0|1]
+ORIGINAL: Rotom AI Company
+TRADUCCION:
+
+[48|1|0|3]
+ORIGINAL: \bHey, do you need anyone to do a job for you? Then head inside the Freelancer Agency. I´m a freelancer myself, and we´re always in need of new jobs.
+TRADUCCION:
+
+[43|1|0|1]
+ORIGINAL: Pikachu Fan Club (Now disbanded)
+TRADUCCION:
+[42|1|8|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+

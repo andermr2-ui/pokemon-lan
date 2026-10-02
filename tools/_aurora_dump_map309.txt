@@ -1,0 +1,3 @@
+=== map309 ===
+ev2 pg0 [2]: "\\bI got nothing to play..."
+ev3 pg0 [2]: "\\bI got nothing to wear..."

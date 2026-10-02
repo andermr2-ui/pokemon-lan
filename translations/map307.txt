@@ -1,0 +1,7 @@
+[2|1|0|1]
+ORIGINAL: \bOh no, I knocked over the book shelf!
+TRADUCCION:
+
+[2|1|1|1]
+ORIGINAL: \bMom´s gonna kill me when she comes home...
+TRADUCCION:

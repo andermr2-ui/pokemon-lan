@@ -1,0 +1,223 @@
+[5|1|2|1]
+ORIGINAL: \bDid I notice you, or did you notice me?
+TRADUCCION:
+
+[5|1|6|2]
+ORIGINAL: \bShall we exchange numbers, so we can have a rematch?
+TRADUCCION:
+
+[5|2|1|1]
+ORIGINAL: \bLet's have a rematch!
+TRADUCCION:
+
+[5|3|1|1]
+ORIGINAL: \bI'll get even stronger, and beat you next time!
+TRADUCCION:
+
+[5|3|5|1]
+ORIGINAL: \bI don't think I'll ever be able to beat you.
+TRADUCCION:
+
+[5|3|9|2]
+ORIGINAL: \bShall we exchange numbers, so we can have a rematch?
+TRADUCCION:
+
+[16|1|22|1]
+ORIGINAL: \rI'll wait here, then.
+TRADUCCION:
+
+[11|1|1|2]
+ORIGINAL: \rYou'll need at least two Pokémon or a partner if you want to battle us.
+TRADUCCION:
+
+[11|1|7|1]
+ORIGINAL: \rAh, looks like a challenging trainer. Ready, Bob?
+TRADUCCION:
+
+[11|2|0|3]
+ORIGINAL: \rOur events weren't created by comments, because we need to check how many Pokémon you had.
+TRADUCCION:
+
+[44|2|5|1]
+ORIGINAL: \rDo you want to team up with me again?
+TRADUCCION:
+
+[44|2|30|1]
+ORIGINAL: \PN teamed up with May!\me[Item get]\wtnp[40]
+TRADUCCION:
+
+[44|2|40|1]
+ORIGINAL: \rOK then.
+TRADUCCION:
+
+[6|1|2|1]
+ORIGINAL: \rBattle me now!
+TRADUCCION:
+
+[6|1|8|1]
+ORIGINAL: \rCan I add you to my contacts list?
+TRADUCCION:
+
+[6|2|1|1]
+ORIGINAL: \rBattle me now!
+TRADUCCION:
+
+[6|3|1|2]
+ORIGINAL: \rI say the same thing after every battle. Why? Just because.
+TRADUCCION:
+
+[6|3|6|2]
+ORIGINAL: \rI say the same thing after every battle. Why? Just because.
+TRADUCCION:
+
+[6|3|11|1]
+ORIGINAL: \rCan I add you to my contacts list?
+TRADUCCION:
+
+[28|1|1|2]
+ORIGINAL: Something unseeable is in the way. Want to use the Silph Scope?
+TRADUCCION:
+
+[28|1|13|2]
+ORIGINAL: Something unseeable is in the way. Want to use the Devon Scope?
+TRADUCCION:
+
+[28|1|24|1]
+ORIGINAL: Something unseeable is in the way.
+TRADUCCION:
+
+[28|1|31|1]
+ORIGINAL: The invisible Pokémon became completely visible!
+TRADUCCION:
+
+[28|1|32|1]
+ORIGINAL: The startled Pokémon attacked!
+TRADUCCION:
+
+[12|1|1|2]
+ORIGINAL: \bYou'll need at least two Pokémon or a partner if you want to battle us.
+TRADUCCION:
+
+[12|1|7|1]
+ORIGINAL: \bAh, looks like a challenging trainer. Ready, Alice?
+TRADUCCION:
+
+[12|2|0|3]
+ORIGINAL: \bOur events weren't created by comments, because we need to check how many Pokémon you had.
+TRADUCCION:
+
+[7|1|2|1]
+ORIGINAL: \rI've brought my own special backdrop!
+TRADUCCION:
+
+[7|2|0|2]
+ORIGINAL: \rIf exactly 2 trainers notice you at the same time, they become a double battle.
+TRADUCCION:
+
+[7|2|2|3]
+ORIGINAL: \rHere, though, 3 trainers noticed you at once, so I battled you by myself. Then the 2 remaining trainers noticing you at the same time became a double battle.
+TRADUCCION:
+
+[7|2|5|3]
+ORIGINAL: \rI battled you first because my event's ID number (7) comes before the Hiker's and Fisherman's event ID numbers (8 and 9).
+TRADUCCION:
+
+[13|1|0|1]
+ORIGINAL: \rDo you want to team up with me?
+TRADUCCION:
+
+[13|1|25|1]
+ORIGINAL: \PN teamed up with May!\me[Item get]\wtnp[40]
+TRADUCCION:
+
+[13|1|28|1]
+ORIGINAL: \rOK then.
+TRADUCCION:
+
+[8|1|2|1]
+ORIGINAL: \bThis battle will go without a hitch!
+TRADUCCION:
+
+[8|2|0|1]
+ORIGINAL: \bHow did you manage to face all three of us?
+TRADUCCION:
+
+[9|1|2|1]
+ORIGINAL: \bI'll get my tackle out for you!
+TRADUCCION:
+
+[9|2|0|2]
+ORIGINAL: \bI don't understand why my Magikarp couldn't beat you.
+TRADUCCION:
+
+[15|1|24|1]
+ORIGINAL: \bHi \PN! I'm your Rival!
+TRADUCCION:
+
+[15|1|25|2]
+ORIGINAL: \bDo you want to name me, or leave me with my default name as defined in trainers.txt?
+TRADUCCION:
+
+[15|1|36|1]
+ORIGINAL: \bSo my name is \v[12], huh? Okay then.
+TRADUCCION:
+
+[15|1|42|1]
+ORIGINAL: \bLet's get down to the battle!
+TRADUCCION:
+
+[15|1|69|1]
+ORIGINAL: \bI'm going to leave now. Smell you later!
+TRADUCCION:
+
+[4|1|2|1]
+ORIGINAL: \bHi! I like shorts! They're comfy and easy to wear!
+TRADUCCION:
+
+[4|2|0|1]
+ORIGINAL: \bYou can't get a trainer event simpler than me!
+TRADUCCION:
+
+[10|1|2|1]
+ORIGINAL: \rGet ready for a double battle!
+TRADUCCION:
+
+[10|2|0|2]
+ORIGINAL: \rMake sure all double battle opponents have at least 2 Pokémon!
+TRADUCCION:
+[5|1|8|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[5|3|11|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[44|2|6|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[6|1|9|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[6|3|12|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[28|1|3|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[28|1|15|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[13|1|1|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[15|1|27|OPCIONES]
+ORIGINAL: Rename|Cancel
+TRADUCCION:
+

@@ -1,0 +1,55 @@
+[2|1|4|1]
+ORIGINAL: \bAhoy, there!\nWhere do you want to sail?
+TRADUCCION:
+
+[2|1|7|1]
+ORIGINAL: \bThe Tiall Region it is. All aboard!
+TRADUCCION:
+
+[2|1|28|1]
+ORIGINAL: \bBerth Island it is. All aboard!
+TRADUCCION:
+
+[2|1|50|1]
+ORIGINAL: \bFaraday Island it is. All aboard!
+TRADUCCION:
+
+[2|1|72|1]
+ORIGINAL: \bLet me know if you want to set sail.
+TRADUCCION:
+
+[3|1|1|2]
+ORIGINAL: \bI've already given you an Aurora Ticket. Have you gone to Berth Island yet?
+TRADUCCION:
+
+[3|1|5|1]
+ORIGINAL: \bHere, have this Aurora Ticket.
+TRADUCCION:
+
+[3|1|7|1]
+ORIGINAL: \bYou can use that to sail to Berth Island.
+TRADUCCION:
+
+[3|1|10|1]
+ORIGINAL: \bOh, you don't have any space in your Bag for it.
+TRADUCCION:
+
+[4|1|1|2]
+ORIGINAL: \bI've already given you an Old Sea Map. Have you gone to Faraday Island yet?
+TRADUCCION:
+
+[4|1|5|1]
+ORIGINAL: \bHere, have this Old Sea Map.
+TRADUCCION:
+
+[4|1|7|1]
+ORIGINAL: \bYou can use that to sail to Faraday Island.
+TRADUCCION:
+
+[4|1|10|1]
+ORIGINAL: \bOh, you don't have any space in your Bag for it.
+TRADUCCION:
+[2|1|5|OPCIONES]
+ORIGINAL: Tiall Region|Berth Island|Faraday Island|Exit
+TRADUCCION:
+

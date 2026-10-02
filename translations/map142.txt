@@ -1,0 +1,95 @@
+[5|1|0|1]
+ORIGINAL: It´s the grave of a Pokémon.
+TRADUCCION:
+
+[16|1|0|1]
+ORIGINAL: It´s the grave of a Pokémon.
+TRADUCCION:
+
+[11|1|0|1]
+ORIGINAL: It´s the grave of a Pokémon.
+TRADUCCION:
+
+[6|1|0|1]
+ORIGINAL: It´s the grave of a Pokémon.
+TRADUCCION:
+
+[12|1|0|1]
+ORIGINAL: It´s the grave of a Pokémon.
+TRADUCCION:
+
+[1|1|0|1]
+ORIGINAL: It´s the grave of a Pokémon called Marshadow.
+TRADUCCION:
+
+[1|2|0|1]
+ORIGINAL: It´s the grave of a Pokémon called Marshadow.
+TRADUCCION:
+
+[1|2|2|1]
+ORIGINAL: The Delta Stone in your pocket just lit up!
+TRADUCCION:
+
+[1|2|3|1]
+ORIGINAL: Something powerful is approaching!
+TRADUCCION:
+
+[1|2|5|1]
+ORIGINAL: \bMARSHAAAAA!!!
+TRADUCCION:
+
+[1|3|0|1]
+ORIGINAL: It´s the grave of a Pokémon called Marshadow.
+TRADUCCION:
+
+[1|4|0|1]
+ORIGINAL: Marshadow disappeared. Will it come back?
+TRADUCCION:
+
+[1|5|0|1]
+ORIGINAL: It´s the grave of a Pokémon called Marshadow.
+TRADUCCION:
+
+[18|1|2|1]
+ORIGINAL: \bOh my little Umbreon, may you rest in peace...
+TRADUCCION:
+
+[7|1|0|1]
+ORIGINAL: It´s the grave of a Pokémon.
+TRADUCCION:
+
+[2|1|0|1]
+ORIGINAL: It´s the grave of a Pokémon.
+TRADUCCION:
+
+[13|1|0|1]
+ORIGINAL: It´s the grave of a Pokémon.
+TRADUCCION:
+
+[8|1|0|1]
+ORIGINAL: It´s the grave of a Pokémon.
+TRADUCCION:
+
+[3|1|0|1]
+ORIGINAL: It´s the grave of a Pokémon.
+TRADUCCION:
+
+[14|1|0|1]
+ORIGINAL: It´s the grave of a Pokémon.
+TRADUCCION:
+
+[9|1|0|1]
+ORIGINAL: It´s the grave of a Pokémon.
+TRADUCCION:
+
+[4|1|0|1]
+ORIGINAL: It´s the grave of a Pokémon.
+TRADUCCION:
+
+[15|1|0|1]
+ORIGINAL: It´s the grave of a Pokémon.
+TRADUCCION:
+
+[10|1|0|1]
+ORIGINAL: It´s the grave of a Pokémon.
+TRADUCCION:

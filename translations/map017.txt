@@ -1,0 +1,7 @@
+[4|1|0|2]
+ORIGINAL: \sign[signskin]Express yourself with gifts!\n4F: Wise Man Gifts
+TRADUCCION:
+
+[4|1|2|2]
+ORIGINAL: \sign[signskin]Evolution Special!\nElement Stones on sale now!
+TRADUCCION:

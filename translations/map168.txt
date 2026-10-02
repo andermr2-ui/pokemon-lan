@@ -1,0 +1,39 @@
+[5|1|2|1]
+ORIGINAL: \bLooks like it´s time to break some waves!
+TRADUCCION:
+
+[5|2|0|3]
+ORIGINAL: \bThe many rocks in this area turned Crystal Beach into a lagoon. That´s why so many tourists come here.
+TRADUCCION:
+
+[6|1|0|1]
+ORIGINAL: It´s a Pokémon Statue dedicated to Latios.
+TRADUCCION:
+
+[6|2|0|1]
+ORIGINAL: It´s a Pokémon Statue dedicated to Latios.
+TRADUCCION:
+
+[6|2|2|1]
+ORIGINAL: The Delta Stone in your pocket just lit up!
+TRADUCCION:
+
+[6|2|3|1]
+ORIGINAL: Something powerful is approaching!
+TRADUCCION:
+
+[6|2|5|1]
+ORIGINAL: \bTIOOOS!!!
+TRADUCCION:
+
+[6|3|0|1]
+ORIGINAL: It´s a Pokémon Statue dedicated to Latios.
+TRADUCCION:
+
+[6|4|0|1]
+ORIGINAL: Latios disappeared. Will it come back?
+TRADUCCION:
+
+[6|5|0|1]
+ORIGINAL: It´s a Pokémon Statue dedicated to Latios.
+TRADUCCION:

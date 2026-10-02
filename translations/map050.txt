@@ -1,0 +1,27 @@
+[3|1|0|3]
+ORIGINAL: When pushing a boulder down a hole, make sure it doesn't appear in the same place as the player does when they drop down.
+TRADUCCION:
+
+[4|1|0|1]
+ORIGINAL: \bHello! I'm the Ruin Maniac!
+TRADUCCION:
+
+[4|1|1|1]
+ORIGINAL: \bDo you want to dig for buried treasure?
+TRADUCCION:
+
+[4|1|4|1]
+ORIGINAL: \bGrand! Let's dig into this wall.
+TRADUCCION:
+
+[4|1|22|1]
+ORIGINAL: \bNo? Alright then.
+TRADUCCION:
+
+[4|1|25|3]
+ORIGINAL: \bWhen using this mining minigame, it is recommended that you limit how often the player can play it, to prevent them gaining lots of items for free.
+TRADUCCION:
+[4|1|2|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+

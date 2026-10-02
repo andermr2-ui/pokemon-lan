@@ -1,0 +1,59 @@
+[1|1|2|2]
+ORIGINAL: \bAzura: Hello land-dweller, I am Azura. You should run for cover, because a tsunami is coming!
+TRADUCCION:
+
+[1|1|5|3]
+ORIGINAL: \me[Badge get]\bGood job land-dweller. I award you with the Pool Badge.\wtnp[110]
+TRADUCCION:
+
+[1|1|10|1]
+ORIGINAL: \bAnd I also want you to have this.
+TRADUCCION:
+
+[1|1|12|3]
+ORIGINAL: \bAzura: This TM cointains Brine, a very useful move if you need to finish of a dangerous Pokémon. Oh, and you can now use Rock Smash outside of battle.
+TRADUCCION:
+
+[1|1|15|3]
+ORIGINAL: \bThe way back through Iron Mountain should be no problem for you, but I recommend to take a look around Silver Peak as well. Bye!
+TRADUCCION:
+
+[1|2|0|3]
+ORIGINAL: \bAzura: Our local market sells special objects that you need in order to evolve some Pokémon. Make sure to check it out.
+TRADUCCION:
+
+[1|3|1|3]
+ORIGINAL: \bAzura: Ah, welcome back. I heard that you stopped Team Rocket, my grandmother told me. Thank you for putting an end to that organisation.
+TRADUCCION:
+
+[1|3|4|3]
+ORIGINAL: \bBut we´re not here to rant about those fools. The last time you were here, you managed to stay afloat against my official Gym Challenge team.
+TRADUCCION:
+
+[1|3|7|2]
+ORIGINAL: \bNow that you´re the Champion, I want to have a battle at full force! Are you ready? Don´t drown!
+TRADUCCION:
+
+[1|3|10|3]
+ORIGINAL: \bAzura: It looks like it doesn´t matter what you´re up against, you´ll crush every opponent that dares to challenge you.
+TRADUCCION:
+
+[1|3|13|2]
+ORIGINAL: \bEven Arthur must´ve been overwhelmed by your strength, and that has never happened before.
+TRADUCCION:
+
+[1|3|15|3]
+ORIGINAL: \bI hope I gave you a good battle, land-dweller. When was the last time that I struggled like this? Hm, that doesn´t matter now.
+TRADUCCION:
+
+[1|3|18|1]
+ORIGINAL: \bHave fun on your future adventures. Bye!
+TRADUCCION:
+
+[1|4|0|2]
+ORIGINAL: \bAzura: I wanna travel to Alola again, it´s the best place to go for a swim.
+TRADUCCION:
+
+[1|4|2|3]
+ORIGINAL: \bMy sister needs to pass the Gym Leader registration exam so I can get a few days off. That´s the only way for me to get back to Alola...
+TRADUCCION:

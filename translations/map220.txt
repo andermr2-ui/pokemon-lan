@@ -1,0 +1,51 @@
+[5|1|1|2]
+ORIGINAL: \bAre my eyes deceiving me? Are you the worthy trainer that we have been waiting for?
+TRADUCCION:
+
+[5|1|3|3]
+ORIGINAL: \bI am the last obstacle between you and the treasure. This is the final test to see if you´re truly worthy. Time to battle!
+TRADUCCION:
+
+[5|2|0|3]
+ORIGINAL: \bI am fully convinced now. You are worthy of claiming the treasure. Katsuro must have seen that you´re special.
+TRADUCCION:
+
+[5|2|3|2]
+ORIGINAL: \bYou were the first trainer to even get this opportunity, and you made the best of it.
+TRADUCCION:
+
+[5|2|5|2]
+ORIGINAL: \bPlease, go ahead and take the treasure. You have earned it.
+TRADUCCION:
+
+[6|1|0|2]
+ORIGINAL: \bWe don´t know what exactly the treasure is, but don´t worry, you won´t be disappointed.
+TRADUCCION:
+
+[1|1|1|3]
+ORIGINAL: \bWhat? Katsuro let you through? A kid is supposed to be worthy enough to claim the treasure? Well, I trust Katsuro, so show me what you got!
+TRADUCCION:
+
+[1|2|0|3]
+ORIGINAL: \bI am impressed. Defeating us elders might not be the most difficult thing for an experienced trainer, but the way that you battle is special.
+TRADUCCION:
+
+[1|2|3|1]
+ORIGINAL: \bI think I can let you through.
+TRADUCCION:
+
+[2|1|0|2]
+ORIGINAL: \bYou have what it takes to claim the treasure. Go ahead and convince the others.
+TRADUCCION:
+
+[3|1|1|3]
+ORIGINAL: \bOh, welcome. We have waited a long time, and it looks like a worthy trainer might finally be upon us. Well then, convince me to let you through!
+TRADUCCION:
+
+[3|2|0|3]
+ORIGINAL: \bI can see why the others let you through. If you keep this up, then the treasure will be yours. You can go ahead.
+TRADUCCION:
+
+[4|1|0|2]
+ORIGINAL: \bYou need to prove your worth one last time, and then you´ve made it.
+TRADUCCION:

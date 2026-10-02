@@ -1,0 +1,31 @@
+[2|1|2|2]
+ORIGINAL: \bI´m only here because this job pays well. And I work hard for my money!
+TRADUCCION:
+
+[2|2|0|2]
+ORIGINAL: \bDon´t judge me, okay? People have done worse things for money.
+TRADUCCION:
+
+[3|1|3|2]
+ORIGINAL: \bNyssa: Hey, \PN, it´s good to see you. What did you do in there with these Team Rocket guys?
+TRADUCCION:
+
+[3|1|5|3]
+ORIGINAL: \bWhat? Their leader caught a Keldeo?! Isn´t that this mythical Pokémon? The one that some call the protector of this region?
+TRADUCCION:
+
+[3|1|8|3]
+ORIGINAL: \bYou need to go after these guys. It looked like one of them was headed for Relic Cave. Please, this has me really worried.
+TRADUCCION:
+
+[3|1|11|2]
+ORIGINAL: \bI need to go back to the Gym now. Please be careful!
+TRADUCCION:
+
+[4|1|2|2]
+ORIGINAL: \bIf you want to see the boss, you´ll have to work for it!
+TRADUCCION:
+
+[4|2|0|1]
+ORIGINAL: \bGo ahead. But don´t do anything stupid!
+TRADUCCION:

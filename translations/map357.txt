@@ -1,0 +1,107 @@
+[2|1|5|3]
+ORIGINAL: \bCynthia: Oh, sorry, let me turn off my theme first. It always starts playing when someone enters this place, and I don´t know why.
+TRADUCCION:
+
+[2|1|9|1]
+ORIGINAL: \bAlright, there we go.
+TRADUCCION:
+
+[2|1|10|3]
+ORIGINAL: \bIt´s great to finally meet you! I´ve heard a lot of stories about you, and now I can finally see what all the fuzz is about!
+TRADUCCION:
+
+[2|1|13|1]
+ORIGINAL: \bHere we go!
+TRADUCCION:
+
+[2|1|14|3]
+ORIGINAL: \bOh, sorry, I don´t even want to battle you right now, that´s just a force of habit. I have a plan that´s much more exciting than a simple battle!
+TRADUCCION:
+
+[2|1|17|3]
+ORIGINAL: \bHave you heard of Ruin Island before? It´s north of Eastern Beach, and it´s said to be a sacred place dedicated to the gods of time and space.
+TRADUCCION:
+
+[2|1|20|2]
+ORIGINAL: \bA few years ago, back in Sinnoh, I met these gods, but under unfortunate circumstances.
+TRADUCCION:
+
+[2|1|22|2]
+ORIGINAL: \bI want to meet them again, but without the world being at stake.
+TRADUCCION:
+
+[2|1|24|3]
+ORIGINAL: \bI know that the Lake Trio has been spotted in the Delta Region. I´d be great if you could go and catch them.
+TRADUCCION:
+
+[2|1|27|2]
+ORIGINAL: \bOnce you´ve managed to do so, meet me at Ruin Island.
+TRADUCCION:
+
+[2|1|29|2]
+ORIGINAL: \bThe Lake Trio has been spotted on Route 2, Route 8 and Route 9, and I´m sure you´ll find them.
+TRADUCCION:
+
+[2|1|31|1]
+ORIGINAL: \bAlright, see you soon!
+TRADUCCION:
+
+[2|2|0|2]
+ORIGINAL: \bCynthia: Meet me at Ruin Island once you´ve caught the Lake Trio.
+TRADUCCION:
+
+[2|4|0|3]
+ORIGINAL: \bCynthia: Once again, thank you for your help. And in case you should somehow catch these gods, then these will be useful for you.
+TRADUCCION:
+
+[2|4|6|3]
+ORIGINAL: \bThese ancient relics can drastically boost the power of Dialga, Palkia and Giratina. If they weren´t strong enough already...
+TRADUCCION:
+
+[2|4|9|3]
+ORIGINAL: \bThere are three similiar relics somewhere on these islands, and these are able to change the form of the Dimension Trio.
+TRADUCCION:
+
+[2|4|12|2]
+ORIGINAL: \bDialga and Palkia have an Origin Form like Giratina, which can only be brought back with these relics.
+TRADUCCION:
+
+[2|4|14|2]
+ORIGINAL: \bSimiliarly, Giratina´s Origin Form can only be seen outside the Distortion World with the relic.
+TRADUCCION:
+
+[2|4|16|1]
+ORIGINAL: \bI´m sure you´ll find them. Bye!
+TRADUCCION:
+
+[2|5|0|1]
+ORIGINAL: \bCynthia: We´ll have a battle one day, I´m sure of it.
+TRADUCCION:
+
+[2|6|0|1]
+ORIGINAL: \bCynthia: Hm, what is it?
+TRADUCCION:
+
+[2|6|1|2]
+ORIGINAL: \bOh, you´re here to invite me to the World Championship Tournament?
+TRADUCCION:
+
+[2|6|3|1]
+ORIGINAL: \bThat´s very kind of you.
+TRADUCCION:
+
+[2|6|4|3]
+ORIGINAL: \bOh, and of course I´ll join. I´m still upset that I didn´t win the tournament one year ago, but this time I´ll defeat all of you!
+TRADUCCION:
+
+[2|6|7|1]
+ORIGINAL: \bI guess I´ll see you in Riverstone, bye!
+TRADUCCION:
+
+[2|7|0|2]
+ORIGINAL: \bCynthia: I´m really looking forward to the tournament. Let´s have some awesome battles!
+TRADUCCION:
+
+[2|8|0|3]
+ORIGINAL: \bCynthia: Damn, I really thought this would be my year. But either way, congratulations on becoming World Champion, you really deserve it!
+TRADUCCION:

@@ -1,0 +1,155 @@
+[5|1|0|1]
+ORIGINAL: Dialga is unbothered.
+TRADUCCION:
+
+[5|2|0|1]
+ORIGINAL: Dialga is staring at you.
+TRADUCCION:
+
+[5|2|2|1]
+ORIGINAL: It wants to battle!
+TRADUCCION:
+
+[5|2|4|1]
+ORIGINAL: \bDIAAA!!!
+TRADUCCION:
+
+[5|4|0|1]
+ORIGINAL: Dialga returned to its dimension. Will it come back?
+TRADUCCION:
+
+[6|1|0|1]
+ORIGINAL: Palkia is unbothered.
+TRADUCCION:
+
+[6|2|0|1]
+ORIGINAL: Palkia is staring at you.
+TRADUCCION:
+
+[6|2|2|1]
+ORIGINAL: It wants to battle!
+TRADUCCION:
+
+[6|2|4|1]
+ORIGINAL: \bPAAAL!!!
+TRADUCCION:
+
+[6|4|0|1]
+ORIGINAL: Palkia returned to its dimension. Will it come back?
+TRADUCCION:
+
+[12|1|0|3]
+ORIGINAL: \c[6]???: Welcome, child. I am Arceus. You humans also call me God. But please, let me take a closer look at you.
+TRADUCCION:
+
+[12|1|4|3]
+ORIGINAL: \c[6]Arceus: How fascinating. Your kind has developed much further than I ever would´ve imagined.
+TRADUCCION:
+
+[12|1|7|3]
+ORIGINAL: \c[6]I might have come up with Pokémon and humans, but I wouldn´t have been able to create all of these amazing things.
+TRADUCCION:
+
+[12|1|10|1]
+ORIGINAL: \c[6]Gambling.
+TRADUCCION:
+
+[12|1|11|1]
+ORIGINAL: \c[6]Drunk driving.
+TRADUCCION:
+
+[12|1|12|1]
+ORIGINAL: \c[6]Tax fraud.
+TRADUCCION:
+
+[12|1|13|1]
+ORIGINAL: \c[6]Chicken Jockey.
+TRADUCCION:
+
+[12|1|14|1]
+ORIGINAL: \c[6]One Piece.
+TRADUCCION:
+
+[12|1|15|1]
+ORIGINAL: \c[6]Lockheed Martin.
+TRADUCCION:
+
+[12|1|16|1]
+ORIGINAL: \c[6]Kansas.
+TRADUCCION:
+
+[12|1|17|1]
+ORIGINAL: \c[6]Femboys.
+TRADUCCION:
+
+[12|1|18|3]
+ORIGINAL: \c[6]And many more incredible things. But listen up: I want to give you the chance to have a battle against me.
+TRADUCCION:
+
+[12|1|21|2]
+ORIGINAL: \c[6]Take your time to get ready. I will be waiting right here.
+TRADUCCION:
+
+[12|2|1|1]
+ORIGINAL: \c[6]Arceus: It´s time to show me your courage!
+TRADUCCION:
+
+[12|2|10|2]
+ORIGINAL: \c[6]Arceus: Wow, that was an incredible battle. Are you ready for another round?
+TRADUCCION:
+
+[7|1|0|2]
+ORIGINAL: \bCynthia: Wow, it worked! And don´t be scared, Dialga and Palkia are usually quite peaceful.
+TRADUCCION:
+
+[7|1|2|1]
+ORIGINAL: \bAnd now it shouldn´t take long until...
+TRADUCCION:
+
+[7|1|4|1]
+ORIGINAL: \bGIRAAA!!!
+TRADUCCION:
+
+[7|1|5|2]
+ORIGINAL: \bCynthia: Oh that was quick. Alright, time to enter the Distortion Temple!
+TRADUCCION:
+
+[2|1|6|2]
+ORIGINAL: \bCynthia: Great, you caught the Lake Trio! Then every condition has been met.
+TRADUCCION:
+
+[2|1|8|3]
+ORIGINAL: \bYou´re standing right in front of the Distortion Temple, the only place that is located both in our world and in the Distortion World.
+TRADUCCION:
+
+[2|1|11|3]
+ORIGINAL: \bThis is were we´ll meet Giratina! Since you caught the Lake Trio, they can´t open a portal to the Distortion World unless you tell them to.
+TRADUCCION:
+
+[2|1|14|3]
+ORIGINAL: \bWe don´t want to do that though. We want Giratina to enter the Distortion Temple, and we can do that by summoning Dialga and Palkia.
+TRADUCCION:
+
+[2|1|17|3]
+ORIGINAL: \bWith the dimensional balance disrupted, we should be able to get them to appear here. Don´t worry, that sounds a lot worse than it is.
+TRADUCCION:
+
+[2|1|20|3]
+ORIGINAL: \bHere´s what we´ll have to do: you´ll go and stand in the center of the Gate of Time, and I´ll stand in the center of the Gate of Space.
+TRADUCCION:
+
+[2|1|23|2]
+ORIGINAL: \bIf I´m right, that should be all it takes to make Dialga and Palkia appear.
+TRADUCCION:
+
+[2|1|25|1]
+ORIGINAL: \bAlright, let´s go and take our positions.
+TRADUCCION:
+
+[3|2|0|2]
+ORIGINAL: \bCynthia: What are you doing up here? Get into position on the other side.
+TRADUCCION:
+
+[4|1|3|2]
+ORIGINAL: \bCynthia: Do you feel that? The dimensions are colliding! They are here!
+TRADUCCION:

@@ -1,0 +1,7 @@
+[1|1|10|2]
+ORIGINAL: \bSorry, you can't enter Cycle Road without a Bicycle.
+TRADUCCION:
+
+[1|2|0|1]
+ORIGINAL: \bCycling Road is a great ride.
+TRADUCCION:

@@ -1,0 +1,55 @@
+[5|2|2|1]
+ORIGINAL: The scientist is dead...
+TRADUCCION:
+
+[6|1|2|1]
+ORIGINAL: It´s a dead body...
+TRADUCCION:
+
+[7|1|0|1]
+ORIGINAL: It´s a time machine.
+TRADUCCION:
+
+[2|1|0|1]
+ORIGINAL: Hoopa is staring at you with malicious intent.
+TRADUCCION:
+
+[2|1|2|1]
+ORIGINAL: \bHOOPA!!!
+TRADUCCION:
+
+[2|1|13|1]
+ORIGINAL: Hoopa is unfazed.
+TRADUCCION:
+
+[8|1|0|1]
+ORIGINAL: It´s a machine containing a bunch of weird stuff.
+TRADUCCION:
+
+[8|2|0|2]
+ORIGINAL: It´s a machine containing a bunch of weird stuff. Do you want to take it?
+TRADUCCION:
+
+[8|3|0|1]
+ORIGINAL: It´s an empty machine.
+TRADUCCION:
+
+[4|1|13|2]
+ORIGINAL: \bHOOPA! YOU BASTARD! I WILL KILL YOU WITH MY OWN HANDS!
+TRADUCCION:
+
+[4|1|15|1]
+ORIGINAL: \bRAAAAAAH!!!
+TRADUCCION:
+
+[4|1|34|1]
+ORIGINAL: \bHOOPA!!!
+TRADUCCION:
+
+[4|1|48|1]
+ORIGINAL: \bHOOPA!!!
+TRADUCCION:
+[8|2|2|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+

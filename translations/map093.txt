@@ -1,0 +1,123 @@
+[7|1|0|2]
+ORIGINAL: \bHello, I´m a move deleter. I can make Pokémon forget their moves.
+TRADUCCION:
+
+[7|1|2|1]
+ORIGINAL: \bWould you like me to do that?
+TRADUCCION:
+
+[7|1|6|1]
+ORIGINAL: \bWhich Pokémon should forget a move?
+TRADUCCION:
+
+[7|1|11|2]
+ORIGINAL: \bCome again if there are moves that need to be forgotten.
+TRADUCCION:
+
+[7|1|16|1]
+ORIGINAL: \bWhat? No Egg should know any moves.
+TRADUCCION:
+
+[7|1|21|2]
+ORIGINAL: \bWhat? I can't make a Shadow Pokémon forget a move.
+TRADUCCION:
+
+[7|1|27|1]
+ORIGINAL: \b\v[3] seems to know only one move...
+TRADUCCION:
+
+[7|1|31|1]
+ORIGINAL: \bWhich move should be forgotten?
+TRADUCCION:
+
+[7|1|37|1]
+ORIGINAL: \bHm! \v[3]'s \v[4]? That move should be forgotten?
+TRADUCCION:
+
+[7|1|44|1]
+ORIGINAL: \bIt worked to perfection!
+TRADUCCION:
+
+[7|1|45|1]
+ORIGINAL: \b\v[3] has forgotten \v[4] completely.
+TRADUCCION:
+
+[7|1|48|2]
+ORIGINAL: \bCome again if there are moves that need to be forgotten.
+TRADUCCION:
+
+[7|1|58|2]
+ORIGINAL: \bCome again if there are moves that need to be forgotten.
+TRADUCCION:
+
+[2|1|7|1]
+ORIGINAL: \rHello, and welcome to the Pokémon Center.
+TRADUCCION:
+
+[2|1|8|1]
+ORIGINAL: \rWe restore your tired Pokémon to full health.
+TRADUCCION:
+
+[2|1|9|1]
+ORIGINAL: \rWould you like to rest your Pokémon?
+TRADUCCION:
+
+[2|1|12|1]
+ORIGINAL: \rOK, I'll take your Pokémon for a few seconds.
+TRADUCCION:
+
+[2|1|49|1]
+ORIGINAL: \rYour Pokémon may be infected by Pokérus.
+TRADUCCION:
+
+[2|1|50|2]
+ORIGINAL: \rLittle is known about the Pokérus except that they are microscopic life-forms that attach to Pokémon.
+TRADUCCION:
+
+[2|1|52|2]
+ORIGINAL: \rWhile infected, Pokémon are said to grow exceptionally well.
+TRADUCCION:
+
+[2|1|57|1]
+ORIGINAL: \rThank you for waiting.
+TRADUCCION:
+
+[2|1|58|1]
+ORIGINAL: \rWe've restored your Pokémon to full health.
+TRADUCCION:
+
+[2|1|65|1]
+ORIGINAL: \rWe hope to see you again!
+TRADUCCION:
+
+[2|1|70|1]
+ORIGINAL: \rWe hope to see you again!
+TRADUCCION:
+
+[2|2|8|2]
+ORIGINAL: \rFirst, you should restore your Pokémon to full health.
+TRADUCCION:
+
+[2|2|44|1]
+ORIGINAL: \rYour Pokémon have been healed to perfect health.
+TRADUCCION:
+
+[2|2|51|1]
+ORIGINAL: \rWe hope you excel!
+TRADUCCION:
+
+[8|1|0|3]
+ORIGINAL: \bYou gotta get yourself a Switch! I bought one just so I could play Tears of the Kingdom, and that was the best decision of my life!
+TRADUCCION:
+[7|1|3|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[7|1|38|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[2|1|10|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+

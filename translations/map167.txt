@@ -1,0 +1,43 @@
+[5|1|2|1]
+ORIGINAL: \bIt´s rock or bust!
+TRADUCCION:
+
+[5|2|0|3]
+ORIGINAL: \bIf you like rock music as much as I do, you need to visit the Roggenrola Festival in Unova. I´ve been there 5 times so far, and I want to go again!
+TRADUCCION:
+
+[1|1|2|2]
+ORIGINAL: \bOnly the most talented trainers are allowed to become Pokémon Rangers. Let me show you!
+TRADUCCION:
+
+[1|2|0|3]
+ORIGINAL: \bIf I had a Pokémon Ranger application form with me, I would give it to you. You have what it takes to become one of us!
+TRADUCCION:
+
+[2|1|2|1]
+ORIGINAL: \bWe have rare Pokémon, and they´re strong!
+TRADUCCION:
+
+[2|2|0|3]
+ORIGINAL: \bThe other Pokémon Rangers also use these rare Pokémon, which are sometimes gifted to young trainers who are starting their journey.
+TRADUCCION:
+
+[2|2|3|3]
+ORIGINAL: \bThese special Pokémon are hard to come across in the wild, but there is a place in the Delta Region where you can find them.
+TRADUCCION:
+
+[9|1|0|1]
+ORIGINAL: Mesprit looks confused.
+TRADUCCION:
+
+[9|1|1|1]
+ORIGINAL: It wants to battle!
+TRADUCCION:
+
+[9|1|3|1]
+ORIGINAL: \bSPRIIIIIIT!!!
+TRADUCCION:
+
+[9|3|0|1]
+ORIGINAL: Mesprit disappeared. Will it come back?
+TRADUCCION:

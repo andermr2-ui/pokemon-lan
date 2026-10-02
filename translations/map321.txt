@@ -1,0 +1,159 @@
+[5|1|18|1]
+ORIGINAL: \b**************!!! ******* HELL!!! WHAT HAVE I DONE?!
+TRADUCCION:
+
+[5|1|19|2]
+ORIGINAL: \bWHY DID THIS THING APPEAR?! AHHHHHH!!! HELP ME!!! HELP ME, I`M BEGGING YOU!!!
+TRADUCCION:
+
+[5|1|23|1]
+ORIGINAL: \bOkay, okay, you´re right. I hope I didn´t scare you.
+TRADUCCION:
+
+[5|1|26|1]
+ORIGINAL: \bOh, okay wait, let me catch my breath first.
+TRADUCCION:
+
+[5|1|29|1]
+ORIGINAL: \bAlright, let me tell you what happened.
+TRADUCCION:
+
+[5|1|30|2]
+ORIGINAL: \bI´m from the Southford Institute, where we research time and space.
+TRADUCCION:
+
+[5|1|32|3]
+ORIGINAL: \bMy colleague has been working on a time machine, an I´ve been trying to build a device that can open portals to other dimensions.
+TRADUCCION:
+
+[5|1|35|2]
+ORIGINAL: \bIt was going really well, and we were confident that it´d work, but it all changed a few weeks ago.
+TRADUCCION:
+
+[5|1|37|2]
+ORIGINAL: \bDuring the first field test of my device, a malfunction caused the energy output to go haywire.
+TRADUCCION:
+
+[5|1|39|3]
+ORIGINAL: \bThe device opened a dimensional crack in the sky above Southside Beach, and since then the weather has been going crazy over there.
+TRADUCCION:
+
+[5|1|42|3]
+ORIGINAL: \bDespite that malfunction, I knew that my tech would work, so I was willing to try again. Today, my colleague and I finished our devices.
+TRADUCCION:
+
+[5|1|45|1]
+ORIGINAL: \bBut then it all went to ****!!!
+TRADUCCION:
+
+[5|1|46|2]
+ORIGINAL: \bThe second I started up my device again, a shockwave came from the dimensional crack!
+TRADUCCION:
+
+[5|1|48|1]
+ORIGINAL: \bDo you know what came out of there?
+TRADUCCION:
+
+[5|1|49|1]
+ORIGINAL: \bIt was Hoopa, in its unbound form!
+TRADUCCION:
+
+[5|1|50|2]
+ORIGINAL: \bHoopa has the incredible ability to create portals to other dimensions, but I must have angered it.
+TRADUCCION:
+
+[5|1|52|2]
+ORIGINAL: \bIT KILLED MY COLLEAGUE! ****! HE WAS MY FRIEND, AND THIS MONSTER JUST MURDERED HIM!
+TRADUCCION:
+
+[5|1|54|3]
+ORIGINAL: \bI tried to get away, but Hoopa was harnessing the power of our devices! It summoned Ultra Beasts and Paradox Pokémon!
+TRADUCCION:
+
+[5|1|57|1]
+ORIGINAL: \bTHESE THINGS KILLED EVERYONE IN SOUTHFORD! 
+TRADUCCION:
+
+[5|1|58|1]
+ORIGINAL: \bNot even the children were spared...
+TRADUCCION:
+
+[5|1|59|2]
+ORIGINAL: \bPlease, someone needs to help me! I know that this is my fault, but Hoopa needs to be stopped!
+TRADUCCION:
+
+[5|1|61|3]
+ORIGINAL: \bIt now has the power over the past, the future and the dimensions! If no one stops it, then it might even surpass Arceus!
+TRADUCCION:
+
+[5|1|66|1]
+ORIGINAL: \bHm? You? You´re a child!
+TRADUCCION:
+
+[5|1|69|1]
+ORIGINAL: \bNope, I´ve got no clue. But why does that matter?
+TRADUCCION:
+
+[5|1|72|1]
+ORIGINAL: \bWhat?! You´re the Champion?! Really?!
+TRADUCCION:
+
+[5|1|73|1]
+ORIGINAL: \bWow, there might be some hope after all.
+TRADUCCION:
+
+[5|1|74|2]
+ORIGINAL: \bOkay, then I have an idea. Try to make it to Southford, I´ll be right behind you.
+TRADUCCION:
+
+[5|1|76|2]
+ORIGINAL: \bOh, and you should take these, they´re pretty much the only way to catch these Ultra Beasts.
+TRADUCCION:
+
+[5|1|79|3]
+ORIGINAL: \bParadox Pokémon can be caught in normal Pokéballs, at least that´s what the scientists from Paldea say.
+TRADUCCION:
+
+[5|1|82|3]
+ORIGINAL: \bOh, and one more thing. Some of the Ultra Beasts and Paradox Pokémon that Hoopa Summoned are almost as strong as itself.
+TRADUCCION:
+
+[5|1|85|2]
+ORIGINAL: \bYou might´ve heard of them before. Koraidon, Miraidon and Necrozma.
+TRADUCCION:
+
+[5|1|87|3]
+ORIGINAL: \bOn top of that, I´ve also seen the paradoxical relatives of other Legendary Pokémon when I ran here, so we need to be extremely careful!
+TRADUCCION:
+
+[5|1|90|2]
+ORIGINAL: \bI´ll tell you the rest of my plan once we´ve made it to Southford. Alright, it´s time to go!
+TRADUCCION:
+
+[5|2|0|2]
+ORIGINAL: \bWe have to stop this monster, or everyone will be doomed!
+TRADUCCION:
+
+[1|1|0|1]
+ORIGINAL: \bAre you bringing emergency supplies to Southford?
+TRADUCCION:
+
+[1|1|1|3]
+ORIGINAL: \bNo? Then I can´t let you through. I´m not even gonna ask why you´re here, but I won´t let you past this point.
+TRADUCCION:
+
+[1|1|4|3]
+ORIGINAL: \bWe are unable to evacuate the people of Southford, so they´re dependent on emergency supplies.
+TRADUCCION:
+
+[1|1|7|2]
+ORIGINAL: \bOutsiders would make things even more complicated, so I hope you understand.
+TRADUCCION:
+[5|1|21|OPCIONES]
+ORIGINAL: Calm down!|What happened?
+TRADUCCION:
+
+[5|1|64|OPCIONES]
+ORIGINAL: Don´t worry, I´ve got this!|Do you know who I am?
+TRADUCCION:
+

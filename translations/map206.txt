@@ -1,0 +1,39 @@
+[5|1|5|1]
+ORIGINAL: \bWHAT?! YOU GOT OUT?!
+TRADUCCION:
+
+[5|1|11|2]
+ORIGINAL: \bAlright, now you went a step too far. I will make you suffer!
+TRADUCCION:
+
+[5|2|0|1]
+ORIGINAL: \bAlright, fine. You chose the hard way.
+TRADUCCION:
+
+[5|2|1|1]
+ORIGINAL: \bI´m gonna beat the shit out of you!
+TRADUCCION:
+
+[5|2|8|1]
+ORIGINAL: \bOUCH! WHAT THE ****! YOU BROKE MY NOSE!
+TRADUCCION:
+
+[5|2|15|1]
+ORIGINAL: \bOUCH! MY BALLS! WHAT THE ****!
+TRADUCCION:
+
+[5|2|18|1]
+ORIGINAL: \bI´M GONNA ******* KILL YOU, YOU LITTLE SHIT!
+TRADUCCION:
+
+[6|1|0|1]
+ORIGINAL: \b...
+TRADUCCION:
+
+[6|1|1|1]
+ORIGINAL: \bI... I don´t feel so well...
+TRADUCCION:
+[5|2|2|OPCIONES]
+ORIGINAL: Punch his face|Kick him into the nuts
+TRADUCCION:
+

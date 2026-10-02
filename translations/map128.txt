@@ -1,0 +1,3 @@
+[3|1|0|2]
+ORIGINAL: \bWith this stuff I´m gonna crush the Gym Leader with ease!
+TRADUCCION: \b¡Con todo esto voy a machacar al Líder de Gimnasio sin problema!

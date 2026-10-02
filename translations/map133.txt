@@ -1,0 +1,11 @@
+[6|1|0|2]
+ORIGINAL: \bThis store is awesome! They´ll let you use the sample console for as long as you want.
+TRADUCCION:
+
+[6|1|2|2]
+ORIGINAL: \bI come here whenever I want to play some games, which is why I don´t actually own a console.
+TRADUCCION:
+
+[4|1|0|1]
+ORIGINAL: \sign[signskin]3F: TV Game Shop
+TRADUCCION:

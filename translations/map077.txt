@@ -1,0 +1,135 @@
+[5|1|0|2]
+ORIGINAL: \bI want you to have an amazing journey through our beautiful region, but you need these two things.
+TRADUCCION: \bQuiero que tengas un viaje increíble por nuestra hermosa región, pero necesitas estas dos cosas.
+
+[5|1|5|1]
+ORIGINAL: You received a Pokégear and Running Shoes.
+TRADUCCION: Has recibido un Pokégear y unas Zapatillas de Correr.
+
+[5|1|6|3]
+ORIGINAL: \bI hope this will be useful. But now \PN, begin your journey and have fun out there. You can come home whenever you want, I will be waiting for you.
+TRADUCCION: \bEspero que te sea útil. Pero ahora, \PN, empieza tu viaje y diviértete por ahí. Puedes volver a casa cuando quieras, te estaré esperando.
+
+[5|2|0|1]
+ORIGINAL: \bDo you want to take a rest?
+TRADUCCION: \b¿Quieres descansar?
+
+[5|2|4|1]
+ORIGINAL: \bThere we go. Stay safe out there!
+TRADUCCION: \bAsí me gusta. ¡Ten cuidado ahí fuera!
+
+[6|1|0|2]
+ORIGINAL: It´s a calender. There´s a red circle around today´s date.
+TRADUCCION: Es un calendario. Hay un círculo rojo alrededor de la fecha de hoy.
+
+[6|2|0|1]
+ORIGINAL: It´s a calender.
+TRADUCCION: Es un calendario.
+
+[7|1|0|2]
+ORIGINAL: \bThe Gym Challenge must be exhausting. Do you want to take a rest?
+TRADUCCION: \bEl Reto de Gimnasios debe de ser agotador. ¿Quieres descansar?
+
+[7|1|5|1]
+ORIGINAL: \bThere we go. Stay safe out there!
+TRADUCCION: \bAsí me gusta. ¡Ten cuidado ahí fuera!
+
+[7|3|0|2]
+ORIGINAL: \bLife as a Champion must be exhausting. Do you want to take a rest?
+TRADUCCION: \bLa vida de Campeón debe de ser agotadora. ¿Quieres descansar?
+
+[7|3|5|1]
+ORIGINAL: \bThere we go. Stay safe out there!
+TRADUCCION: \bAsí me gusta. ¡Ten cuidado ahí fuera!
+
+[7|5|0|2]
+ORIGINAL: \bLife as a Champion must be exhausting. Do you want to take a rest?
+TRADUCCION: \bLa vida de Campeón debe de ser agotadora. ¿Quieres descansar?
+
+[7|5|5|1]
+ORIGINAL: \bThere we go. Stay safe out there!
+TRADUCCION: \bAsí me gusta. ¡Ten cuidado ahí fuera!
+
+[7|6|0|2]
+ORIGINAL: \bYou might be World Champion now, but you´re still my child, so you´ll take a good rest now.
+TRADUCCION: \bPuede que ahora seas Campeón Mundial, pero sigues siendo mi hijo, así que ahora vas a descansar bien.
+
+[7|6|5|1]
+ORIGINAL: \bThere we go. Stay safe out there!
+TRADUCCION: \bAsí me gusta. ¡Ten cuidado ahí fuera!
+
+[8|1|2|2]
+ORIGINAL: The Delta Stone in your pocket just moved! You can feel a stronger aura coming from within the stone.
+TRADUCCION: ¡La Piedra Delta que llevas en el bolsillo se acaba de mover! Sientes un aura más fuerte proveniente de la piedra.
+
+[9|1|0|1]
+ORIGINAL: \bGood morning \PN, today is your big day!
+TRADUCCION: \b¡Buenos días, \PN, hoy es tu gran día!
+
+[9|1|1|2]
+ORIGINAL: \bBut before you go to the lab to get your gift from the Professor, please visit Zeke.
+TRADUCCION: \bPero antes de ir al laboratorio a buscar tu regalo del Profesor, por favor visita a Xarly.
+
+[9|1|3|3]
+ORIGINAL: \bI know the two of you don´t get along too well, but you will start your big journey together, and you shouldn´t fight the whole time.
+TRADUCCION: \bSé que vosotros dos no os lleváis demasiado bien, pero vais a empezar juntos vuestro gran viaje, y no deberíais pelearos todo el rato.
+
+[9|1|6|1]
+ORIGINAL: \bI wish you the best!
+TRADUCCION: \b¡Te deseo lo mejor!
+
+[9|2|0|1]
+ORIGINAL: \bI hope the Professor has a nice gift for you.
+TRADUCCION: \bEspero que el Profesor tenga un buen regalo para ti.
+
+[9|4|0|3]
+ORIGINAL: \bGood morning, Champion. I don´t know if you´ve come to realize it yet, \PN, but you´re now the Delta Region´s strongest trainer!
+TRADUCCION: \bBuenos días, Campeón. No sé si ya te has dado cuenta, \PN, pero ahora eres el entrenador más fuerte de la Región Delta.
+
+[9|4|3|2]
+ORIGINAL: \bYou´ve made your mother so unbelievably proud, and even your dad decided to call for once.
+TRADUCCION: \bHas hecho que tu madre esté increíblemente orgullosa, e incluso tu padre decidió llamar por una vez.
+
+[9|4|5|2]
+ORIGINAL: \bHe said that he might visit you again, but I doubt that he´ll actually show up.
+TRADUCCION: \bDijo que quizá te visite otra vez, pero dudo que aparezca de verdad.
+
+[9|4|7|3]
+ORIGINAL: \bBut I don´t wanna talk about him anymore. Zeke´s leaving for Paldea today, so you should at least say goodbye.
+TRADUCCION: \bPero no quiero hablar más de él. Xarly se va hoy a Paldea, así que deberías al menos despedirte.
+
+[9|4|10|1]
+ORIGINAL: \bHurry up, he´s gonna leave soon!
+TRADUCCION: \b¡Date prisa, se va a ir pronto!
+
+[9|5|0|1]
+ORIGINAL: \bWhat are you waiting for?! Say goodbye to Zeke!
+TRADUCCION: \b¡¿Qué estás esperando?! ¡Despídete de Xarly!
+
+[9|7|0|3]
+ORIGINAL: \bGood morning, \PN, there´s big news! Someone from Riverstone Stadium called, and they want to speak with you.
+TRADUCCION: \bBuenos días, \PN, ¡hay grandes noticias! Alguien del Estadio Río el Último llamó, y quiere hablar contigo.
+
+[9|7|3|3]
+ORIGINAL: \bThey said that it´s something important regarding the upcoming Pokémon World Championship Tournament.
+TRADUCCION: \bDijeron que es algo importante relacionado con el próximo Torneo Mundial Pokémon.
+
+[9|7|6|2]
+ORIGINAL: \bWhy don´t you head over to Riverstone Stadium and talk with them in person?
+TRADUCCION: \b¿Por qué no vas al Estadio Río el Último y hablas con ellos en persona?
+
+[9|7|8|2]
+ORIGINAL: \bIt´s quite exciting to think that you might participate in that tournament. I couldn´t be more proud of you!
+TRADUCCION: \bEs muy emocionante pensar que podrías participar en ese torneo. ¡No podría estar más orgullosa de ti!
+
+[9|7|10|2]
+ORIGINAL: \bNow head over to the stadium, and see what´s going on.
+TRADUCCION: \bAhora ve al estadio y averigua qué está pasando.
+
+[9|8|0|3]
+ORIGINAL: \bEven with all of your achievements, your father still hasn´t shown up. What a miserable man that guy is...
+TRADUCCION: \bIncluso con todos tus logros, tu padre sigue sin aparecer. Qué hombre tan miserable...
+
+[15|1|0|3]
+ORIGINAL: The TV is running. It´s showing a recorded broadcasting of the Pokémon World Championship from one year ago.
+TRADUCCION: La tele está encendida. Muestra una retransmisión grabada del Torneo Mundial Pokémon de hace un año.

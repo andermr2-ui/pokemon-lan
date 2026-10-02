@@ -1,0 +1,107 @@
+[2|1|0|1]
+ORIGINAL: \bWho are you? Leave me alone.
+TRADUCCION:
+
+[2|2|1|1]
+ORIGINAL: \bMolly: Leave me alone. I don´t want any guests.
+TRADUCCION:
+
+[2|2|2|2]
+ORIGINAL: \bWait, what do you have there? Is that a Mega Ring?!
+TRADUCCION:
+
+[2|2|4|2]
+ORIGINAL: \bAh, I see, the institute got robbed and you decided to be a hero. Respectable.
+TRADUCCION:
+
+[2|2|6|2]
+ORIGINAL: \bOkay, fine. If you manage to entertain me, I might have something for you.
+TRADUCCION:
+
+[2|2|8|2]
+ORIGINAL: \bBut let´s waste no more time, I need the thrill of battle again!
+TRADUCCION:
+
+[2|3|0|2]
+ORIGINAL: \bMolly: Wow, I´m impressed! I think, I think you are worthy of having this.
+TRADUCCION:
+
+[2|3|3|3]
+ORIGINAL: \bMolly: If you ever catch an Absol, let it hold this stone. That way, it can mega evolve!
+TRADUCCION:
+
+[2|3|6|2]
+ORIGINAL: \bWait, you´re saying my grandaughter said you should visit me?
+TRADUCCION:
+
+[2|3|8|2]
+ORIGINAL: \bSome strange guys have been involved with Virizion and Cobalion?
+TRADUCCION:
+
+[2|3|10|1]
+ORIGINAL: \bThis is bad. Really bad.
+TRADUCCION:
+
+[2|3|11|2]
+ORIGINAL: \bIf this Giovanni unites Virizion, Cobalion and Terrakion, he will be able to find Keldeo.
+TRADUCCION:
+
+[2|3|13|2]
+ORIGINAL: \bKeldeo, and only a handful of people even know about this, is the protector of the Delta Region!
+TRADUCCION:
+
+[2|3|15|3]
+ORIGINAL: \b100 years ago, it managed to seal Kyurem, the legendary dragon. Kyrem used to terrorize this region, until that day.
+TRADUCCION:
+
+[2|3|18|2]
+ORIGINAL: \bBut if someone were to control Keldeo, they might be able to free Kyurem!
+TRADUCCION:
+
+[2|3|20|3]
+ORIGINAL: \bIf that happens, the Delta Region is doomed. I don´t know what this Giovanni´s true plan is, but he needs to be stopped!
+TRADUCCION:
+
+[2|3|23|2]
+ORIGINAL: \bWith the power of Mega Evolutions on your side, you might be able to stop him, but be careful!
+TRADUCCION:
+
+[2|3|25|3]
+ORIGINAL: \bThe sacred place dedicated to Terrakion is on the other side of Route 8. But be prepared for that journey, Route 8 is big. Stay safe!
+TRADUCCION:
+
+[2|4|0|2]
+ORIGINAL: \bMolly: If he actually managed to catch these legendary Pokémon, you need to hurry!
+TRADUCCION:
+
+[2|5|1|3]
+ORIGINAL: \bMolly: Hm? Oh, it´s you again. So you were successful. That´s fantastic. An evil maniac like that Giovanni guy had to be stopped.
+TRADUCCION:
+
+[2|5|4|3]
+ORIGINAL: \bSince you must have grown a lot since the last time we met, I´d like to have another battle. After all, I held back the last time.
+TRADUCCION:
+
+[2|5|7|2]
+ORIGINAL: \bIf you manage to beat me at full strength, then I´ll have another reward for you.
+TRADUCCION:
+
+[2|5|9|1]
+ORIGINAL: \bShow me your strength!
+TRADUCCION:
+
+[2|6|0|2]
+ORIGINAL: \bMolly: Amazing. Fantastic. Excellent. Let me reward you with this.
+TRADUCCION:
+
+[2|6|3|2]
+ORIGINAL: \bMolly: If anyone will discover the true secret behind the Mega Evolution, it´ll be you.
+TRADUCCION:
+
+[2|6|5|3]
+ORIGINAL: \bThe bond that you have with your Pokémon is truly special, and you can be proud of that. I wish you the best for your future, and take care!
+TRADUCCION:
+
+[2|7|0|2]
+ORIGINAL: \bMolly: I should visit my granddaughter again. I haven´t seen her in a while.
+TRADUCCION:

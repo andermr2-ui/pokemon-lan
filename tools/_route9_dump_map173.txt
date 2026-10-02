@@ -1,0 +1,18 @@
+=== map173 ===
+ev5 pg0 [2]: "\\bTurn around kid, there are weird people in this forest."
+ev5 pg1 [0]: "\\bEven though this is the shortest way to Ambergrove, please go the long way. The people here should not be anywhere near kids."
+ev11 pg0 [0]: "Zacian is staring at you."
+ev11 pg0 [2]: "It wants to battle!"
+ev11 pg0 [4]: "\\bZAAAAA!!!"
+ev11 pg2 [0]: "Zacian disappeared. Will it come back?"
+ev1 pg0 [2]: "\\bDid you know that in terms of male human and female Pokémon breeding, Vaporeon is the most compatible Pokémon for humans?"
+ev1 pg1 [0]: "\\bDon´t disrespect my authority!"
+ev2 pg0 [2]: "\\bOh, hi, what is your bodycount?"
+ev2 pg1 [0]: "\\bMy body count is 1. But if we inlcude Pokémon..."
+ev3 pg0 [2]: "\\bOh, aren´t you a cute one? "
+ev3 pg1 [0]: "\\bI can show you a secret, but you can´t tell your parents. Are you ready?"
+ev3 pg1 [2] CHOICES: ["Sí", "No"]
+ev3 pg1 [4]: "\\bAlright, follow me home. I´m gonna make you happy."
+ev3 pg1 [19]: "\\bBut I need it..."
+ev4 pg0 [2]: "\\bThis is no place for kids."
+ev4 pg1 [0]: "\\bPlease listen to me. Stay away from the freaks that hide in the Whispering Woods."

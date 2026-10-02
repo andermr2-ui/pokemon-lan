@@ -1,0 +1,47 @@
+[1|1|56|1]
+ORIGINAL: \v[1]
+TRADUCCION:
+
+[1|1|89|1]
+ORIGINAL: \bThanks for playing.  Let me heal your party.
+TRADUCCION:
+
+[1|1|103|1]
+ORIGINAL: \bBattle number \v[1] is next. Are you ready?
+TRADUCCION:
+
+[1|1|119|2]
+ORIGINAL: \bWould you like to save the game and continue later?
+TRADUCCION:
+
+[1|1|124|1]
+ORIGINAL: Your game has been saved.
+TRADUCCION:
+
+[1|1|135|1]
+ORIGINAL: \bAre you sure you want to quit your challenge?
+TRADUCCION:
+
+[1|1|152|1]
+ORIGINAL: \bWould you like to record your last battle?
+TRADUCCION:
+
+[1|1|156|1]
+ORIGINAL: \se[Pkmn exp full]The battle was recorded.
+TRADUCCION:
+[1|1|104|OPCIONES]
+ORIGINAL: Go on|Rest|Retire|Record
+TRADUCCION:
+
+[1|1|121|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[1|1|136|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[1|1|153|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+

@@ -1,0 +1,7 @@
+[7|1|0|1]
+ORIGINAL: \bExcuse me? This isn´t your bedroom. Get lost!
+TRADUCCION:
+
+[8|1|0|3]
+ORIGINAL: \bAre you one of the guys from the Underground Market in Mistveil? Tell your mates to lower their bloody prices!
+TRADUCCION:

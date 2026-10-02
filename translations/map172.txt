@@ -1,0 +1,23 @@
+[2|1|0|3]
+ORIGINAL: \bHello and welcome to my beach house. People call me the Fly Master, because my Pokémon have mastered that move.
+TRADUCCION:
+
+[2|1|3|2]
+ORIGINAL: \bThe government has assigned me to give every trainer who claims the Volt Badge the HM for Fly.
+TRADUCCION:
+
+[2|1|5|1]
+ORIGINAL: \bAnd? Have you managed to claim the badge?
+TRADUCCION:
+
+[2|1|7|2]
+ORIGINAL: \bYou do? Fantastic! Then you´re eligible to receive this HM. Here you go!
+TRADUCCION:
+
+[2|1|14|3]
+ORIGINAL: \bOh, you´re saying you haven´t claimed the Volt Badge yet? Then I´m sorry, but the government doesn´t allow me to hand you the HM.
+TRADUCCION:
+
+[2|2|0|3]
+ORIGINAL: \bYou can use Fly to get to every town that you´ve already been to. Just tell your Pokémon where you want to go, and you´ll be there in no time.
+TRADUCCION:

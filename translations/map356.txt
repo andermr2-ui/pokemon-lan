@@ -1,0 +1,35 @@
+[2|1|0|1]
+ORIGINAL: It´s an ancient plate with strange symbols.
+TRADUCCION:
+
+[2|2|0|1]
+ORIGINAL: It´s an ancient plate with strange symbols.
+TRADUCCION:
+
+[2|3|0|1]
+ORIGINAL: It´s an ancient plate with strange symbols.
+TRADUCCION:
+
+[3|1|8|2]
+ORIGINAL: \bSteven: That looks like a shrine if I´ve ever seen one. Hm, maybe we could try and pray?
+TRADUCCION:
+
+[3|1|17|1]
+ORIGINAL: \bOh, nothing happened...
+TRADUCCION:
+
+[3|1|19|1]
+ORIGINAL: \rGRRRROOOOUUU!!!
+TRADUCCION:
+
+[3|1|20|1]
+ORIGINAL: \bSteven: Wait, did it work?
+TRADUCCION:
+
+[3|1|22|1]
+ORIGINAL: \bKYOOOOOO!!!
+TRADUCCION:
+
+[3|1|23|2]
+ORIGINAL: \bSteven: YES, IT`S THEM! Come on, we gotta go outside!
+TRADUCCION:

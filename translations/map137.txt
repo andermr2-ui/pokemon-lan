@@ -1,0 +1,11 @@
+[2|1|5|1]
+ORIGINAL: Which floor do you want?
+TRADUCCION: ¿A qué planta quieres ir?
+[2|1|6|OPCIONES]
+ORIGINAL: 5F|4F|3F
+TRADUCCION: 5F|4F|3F
+
+[2|1|17|OPCIONES]
+ORIGINAL: 2F|1F|Cancel
+TRADUCCION: 2F|1F|Cancelar
+

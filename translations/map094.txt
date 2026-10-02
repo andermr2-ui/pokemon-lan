@@ -1,0 +1,3 @@
+[3|1|0|3]
+ORIGINAL: \bWhenever you buy Pokéballs, make sure to buy at least 10 at once, because then you´ll get a Premier Ball for free.
+TRADUCCION: \bSiempre que compres Poké Balls, procura comprar al menos 10 de una vez, porque así te llevas una Ball Premier gratis.

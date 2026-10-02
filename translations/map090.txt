@@ -1,0 +1,79 @@
+[6|1|2|1]
+ORIGINAL: \bLet´s paint a magical battle.
+TRADUCCION:
+
+[6|2|0|3]
+ORIGINAL: \bDid you know that it always rains on Route 4? But no matter how much it rains, Rumble Lake remains dried-up.
+TRADUCCION:
+
+[17|1|0|1]
+ORIGINAL: It´s a Pokémon Statue dedicated to Celebi.
+TRADUCCION:
+
+[17|2|0|1]
+ORIGINAL: It´s a Pokémon Statue dedicated to Celebi.
+TRADUCCION:
+
+[17|2|2|1]
+ORIGINAL: The Delta Stone in your pocket just lit up!
+TRADUCCION:
+
+[17|2|3|1]
+ORIGINAL: Something powerful is approaching!
+TRADUCCION:
+
+[17|2|5|1]
+ORIGINAL: \bCELEBIII!!!
+TRADUCCION:
+
+[17|3|0|1]
+ORIGINAL: It´s a Pokémon Statue dedicated to Celebi.
+TRADUCCION:
+
+[17|4|0|1]
+ORIGINAL: Celebi disappeared. Will it come back?
+TRADUCCION:
+
+[17|5|0|1]
+ORIGINAL: It´s a Pokémon Statue dedicated to Celebi.
+TRADUCCION:
+
+[1|1|2|2]
+ORIGINAL: \bI´m here to collect the bridge tax. Give me your money!
+TRADUCCION:
+
+[1|2|0|1]
+ORIGINAL: \bDon´t tell anyone, but I commit tax evasion.
+TRADUCCION:
+
+[12|1|0|1]
+ORIGINAL: \bRumble Lake was the best place to go fishing...
+TRADUCCION:
+
+[12|1|1|3]
+ORIGINAL: \bBut look at this, not even a single puddle in sight. Even with the rain, Rumble Lake will never be the same.
+TRADUCCION:
+
+[12|1|4|2]
+ORIGINAL: \bWell, I guess I should finally get a new hobby. I´ve waited for too long, and I´m done!
+TRADUCCION:
+
+[12|1|6|1]
+ORIGINAL: \bYou can have this, I don´t need it anymore.
+TRADUCCION:
+
+[12|1|8|2]
+ORIGINAL: \bThis won´t help you here, but if you use it at a lake or pond, you might be able to catch something.
+TRADUCCION:
+
+[12|2|0|2]
+ORIGINAL: \bMaybe I should become a hiker, there are enough mountains in the region.
+TRADUCCION:
+
+[13|1|2|1]
+ORIGINAL: \bI need to train my Pokémon!
+TRADUCCION:
+
+[13|2|0|1]
+ORIGINAL: \bLooks like my Pokémon need more training.
+TRADUCCION:

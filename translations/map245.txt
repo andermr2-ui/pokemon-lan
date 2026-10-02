@@ -1,0 +1,15 @@
+[2|1|1|1]
+ORIGINAL: \c[6]???: Be not afraid...
+TRADUCCION:
+
+[2|1|2|3]
+ORIGINAL: \c[6]I have been watching over you, child. You have come face to face with the guardians of this realm. Your courage cannot be denied.
+TRADUCCION:
+
+[2|1|5|2]
+ORIGINAL: \c[6]And now, the time has come. I would like to meet you. I am waiting for you at Ruin Island. 
+TRADUCCION:
+
+[2|1|7|2]
+ORIGINAL: \c[6]Once we face each other, I want you to give me a demonstration of your courage.
+TRADUCCION:

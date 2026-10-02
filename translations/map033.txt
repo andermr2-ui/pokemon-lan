@@ -1,0 +1,215 @@
+[16|1|0|1]
+ORIGINAL: \bExcuse me, can you tell me what time it is?
+TRADUCCION: \bDisculpa, ¿me puedes decir qué hora es?
+
+[16|1|1|3]
+ORIGINAL: \bAh, okay, thank you. My mom said I shouldn´t be outside when it gets dark, but there´s still some time left before I go.
+TRADUCCION: \bAh, vale, gracias. Mi madre dijo que no debería estar fuera cuando oscurece, pero todavía me queda un rato antes de irme.
+
+[16|1|4|2]
+ORIGINAL: \bShe said that an evil Pokémon haunts this town, but I think she just made that up so I go to bed early.
+TRADUCCION: \bDijo que un Pokémon maligno ronda este pueblo, pero creo que se lo inventó para que me vaya pronto a la cama.
+
+[11|1|0|1]
+ORIGINAL: Meadow Grove
+TRADUCCION: Prado Arboleda
+
+[28|1|13|2]
+ORIGINAL: \bNyssa: Um, hi, \PN. I hope you didn´t have to wait for too long.
+TRADUCCION: \bNyssa: Eh, hola, \PN. Espero que no hayas tenido que esperar mucho.
+
+[28|1|15|1]
+ORIGINAL: \bLet me give you a hug!
+TRADUCCION: \b¡Déjame darte un abrazo!
+
+[28|1|17|2]
+ORIGINAL: \bOh, and before we go into the Patisserie, let me give you a little gift. Here you...
+TRADUCCION: \bAh, y antes de entrar a la Pastelería, déjame darte un pequeño regalo. Aquí tien...
+
+[28|1|20|1]
+ORIGINAL: \bETERNAAAAA!!!
+TRADUCCION: \b¡ETERNAAAAA!!!
+
+[28|1|24|1]
+ORIGINAL: \bNyssa: Ahhhhh, what was that?!
+TRADUCCION: \bNyssa: ¡Ahhhh, ¿qué fue eso?!
+
+[17|1|0|1]
+ORIGINAL: It´s a shrine dedicated to Landorus.
+TRADUCCION: Es un santuario dedicado a Landorus.
+
+[17|2|0|1]
+ORIGINAL: It´s a shrine dedicated to Landorus.
+TRADUCCION: Es un santuario dedicado a Landorus.
+
+[17|2|2|1]
+ORIGINAL: The Delta Stone in your pocket just lit up!
+TRADUCCION: ¡La Piedra Delta que llevas en el bolsillo se acaba de iluminar!
+
+[17|2|3|1]
+ORIGINAL: Something powerful is approaching!
+TRADUCCION: ¡Algo poderoso se acerca!
+
+[17|2|5|1]
+ORIGINAL: \bDORUUU!!!
+TRADUCCION: \b¡DORUUU!!!
+
+[17|3|0|1]
+ORIGINAL: It´s a shrine dedicated to Landorus.
+TRADUCCION: Es un santuario dedicado a Landorus.
+
+[17|4|0|1]
+ORIGINAL: Landorus disappeared. Will it come back?
+TRADUCCION: Landorus desapareció. ¿Volverá?
+
+[17|5|0|1]
+ORIGINAL: It´s a shrine dedicated to Landorus.
+TRADUCCION: Es un santuario dedicado a Landorus.
+
+[12|1|2|3]
+ORIGINAL: \bHi! I'm super thirsty. Do you have a Lemonade? I'll trade you a Bicycle for one. I have too many Bicycles.
+TRADUCCION: \b¡Hola! Tengo muchísima sed. ¿Tienes una Limonada? Te cambio una Bicicleta por una. Tengo demasiadas Bicicletas.
+
+[12|1|6|2]
+ORIGINAL: \bOh, you have a Lemonade? Would you consider exchanging it for a Bicycle?
+TRADUCCION: \bAh, ¿tienes una Limonada? ¿Considerarías cambiarla por una Bicicleta?
+
+[12|1|10|1]
+ORIGINAL: \bExcellent! Here you go.
+TRADUCCION: \b¡Excelente! Aquí tienes.
+
+[12|1|17|1]
+ORIGINAL: \bThank you! I really needed this.
+TRADUCCION: \b¡Gracias! De verdad la necesitaba.
+
+[12|1|21|3]
+ORIGINAL: \bYou have no space in your Bag. I don't want to just take your Lemonade, so come back when I can give you a Bicycle in return.
+TRADUCCION: \bNo tienes espacio en tu Mochila. No quiero quedarme tu Limonada sin más, así que vuelve cuando pueda darte una Bicicleta a cambio.
+
+[12|1|28|1]
+ORIGINAL: \bThat's too bad. I really am thirsty.
+TRADUCCION: \bQué lástima. De verdad tengo sed.
+
+[12|2|0|2]
+ORIGINAL: \bAre you enjoying your Bicycle? The Lemonade you gave me was just what I needed.
+TRADUCCION: \b¿Estás disfrutando tu Bicicleta? La Limonada que me diste era justo lo que necesitaba.
+
+[7|1|1|3]
+ORIGINAL: \bI´m sorry, but I can´t let you through at the moment. There´s been a major landslide on Route 6, and it would be irresponsible to let civilians through.
+TRADUCCION: \bLo siento, pero no puedo dejarte pasar por ahora. Hubo un gran corrimiento de tierras en la Ruta 6, y sería irresponsable dejar pasar a civiles.
+
+[29|1|0|1]
+ORIGINAL: \bNyssa: What the hell is that?!
+TRADUCCION: \bNyssa: ¡¿Qué demonios es eso?!
+
+[29|1|1|2]
+ORIGINAL: \b\PN, this looks bad. Please, do something about this, I´m scared!
+TRADUCCION: \b\PN, esto se ve mal. Por favor, haz algo, ¡tengo miedo!
+
+[29|1|4|1]
+ORIGINAL: \bETERNAAAAA!!!
+TRADUCCION: \b¡ETERNAAAAA!!!
+
+[29|2|0|1]
+ORIGINAL: Eternatus is staring at you.
+TRADUCCION: Eternatus te está mirando fijamente.
+
+[29|2|2|1]
+ORIGINAL: It´s angry!
+TRADUCCION: ¡Está enfadado!
+
+[29|2|4|1]
+ORIGINAL: \bETERNAAAAA!!!
+TRADUCCION: \b¡ETERNAAAAA!!!
+
+[29|2|14|1]
+ORIGINAL: Eternatus is unfazed.
+TRADUCCION: Eternatus no se inmuta.
+
+[24|1|0|2]
+ORIGINAL: \bYou gotta check out the Patisserie! They sell the finest baking goods and fresh Moo Moo Milk.
+TRADUCCION: \b¡Tienes que ir a la Pastelería! Venden los mejores productos de repostería y Leche Moomoo fresca.
+
+[8|1|0|1]
+ORIGINAL: Route 6
+TRADUCCION: Ruta 6
+
+[30|2|0|1]
+ORIGINAL: \bNyssa: Please do something about this, I´m scared.
+TRADUCCION: \bNyssa: Por favor, haz algo, tengo miedo.
+
+[30|3|0|2]
+ORIGINAL: \bNyssa: Thanks for getting rid of that thing. I was really worried...
+TRADUCCION: \bNyssa: Gracias por deshacerte de esa cosa. Estaba muy preocupada...
+
+[30|3|2|3]
+ORIGINAL: \bNow I have an even bigger reason to give you this gift. But let´s go into the Patisserie now, I really need a break.
+TRADUCCION: \bAhora tengo un motivo aún mayor para darte este regalo. Pero vayamos a la Pastelería ya, de verdad necesito un descanso.
+
+[14|1|0|2]
+ORIGINAL: The mailbox isn´t locked. Do you want to take what´s inside?
+TRADUCCION: El buzón no está cerrado con llave. ¿Quieres coger lo que hay dentro?
+
+[14|2|0|1]
+ORIGINAL: It´s an empty mailbox.
+TRADUCCION: Es un buzón vacío.
+
+[25|1|0|2]
+ORIGINAL: \bI always come to the shrine when I want to relax. It´s such a nice little place.
+TRADUCCION: \bSiempre vengo al santuario cuando quiero relajarme. Es un lugarcito muy agradable.
+
+[9|1|0|1]
+ORIGINAL: Marcus´ House
+TRADUCCION: Casa de Marcus
+
+[4|1|1|2]
+ORIGINAL: \bThere´s maintanence work going on in the Route 2 gateway. You will have to come back later.
+TRADUCCION: \bHay trabajos de mantenimiento en la entrada de la Ruta 2. Tendrás que volver más tarde.
+
+[15|1|0|3]
+ORIGINAL: \bMeadow Grove is quite charming, isn´t it? The name comes from the meadow that used to be where the pond is.
+TRADUCCION: \bPrado Arboleda es bastante encantador, ¿verdad? El nombre viene del prado que solía estar donde ahora está el estanque.
+
+[15|1|3|2]
+ORIGINAL: \bAh, now I recognize you. You´re Holly´s child! Yeah, you´re \PN, am I right?
+TRADUCCION: \bAh, ahora te reconozco. ¡Eres el hijo de Holly! Sí, eres \PN, ¿verdad?
+
+[15|1|5|3]
+ORIGINAL: \bHaha, I knew it. I´m Betsy, a good friend of her. But enough about me, I wanted to tell you about this town.
+TRADUCCION: \bJaja, lo sabía. Soy Betsy, una buena amiga suya. Pero basta de hablar de mí, quería contarte sobre este pueblo.
+
+[15|1|8|3]
+ORIGINAL: \bA mighty Pokémon attacked the people of Meadow Grove a long time ago, and the legendary Pokémon Landorus protected them.
+TRADUCCION: \bUn poderoso Pokémon atacó a la gente de Prado Arboleda hace mucho tiempo, y el Pokémon legendario Landorus los protegió.
+
+[15|1|11|3]
+ORIGINAL: \bOn that day, the meadow was destroyed. The people decided to transform it into a pond, and they build a shrine for Landorus.
+TRADUCCION: \bEse día, el prado quedó destruido. La gente decidió convertirlo en un estanque, y construyeron un santuario para Landorus.
+
+[15|1|14|2]
+ORIGINAL: \bOh, but I´m talking too much again, so I should leave you alone now. Tell your mother I said hello!
+TRADUCCION: \bAh, pero estoy hablando demasiado otra vez, así que debería dejarte tranquilo. ¡Dile a tu madre que la saludo!
+
+[15|2|0|3]
+ORIGINAL: \bI wonder if we´ll see Landorus again. I´ve heard rumours that it sometimes shows up at the shrine, but no one has been able to proove it.
+TRADUCCION: \bMe pregunto si volveremos a ver a Landorus. Escuché rumores de que a veces aparece en el santuario, pero nadie ha podido comprobarlo.
+
+[26|1|0|1]
+ORIGINAL: \bI wish I could afford a bike...
+TRADUCCION: \bOjalá pudiera permitirme una bici...
+
+[10|1|0|1]
+ORIGINAL: Landorus Shrine
+TRADUCCION: Santuario de Landorus
+
+[21|1|0|1]
+ORIGINAL: Patisserie Alcremie
+TRADUCCION: Pastelería Crema
+
+[12|1|8|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION: Sí|No
+
+[14|1|2|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION: Sí|No

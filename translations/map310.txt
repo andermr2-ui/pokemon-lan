@@ -1,0 +1,79 @@
+[2|1|1|1]
+ORIGINAL: \bI'm the Pokémon Move Maniac.
+TRADUCCION:
+
+[2|1|2|2]
+ORIGINAL: \bI know every single move that Pokémon learn growing up.
+TRADUCCION:
+
+[2|1|4|1]
+ORIGINAL: \bI'm also a collector of Heart Scales.
+TRADUCCION:
+
+[2|1|5|2]
+ORIGINAL: \bIf you bring me one, I'll teach a move to one of your Pokémon.
+TRADUCCION:
+
+[2|1|11|1]
+ORIGINAL: \bOh! That's it! That's a very pretty Heart Scale!
+TRADUCCION:
+
+[2|1|12|2]
+ORIGINAL: \bLet me guess, you want me to teach one of your Pokémon a move?
+TRADUCCION:
+
+[2|1|17|1]
+ORIGINAL: \bWhich Pokémon needs tutoring?
+TRADUCCION:
+
+[2|1|27|2]
+ORIGINAL: \bIf your Pokémon need to learn a move, come back with a Heart Scale.
+TRADUCCION:
+
+[2|1|32|2]
+ORIGINAL: \bHunh? There isn't a single move that I can teach an Egg.
+TRADUCCION:
+
+[2|1|38|2]
+ORIGINAL: \bNo way, I don't want to go near a Shadow Pokémon.
+TRADUCCION:
+
+[2|1|44|1]
+ORIGINAL: \bSorry...
+TRADUCCION:
+
+[2|1|45|2]
+ORIGINAL: \bIt doesn't appear as if I have any move I can teach to your \v[3].
+TRADUCCION:
+
+[2|1|50|1]
+ORIGINAL: \bWhich move should I teach to your \v[3]?
+TRADUCCION:
+
+[2|1|53|1]
+ORIGINAL: \PN handed over one Heart Scale in exchange.
+TRADUCCION:
+
+[2|1|54|2]
+ORIGINAL: \bIf your Pokémon need to learn a move, come back with a Heart Scale.
+TRADUCCION:
+
+[2|1|58|2]
+ORIGINAL: \bIf your Pokémon need to learn a move, come back with a Heart Scale.
+TRADUCCION:
+
+[2|1|66|2]
+ORIGINAL: \bIf your Pokémon need to learn a move, come back with a Heart Scale.
+TRADUCCION:
+
+[2|1|72|2]
+ORIGINAL: \bIf your Pokémon need to learn a move, come back with a Heart Scale.
+TRADUCCION:
+
+[3|1|0|3]
+ORIGINAL: \bMy brother is awesome! He knows every single Pokémon move, and he can help your Pokémon remember it´s moves.
+TRADUCCION:
+[2|1|14|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+

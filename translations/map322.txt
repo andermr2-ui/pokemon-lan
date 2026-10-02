@@ -1,0 +1,143 @@
+[5|1|0|1]
+ORIGINAL: It´s an ancient plate with strange symbols.
+TRADUCCION:
+
+[2|1|11|1]
+ORIGINAL: \bAnthony: Hm? What is this place?
+TRADUCCION:
+
+[2|1|12|2]
+ORIGINAL: \bOh, you´re saying this is the secret cave that we were looking for?
+TRADUCCION:
+
+[2|1|14|2]
+ORIGINAL: \bAh, so the entrance revealed itself because of your Z-Power Ring. That sounds good.
+TRADUCCION:
+
+[2|1|16|3]
+ORIGINAL: \bBut look, this doesn´t seem like a place where Z-Power would originate from. This is very strange. Let me have a look at that ancient plate.
+TRADUCCION:
+
+[2|1|26|3]
+ORIGINAL: \bOh, this confuses me. I thought I was familiar with the ancient language of Delta. I was able to read similar plates, but this, this is new to me.
+TRADUCCION:
+
+[2|1|29|1]
+ORIGINAL: \b****! Why did I give my translation tech to that guy...
+TRADUCCION:
+
+[2|1|30|2]
+ORIGINAL: \bOh, but wait, I have gotten this far, so I might as well be honest with my partner.
+TRADUCCION:
+
+[2|1|36|3]
+ORIGINAL: \bListen, \PN. I haven´t told you the whole story about who I am, but most importantly I do know who you are.
+TRADUCCION:
+
+[2|1|39|3]
+ORIGINAL: \bOur meeting at Crystal Harbor wasn´t by accident. To be fair, I was surprised that you didn´t know who I was, as my name used to be all over the news.
+TRADUCCION:
+
+[2|1|42|2]
+ORIGINAL: \bI am Doctor Anthony Reed, former member and co-founder of Team Rocket.
+TRADUCCION:
+
+[2|1|44|3]
+ORIGINAL: \bNow I know this might come as a shock to you, but it´s the truth. Giovanni and I have parted ways years ago, because he betrayed me.
+TRADUCCION:
+
+[2|1|47|3]
+ORIGINAL: \bI used the money that we made with Team Rocket to fund my experiments, as I was working on dangerous projects.
+TRADUCCION:
+
+[2|1|50|3]
+ORIGINAL: \bBut with time, I realized that my experiments and Team Rocket´s mere existence were harming the people too much.
+TRADUCCION:
+
+[2|1|53|2]
+ORIGINAL: \bEvery scientists makes sacrifises, and I was willing to go even further, but it was too much.
+TRADUCCION:
+
+[2|1|55|3]
+ORIGINAL: \bI told Giovanni that I would leave the organisation, without snitching on him, but he already had a plan for me.
+TRADUCCION:
+
+[2|1|58|2]
+ORIGINAL: \bHe leaked information about my illegal experiments to the police, and I thought it was over for me.
+TRADUCCION:
+
+[2|1|60|3]
+ORIGINAL: \bThe work I did at Team Rocket was bad enough to put me in prison for 50 years, so I needed to confess.
+TRADUCCION:
+
+[2|1|63|3]
+ORIGINAL: \bBut during my trial, the judge gave me option to stay a free man, if I would help them take down Team Rocket.
+TRADUCCION:
+
+[2|1|66|2]
+ORIGINAL: \bI told them all I knew, and that was enough to severly damage Team Rocket.
+TRADUCCION:
+
+[2|1|68|3]
+ORIGINAL: \bAnd after Ash Ketchum, who was a freshly baked trainer at the time, managed to expose Giovanni, Team Rocket was pretty much finished.
+TRADUCCION:
+
+[2|1|71|3]
+ORIGINAL: \bThat was 2 years ago. I got my freedom and was allowed to continue my work, so I moved to Delta and began my career at the Rotom AI Company.
+TRADUCCION:
+
+[2|1|74|2]
+ORIGINAL: \bAnd while I was spending my time developing artificial intelligence, Giovanni had a new plan.
+TRADUCCION:
+
+[2|1|76|3]
+ORIGINAL: \bHe cooperated with the police and somehow avoided prison, altough that probably involved bribing a lot of people.
+TRADUCCION:
+
+[2|1|79|2]
+ORIGINAL: \bThat bloody bastard rebuild Team Rocket from the ground up, right here in the Delta Region.
+TRADUCCION:
+
+[2|1|81|3]
+ORIGINAL: \bOf course I knew about this, and I´ve been spying on him ever since. That´s why I know that you´re the one who stopped him!
+TRADUCCION:
+
+[2|1|84|3]
+ORIGINAL: \bI know that you beat Kyurem, I know that you caught Keldeo and I know that you´ve been to the Team Rocket Base.
+TRADUCCION:
+
+[2|1|87|2]
+ORIGINAL: \b****, enough backstories for today. Let me tell you about my new plan.
+TRADUCCION:
+
+[2|1|89|2]
+ORIGINAL: \b4 years ago, I developed a translation device that could decipher pretty much every language there is.
+TRADUCCION:
+
+[2|1|91|2]
+ORIGINAL: \bI made the mistake of giving it to Giovanni, since he needed it to read some of his history books.
+TRADUCCION:
+
+[2|1|93|3]
+ORIGINAL: \bI´d bet you my Metagross that he still has that device, and I´m gonna get it back one way or another.
+TRADUCCION:
+
+[2|1|96|3]
+ORIGINAL: \bMy first idea would be to check out Giovanni´s office in the Team Rocket Base. It shouldn´t be too difficult to get in there since Team Rocket is gone.
+TRADUCCION:
+
+[2|1|99|3]
+ORIGINAL: \bYou should go there and search for the device, I´ll take a few pictures of these plates and then I´ll follow you. Good luck!
+TRADUCCION:
+
+[3|2|0|3]
+ORIGINAL: \bAnthony: You know where the base is, am I right? It´s where they brought you when you got kidnapped.
+TRADUCCION:
+
+[3|2|3|1]
+ORIGINAL: \bYou know, the hidden base on Route 8, that one.
+TRADUCCION:
+
+[4|1|0|1]
+ORIGINAL: It´s an ancient plate with strange symbols.
+TRADUCCION:

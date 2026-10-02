@@ -1,0 +1,11 @@
+[2|1|0|3]
+ORIGINAL: \bMan, moving all of our stuff sure is exhausting. But I´d rather carry all of these boxes on my own than paying for the Machamp Moving Service.
+TRADUCCION:
+
+[3|1|0|3]
+ORIGINAL: \bMoving to the Delta Region was by far the biggest decision of our lives. I grew up in Unova, but it´s just too busy over there.
+TRADUCCION:
+
+[3|1|3|2]
+ORIGINAL: \bCrystal Cove is the perfect place for us, it´s such a relaxed little town.
+TRADUCCION:

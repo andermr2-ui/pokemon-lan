@@ -1,0 +1,63 @@
+[5|1|8|2]
+ORIGINAL: \bNyssa: Oh my, we´ve finally made it. Isn´t this the cutest little place?!
+TRADUCCION: \bNyssa: Vaya, por fin llegamos. ¡¿No es este el lugarcito más adorable?!
+
+[5|1|10|3]
+ORIGINAL: \bBut let me tell you something about the gift. It has been in my family for generations, with a single purpose.
+TRADUCCION: \bPero déjame contarte algo sobre el regalo. Ha estado en mi familia por generaciones, con un único propósito.
+
+[5|1|13|3]
+ORIGINAL: \b3000 years ago, during the war in Kalos, there was this giant whose best friend was a certain Floette, also known as the Eternal Flower.
+TRADUCCION: \bHace 3000 años, durante la guerra en Kalos, había un gigante cuyo mejor amigo era una Floette en particular, también conocida como la Flor Eterna.
+
+[5|1|16|2]
+ORIGINAL: \bAfter the war, they got split up, and they never saw each other again.
+TRADUCCION: \bDespués de la guerra, se separaron, y nunca volvieron a verse.
+
+[5|1|18|3]
+ORIGINAL: \bThat was until about one year ago, when the giant was spotted again. His name is AZ, and he´s never stopped searching for his Floette.
+TRADUCCION: \bAsí fue hasta hace un año, cuando volvieron a ver al gigante. Se llama AZ, y nunca dejó de buscar a su Floette.
+
+[5|1|21|3]
+ORIGINAL: \bWhen we heard about that, we immediately travelled to Kalos in order to bring him his long lost Pokémon.
+TRADUCCION: \bCuando nos enteramos, viajamos de inmediato a Kalos para llevarle a su Pokémon perdido hace tanto tiempo.
+
+[5|1|24|2]
+ORIGINAL: \bYup, my family has been looking over the Eternal Flower for 3000 years.
+TRADUCCION: \bSí, mi familia ha cuidado de la Flor Eterna durante 3000 años.
+
+[5|1|26|2]
+ORIGINAL: \bBut after AZ and Floette were happily reunited again, AZ realized something.
+TRADUCCION: \bPero después de que AZ y Floette se reencontraran felizmente, AZ se dio cuenta de algo.
+
+[5|1|28|3]
+ORIGINAL: \bHe didn´t have much time left, since most giants never get older than 1000 years, and he wanted Floette to have a bright future.
+TRADUCCION: \bNo le quedaba mucho tiempo, ya que la mayoría de los gigantes nunca superan los 1000 años, y quería que Floette tuviera un futuro brillante.
+
+[5|1|31|3]
+ORIGINAL: \bAfter 6 happy months, AZ returned Floette to us, with the mission to find a worthy trainer who could take care of the Eternal Flower.
+TRADUCCION: \bTras 6 meses felices, AZ nos devolvió a Floette, con la misión de encontrar a un entrenador digno que pudiera cuidar de la Flor Eterna.
+
+[5|1|34|2]
+ORIGINAL: \bAnd now, this story can finally come to and end, because I found you.
+TRADUCCION: \bY ahora, esta historia por fin puede llegar a su fin, porque te encontré a ti.
+
+[5|1|36|2]
+ORIGINAL: \bI love you, \PN. Please take care of the Eternal Flower.
+TRADUCCION: \bTe quiero, \PN. Por favor, cuida bien de la Flor Eterna.
+
+[5|1|39|3]
+ORIGINAL: \bI know that you´re the right person to have the Eternal Flower, and I´m not saying that because of my feelings for you.
+TRADUCCION: \bSé que eres la persona indicada para tener la Flor Eterna, y no lo digo por lo que siento por ti.
+
+[5|1|42|3]
+ORIGINAL: \bHm, but sadly our date got cut short because of this weird Eternatus thing. I´m afraid I´ve got to go back to the Gym now.
+TRADUCCION: \bHmm, pero por desgracia nuestra cita se cortó por culpa de ese extraño asunto de Eternatus. Me temo que tengo que volver ya al Gimnasio.
+
+[5|1|45|2]
+ORIGINAL: \bYou can visit me any time, and I really want to be with you. Bye, \PN.
+TRADUCCION: \bPuedes visitarme cuando quieras, y de verdad quiero estar contigo. Adiós, \PN.
+
+[3|1|0|3]
+ORIGINAL: \bThe pastry and the sweets that they have here are fantastic! This is easily the best place in the whole region to get that stuff.
+TRADUCCION: \b¡Los pasteles y dulces que tienen aquí son fantásticos! Este es sin duda el mejor lugar de toda la región para conseguir esas cosas.

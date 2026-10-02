@@ -1,0 +1,99 @@
+[1|1|2|1]
+ORIGINAL: \bI´m gonna crush you!
+TRADUCCION:
+
+[1|2|0|2]
+ORIGINAL: \bTraining in this heat makes me strong! But only with sunscreen.
+TRADUCCION:
+
+[2|1|2|1]
+ORIGINAL: \bI ran out of sunscreen. Give me yours!
+TRADUCCION:
+
+[2|2|0|2]
+ORIGINAL: \bWhat?! You don´t have any sunscreen in the first place? That´s dangerous...
+TRADUCCION:
+
+[3|1|2|1]
+ORIGINAL: \bWould you be so kind and train with me?
+TRADUCCION:
+
+[3|2|0|2]
+ORIGINAL: \bI need to train a bit more, but one day I will challenge Nyssa!
+TRADUCCION:
+
+[15|1|0|1]
+ORIGINAL: Reshiram is staring at you.
+TRADUCCION:
+
+[15|1|2|1]
+ORIGINAL: It wants to battle!
+TRADUCCION:
+
+[15|1|4|1]
+ORIGINAL: \bRESHIIIIII!!!
+TRADUCCION:
+
+[15|3|0|1]
+ORIGINAL: Reshiram disappeared. Will it come back?
+TRADUCCION:
+
+[10|1|0|1]
+ORIGINAL: It´s a Pokémon Statue dedicated to Moltres.
+TRADUCCION:
+
+[10|2|0|1]
+ORIGINAL: It´s a Pokémon Statue dedicated to Moltres.
+TRADUCCION:
+
+[10|2|2|1]
+ORIGINAL: The Delta Stone in your pocket just lit up!
+TRADUCCION:
+
+[10|2|3|1]
+ORIGINAL: Something powerful is approaching!
+TRADUCCION:
+
+[10|2|5|1]
+ORIGINAL: \bMOOOOOLLL!!!
+TRADUCCION:
+
+[10|3|0|1]
+ORIGINAL: It´s a Pokémon Statue dedicated to Moltres.
+TRADUCCION:
+
+[10|4|0|1]
+ORIGINAL: Moltres disappeared. Will it come back?
+TRADUCCION:
+
+[10|5|0|1]
+ORIGINAL: It´s a Pokémon Statue dedicated to Moltres.
+TRADUCCION:
+
+[10|6|0|1]
+ORIGINAL: It´s a Pokémon Statue dedicated to Moltres.
+TRADUCCION:
+
+[10|6|2|1]
+ORIGINAL: The Delta Stone in your pocket just lit up!
+TRADUCCION:
+
+[10|6|3|1]
+ORIGINAL: Something powerful is approaching!
+TRADUCCION:
+
+[10|6|5|1]
+ORIGINAL: \bMOOOOOLLL!!!
+TRADUCCION:
+
+[10|7|0|1]
+ORIGINAL: It´s a Pokémon Statue dedicated to Moltres.
+TRADUCCION:
+
+[10|8|0|1]
+ORIGINAL: Moltres disappeared. Will it come back?
+TRADUCCION:
+
+[10|9|0|1]
+ORIGINAL: It´s a Pokémon Statue dedicated to Moltres.
+TRADUCCION:

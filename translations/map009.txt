@@ -1,0 +1,95 @@
+[5|1|1|1]
+ORIGINAL: \bBill: Hello! I'm \v[2].
+TRADUCCION:
+
+[5|1|2|1]
+ORIGINAL: \bI invented the Pokémon Storage System.
+TRADUCCION:
+
+[5|1|5|1]
+ORIGINAL: \bWhat do you want to know?
+TRADUCCION:
+
+[5|1|8|2]
+ORIGINAL: \bAll storage box wallpapers need to be listed in class PokemonStorage, in def allWallpapers.
+TRADUCCION:
+
+[5|1|10|3]
+ORIGINAL: \bThey correspond to box_0.png, box_1.png, etc. in order without gaps. These images are in the folder Graphics/Pictures/Storage.
+TRADUCCION:
+
+[5|1|13|3]
+ORIGINAL: \bStorage wallpapers are split into two categories: basic and special.All basic wallpapers are listed before the special wallpapers.
+TRADUCCION:
+
+[5|1|16|3]
+ORIGINAL: \bBasic wallpapers are always accessible, and boxes use these wallpapers by default. Numbers 0 to 15 inclusive are basic wallpapers.
+TRADUCCION:
+
+[5|1|19|3]
+ORIGINAL: \bSpecial wallpapers start off locked and unavailable. You can unlock them with pbUnlockWallpaper(id), where id is the wallpaper's number.
+TRADUCCION:
+
+[2|1|7|1]
+ORIGINAL: \rHello, and welcome to the Pokémon Center.
+TRADUCCION:
+
+[2|1|8|1]
+ORIGINAL: \rWe restore your tired Pokémon to full health.
+TRADUCCION:
+
+[2|1|9|1]
+ORIGINAL: \rWould you like to rest your Pokémon?
+TRADUCCION:
+
+[2|1|12|1]
+ORIGINAL: \rOK, I'll take your Pokémon for a few seconds.
+TRADUCCION:
+
+[2|1|49|1]
+ORIGINAL: \rYour Pokémon may be infected by Pokérus.
+TRADUCCION:
+
+[2|1|50|2]
+ORIGINAL: \rLittle is known about the Pokérus except that they are microscopic life-forms that attach to Pokémon.
+TRADUCCION:
+
+[2|1|52|2]
+ORIGINAL: \rWhile infected, Pokémon are said to grow exceptionally well.
+TRADUCCION:
+
+[2|1|57|1]
+ORIGINAL: \rThank you for waiting.
+TRADUCCION:
+
+[2|1|58|1]
+ORIGINAL: \rWe've restored your Pokémon to full health.
+TRADUCCION:
+
+[2|1|65|1]
+ORIGINAL: \rWe hope to see you again!
+TRADUCCION:
+
+[2|1|70|1]
+ORIGINAL: \rWe hope to see you again!
+TRADUCCION:
+
+[2|2|8|2]
+ORIGINAL: \rFirst, you should restore your Pokémon to full health.
+TRADUCCION:
+
+[2|2|44|1]
+ORIGINAL: \rYour Pokémon have been healed to perfect health.
+TRADUCCION:
+
+[2|2|51|1]
+ORIGINAL: \rWe hope you excel!
+TRADUCCION:
+[5|1|6|OPCIONES]
+ORIGINAL: Wallpapers|Cancel
+TRADUCCION:
+
+[2|1|10|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+

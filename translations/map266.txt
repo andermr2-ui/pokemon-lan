@@ -1,0 +1,127 @@
+[2|1|0|2]
+ORIGINAL: \bOh, what do we have here? A Pokémon Trainer that likes to walk into random people´s houses.
+TRADUCCION:
+
+[2|1|2|3]
+ORIGINAL: \bI still haven´t gotten behind this "our door is open for everyone" thing. Who invented that? I get that good manners are important, but this is a bit much.
+TRADUCCION:
+
+[2|1|5|2]
+ORIGINAL: \bIt´s not like we´re in some kind of video game where every stranger has a reward or something.
+TRADUCCION:
+
+[2|1|7|3]
+ORIGINAL: \bBut wait, what if we are living in a video game? Haven´t you noticed the lack of walls inside these houses? It´s all just black over there.
+TRADUCCION:
+
+[2|1|10|3]
+ORIGINAL: \bOr what´s with us sitting in the same exact spot all day, saying the same bloody thing over and over again.
+TRADUCCION:
+
+[2|1|13|3]
+ORIGINAL: \bBut we should be quiet, because everytime I mention this to someone, a weird shadow thing appears in the woods.
+TRADUCCION:
+
+[2|1|16|2]
+ORIGINAL: \bI always get nightmares after that, so it´s best to let all of this be nothing but a theory.
+TRADUCCION:
+
+[2|1|18|2]
+ORIGINAL: \bYou see, I´m just a normal girl that has a tragic reason to gift you a rare Pokémon. Here, take this.
+TRADUCCION:
+
+[2|1|22|2]
+ORIGINAL: \bI don´t even know how I got this thing, but it´s probably gonna help you.
+TRADUCCION:
+
+[2|1|24|2]
+ORIGINAL: \bOh, and I have something else that I feel like giving you for no reason. Here you go.
+TRADUCCION:
+
+[2|1|27|3]
+ORIGINAL: \bIf you ever find some clues about this shadow thing that haunts me, please come back and tell me. I will find the truth behind this weird reality.
+TRADUCCION:
+
+[2|1|33|1]
+ORIGINAL: There's no more room for Pokémon!
+TRADUCCION:
+
+[2|1|34|1]
+ORIGINAL: The Pokémon Boxes are full and can't accept any more!
+TRADUCCION:
+
+[2|2|0|2]
+ORIGINAL: \bWhat if this shadow thing turns out to be a Pokémon? I don´t know what´d scare me more...
+TRADUCCION:
+
+[2|3|0|1]
+ORIGINAL: \bHm? What do you want now?
+TRADUCCION:
+
+[2|3|1|2]
+ORIGINAL: \bOh, I just said a different line. Did you change a game variable?!
+TRADUCCION:
+
+[2|3|3|2]
+ORIGINAL: \bOh, you´re saying you know which Pokémon haunts me.
+TRADUCCION:
+
+[2|3|5|3]
+ORIGINAL: \bDarkrai? Sounds scary. But can you help me get rid of that thing?! Please, I don´t want to be trapped in this game for much longer!!!
+TRADUCCION:
+
+[2|3|8|1]
+ORIGINAL: \bReally? You will? Thank you!
+TRADUCCION:
+
+[2|3|9|2]
+ORIGINAL: \bOkay, so Darkrai always appears over the pond on the other side of the road.
+TRADUCCION:
+
+[2|3|11|2]
+ORIGINAL: \bEverytime I openly question our reality, it starts to haunt me. But it only comes at night.
+TRADUCCION:
+
+[2|3|13|2]
+ORIGINAL: \bI trust you, so I will try to get it to return. Are you ready?
+TRADUCCION:
+
+[2|3|15|3]
+ORIGINAL: \bWE ARE ALL JUST NPCS TRAPPED INSIDE A POKÈMON FAN GAME. OUR LIFE IS NOTHING BUT A LIE!!!
+TRADUCCION:
+
+[2|3|18|2]
+ORIGINAL: \bThat should do it. Darkrai will return, I can feel it. Please, help me!
+TRADUCCION:
+
+[2|4|0|2]
+ORIGINAL: \bIf you actually manage to catch Darkrai, then I will try to find a way out of this world.
+TRADUCCION:
+
+[2|5|0|2]
+ORIGINAL: \bYou did it! I saw it from the window! Now there´s nothing that will stop me!
+TRADUCCION:
+
+[2|5|2|2]
+ORIGINAL: \bHm? Why can´t I move?! WHY CAN´T I MOVE?! NOOOO!!!
+TRADUCCION:
+
+[2|6|0|1]
+ORIGINAL: \bI will never get out of here...
+TRADUCCION:
+
+[3|1|0|2]
+ORIGINAL: \bI´ve been trying to find a therapist for my daughter. She´s convinced that our entire reality is fake.
+TRADUCCION:
+
+[3|1|2|3]
+ORIGINAL: \bA week ago she said that everything in this world has been made by some weird 20 year old student who needs to touch grass.
+TRADUCCION:
+
+[3|1|5|2]
+ORIGINAL: \bIf you know someone who could help her, that´d be great. She´s a nice girl, but I can´t take this anymore.
+TRADUCCION:
+
+[4|1|0|3]
+ORIGINAL: \bMy sister is insane. She needs therapy right now, because living with her is becoming impossible. Can you help us?
+TRADUCCION:

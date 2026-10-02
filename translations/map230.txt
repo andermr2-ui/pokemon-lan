@@ -1,0 +1,55 @@
+[6|1|0|1]
+ORIGINAL: It´s a Pokémon Statue dedicated to Raikou.
+TRADUCCION:
+
+[6|2|0|1]
+ORIGINAL: It´s a Pokémon Statue dedicated to Raikou.
+TRADUCCION:
+
+[6|2|2|1]
+ORIGINAL: The Delta Stone in your pocket just lit up!
+TRADUCCION:
+
+[6|2|3|1]
+ORIGINAL: Something powerful is approaching!
+TRADUCCION:
+
+[6|2|5|1]
+ORIGINAL: \bRAAAAAIII!!!
+TRADUCCION:
+
+[6|3|0|1]
+ORIGINAL: It´s a Pokémon Statue dedicated to Raikou.
+TRADUCCION:
+
+[6|4|0|1]
+ORIGINAL: Raikou disappeared. Will it come back?
+TRADUCCION:
+
+[6|5|0|1]
+ORIGINAL: It´s a Pokémon Statue dedicated to Raikou.
+TRADUCCION:
+
+[1|1|2|1]
+ORIGINAL: \bToughen up, kid!
+TRADUCCION:
+
+[1|2|0|1]
+ORIGINAL: \bI need to get stronger!
+TRADUCCION:
+
+[2|1|2|1]
+ORIGINAL: \bWatch out, it´s dangerous around the edge!
+TRADUCCION:
+
+[2|2|0|2]
+ORIGINAL: \bBe careful around the edge. If you slip and fall, it´s pretty much over for you.
+TRADUCCION:
+
+[3|1|2|1]
+ORIGINAL: \bDo you feel the thunder?
+TRADUCCION:
+
+[3|2|0|2]
+ORIGINAL: \bThe thunder talks to us. It tries to warn those who come to close to the edge.
+TRADUCCION:

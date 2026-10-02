@@ -1,0 +1,99 @@
+[11|1|0|1]
+ORIGINAL: \bOi, ye look exhausted mate. Please, take this.
+TRADUCCION:
+
+[11|2|0|2]
+ORIGINAL: \bThe way to Granite Heights is tough, so it ain´t no big deal to help yer guests.
+TRADUCCION:
+
+[6|1|0|3]
+ORIGINAL: \bAh, a Gym Challenger! The journey to Granite Heights must´ve been exhausting. I have just the right thing for you.
+TRADUCCION:
+
+[6|1|4|2]
+ORIGINAL: \bThis is a delicious specialty from Hoenn. Oh, and there´s something else I want you to have.
+TRADUCCION:
+
+[6|1|7|3]
+ORIGINAL: \bI´ve had this fossil for years now, and I never knew what do to with it. I hope it´s more useful in your hands.
+TRADUCCION:
+
+[6|1|10|1]
+ORIGINAL: \bEnjoy your time in our town!
+TRADUCCION:
+
+[6|2|0|3]
+ORIGINAL: \bIn Granite Heights, it´s a tradition to gift visitors. We love to reward those who make it here with rare and useful goods.
+TRADUCCION:
+
+[7|1|0|1]
+ORIGINAL: Granite Heights Gym\nLeader: Galvano
+TRADUCCION:
+
+[13|1|0|2]
+ORIGINAL: \bNow you look like a trainer who´s in need of rare Pokémon.
+TRADUCCION:
+
+[13|1|2|3]
+ORIGINAL: \bThen you´ve come to the right guy, because I´m willing to trade my rare Galarian Weezing for a Kantonian Weezing. Are you interested?
+TRADUCCION:
+
+[13|1|14|1]
+ORIGINAL: \bYou don't want to trade?  Aww...
+TRADUCCION:
+
+[13|1|17|1]
+ORIGINAL: \bOK, let's get started.
+TRADUCCION:
+
+[13|1|22|1]
+ORIGINAL: \PN traded Weezing for Weezing!
+TRADUCCION:
+
+[13|1|23|1]
+ORIGINAL: \bThanks for trading with me!
+TRADUCCION:
+
+[13|1|29|1]
+ORIGINAL: \bYou don't want to trade? Aww...
+TRADUCCION:
+
+[13|2|0|1]
+ORIGINAL: \bThanks for trading with me!
+TRADUCCION:
+
+[8|1|0|3]
+ORIGINAL: \bWhat a lovely day! It really doesn´t get much better than this. But wait, do I know you? You don´t seem familiar.
+TRADUCCION:
+
+[8|1|3|3]
+ORIGINAL: \bOh, if you aren´t from here, then that means I´m supposed to gift you something. Well, at least that´s what my dad said, traditions or something.
+TRADUCCION:
+
+[8|1|6|1]
+ORIGINAL: \bEither way, he gave me this, and now it´s yours.
+TRADUCCION:
+
+[8|1|8|2]
+ORIGINAL: \bHm, giving you that gift actually felt kinda nice. I think I get it now. Have a lovely day!
+TRADUCCION:
+
+[8|2|0|2]
+ORIGINAL: \bDid you know that Granite Heights was build on the ruins of an ancient village?
+TRADUCCION:
+
+[4|1|13|3]
+ORIGINAL: \bZeke: Not bad, not bad at all. Now that you´ve completed the Gym Challenge, you gotta join the Challengers Tournament.
+TRADUCCION:
+
+[4|1|16|3]
+ORIGINAL: \bIt´s the perfect place to settle this once and for all. Everyone will be watching this tournament, so it´s our chance to reach the top!
+TRADUCCION:
+
+[4|1|19|1]
+ORIGINAL: \bCome on, \PN, let´s head to Riverstone Stadium!
+TRADUCCION:
+[13|1|5|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+

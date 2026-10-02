@@ -1,0 +1,111 @@
+[5|1|1|1]
+ORIGINAL: \bSTOP!
+TRADUCCION:
+
+[5|1|2|3]
+ORIGINAL: \bDon´t enter this part of Route 8. This is where Kleavor lives. This Pokémon was once believed to be extinct! It´s extremely strong and very aggressive!
+TRADUCCION:
+
+[5|1|5|1]
+ORIGINAL: \bIf I were you, I would not go in there...
+TRADUCCION:
+
+[5|2|0|3]
+ORIGINAL: \bIf someone were to catch this Pokémon, scientists might be able to find out more about it. But I don´t think anyone stands a chance against Kleavor.
+TRADUCCION:
+
+[29|1|0|1]
+ORIGINAL: It´s a shrine dedicated to Tornadus.
+TRADUCCION:
+
+[29|2|0|1]
+ORIGINAL: It´s a shrine dedicated to Tornadus.
+TRADUCCION:
+
+[29|2|2|1]
+ORIGINAL: The Delta Stone in your pocket just lit up!
+TRADUCCION:
+
+[29|2|3|1]
+ORIGINAL: Something powerful is approaching!
+TRADUCCION:
+
+[29|2|5|1]
+ORIGINAL: \bTORNAAA!!!
+TRADUCCION:
+
+[29|3|0|1]
+ORIGINAL: It´s a shrine dedicated to Tornadus.
+TRADUCCION:
+
+[29|4|0|1]
+ORIGINAL: Tornadus disappeared. Will it come back?
+TRADUCCION:
+
+[29|5|0|1]
+ORIGINAL: It´s a shrine dedicated to Tornadus.
+TRADUCCION:
+
+[7|1|2|1]
+ORIGINAL: \bYou look like you want to battle. Alright then!
+TRADUCCION:
+
+[7|2|0|2]
+ORIGINAL: \bYou can try and get a better view over the maze from here.
+TRADUCCION:
+
+[8|1|2|1]
+ORIGINAL: \bI got lost, but at least I found a cool Pokémon!
+TRADUCCION:
+
+[8|2|0|1]
+ORIGINAL: \bGood luck, I hope you find the exit.
+TRADUCCION:
+
+[9|1|2|2]
+ORIGINAL: \bBe careful if you want to go any further, you might get lost.
+TRADUCCION:
+
+[9|2|0|2]
+ORIGINAL: \bThis maze wasn´t actually made by humans. It´s entirely natural.
+TRADUCCION:
+
+[4|1|1|1]
+ORIGINAL: \bKLEAAAAAAVVVV!!!
+TRADUCCION:
+
+[10|1|2|1]
+ORIGINAL: \bI think I found the exit!
+TRADUCCION:
+
+[10|2|0|2]
+ORIGINAL: \bI thought this was the exit, but without Surf, this is just another dead end.
+TRADUCCION:
+
+[21|1|0|2]
+ORIGINAL: \bOh, hello. I didn´t expect someone to find my favorite fishing spot.
+TRADUCCION:
+
+[21|1|2|3]
+ORIGINAL: \bWell, it´s always great to meet a fellow fisherman. Why don´t you accompany me and fish here with me?
+TRADUCCION:
+
+[21|1|7|3]
+ORIGINAL: \bGreat! And you know what, I want you to have my spare rod. These Good Rods are very durable anyways, so I don´t really need two of them.
+TRADUCCION:
+
+[21|1|11|1]
+ORIGINAL: \bNow let´s catch something!
+TRADUCCION:
+
+[21|1|18|1]
+ORIGINAL: \bOh, that´s a shame.
+TRADUCCION:
+
+[21|2|0|3]
+ORIGINAL: \bMy biggest catch on Route 8 was a massive Feebas. I know that those are ugly, but you should have seen the size of that thing!
+TRADUCCION:
+[21|1|5|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+

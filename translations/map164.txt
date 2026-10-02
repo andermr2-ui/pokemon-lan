@@ -1,0 +1,83 @@
+[11|1|2|2]
+ORIGINAL: \bShould I use a Fire-Type Pokémon while battling in the sea?
+TRADUCCION:
+
+[11|2|0|3]
+ORIGINAL: \bEven tough Fire-, Rock- and Ground-Type Pokémon are weak to water, they somehow don´t mind battling in the sea.
+TRADUCCION:
+
+[1|1|0|1]
+ORIGINAL: \bI love the beach! That´s why we´re here every day!
+TRADUCCION:
+
+[2|1|0|3]
+ORIGINAL: \bMy daughter always gets upset when she can´t go to the beach, so I decided to take her here as often as possible.
+TRADUCCION:
+
+[13|1|0|2]
+ORIGINAL: \bOh, hi. You don´t happen to have an Exeggutor with you right now, do you?
+TRADUCCION:
+
+[13|1|2|3]
+ORIGINAL: \bI´m from Alola and I´ve a rare Alolan Exeggutor with me, which I´d like to trade for a Kanto Exeggutor. Do you want to trade with me?
+TRADUCCION:
+
+[13|1|14|1]
+ORIGINAL: \bYou don't want to trade?  Aww...
+TRADUCCION:
+
+[13|1|17|1]
+ORIGINAL: \bOK, let's get started.
+TRADUCCION:
+
+[13|1|22|1]
+ORIGINAL: \PN traded Exeggutor for Exeggutor!
+TRADUCCION:
+
+[13|1|23|2]
+ORIGINAL: \bThank you so much! I always wanted to have the Kanto Form of Exeggutor, and now I finally have one!
+TRADUCCION:
+
+[13|1|30|1]
+ORIGINAL: \bYou don't want to trade? Aww...
+TRADUCCION:
+
+[13|2|0|1]
+ORIGINAL: \bThanks for trading with me!
+TRADUCCION:
+
+[8|1|2|2]
+ORIGINAL: \bCareful, rocks come tumbling down the cliff sometimes.
+TRADUCCION:
+
+[8|2|0|2]
+ORIGINAL: \bThis rocky beach attracts rare Pokémon. They like to hide near the rocks.
+TRADUCCION:
+
+[9|1|2|2]
+ORIGINAL: \bWe would battle you, but with just one Pokémon on your team, this wouldn´t be fair.
+TRADUCCION:
+
+[9|1|8|2]
+ORIGINAL: \bWhere do you think you´re going? We reserved this spot with towels!
+TRADUCCION:
+
+[9|2|0|2]
+ORIGINAL: \bThis beach is massive, why do you need to be here?
+TRADUCCION:
+
+[10|1|2|2]
+ORIGINAL: \bWe would battle you, but with just one Pokémon on your team, this wouldn´t be fair.
+TRADUCCION:
+
+[10|1|8|1]
+ORIGINAL: \bThis is our spot. And we will fight for it!
+TRADUCCION:
+
+[10|2|0|2]
+ORIGINAL: \bPlease let us stay here, we had to wait ages for our vacation...
+TRADUCCION:
+[13|1|5|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+

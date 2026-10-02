@@ -1,0 +1,15 @@
+[1|1|2|1]
+ORIGINAL: \bYou wouldn´t decline a challenge from a lady?
+TRADUCCION:
+
+[1|2|0|1]
+ORIGINAL: \bBe careful if you´re headed to the Dark Forest.
+TRADUCCION:
+
+[3|1|2|1]
+ORIGINAL: \bGet out of my way, I´m trying to catch something!
+TRADUCCION:
+
+[3|2|0|1]
+ORIGINAL: \bLet me catch something now!
+TRADUCCION:

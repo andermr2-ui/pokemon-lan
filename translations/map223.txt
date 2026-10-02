@@ -1,0 +1,47 @@
+[5|1|2|1]
+ORIGINAL: \bOh no, you´re not gonna stop us!
+TRADUCCION:
+
+[5|2|0|2]
+ORIGINAL: \bThis changes nothing. Soon, the boss will rule over everyone!
+TRADUCCION:
+
+[6|1|2|1]
+ORIGINAL: \bTurn around, or this will get ugly!
+TRADUCCION:
+
+[6|2|0|1]
+ORIGINAL: \bFine. Go ahead. But you will regret it!
+TRADUCCION:
+
+[7|1|2|1]
+ORIGINAL: \bGet lost!
+TRADUCCION:
+
+[7|2|0|1]
+ORIGINAL: \bI disappointed the boss...
+TRADUCCION:
+
+[8|1|2|1]
+ORIGINAL: \bWrong place wrong time, kid!
+TRADUCCION:
+
+[8|2|0|3]
+ORIGINAL: \bI´m serious, nothing will happen to you if you turn around now. But if you go ahead, then you´re gonna be in trouble.
+TRADUCCION:
+
+[9|1|2|2]
+ORIGINAL: \bWhat? You already want to leave? Come on, the party hasn´t even started!
+TRADUCCION:
+
+[9|2|0|2]
+ORIGINAL: \bI won´t stop you if you use an Escape Rope, but you´re not taking the normal exit!
+TRADUCCION:
+
+[4|1|2|2]
+ORIGINAL: \bThe boss said that we´re all getting fired if someone gets to him. And I need the money!
+TRADUCCION:
+
+[4|2|0|2]
+ORIGINAL: \bThe boss will succeed with his plan. And then I won´t need to worry about money ever again!
+TRADUCCION:

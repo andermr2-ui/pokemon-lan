@@ -1,0 +1,47 @@
+[2|1|0|3]
+ORIGINAL: \bOh my, a visitor! What a pleasent surprise! You know, I never had any children, so I´ve been quite lonely since my husband died.
+TRADUCCION:
+
+[2|1|3|3]
+ORIGINAL: \bYoung folks like you usually don´t want to listen to an old lady like me, so having a visitor really makes my day.
+TRADUCCION:
+
+[2|1|6|3]
+ORIGINAL: \bI regret never becoming a mother or even a grandmother, so let me try to at least feel like one for a day.
+TRADUCCION:
+
+[2|1|9|3]
+ORIGINAL: \bMy husband made me a gift shortly before he passed away, and I haven´t been able to take care of this thing since then.
+TRADUCCION:
+
+[2|1|12|3]
+ORIGINAL: \bOh, and don´t worry, you aren´t taking away a parting gift or anything like that, he got me something else as well.
+TRADUCCION:
+
+[2|1|15|1]
+ORIGINAL: \bSo please, let me gift you this.
+TRADUCCION:
+
+[2|1|18|3]
+ORIGINAL: \bI feel quite accomplished now. My husband is waiting for me, and I wouldn´t mind seeing him again now. Take care of the little Bulbasaur.
+TRADUCCION:
+
+[2|1|21|1]
+ORIGINAL: \bFarewell!
+TRADUCCION:
+
+[2|1|25|1]
+ORIGINAL: There's no more room for Pokémon!
+TRADUCCION:
+
+[2|1|26|1]
+ORIGINAL: The Pokémon Boxes are full and can't accept any more!
+TRADUCCION:
+
+[2|2|0|3]
+ORIGINAL: \bI´ve now done everything I wanted to do in this life. Let me give you a lesson, kid. Never settle for less, and marry someone who is very rich.
+TRADUCCION:
+
+[2|2|3|1]
+ORIGINAL: \bThat´s what I did, and it worked out for me.
+TRADUCCION:

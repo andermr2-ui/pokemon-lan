@@ -1,0 +1,15 @@
+[2|1|0|2]
+ORIGINAL: \bAhoy, Champion! Do you wanna go back to Crystal Harbor?
+TRADUCCION:
+
+[2|1|4|2]
+ORIGINAL: \bAlright, hop on the ferry and you´ll be there in no time!
+TRADUCCION:
+
+[2|1|26|1]
+ORIGINAL: \bSure, I´ll wait. Just tell me when you want to go.
+TRADUCCION:
+[2|1|2|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+

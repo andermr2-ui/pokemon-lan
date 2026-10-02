@@ -1,0 +1,7 @@
+[5|1|2|2]
+ORIGINAL: \bIf you want to go any further, I need to check if you´re strong enough.
+TRADUCCION:
+
+[5|2|0|1]
+ORIGINAL: \bGo on ahead.
+TRADUCCION:

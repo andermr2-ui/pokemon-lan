@@ -1,0 +1,167 @@
+[12|1|0|1]
+ORIGINAL: \bWow, it´s really you...
+TRADUCCION:
+
+[12|1|1|2]
+ORIGINAL: \bI´m like your biggest fan, \PN! Since you became Champion, I´ve always wanted to meet you.
+TRADUCCION:
+
+[12|1|3|2]
+ORIGINAL: \bI snuck into Champions Village, because I knew I´d find you here. Please, take this gift!
+TRADUCCION:
+
+[12|2|0|1]
+ORIGINAL: \bPlease don´t tell the guards that I´m here...
+TRADUCCION:
+
+[13|1|0|2]
+ORIGINAL: \b???: Ah, you must be \PN. Congratulations on becoming Champion!
+TRADUCCION:
+
+[13|1|2|2]
+ORIGINAL: \bMy name is Bruno. I´m an Elite Four member from Kanto, so I know how strong you have to be.
+TRADUCCION:
+
+[13|1|4|2]
+ORIGINAL: \bBruno: Since you´re such a strong trainer, you´re just the one I need for this job.
+TRADUCCION:
+
+[13|1|6|3]
+ORIGINAL: \bA few years ago, I visited the Crown Tundra, which is part of Galar, and I found an old relic called the Reins of Unity.
+TRADUCCION:
+
+[13|1|9|3]
+ORIGINAL: \bThese reins once belonged to a Legendary Pokémon called Calyrex. With the power of the reins, it could mount two mighty steeds.
+TRADUCCION:
+
+[13|1|12|1]
+ORIGINAL: \bI´m talking about Glastrier and Spectrier!
+TRADUCCION:
+
+[13|1|13|3]
+ORIGINAL: \bBasically, all I want you to do is take the Reins of Unity and find these Pokémon. No one has seen them in ages, so they might not even be alive anymore.
+TRADUCCION:
+
+[13|1|16|2]
+ORIGINAL: \bPlease tell me if you find at least one of them, that´s enough for me.
+TRADUCCION:
+
+[13|1|18|1]
+ORIGINAL: \bOh, and of course you shouldn´t go without these.
+TRADUCCION:
+
+[13|1|20|1]
+ORIGINAL: \bGood luck for your search!
+TRADUCCION:
+
+[13|2|0|1]
+ORIGINAL: \bBruno: I hope these Pokémon are still alive...
+TRADUCCION:
+
+[13|3|0|1]
+ORIGINAL: \bBruno: Hm? Do you have any news for me?
+TRADUCCION:
+
+[13|3|1|1]
+ORIGINAL: \bWhat? So they´re still alive?! That´s great!
+TRADUCCION:
+
+[13|3|2|2]
+ORIGINAL: \bI was super worried, but this calms me down. Let me reward you with this.
+TRADUCCION:
+
+[13|3|5|2]
+ORIGINAL: \bWait, no, that´s not enough of a reward. Take these as well.
+TRADUCCION:
+
+[13|3|10|2]
+ORIGINAL: \bThat should do it. Thanks for helping me out, and take care!
+TRADUCCION:
+
+[13|4|0|1]
+ORIGINAL: \bBruno: Yup, I happen to have a lot of Z-Crystals.
+TRADUCCION:
+
+[14|1|0|2]
+ORIGINAL: \b???: Ah, you´re \PN if I´m not mistaken. Name´s Brock, nice to meet ya.
+TRADUCCION:
+
+[14|1|2|2]
+ORIGINAL: \bBrock: I´m a Gym Leader in Kanto, and I recently found a very interesting Rockruff.
+TRADUCCION:
+
+[14|1|4|2]
+ORIGINAL: \bThis little fella has a lot of potential, but I just can´t get it to evolve into Lycanroc.
+TRADUCCION:
+
+[14|1|6|2]
+ORIGINAL: \bWhy don´t you take this Rockruff? Maybe you´ve more luck than me.
+TRADUCCION:
+
+[14|1|10|1]
+ORIGINAL: \bOh, and you should take this as well.
+TRADUCCION:
+
+[14|1|12|3]
+ORIGINAL: \bUsually, Rockruffs evolve very early. They can evolve into one of two Lycanroc forms, it all depends on when they evolve.
+TRADUCCION:
+
+[14|1|15|3]
+ORIGINAL: \bApparently there is a third form of Lycanroc, also known as the Dusk Form, but I haven´t come across one yet. Have a nice day!
+TRADUCCION:
+
+[14|1|21|1]
+ORIGINAL: There's no more room for Pokémon!
+TRADUCCION:
+
+[14|1|22|1]
+ORIGINAL: The Pokémon Boxes are full and can't accept any more!
+TRADUCCION:
+
+[14|2|0|3]
+ORIGINAL: \bI really want to have a Lycanroc for my team, but maybe this is a sign that it´s the wrong Pokémon for me.
+TRADUCCION:
+
+[4|1|0|2]
+ORIGINAL: \bAh, there you are. This is where we´ll test the strength of Urshifu.
+TRADUCCION:
+
+[4|1|4|2]
+ORIGINAL: \bSince you came all the way to Champions Village, I am certain that you are ready. Let´s begin!
+TRADUCCION:
+
+[4|1|7|2]
+ORIGINAL: \bWow, that was quite the perfomance. I expected no less from a Champion!
+TRADUCCION:
+
+[4|1|9|3]
+ORIGINAL: \bI was able to proof what I wanted to proof, so this is the end of my career as a trainer. But let me think about that for a second.
+TRADUCCION:
+
+[4|1|20|2]
+ORIGINAL: \bOh, but why haven´t you brought your Urshifu? Please come back with Urshifu.
+TRADUCCION:
+
+[4|2|0|2]
+ORIGINAL: \bI have made up my mind. This is truly the end of my career, I am now a retired trainer.
+TRADUCCION:
+
+[4|2|2|2]
+ORIGINAL: \bAnd because you helped me achieve my goal, I want to gift you the other Urshifu.
+TRADUCCION:
+
+[4|2|12|3]
+ORIGINAL: \bWith both Urshifus on your side, you´ll be unstoppable! I wish you the best for your future battles. Never give up!
+TRADUCCION:
+
+[4|2|18|1]
+ORIGINAL: There's no more room for Pokémon!
+TRADUCCION:
+
+[4|2|19|1]
+ORIGINAL: The Pokémon Boxes are full and can't accept any more!
+TRADUCCION:
+
+[4|3|0|3]
+ORIGINAL: \bMh, Champions Village is the perfect place to spend the rest of my life. No tourists, a nice beach, and I can have a chat with Champions whenever I want!
+TRADUCCION:

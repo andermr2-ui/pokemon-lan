@@ -1,0 +1,39 @@
+[22|1|2|1]
+ORIGINAL: \bDo you even lift?
+TRADUCCION:
+
+[22|2|0|1]
+ORIGINAL: \bMaybe I don´t lift enough.
+TRADUCCION:
+
+[23|1|2|2]
+ORIGINAL: \bWe would battle you, but with just one Pokémon on your team, this wouldn´t be fair.
+TRADUCCION:
+
+[23|1|8|2]
+ORIGINAL: \bHey Alexander, looks like it´s time for a Double Battle! 
+TRADUCCION:
+
+[23|2|0|2]
+ORIGINAL: \bDouble Battles are thrilling. You need to know what you´re doing in order to win.
+TRADUCCION:
+
+[24|1|2|2]
+ORIGINAL: \bWe would battle you, but with just one Pokémon on your team, this wouldn´t be fair.
+TRADUCCION:
+
+[24|1|8|1]
+ORIGINAL: \bAre you ready, Alicia? Because I am!
+TRADUCCION:
+
+[24|2|0|2]
+ORIGINAL: \bAren´t Double Battles much more thrilling than normal battles?
+TRADUCCION:
+
+[19|1|2|1]
+ORIGINAL: \bLet me show you why it´s called Rumble Mountain!
+TRADUCCION:
+
+[19|2|0|1]
+ORIGINAL: \bI heard that a rare Pokémon lives in this cave.
+TRADUCCION:

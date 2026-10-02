@@ -1,0 +1,231 @@
+[6|1|1|3]
+ORIGINAL: \bWelcome to the Mistveil Institute. We´re one of 3 renowned institutes in the Delta Region. Here in Mistveil, we focus on Pokémon fossils.
+TRADUCCION:
+
+[6|1|4|3]
+ORIGINAL: \bThat´s right, fossils. We are able to bring prehistoric Pokémon back to life with the power of science.
+TRADUCCION:
+
+[6|1|7|3]
+ORIGINAL: \bAnd today´s your lucky day:Show me that you have the potential to train such a rare species, and I will gift you a fossil.
+TRADUCCION:
+
+[6|1|10|1]
+ORIGINAL: \bReady for a time travel?
+TRADUCCION:
+
+[6|1|12|2]
+ORIGINAL: \bVery well. Choose one of these fossils, and it will be yours.
+TRADUCCION:
+
+[6|1|22|2]
+ORIGINAL: \bIf you hand that fossil to my assistant over there, he can bring that Pokémon back to life.
+TRADUCCION:
+
+[6|2|0|2]
+ORIGINAL: \bTalk to my assistants if you have fossils. They can bring them back to life.
+TRADUCCION:
+
+[2|1|4|1]
+ORIGINAL: \bOh, hello. I'm a scientist.
+TRADUCCION:
+
+[2|1|5|1]
+ORIGINAL: \bI can turn fossils into living, breathing Pokémon!
+TRADUCCION:
+
+[2|1|9|1]
+ORIGINAL: \bAiyah! You come again!
+TRADUCCION:
+
+[2|1|12|1]
+ORIGINAL: \bDo you have a fossil for me?
+TRADUCCION:
+
+[2|1|15|1]
+ORIGINAL: \bWhich fossil do you want me to revive?
+TRADUCCION:
+
+[2|1|19|2]
+ORIGINAL: \bLet me know when you want me to revive a fossil for you.
+TRADUCCION:
+
+[2|1|27|1]
+ORIGINAL: \bOkay. I'll see if I can revive your \v[3].
+TRADUCCION:
+
+[2|1|28|1]
+ORIGINAL: \bCome back later.
+TRADUCCION:
+
+[2|1|55|1]
+ORIGINAL: \bI'll be here if you want my help.
+TRADUCCION:
+
+[2|2|4|2]
+ORIGINAL: \bWhere have you been? I've finished reviving yourfossil.
+TRADUCCION:
+
+[2|2|6|1]
+ORIGINAL: \bIt was \v[3] like I thought.
+TRADUCCION:
+
+[2|2|13|2]
+ORIGINAL: \bYou have no room left. Make room, then come see me.
+TRADUCCION:
+
+[2|2|25|1]
+ORIGINAL: \bI managed to revive your fossil.
+TRADUCCION:
+
+[2|2|26|2]
+ORIGINAL: \bHowever, what I brought back didn't live long...\1 fortunately.
+TRADUCCION:
+
+[2|2|28|1]
+ORIGINAL: \bSorry.
+TRADUCCION:
+
+[2|3|0|1]
+ORIGINAL: \bI told you, come back later.
+TRADUCCION:
+
+[4|1|6|3]
+ORIGINAL: \bHello, huh! I come from the Galar Region, and I can turn combinations of partial Fossils into living, breathing Pokémon!
+TRADUCCION:
+
+[4|1|30|2]
+ORIGINAL: \bHm? You've got some Fossils there, huh. Will you show them to me, Carl Ess?
+TRADUCCION:
+
+[4|1|38|2]
+ORIGINAL: \bWhich of your Fossils do you think stands up to the high standards of Carl Ess?
+TRADUCCION:
+
+[4|1|54|2]
+ORIGINAL: \bWhich of your Fossils do you think stands up to the high standards of Carl Ess?
+TRADUCCION:
+
+[4|1|66|2]
+ORIGINAL: \bWhich of your Fossils do you think stands up to the high standards of Carl Ess?
+TRADUCCION:
+
+[4|1|83|2]
+ORIGINAL: \bWhich of your Fossils do you think will pique the curiosity of Carl Ess?
+TRADUCCION:
+
+[4|1|99|2]
+ORIGINAL: \bWhich of your Fossils do you think will pique the curiosity of Carl Ess?
+TRADUCCION:
+
+[4|1|111|2]
+ORIGINAL: \bWhich of your Fossils do you think will pique the curiosity of Carl Ess?
+TRADUCCION:
+
+[4|1|134|2]
+ORIGINAL: \bCome see me when you have some interesting Fossils.
+TRADUCCION:
+
+[4|1|146|2]
+ORIGINAL: \bSo I should restore the Fossilized Bird and the Fossilized Drake together, huh?
+TRADUCCION:
+
+[4|1|162|2]
+ORIGINAL: \bSo I should restore the Fossilized Bird and the Fossilized Dino together, huh?
+TRADUCCION:
+
+[4|1|181|2]
+ORIGINAL: \bSo I should restore the Fossilized Fish and the Fossilized Drake together, huh?
+TRADUCCION:
+
+[4|1|197|2]
+ORIGINAL: \bSo I should restore the Fossilized Fish and the Fossilized Dino together, huh?
+TRADUCCION:
+
+[4|1|234|2]
+ORIGINAL: \bOK. Restoration time. Let's unravel the mystery of these Fossils!
+TRADUCCION:
+
+[4|1|236|1]
+ORIGINAL: \bAll right, I'll stick 'em together! Here... we... GO!
+TRADUCCION:
+
+[4|1|238|2]
+ORIGINAL: \bObjective complete. It seems the restoration was a great success.
+TRADUCCION:
+
+[4|1|240|3]
+ORIGINAL: \bYes, I can see it in its eyes. This is a Pokémon that walked the face of Essen in ancient times! Please take and care for this Pokémon, huh.
+TRADUCCION:
+
+[4|1|253|3]
+ORIGINAL: \bOh, you don't have space in your party, huh. Make some room and then come back here for your Pokémon.
+TRADUCCION:
+
+[4|1|263|1]
+ORIGINAL: \bOh. They don't seem to work together.
+TRADUCCION:
+
+[4|1|269|1]
+ORIGINAL: \bMaybe some other time, then.
+TRADUCCION:
+
+[4|2|0|2]
+ORIGINAL: \bHuh, have you made some room for your Pokémon yet?
+TRADUCCION:
+
+[4|2|8|2]
+ORIGINAL: \bYou haven't. Make some room and then come back here.
+TRADUCCION:
+[6|1|14|OPCIONES]
+ORIGINAL: Claw Fossil|Root Fossil
+TRADUCCION:
+
+[2|1|13|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[4|1|32|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[4|1|40|OPCIONES]
+ORIGINAL: Fossilized Bird|Fossilized Fish|Quit
+TRADUCCION:
+
+[4|1|56|OPCIONES]
+ORIGINAL: Fossilized Bird|Quit
+TRADUCCION:
+
+[4|1|68|OPCIONES]
+ORIGINAL: Fossilized Fish|Quit
+TRADUCCION:
+
+[4|1|85|OPCIONES]
+ORIGINAL: Fossilized Drake|Fossilized Dino|Quit
+TRADUCCION:
+
+[4|1|101|OPCIONES]
+ORIGINAL: Fossilized Drake|Quit
+TRADUCCION:
+
+[4|1|113|OPCIONES]
+ORIGINAL: Fossilized Dino|Quit
+TRADUCCION:
+
+[4|1|148|OPCIONES]
+ORIGINAL: Yes, please|I want to try something else|Quit
+TRADUCCION:
+
+[4|1|164|OPCIONES]
+ORIGINAL: Yes, please|I want to try something else|Quit
+TRADUCCION:
+
+[4|1|183|OPCIONES]
+ORIGINAL: Yes, please|I want to try something else|Quit
+TRADUCCION:
+
+[4|1|199|OPCIONES]
+ORIGINAL: Yes, please|I want to try something else|Quit
+TRADUCCION:
+

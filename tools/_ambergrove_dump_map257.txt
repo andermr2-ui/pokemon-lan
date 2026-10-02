@@ -1,0 +1,21 @@
+=== map257 ===
+ev2 pg0 [0]: "\\bWelcome to our house! I´m a big fan of a Pokémon called Accelgor, but my sister doesn´t want to trade her Shelmet with me."
+ev2 pg0 [3]: "\\bDid you know that Shelmet and Karrablast can only evolve when they´re traded with each other? And my stupid sister refuses to trade with me out of spite."
+ev2 pg0 [6]: "\\bDo you have a Shelmet that you want to trade for my Karrablast?"
+ev2 pg0 [8] CHOICES: ["Sí", "No"]
+ev2 pg0 [17]: "\\bYou don't want to trade?  Aww..."
+ev2 pg0 [20]: "\\bOK, let's get started."
+ev2 pg0 [25]: "\\PN traded Shelmet for Karrablast!"
+ev2 pg0 [26]: "\\bThanks a lot, you´re much nicer than my sister."
+ev2 pg0 [32]: "\\bYou don't want to trade? Aww..."
+ev2 pg1 [0]: "\\bThanks for trading with me!"
+ev3 pg0 [0]: "\\bOh, hello. Welcome to our place. Would you mind doing me a little favor? Don´t worry, you´d benefit from this as well."
+ev3 pg0 [3]: "\\bMy annoying brother wants me to trade my Shelmet for his Karrablast, which would make both Pokémon evolve, but I don´t want to give him the satisfaction."
+ev3 pg0 [6]: "\\bWould you trade a Karrablast for my Shelmet in oder to make my brother shut up?"
+ev3 pg0 [8] CHOICES: ["Sí", "No"]
+ev3 pg0 [17]: "\\bYou don't want to trade?  Aww..."
+ev3 pg0 [20]: "\\bOK, let's get started."
+ev3 pg0 [25]: "\\PN traded Karrablast for Shelmet!"
+ev3 pg0 [26]: "\\bThank you, now my brother won´t bother me again."
+ev3 pg0 [32]: "\\bYou don't want to trade? Aww..."
+ev3 pg1 [0]: "\\bThanks for trading with me!"

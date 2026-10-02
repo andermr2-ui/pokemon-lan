@@ -1,0 +1,11 @@
+[1|1|1|2]
+ORIGINAL: \bThe protest is finally over. Those flat earthers really need help...
+TRADUCCION:
+
+[1|1|7|3]
+ORIGINAL: \bThis is going to sound stupid, but there are flat earthers protesting on Route 10. I don´t want anyone to see that mess, so please, turn around.
+TRADUCCION:
+
+[1|2|0|3]
+ORIGINAL: \bThe police had to come in to stop the protest. I don´t know who in their right mind would think that the earth is flat...
+TRADUCCION:

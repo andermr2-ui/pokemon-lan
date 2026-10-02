@@ -1,0 +1,307 @@
+[11|1|0|2]
+ORIGINAL: \bHello, kid. Are you familiar with the fate of a Pokémon called Ogerpon?
+TRADUCCION:
+
+[11|1|2|3]
+ORIGINAL: \bNo, of course not. Ogerpon used to be the guardian of Ambergrove, but these days the people of this town look down on it.
+TRADUCCION:
+
+[11|1|5|3]
+ORIGINAL: \bI know what happened back then, because I saw it with my own eyes. Ogerpon protected us from these three frauds!
+TRADUCCION:
+
+[11|1|8|1]
+ORIGINAL: \bNo one believes me, but it´s the truth.
+TRADUCCION:
+
+[11|1|9|3]
+ORIGINAL: \bOh, you have no idea what I´m talking about, I see. Many years ago, three Pokémon tried to rob everyone in Ambergrove.
+TRADUCCION:
+
+[11|1|12|2]
+ORIGINAL: \bOgerpon was able to stop them, but they came back with an evil plan.
+TRADUCCION:
+
+[11|1|14|2]
+ORIGINAL: \bThey managed to trick Ogerpon, which made it seem like it was the one behind all of this.
+TRADUCCION:
+
+[11|1|16|2]
+ORIGINAL: \bI noticed what happened, but the whole town was ignorant and blamed Ogerpon.
+TRADUCCION:
+
+[11|1|18|3]
+ORIGINAL: \bSince that day, these frauds have been the "Guardians of Ambergrove". They even got their own statures...
+TRADUCCION:
+
+[11|1|21|3]
+ORIGINAL: \bIf someone would catch them, the truth might finally be revealed. Oh, sorry, I´m just wasting your time at this point, but thanks for listening.
+TRADUCCION:
+
+[11|2|0|2]
+ORIGINAL: \bThese frauds need to get their deserved punishment! Poor Ogerpon is innocent!
+TRADUCCION:
+
+[11|3|0|2]
+ORIGINAL: \bHm? Oh, it´s you again. Can I help you with something?
+TRADUCCION:
+
+[11|3|2|2]
+ORIGINAL: \bWhat?! You actually caught Fezandipiti, Munkidori and Okidogi?! That´s great!
+TRADUCCION:
+
+[11|3|4|3]
+ORIGINAL: \bNow that these frauds are no longer running around, we might even be able to get Ogerpon to return.
+TRADUCCION:
+
+[11|3|7|2]
+ORIGINAL: \bThat way we could show everyone what really happened all those years ago.
+TRADUCCION:
+
+[11|3|9|2]
+ORIGINAL: \bI have an idea. Ogerpon used to have masks, which could grant it different powers.
+TRADUCCION:
+
+[11|3|11|3]
+ORIGINAL: \bIt lost them on that fateful day, but I found them. I want you to use them to find Ogerpon. Please, that poor thing has been an outcast for too long.
+TRADUCCION:
+
+[11|3|18|3]
+ORIGINAL: \bYou should start looking for Ogerpon at the Statures behind the Gym. I´d imagine it´s glad that these frauds are finally gone.
+TRADUCCION:
+
+[11|4|0|1]
+ORIGINAL: \bJustice will be served, I´m sure of it!
+TRADUCCION:
+
+[11|5|0|3]
+ORIGINAL: \bThe people of Ambergrove saw what you did, and our plan worked! They finally realized that Ogerpon was scared and had no evil intentions.
+TRADUCCION:
+
+[11|5|3|3]
+ORIGINAL: \bYou´re the right person to take care of it, that´s for sure. Ogerpon can be quite helpful in battle, it is a Legendary Pokémon after all. Take care!
+TRADUCCION:
+
+[11|6|0|2]
+ORIGINAL: \bAmbergrove finally knows the truth. Thank you so much!
+TRADUCCION:
+
+[6|1|0|1]
+ORIGINAL: It´s a Pokémon Statue dedicated to Okidogi.
+TRADUCCION:
+
+[6|2|0|1]
+ORIGINAL: It´s a Pokémon Statue dedicated to Okidogi.
+TRADUCCION:
+
+[6|2|2|1]
+ORIGINAL: The Delta Stone in your pocket just lit up!
+TRADUCCION:
+
+[6|2|3|1]
+ORIGINAL: Something powerful is approaching!
+TRADUCCION:
+
+[6|2|5|1]
+ORIGINAL: \bDOGIII!!!
+TRADUCCION:
+
+[6|3|0|1]
+ORIGINAL: It´s a Pokémon Statue dedicated to Okidogi.
+TRADUCCION:
+
+[6|4|0|1]
+ORIGINAL: Okidogi disappeared. Will it come back?
+TRADUCCION:
+
+[6|5|0|1]
+ORIGINAL: It´s a Pokémon Statue dedicated to Okidogi.
+TRADUCCION:
+
+[1|1|0|1]
+ORIGINAL: \bWelcome to Ambergrove! Isn´t this a pretty town?
+TRADUCCION:
+
+[1|1|1|2]
+ORIGINAL: \bOh, but if you want to challenge the Gym, you first need to go and find Nyssa, the Gym leader.
+TRADUCCION:
+
+[1|1|3|3]
+ORIGINAL: \bShe went to the Scorching Valley to look for something, and she has been gone for quite a while now.
+TRADUCCION:
+
+[1|1|6|3]
+ORIGINAL: \bScorching Valley is just south of Ambergrove. But take some sunscreen with you, the sun is blazing hot over there.
+TRADUCCION:
+
+[12|1|0|1]
+ORIGINAL: Ogerpon looks scared.
+TRADUCCION:
+
+[12|1|2|1]
+ORIGINAL: It noticed the Teal Mask.
+TRADUCCION:
+
+[12|1|3|1]
+ORIGINAL: \bPON!
+TRADUCCION:
+
+[12|1|4|1]
+ORIGINAL: You hand the Teal Mask to Ogerpon.
+TRADUCCION:
+
+[12|1|7|1]
+ORIGINAL: \bPONPON!!!
+TRADUCCION:
+
+[12|3|0|1]
+ORIGINAL: Ogerpon fled back into the woods. Will it come back?
+TRADUCCION:
+
+[7|1|0|1]
+ORIGINAL: Ambergrove Gym\nLeader: Nyssa
+TRADUCCION:
+
+[8|1|1|3]
+ORIGINAL: \bHuh, you really managed to win against Nyssa. That is quite impressive. Listen, the Gym in this town used to be my dojo.
+TRADUCCION:
+
+[8|1|4|2]
+ORIGINAL: \bBut when Ambergrove was picked for the Gym Challenge, it was over for the dojo.
+TRADUCCION:
+
+[8|1|6|3]
+ORIGINAL: \bI wasn´t really sad about that, because all of my students were able to grow really strong, but there´s one thing I never got to do.
+TRADUCCION:
+
+[8|1|9|3]
+ORIGINAL: \bDo you know about a Pokémon called Kubfu? It is said to have the power of Legendary Pokémon, but it can only access these powers through hard work.
+TRADUCCION:
+
+[8|1|12|2]
+ORIGINAL: \bI´ve found two Kubfu´s, and I´ve been trying to get one of them to unleash their full power.
+TRADUCCION:
+
+[8|1|14|2]
+ORIGINAL: \bIt hasn´t worked yet, but I´m confident that it will work soon.
+TRADUCCION:
+
+[8|1|16|3]
+ORIGINAL: \bI want you to take the other Kubfu and train it as well. As a matter of fact, I think we both need to train a Kubfu to make this work.
+TRADUCCION:
+
+[8|1|19|2]
+ORIGINAL: \bThere´s a choice that you´ll have to make, which I don´t quite understand the meaning of.
+TRADUCCION:
+
+[8|1|21|1]
+ORIGINAL: \bWhich path to you want to take your Kubfu on?
+TRADUCCION:
+
+[8|1|22|2]
+ORIGINAL: \bIs it the Path of Darkness, where Kubfu has to resist the temptations of evil?
+TRADUCCION:
+
+[8|1|24|2]
+ORIGINAL: \bOr is it the Path of Water, where Kubfu will have to become one with the flow?
+TRADUCCION:
+
+[8|1|26|2]
+ORIGINAL: \bMake your choice now, and remember that I don´t know what any of this actually means.
+TRADUCCION:
+
+[8|1|30|2]
+ORIGINAL: \bSo be it, then. Take this Kubfu and let it resist the temptations of evil.
+TRADUCCION:
+
+[8|1|36|2]
+ORIGINAL: \bSo be it, then. Take this Kubfu and let it become one with the flow.
+TRADUCCION:
+
+[8|1|42|2]
+ORIGINAL: \bWhen the time has come, meet me at the Pokémon League.
+TRADUCCION:
+
+[8|1|44|1]
+ORIGINAL: \bDon´t stop training until that day comes. Good luck!
+TRADUCCION:
+
+[8|1|48|3]
+ORIGINAL: \bGreetings, young trainer. I take it you want to challenge Nyssa? Then good luck with that. She might be young, but she knows what she´s doing.
+TRADUCCION:
+
+[8|2|0|3]
+ORIGINAL: \bA friend of mine told me about Kubfu a few years ago. He also wanted to train Kubfu, but he passed away before he got the chance to do so.
+TRADUCCION:
+
+[8|2|3|1]
+ORIGINAL: \bPoor old Mustard. I want to achieve this for him!
+TRADUCCION:
+
+[9|1|0|1]
+ORIGINAL: It´s a Pokémon Statue dedicated to Munkidori.
+TRADUCCION:
+
+[9|2|0|1]
+ORIGINAL: It´s a Pokémon Statue dedicated to Munkidori.
+TRADUCCION:
+
+[9|2|2|1]
+ORIGINAL: The Delta Stone in your pocket just lit up!
+TRADUCCION:
+
+[9|2|3|1]
+ORIGINAL: Something powerful is approaching!
+TRADUCCION:
+
+[9|2|5|1]
+ORIGINAL: \bDORIII!!!
+TRADUCCION:
+
+[9|3|0|1]
+ORIGINAL: It´s a Pokémon Statue dedicated to Munkidori.
+TRADUCCION:
+
+[9|4|0|1]
+ORIGINAL: Munkidori disappeared. Will it come back?
+TRADUCCION:
+
+[9|5|0|1]
+ORIGINAL: It´s a Pokémon Statue dedicated to Munkidori.
+TRADUCCION:
+
+[10|1|0|1]
+ORIGINAL: It´s a Pokémon Statue dedicated to Fezandipiti.
+TRADUCCION:
+
+[10|2|0|1]
+ORIGINAL: It´s a Pokémon Statue dedicated to Fezandipiti.
+TRADUCCION:
+
+[10|2|2|1]
+ORIGINAL: The Delta Stone in your pocket just lit up!
+TRADUCCION:
+
+[10|2|3|1]
+ORIGINAL: Something powerful is approaching!
+TRADUCCION:
+
+[10|2|5|1]
+ORIGINAL: \bPITIII!!!
+TRADUCCION:
+
+[10|3|0|1]
+ORIGINAL: It´s a Pokémon Statue dedicated to Fezandipiti.
+TRADUCCION:
+
+[10|4|0|1]
+ORIGINAL: Fezandipiti disappeared. Will it come back?
+TRADUCCION:
+
+[10|5|0|1]
+ORIGINAL: It´s a Pokémon Statue dedicated to Fezandipiti.
+TRADUCCION:
+[8|1|28|OPCIONES]
+ORIGINAL: Path of Darkness|Path of Water
+TRADUCCION:
+

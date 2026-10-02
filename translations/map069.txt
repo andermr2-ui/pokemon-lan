@@ -1,0 +1,19 @@
+[5|1|2|2]
+ORIGINAL: \rI'm a swimming trainer, just like any othertrainer!
+TRADUCCION:
+
+[5|2|0|3]
+ORIGINAL: \rJust make sure swimming trainers don'ttry to swim over land to get to the player when theyspot them.
+TRADUCCION:
+
+[4|1|0|1]
+ORIGINAL: \bI'm just swimming around in this 5x5 area.
+TRADUCCION:
+
+[4|1|1|3]
+ORIGINAL: \bMy custom autonomous movement calls a method which makes me move randomly, but not further than 2 tiles horizontally or vertically from my initial position.
+TRADUCCION:
+
+[4|1|4|3]
+ORIGINAL: \bOther scripts that could be called here are move_random_UD(range) for up/down only and move_random_LR(range) for left/right only.
+TRADUCCION:

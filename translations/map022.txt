@@ -1,0 +1,27 @@
+[5|1|0|1]
+ORIGINAL: \PN´s House
+TRADUCCION: Casa de \PN
+
+[11|1|0|2]
+ORIGINAL: \bI´m sorry, but the Professor isn´t quite ready yet. Please come back later.
+TRADUCCION: \bLo siento, pero el Profesor todavía no está listo. Por favor, vuelve más tarde.
+
+[2|1|2|2]
+ORIGINAL: \bStop right there kid! Don´t go to Route 1 without any Pokémon. That´s too dangerous!
+TRADUCCION: \b¡Alto ahí, chaval! No vayas a la Ruta 1 sin ningún Pokémon. ¡Es demasiado peligroso!
+
+[2|2|0|2]
+ORIGINAL: \bBack in my day, we went out there with nothing but a gun.
+TRADUCCION: \bEn mis tiempos, salíamos ahí fuera solo con una pistola.
+
+[3|1|0|1]
+ORIGINAL: Zeke´s House
+TRADUCCION: Casa de Xarly
+
+[9|1|1|3]
+ORIGINAL: \bHey my future champion. I´m so proud of you, but I can´t let you go just yet, because I have something for you. Follow me home.
+TRADUCCION: \bEh, mi futuro campeón. Estoy muy orgulloso de ti, pero todavía no puedo dejarte ir, porque tengo algo para ti. Sígueme a casa.
+
+[4|1|0|1]
+ORIGINAL: Pokémon Lab
+TRADUCCION: Laboratorio Pokémon

@@ -1,0 +1,311 @@
+[5|1|0|3]
+ORIGINAL: \bUhm, there´s road work going on over here or something. You can´t go here at the moment. Uhm, come back later.
+TRADUCCION:
+
+[11|1|1|1]
+ORIGINAL: \bWAIT!
+TRADUCCION:
+
+[11|2|10|1]
+ORIGINAL: \bThank Arceus, I caught up to you.
+TRADUCCION:
+
+[11|2|11|2]
+ORIGINAL: \bPeople call me the Strength Master, because my Pokémon have mastered Strength.
+TRADUCCION:
+
+[11|2|13|3]
+ORIGINAL: \bEvery trainer that claims the Arachno Badge is allowed to get the HM for Strength, and it´s my job to hand it to those trainers.
+TRADUCCION:
+
+[11|2|16|3]
+ORIGINAL: \bNyssa saw me wandering around, and she said that you claimed the badge, so I ran here to give it to you.
+TRADUCCION:
+
+[11|2|19|3]
+ORIGINAL: \bAnd consider yourself lucky, because unlike the other HM Masters, I don´t spend that much time at home.
+TRADUCCION:
+
+[11|2|22|3]
+ORIGINAL: \bI´m always on the move, and we just so happened to be in the same town today. But enough talking, take the HM.
+TRADUCCION:
+
+[11|2|26|3]
+ORIGINAL: \bIf you teach this to one of your Pokémon, you can move these large boulders around. You will need this if you want to complete the Gym Challenge.
+TRADUCCION:
+
+[11|2|29|1]
+ORIGINAL: \bIt was nice to meet you. Bye!
+TRADUCCION:
+
+[28|1|0|1]
+ORIGINAL: \bPssst, let me tell you a secret.
+TRADUCCION:
+
+[28|1|1|3]
+ORIGINAL: \bI know how to summon a Spiritomb. Don´t tell anyone about this, but I have the ability to harness lost souls.
+TRADUCCION:
+
+[28|1|4|2]
+ORIGINAL: \bIf you bring me an Odd Keystone, then I can use the lost souls to summon a Spiritomb.
+TRADUCCION:
+
+[28|1|7|2]
+ORIGINAL: \bHm, so you have an Odd Keystone. Do you want me to summon a Spiritomb?
+TRADUCCION:
+
+[28|1|13|2]
+ORIGINAL: \bSpirits, you can finally rest! Come to me, and you will be at peace!
+TRADUCCION:
+
+[28|1|16|2]
+ORIGINAL: \bThe summoning is complete. I can do it again if you bring me another Odd Keystone.
+TRADUCCION:
+
+[28|1|20|1]
+ORIGINAL: There's no more room for Pokémon!
+TRADUCCION:
+
+[28|1|21|1]
+ORIGINAL: The Pokémon Boxes are full and can't accept any more!
+TRADUCCION:
+
+[28|1|26|2]
+ORIGINAL: \bThe lost souls want to rest, but you won´t let them? How cruel!
+TRADUCCION:
+
+[17|1|0|1]
+ORIGINAL: Darkrai is angry.
+TRADUCCION:
+
+[17|1|1|1]
+ORIGINAL: It wants to battle!
+TRADUCCION:
+
+[17|1|3|1]
+ORIGINAL: \bKRAAAI!!!
+TRADUCCION:
+
+[17|3|0|1]
+ORIGINAL: Darkrai disappeared. Will it come back?
+TRADUCCION:
+
+[6|1|0|1]
+ORIGINAL: \bI´m just supposed to stand here. Don´t ask me why.
+TRADUCCION:
+
+[12|1|1|1]
+ORIGINAL: \bWAIT!
+TRADUCCION:
+
+[12|2|10|1]
+ORIGINAL: \bThank Arceus, I caught up to you.
+TRADUCCION:
+
+[12|2|11|2]
+ORIGINAL: \bPeople call me the Strength Master, because my Pokémon have mastered Strength.
+TRADUCCION:
+
+[12|2|13|3]
+ORIGINAL: \bEvery trainer that claims the Arachno Badge is allowed to get the HM for Strength, and it´s my job to hand it to those trainers.
+TRADUCCION:
+
+[12|2|16|3]
+ORIGINAL: \bNyssa saw me wandering around, and she said that you claimed the badge, so I ran here to give it to you.
+TRADUCCION:
+
+[12|2|19|3]
+ORIGINAL: \bAnd consider yourself lucky, because unlike the other HM Masters, I don´t spend that much time at home.
+TRADUCCION:
+
+[12|2|22|3]
+ORIGINAL: \bI´m always on the move, and we just so happened to be in the same town today. But enough talking, take the HM.
+TRADUCCION:
+
+[12|2|26|3]
+ORIGINAL: \bIf you teach this to one of your Pokémon, you can move these large boulders around. You will need this if you want to complete the Gym Challenge.
+TRADUCCION:
+
+[12|2|29|1]
+ORIGINAL: \bIt was nice to meet you. Bye!
+TRADUCCION:
+
+[29|1|0|3]
+ORIGINAL: \bHey kiddo, are you interested in a little trade? I want to trade my rare Alolan Marowak for a Kantonian Marowak, because I just can´t find that form.
+TRADUCCION:
+
+[29|1|3|2]
+ORIGINAL: \bSo, if you have a Katonian Marowak, then why don´t you trade with me?
+TRADUCCION:
+
+[29|1|14|1]
+ORIGINAL: \bYou don't want to trade?  Aww...
+TRADUCCION:
+
+[29|1|17|1]
+ORIGINAL: \bOK, let's get started.
+TRADUCCION:
+
+[29|1|22|1]
+ORIGINAL: \PN traded Marowak for Marowak!
+TRADUCCION:
+
+[29|1|23|2]
+ORIGINAL: \bThank you so much! I´ve grown sick of searching, so it´s good that I could take the easy way out.
+TRADUCCION:
+
+[29|1|31|1]
+ORIGINAL: \bYou don't want to trade? Aww...
+TRADUCCION:
+
+[29|2|0|1]
+ORIGINAL: \bThanks for trading with me!
+TRADUCCION:
+
+[7|1|0|1]
+ORIGINAL: \bYou can´t go to Route 10 right now.
+TRADUCCION:
+
+[7|1|1|2]
+ORIGINAL: \bWhat do you mean, why? You just can´t go there right now, so get lost!
+TRADUCCION:
+
+[18|1|0|2]
+ORIGINAL: \bThere´re rumours going around about a strange Pokémon that sometimes appears over this pond.
+TRADUCCION:
+
+[18|1|2|2]
+ORIGINAL: \bThey say that this Pokémon causes nightmares, but I don´t think that there´s a creature that can do that.
+TRADUCCION:
+
+[8|1|1|1]
+ORIGINAL: \bWAIT!
+TRADUCCION:
+
+[8|2|10|1]
+ORIGINAL: \bThank Arceus, I caught up to you.
+TRADUCCION:
+
+[8|2|11|2]
+ORIGINAL: \bPeople call me the Strength Master, because my Pokémon have mastered Strength.
+TRADUCCION:
+
+[8|2|13|3]
+ORIGINAL: \bEvery trainer that claims the Arachno Badge is allowed to get the HM for Strength, and it´s my job to hand it to those trainers.
+TRADUCCION:
+
+[8|2|16|3]
+ORIGINAL: \bNyssa saw me wandering around, and she said that you claimed the badge, so I ran here to give it to you.
+TRADUCCION:
+
+[8|2|19|3]
+ORIGINAL: \bAnd consider yourself lucky, because unlike the other HM Masters, I don´t spend that much time at home.
+TRADUCCION:
+
+[8|2|22|3]
+ORIGINAL: \bI´m always on the move, and we just so happened to be in the same town today. But enough talking, take the HM.
+TRADUCCION:
+
+[8|2|26|3]
+ORIGINAL: \bIf you teach this to one of your Pokémon, you can move these large boulders around. You will need this if you want to complete the Gym Challenge.
+TRADUCCION:
+
+[8|2|29|1]
+ORIGINAL: \bIt was nice to meet you. Bye!
+TRADUCCION:
+
+[19|1|0|3]
+ORIGINAL: \bHave you been to the Day Care before? The old couple that runs the Day Care can take care of your Pokémon.
+TRADUCCION:
+
+[20|1|0|3]
+ORIGINAL: \bHey, I bet a trainer like you is interested in Mega Stones. I happen to have a rare Mega Stone, which I´m willing to trade for a very certain object.
+TRADUCCION:
+
+[20|1|3|2]
+ORIGINAL: \bI´m collecting ancient objects, and I only need one more piece to complete my collection.
+TRADUCCION:
+
+[20|1|5|2]
+ORIGINAL: \bIf you give me a Relic Vase, then I´ll give you an Audinite.
+TRADUCCION:
+
+[20|1|8|2]
+ORIGINAL: \bOh, you actually have a Relic Vase? Then trade it for the Audinite, I really need that vase!
+TRADUCCION:
+
+[20|1|12|1]
+ORIGINAL: \bAlright, here we go!
+TRADUCCION:
+
+[20|1|15|1]
+ORIGINAL: \bThank you! My collection is finally complete.
+TRADUCCION:
+
+[20|1|19|3]
+ORIGINAL: \bI´d feel bad if I just took the vase without you having any space in your bag to carry the Mega Stone. Make some space so we can trade.
+TRADUCCION:
+
+[20|1|26|1]
+ORIGINAL: \bOh, I thought I could finally complete my collection...
+TRADUCCION:
+
+[20|2|0|3]
+ORIGINAL: \bIf you don´t know where to find Audino, then I can help you out. I heard that Audinos live in the mountains on Route 13.
+TRADUCCION:
+
+[20|2|3|1]
+ORIGINAL: \bI´ve never been up there, but I bet you can find one!
+TRADUCCION:
+
+[10|1|1|1]
+ORIGINAL: \bWAIT!
+TRADUCCION:
+
+[10|2|10|1]
+ORIGINAL: \bThank Arceus, I caught up to you.
+TRADUCCION:
+
+[10|2|11|2]
+ORIGINAL: \bPeople call me the Strength Master, because my Pokémon have mastered Strength.
+TRADUCCION:
+
+[10|2|13|3]
+ORIGINAL: \bEvery trainer that claims the Arachno Badge is allowed to get the HM for Strength, and it´s my job to hand it to those trainers.
+TRADUCCION:
+
+[10|2|16|3]
+ORIGINAL: \bNyssa saw me wandering around, and she said that you claimed the badge, so I ran here to give it to you.
+TRADUCCION:
+
+[10|2|19|3]
+ORIGINAL: \bAnd consider yourself lucky, because unlike the other HM Masters, I don´t spend that much time at home.
+TRADUCCION:
+
+[10|2|22|3]
+ORIGINAL: \bI´m always on the move, and we just so happened to be in the same town today. But enough talking, take the HM.
+TRADUCCION:
+
+[10|2|26|3]
+ORIGINAL: \bIf you teach this to one of your Pokémon, you can move these large boulders around. You will need this if you want to complete the Gym Challenge.
+TRADUCCION:
+
+[10|2|29|1]
+ORIGINAL: \bIt was nice to meet you. Bye!
+TRADUCCION:
+
+[21|1|0|1]
+ORIGINAL: \bMY NAME IS JEFF!
+TRADUCCION:
+[28|1|9|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[29|1|5|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[20|1|10|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+

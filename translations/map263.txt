@@ -1,0 +1,371 @@
+[16|1|3|2]
+ORIGINAL: \bMr. Game: Show me how you play and make my heart pound with excitement!
+TRADUCCION:
+
+[27|1|0|3]
+ORIGINAL: \bI always take a break between games, because I don´t want to become addicted like those guys over there.
+TRADUCCION:
+
+[22|1|0|1]
+ORIGINAL: \CN\bWe exchange your coins for prizes.
+TRADUCCION:
+
+[22|1|2|1]
+ORIGINAL: \CN\bWhich prize would you like?
+TRADUCCION:
+
+[22|1|31|1]
+ORIGINAL: \CN\bPlease save your Coins and come again!
+TRADUCCION:
+
+[22|1|40|1]
+ORIGINAL: \CN\bSo, you want the \v[3]?
+TRADUCCION:
+
+[22|1|44|1]
+ORIGINAL: \CN\bSorry, you'll need more coins than that.
+TRADUCCION:
+
+[22|1|48|1]
+ORIGINAL: \CN\bHere you go!\1
+TRADUCCION:
+
+[22|1|54|1]
+ORIGINAL: \CN\bYou have no room in your Bag.
+TRADUCCION:
+
+[17|1|0|2]
+ORIGINAL: \rThis is the Pokémon Lottery Corner. I'm Felicity, your attendant today.
+TRADUCCION:
+
+[17|1|2|2]
+ORIGINAL: \rIf the drawn number matches the ID No. of any of your Pokémon, you could win fabulous gifts.
+TRADUCCION:
+
+[17|1|4|1]
+ORIGINAL: \rWould you like to check today's lucky number?
+TRADUCCION:
+
+[17|1|7|2]
+ORIGINAL: \rFirst, I'll look up today's Pokémon Lottery Corner lucky number.
+TRADUCCION:
+
+[17|1|9|1]
+ORIGINAL: ...
+TRADUCCION:
+
+[17|1|14|1]
+ORIGINAL: \rYour Loto Ticket number is \v[1].
+TRADUCCION:
+
+[17|1|15|2]
+ORIGINAL: \rNow, let's see if it matches the ID No. of any of your Pokémon.
+TRADUCCION:
+
+[17|1|26|1]
+ORIGINAL: \rI'm sorry. You didn't get a match...
+TRADUCCION:
+
+[17|1|27|1]
+ORIGINAL: \rPlease do visit again.
+TRADUCCION:
+
+[17|1|35|1]
+ORIGINAL: \rCongratulations!
+TRADUCCION:
+
+[17|1|36|2]
+ORIGINAL: \rThe ID number of your team's \v[2] matches your Loto Ticket number!
+TRADUCCION:
+
+[17|1|40|1]
+ORIGINAL: \rCongratulations!
+TRADUCCION:
+
+[17|1|41|2]
+ORIGINAL: \rThe ID number of your PC-boxed \v[2] matches your Loto Ticket number!
+TRADUCCION:
+
+[17|1|48|1]
+ORIGINAL: \rOh my goodness, all five digits matched!
+TRADUCCION:
+
+[17|1|49|1]
+ORIGINAL: \rYou've won the jackpot prize!
+TRADUCCION:
+
+[17|1|51|2]
+ORIGINAL: \rPlease do visit again! Good-bye from Felicity, your attendant!
+TRADUCCION:
+
+[17|1|56|2]
+ORIGINAL: \rYou have no room left. Make room, then come see me.
+TRADUCCION:
+
+[17|1|65|2]
+ORIGINAL: \rThe last four digits matched, so you win the first prize!
+TRADUCCION:
+
+[17|1|68|2]
+ORIGINAL: \rPlease do visit again! Good-bye from Felicity, your attendant!
+TRADUCCION:
+
+[17|1|73|2]
+ORIGINAL: \rYou have no room left. Make room, then come see me.
+TRADUCCION:
+
+[17|1|82|2]
+ORIGINAL: \rThe last three digits matched, so you win the second prize!
+TRADUCCION:
+
+[17|1|85|2]
+ORIGINAL: \rPlease do visit again! Good-bye from Felicity, your attendant!
+TRADUCCION:
+
+[17|1|90|2]
+ORIGINAL: \rYou have no room left. Make room, then come see me.
+TRADUCCION:
+
+[17|1|99|2]
+ORIGINAL: \rThe last two digits matched, so you win the third prize!
+TRADUCCION:
+
+[17|1|102|2]
+ORIGINAL: \rPlease do visit again! Good-bye from Felicity, your attendant!
+TRADUCCION:
+
+[17|1|107|2]
+ORIGINAL: \rYou have no room left. Make room, then come see me.
+TRADUCCION:
+
+[17|1|116|1]
+ORIGINAL: \rThe last digit matched, so you win the fourth prize!
+TRADUCCION:
+
+[17|1|118|2]
+ORIGINAL: \rPlease do visit again! Good-bye from Felicity, your attendant!
+TRADUCCION:
+
+[17|1|123|2]
+ORIGINAL: \rYou have no room left. Make room, then come see me.
+TRADUCCION:
+
+[17|1|135|1]
+ORIGINAL: \rOh, I see.\nPlease do visit us again.
+TRADUCCION:
+
+[17|2|0|2]
+ORIGINAL: \rYou've already drawn a Loto Ticket today. Please come back tomorrow.
+TRADUCCION:
+
+[17|4|0|1]
+ORIGINAL: \rI've been waiting for you. Here's the item you won.
+TRADUCCION:
+
+[17|4|6|2]
+ORIGINAL: \rYou have no room left. Make room, then come see me.
+TRADUCCION:
+
+[23|1|0|1]
+ORIGINAL: \CN\bWe exchange your coins for prizes.
+TRADUCCION:
+
+[23|1|2|1]
+ORIGINAL: \CN\bWhich prize would you like?
+TRADUCCION:
+
+[23|1|32|1]
+ORIGINAL: \CN\bPlease save your Coins and come again!
+TRADUCCION:
+
+[23|1|40|2]
+ORIGINAL: \CN\bYour party's full!\nPlease make some room before you come back.
+TRADUCCION:
+
+[23|1|47|1]
+ORIGINAL: \CN\bWould you like \v[3]?
+TRADUCCION:
+
+[23|1|51|1]
+ORIGINAL: \CN\bSorry, you'll need more coins than that.
+TRADUCCION:
+
+[23|1|54|1]
+ORIGINAL: \CN\bHere you go!\1
+TRADUCCION:
+
+[23|1|60|1]
+ORIGINAL: \CN\PN received the \v[3]!
+TRADUCCION:
+
+[18|1|1|1]
+ORIGINAL: \bMy name is Mr. Game!
+TRADUCCION:
+
+[18|1|2|2]
+ORIGINAL: \bMy heart pounds with excitement when people enjoy my Coin game!
+TRADUCCION:
+
+[18|1|4|1]
+ORIGINAL: \bIn fact, that's what I live for!\nGo ahead and play it!
+TRADUCCION:
+
+[18|1|5|1]
+ORIGINAL: \bMake my heart pound with excitement!
+TRADUCCION:
+
+[18|1|9|1]
+ORIGINAL: \bGo ahead and play my Coin game!
+TRADUCCION:
+
+[18|1|10|1]
+ORIGINAL: \bMake my heart pound with excitement!
+TRADUCCION:
+
+[24|1|0|1]
+ORIGINAL: \CN\bWe exchange your coins for prizes.
+TRADUCCION:
+
+[24|1|14|1]
+ORIGINAL: \CN\bWhich prize would you like?
+TRADUCCION:
+
+[24|1|39|1]
+ORIGINAL: \CN\bPlease save your Coins and come again!
+TRADUCCION:
+
+[24|1|50|1]
+ORIGINAL: \CN\bSo, you want the \v[3]?
+TRADUCCION:
+
+[24|1|54|1]
+ORIGINAL: \CN\bSorry, you'll need more coins than that.
+TRADUCCION:
+
+[24|1|58|1]
+ORIGINAL: \CN\bHere you go!\1
+TRADUCCION:
+
+[24|1|64|1]
+ORIGINAL: \CN\bYou have no room in your Bag.
+TRADUCCION:
+
+[19|1|0|1]
+ORIGINAL: \G\CN\bWelcome to Riverstone Game Corner!
+TRADUCCION:
+
+[19|1|2|2]
+ORIGINAL: \G\CN\bDo you need some game coins?\nWould you like to buy some?
+TRADUCCION:
+
+[19|1|4|1]
+ORIGINAL: \G\CN\bYou don't have a Coin Case.
+TRADUCCION:
+
+[19|1|8|2]
+ORIGINAL: \G\CN\bDo you need some game coins?\nWould you like to buy some?
+TRADUCCION:
+
+[19|1|13|1]
+ORIGINAL: \G\CN\bWhoops!\nYour Coin Case is full.
+TRADUCCION:
+
+[19|1|17|1]
+ORIGINAL: \G\CN\bYou can't afford the coins.
+TRADUCCION:
+
+[19|1|23|1]
+ORIGINAL: \G\CN\bThank you\nHere are your coins!
+TRADUCCION:
+
+[19|1|31|1]
+ORIGINAL: \G\CN\bWhoops!\nYour Coin Case is full.
+TRADUCCION:
+
+[19|1|35|1]
+ORIGINAL: \G\CN\bYou can't afford the coins.
+TRADUCCION:
+
+[19|1|41|1]
+ORIGINAL: \G\CN\bThank you\nHere are your coins!
+TRADUCCION:
+
+[19|1|48|1]
+ORIGINAL: \G\CN\bNo?\nPlease come play sometime!
+TRADUCCION:
+
+[25|1|0|2]
+ORIGINAL: \bOh, I´m not addicted, why would you even think that? What you´re seeing here is true dedication.
+TRADUCCION:
+
+[25|1|2|3]
+ORIGINAL: \bI´ve been coming here every day for the past 30 years, and I´m still not addicted. Don´t let anyone fool you, your passion will never be an addiction.
+TRADUCCION:
+
+[26|1|0|3]
+ORIGINAL: \bI´m not leaving until I hit the Jackpot. And once I´ve won enough coins, I will exchange them for a rare Pokémon.
+TRADUCCION:
+
+[21|1|0|1]
+ORIGINAL: \rWelcome!
+TRADUCCION:
+
+[21|1|2|1]
+ORIGINAL: \rOh, you don't have a Coin Case? Here.
+TRADUCCION:
+
+[21|1|4|2]
+ORIGINAL: \rYou can exchange your coins for fabulous prizes on the counter over there.
+TRADUCCION:
+
+[21|1|8|2]
+ORIGINAL: \rYou don't have any room for it. Come back when you do.
+TRADUCCION:
+
+[21|1|14|2]
+ORIGINAL: \rYou can exchange your coins for fabulous prizes on the counter over there.
+TRADUCCION:
+[22|1|3|OPCIONES]
+ORIGINAL: Smoke Ball - 800 coins|Shed Shell - 800 coins|Red Card - 800 coins|Lucky Egg - 3000 coins
+TRADUCCION:
+
+[22|1|21|OPCIONES]
+ORIGINAL: Soothe Bell - 2000 Coins|Amulet Coin - 3000 Coins|No thanks
+TRADUCCION:
+
+[22|1|41|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[17|1|5|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[23|1|3|OPCIONES]
+ORIGINAL: Voltorb - 180 coins|Ditto - 300 coins|Wynaut - 500 coins|Gimmighoul - 1000 coins
+TRADUCCION:
+
+[23|1|25|OPCIONES]
+ORIGINAL: Porygon - 5000 coins|No thanks
+TRADUCCION:
+
+[23|1|48|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[24|1|15|OPCIONES]
+ORIGINAL: TM01 - 3000 coins|TM20 - 2500 coins|TM59 - 3500 coins|TM60 - 3500 coins
+TRADUCCION:
+
+[24|1|33|OPCIONES]
+ORIGINAL: TM94 - 4000 coins|No thanks
+TRADUCCION:
+
+[24|1|51|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+
+[19|1|10|OPCIONES]
+ORIGINAL: 50 coins [$1,000]|500 coins [$10,000]|Exit
+TRADUCCION:
+

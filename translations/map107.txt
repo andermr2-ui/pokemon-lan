@@ -1,0 +1,15 @@
+[2|1|0|3]
+ORIGINAL: \bHello, I´m the Cut Master. I´m willing to give you the HM for the move Cut, which allows you to cut small trees, if you have the Meadow Badge.
+TRADUCCION:
+
+[2|1|4|2]
+ORIGINAL: \bOh, that looks like the Meadow Badge. Well then, here you go.
+TRADUCCION:
+
+[2|1|10|3]
+ORIGINAL: \bOh, you don´t have the badge yet? Then I´m afraid I can´t give you the HM yet. Come back once you defeated Rose.
+TRADUCCION:
+
+[2|2|0|3]
+ORIGINAL: \bYou will need to teach HMs to your Pokémon, but remember: These moves can´t be forgotten as easily as other moves.
+TRADUCCION:

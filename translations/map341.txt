@@ -1,0 +1,47 @@
+[2|2|0|1]
+ORIGINAL: Giratina is staring at you.
+TRADUCCION:
+
+[2|2|2|1]
+ORIGINAL: It wants to battle!
+TRADUCCION:
+
+[2|2|4|1]
+ORIGINAL: \bGIRAAA!!!
+TRADUCCION:
+
+[2|4|0|2]
+ORIGINAL: Giratina returned to the Distortion World. Will it come back?
+TRADUCCION:
+
+[3|1|8|3]
+ORIGINAL: \bCynthia: The last time I met Giratina, a maniac was trying to use its power to wipe all of us out, because he wanted to "recreate the universe".
+TRADUCCION:
+
+[3|1|11|3]
+ORIGINAL: \bI managed to stop that guy, with the help of a very capable trainer, but Giratina vanished after this incident.
+TRADUCCION:
+
+[3|1|14|3]
+ORIGINAL: \bBut now, it seems like Giratina is quite calm. Who knows, maybe your help in the Delta Region contributed to the balance of the dimensions?
+TRADUCCION:
+
+[3|1|17|2]
+ORIGINAL: \bOh, and don´t worry, I told Giratina that the Lake Trio is in safe hands.
+TRADUCCION:
+
+[3|1|19|2]
+ORIGINAL: \bThanks for helping me out here, it´s good to see that the world is becoming safer again.
+TRADUCCION:
+
+[3|1|21|2]
+ORIGINAL: \bI´ll head back to Champions Village. Please visit me once you´re done here, I have a gift for you.
+TRADUCCION:
+
+[3|1|23|3]
+ORIGINAL: \bOh, and one more thing, you can challenge these gods if you want to. They love to battle, and they won´t be angered if you beat them.
+TRADUCCION:
+
+[3|1|26|1]
+ORIGINAL: \bSee you later, \PN.
+TRADUCCION:

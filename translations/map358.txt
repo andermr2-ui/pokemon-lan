@@ -1,0 +1,183 @@
+[5|1|0|3]
+ORIGINAL: "These ancient relics were found 40 years ago. Archeologists date them back to the war from 3000 years ago."
+TRADUCCION:
+
+[16|1|0|3]
+ORIGINAL: "This painting shows the war from 3000 years ago. In the center of the painting, we can see what is believed to be the super-weapon."
+TRADUCCION:
+
+[27|1|0|1]
+ORIGINAL: \bI ain´t reading all that!
+TRADUCCION:
+
+[22|2|0|2]
+ORIGINAL: \bMy disappointment is immeasurable, and my day is ruined...
+TRADUCCION:
+
+[11|1|0|3]
+ORIGINAL: "This mysterious fossil is believed to be a casualty of the war from 3000 years ago. It seems to be linked to an old attack called Light of Ruin."
+TRADUCCION:
+
+[6|1|0|3]
+ORIGINAL: "These ancient relics were found 40 years ago. Archeologists date them back to the war from 3000 years ago."
+TRADUCCION:
+
+[17|1|0|3]
+ORIGINAL: "This painting shows the war from 3000 years ago. On the right side, we can see what is believed to be the Eternal Flower."
+TRADUCCION:
+
+[28|1|0|1]
+ORIGINAL: \bThese are just rocks, how boring...
+TRADUCCION:
+
+[1|1|0|2]
+ORIGINAL: \bWelcome to the Kalos Museum. We have rare exhibits from Kalos, and they tell exciting stories!
+TRADUCCION:
+
+[1|1|2|1]
+ORIGINAL: \bYou can visit this museum for free, isn´t that great?!
+TRADUCCION:
+
+[12|1|0|3]
+ORIGINAL: "This is an experimental version of a Pokéball. The age of it is unkown, but is very similar to today´s Pokéballs."
+TRADUCCION:
+
+[7|1|0|3]
+ORIGINAL: "These ancient relics were found 40 years ago. Archeologists date them back to the war from 3000 years ago."
+TRADUCCION:
+
+[18|1|0|2]
+ORIGINAL: "This painting shows the war from 3000 years ago. Here, we see a battlefield."
+TRADUCCION:
+
+[29|1|0|3]
+ORIGINAL: \bIt´s scary to think that a weapon like this ever existed. But that was 3000 years ago, a lot of things have changed since then.
+TRADUCCION:
+
+[2|1|0|1]
+ORIGINAL: The XYZ-Exhibition is upstairs.
+TRADUCCION:
+
+[13|1|0|3]
+ORIGINAL: "This is an experimental version of a Pokéball. The age of it is unkown, but is very similar to today´s Pokéballs."
+TRADUCCION:
+
+[8|1|0|2]
+ORIGINAL: "This statue was found in ancient ruins in Kalos. It is believed to be dedicated to the Giver of Life. 
+TRADUCCION:
+
+[8|1|2|2]
+ORIGINAL: The big X on the statue lets us believe that the Giver of Life is the Legendary Pokémon Xerneas."
+TRADUCCION:
+
+[19|1|0|3]
+ORIGINAL: \bI´m sorry, but the archive is off-limits, even for the Champion. But please take your time and look at our exhibits.
+TRADUCCION:
+
+[30|1|0|2]
+ORIGINAL: \bThat sure is an old Pokéball. I wonder if it still works?
+TRADUCCION:
+
+[3|1|0|3]
+ORIGINAL: "The Alpha-Omega Space Shuttle was the result of a cooperation between Hoenn and Kalos. The shuttle was supposed to travel to the moon.
+TRADUCCION:
+
+[3|1|3|3]
+ORIGINAL: The asteroid-incident has brought the project to a halt, but the mission is supposed to continue in a few months.
+TRADUCCION:
+
+[3|1|6|3]
+ORIGINAL: This model is a recreation of the real shuttle, which was gifted to the Kalos Museum after the project was unveiled."
+TRADUCCION:
+
+[14|1|0|3]
+ORIGINAL: "This is an experimental version of a Pokéball. The age of it is unkown, but is very similar to today´s Pokéballs."
+TRADUCCION:
+
+[31|1|0|3]
+ORIGINAL: \bSince you tried to steal from the museum, you must be in need of money. That seems a bit odd, because you´re the Champion, but whatever.
+TRADUCCION:
+
+[31|1|3|2]
+ORIGINAL: \bI can help you get super rich. Have you ever heard about the Treasure of the Swords?
+TRADUCCION:
+
+[31|1|5|3]
+ORIGINAL: \bI thought not. But it´s a simple story. About 60 years ago, a group of robbers who just robbed a bank had to hide their treasure somewhere.
+TRADUCCION:
+
+[31|1|8|2]
+ORIGINAL: \bThey got arrested near the Sword Ruins, with the treasure no where to be seen.
+TRADUCCION:
+
+[31|1|10|3]
+ORIGINAL: \bIn those 60 years, no one has been able to find that treasure, but I am certain that it´s hidden somewhere in the Sword Ruins.
+TRADUCCION:
+
+[31|1|13|2]
+ORIGINAL: \bMaybe this could be worth a shot. Anyways, have a nice day!
+TRADUCCION:
+
+[31|2|0|1]
+ORIGINAL: \bI wonder how valuable that treasure is...
+TRADUCCION:
+
+[9|1|0|2]
+ORIGINAL: "This statue was found in ancient ruins in Kalos. It is believed to be dedicated to the Bringer of Death.
+TRADUCCION:
+
+[9|1|2|3]
+ORIGINAL: The big Y on the statue hints at the identity of the Bringer of Death, which is believed to be the Legendary Pokémon Yveltal."
+TRADUCCION:
+
+[20|1|0|3]
+ORIGINAL: "This is a piece of a star that fell from the sky after the ancient super-weapon was fired. (DO NOT TOUCH)"
+TRADUCCION:
+
+[20|2|0|3]
+ORIGINAL: "This is a piece of a star that fell from the sky after the ancient super-weapon was fired. (DO NOT TOUCH)"
+TRADUCCION:
+
+[4|1|0|3]
+ORIGINAL: "These ancient relics were found 40 years ago. Archeologists date them back to the war from 3000 years ago."
+TRADUCCION:
+
+[15|1|0|2]
+ORIGINAL: "This fragment was part of the ancient super-weapon that was used in the war 3000 years ago.
+TRADUCCION:
+
+[15|1|2|2]
+ORIGINAL: Further research has been impossible due to the destructive behaviour of the material."
+TRADUCCION:
+
+[21|1|0|1]
+ORIGINAL: \bHm?
+TRADUCCION:
+
+[21|1|14|1]
+ORIGINAL: \bHMMMM?!
+TRADUCCION:
+
+[21|1|15|1]
+ORIGINAL: \bWHERE IS THE STAR PIECE?!
+TRADUCCION:
+
+[21|1|16|1]
+ORIGINAL: \bThat was our most valuable exhibit!
+TRADUCCION:
+
+[21|1|17|1]
+ORIGINAL: \bWho would do such a thing...
+TRADUCCION:
+
+[10|1|0|2]
+ORIGINAL: "This statue was found in ancient ruins in Kalos. It is believed to be dedicated to the Protector of Order.
+TRADUCCION:
+
+[10|1|2|2]
+ORIGINAL: The big Z on the statue implies that the Protector of Order is the Legendary Pokémon Zygarde."
+TRADUCCION:
+[20|1|3|OPCIONES]
+ORIGINAL: Take it?|Leave it there?
+TRADUCCION:
+

@@ -1,0 +1,15 @@
+[6|1|0|2]
+ORIGINAL: It´s a strange looking stature. Something is written on the socket:
+TRADUCCION:
+
+[6|1|2|1]
+ORIGINAL: "Key Card required"
+TRADUCCION:
+
+[6|1|4|1]
+ORIGINAL: You hold the Key Card against the stature.
+TRADUCCION:
+
+[8|1|0|1]
+ORIGINAL: \bI´m just a normal guy living in a normal house.
+TRADUCCION:

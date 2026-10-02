@@ -1,0 +1,71 @@
+[5|1|1|1]
+ORIGINAL: \bI want to become one with the mountain.
+TRADUCCION:
+
+[5|2|0|1]
+ORIGINAL: \bI will stay here until I am one with the mountain.
+TRADUCCION:
+
+[12|1|0|1]
+ORIGINAL: It´s a Pokémon Statue dedicated to Diancie.
+TRADUCCION:
+
+[12|2|0|1]
+ORIGINAL: It´s a Pokémon Statue dedicated to Diancie.
+TRADUCCION:
+
+[12|2|2|1]
+ORIGINAL: The Delta Stone in your pocket just lit up!
+TRADUCCION:
+
+[12|2|3|1]
+ORIGINAL: Something powerful is approaching!
+TRADUCCION:
+
+[12|2|5|1]
+ORIGINAL: \bDIAAA!!!
+TRADUCCION:
+
+[12|3|0|1]
+ORIGINAL: It´s a Pokémon Statue dedicated to Diancie.
+TRADUCCION:
+
+[12|4|0|1]
+ORIGINAL: Diancie disappeared. Will it come back?
+TRADUCCION:
+
+[12|5|0|1]
+ORIGINAL: It´s a Pokémon Statue dedicated to Diancie.
+TRADUCCION:
+
+[2|1|2|1]
+ORIGINAL: \bHear me out, child. You should put it all on Red.
+TRADUCCION:
+
+[2|2|0|1]
+ORIGINAL: \bI´m not addicted. I can stop whenever I want.
+TRADUCCION:
+
+[13|1|0|2]
+ORIGINAL: \bOh my, your Pokémon look tired. Let´s give them some rest.
+TRADUCCION:
+
+[13|1|5|2]
+ORIGINAL: \bThere we go. Be careful out there, and thanks for stopping bye!
+TRADUCCION:
+
+[3|1|2|1]
+ORIGINAL: \bYou look lost.
+TRADUCCION:
+
+[3|2|0|1]
+ORIGINAL: \bDon´t get lost like I did.
+TRADUCCION:
+
+[4|1|2|1]
+ORIGINAL: \bThe north exit is close. Can you reach it?
+TRADUCCION:
+
+[4|2|0|3]
+ORIGINAL: \bHave you seen the special forms in Rumble Mountain? A strange phenomenon caused Alolan forms from to appear here.
+TRADUCCION:

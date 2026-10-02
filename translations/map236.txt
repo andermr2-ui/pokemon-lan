@@ -1,0 +1,71 @@
+[5|1|2|2]
+ORIGINAL: \bUm, actually the Fairy-Type isn´t the strongest type. Steel-Type Pokémon are stronger!
+TRADUCCION:
+
+[5|2|0|3]
+ORIGINAL: \bThe Steel-Type has the most resistances out of all the types. It´s weak to just 3 types, so you won´t have to worry about getting caught off guard.
+TRADUCCION:
+
+[5|3|0|3]
+ORIGINAL: \bGalvano knows what his Pokémon are weak too, yet you were able to overcome all of his resistances. Statistically speaking, you´re really good!
+TRADUCCION:
+
+[16|1|2|1]
+ORIGINAL: \bAre you ready for some heavy metal?!
+TRADUCCION:
+
+[16|2|0|3]
+ORIGINAL: \bI need to keep it real with you. Just because you can win against us, doesn´t mean you can beat Galvano. He´s insanely strong.
+TRADUCCION:
+
+[16|3|0|1]
+ORIGINAL: \bYou actually beat Galvano, that´s amazing!
+TRADUCCION:
+
+[6|1|2|1]
+ORIGINAL: \bCan you win against these tough bugs?!
+TRADUCCION:
+
+[6|2|0|3]
+ORIGINAL: \bThe only way to overcome Steel-Type Pokémon is by using their weaknesses. You´ll struggle if you don´t.
+TRADUCCION:
+
+[6|3|0|1]
+ORIGINAL: \bLooks like there´s no type that can stop you.
+TRADUCCION:
+
+[2|1|0|3]
+ORIGINAL: \bWelcome to the Granite Heights Gym. Here, the trainers use Steel-Type Pokémon, which are hard to take down.
+TRADUCCION:
+
+[2|1|3|2]
+ORIGINAL: \bYou should use Fire-, Ground- and Fighting-Type attacks in order to have an advantage.
+TRADUCCION:
+
+[2|1|5|3]
+ORIGINAL: \bWe wanted to be creative like the other Gyms, but we couldn´t think of anything interesting, so we kept it simple.
+TRADUCCION:
+
+[2|1|8|2]
+ORIGINAL: \bDefeat all the trainers in this room and the door will open.
+TRADUCCION:
+
+[2|1|10|3]
+ORIGINAL: \bGalvano, the Gym Leader, is known for using very strong Pokémon. If he catches you off guard, then you´ve already lost. Good luck!
+TRADUCCION:
+
+[2|2|0|3]
+ORIGINAL: \bWow, you really did it! Congratulations on beating the Gym Challenge. Only the toughest trainers are able to get this far.
+TRADUCCION:
+
+[4|1|2|1]
+ORIGINAL: \bCome on, show me your strength!
+TRADUCCION:
+
+[4|2|0|2]
+ORIGINAL: \bI´ve tried to beat Galvano a bunch of times already, but I have never defeated even one of his Pokémon.
+TRADUCCION:
+
+[4|3|0|3]
+ORIGINAL: \bI´m out here struggling with one of Galvano´s Pokémon, but you defeated all of them just like that. Impressive!
+TRADUCCION:

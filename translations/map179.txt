@@ -1,0 +1,87 @@
+[6|1|0|1]
+ORIGINAL: It´s a Pokémon Statue dedicated to Entei.
+TRADUCCION:
+
+[6|2|0|1]
+ORIGINAL: It´s a Pokémon Statue dedicated to Entei.
+TRADUCCION:
+
+[6|2|2|1]
+ORIGINAL: The Delta Stone in your pocket just lit up!
+TRADUCCION:
+
+[6|2|3|1]
+ORIGINAL: Something powerful is approaching!
+TRADUCCION:
+
+[6|2|5|1]
+ORIGINAL: \bENTEEEEEEIII!!!
+TRADUCCION:
+
+[6|3|0|1]
+ORIGINAL: It´s a Pokémon Statue dedicated to Entei.
+TRADUCCION:
+
+[6|4|0|1]
+ORIGINAL: Entei disappeared. Will it come back?
+TRADUCCION:
+
+[6|5|0|1]
+ORIGINAL: It´s a Pokémon Statue dedicated to Entei.
+TRADUCCION:
+
+[1|1|2|1]
+ORIGINAL: \bThe sun is firing my Pokémon up. Watch this!
+TRADUCCION:
+
+[1|2|0|2]
+ORIGINAL: \bFire-Type Pokémon become extremely strong in the sun. They love this environment!
+TRADUCCION:
+
+[2|1|2|1]
+ORIGINAL: \bLooks like it´s time for a heated battle!
+TRADUCCION:
+
+[2|2|0|2]
+ORIGINAL: \bThe entrance to Ambergrove Cave lies in the Scorching Valley. It´s not far from here.
+TRADUCCION:
+
+[3|1|2|2]
+ORIGINAL: \bThis is not my kind of weather, but my Pokémon loves it!
+TRADUCCION:
+
+[3|2|0|2]
+ORIGINAL: \bThe entrance to Ambergrove Cave lies in the Scorching Valley. It´s not far from here.
+TRADUCCION:
+
+[9|1|0|1]
+ORIGINAL: It´s an ancient tomb. A dark aura is filling the air.
+TRADUCCION:
+
+[9|2|0|1]
+ORIGINAL: It´s an ancient tomb. A dark aura is filling the air.
+TRADUCCION:
+
+[9|2|2|1]
+ORIGINAL: The Delta Stone in your pocket just lit up!
+TRADUCCION:
+
+[9|2|3|1]
+ORIGINAL: An ominous creature is coming out of the tomb!
+TRADUCCION:
+
+[9|2|5|1]
+ORIGINAL: \bYUUUUU!!!
+TRADUCCION:
+
+[9|3|0|1]
+ORIGINAL: It´s an ancient tomb.
+TRADUCCION:
+
+[9|4|0|2]
+ORIGINAL: Chi-Yu returned to its tomb. Will it come out again?
+TRADUCCION:
+
+[9|5|0|1]
+ORIGINAL: It´s an ancient tomb. A dark aura is filling the air.
+TRADUCCION:

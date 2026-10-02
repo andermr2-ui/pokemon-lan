@@ -1,0 +1,7 @@
+[2|1|0|1]
+ORIGINAL: \bLet me cook!
+TRADUCCION:
+
+[3|1|0|2]
+ORIGINAL: \bMy husband is wasting his talents here. He´s a great cook, so he should work at a restaurant.
+TRADUCCION:

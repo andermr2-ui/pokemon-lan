@@ -1,0 +1,51 @@
+[1|6|0|2]
+ORIGINAL: Cobalion is thankful for saving Keldeo. It wants to challenge you!
+TRADUCCION:
+
+[1|6|3|1]
+ORIGINAL: \bCOBAAA!!!
+TRADUCCION:
+
+[1|8|0|1]
+ORIGINAL: Cobalion disappeared. Will it come back?
+TRADUCCION:
+
+[2|2|3|2]
+ORIGINAL: \bGiovanni: What are you doing here?! You were supposed to guard the entrance!
+TRADUCCION:
+
+[2|4|6|1]
+ORIGINAL: \bWait a minute...\nIt´s you!
+TRADUCCION:
+
+[2|4|8|3]
+ORIGINAL: \bHow can you be interfering with my plans again? I already showed you that it´s pointless to challenge me.
+TRADUCCION:
+
+[2|4|13|2]
+ORIGINAL: \bI thought you were wise enough to stay away, but now you´re here again. Unbelievable.
+TRADUCCION:
+
+[2|4|17|2]
+ORIGINAL: \bEither way, I have no time for this now. You there, remove him!
+TRADUCCION:
+
+[2|6|3|2]
+ORIGINAL: \bGiovanni: Usually this would anger me, but I´m about done here. Don´t follow us.
+TRADUCCION:
+
+[4|2|0|1]
+ORIGINAL: \bBoss, is everything going according to plan?
+TRADUCCION:
+
+[4|4|0|2]
+ORIGINAL: \bDon´t worry, boss. There was no one around when I left.
+TRADUCCION:
+
+[4|4|6|1]
+ORIGINAL: \bOh...
+TRADUCCION:
+
+[4|6|10|1]
+ORIGINAL: \bYou heard the boss. It´s time for you to leave!
+TRADUCCION:

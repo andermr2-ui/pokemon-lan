@@ -1,0 +1,15 @@
+[6|1|2|1]
+ORIGINAL: \bStop right there, I need to train!
+TRADUCCION:
+
+[6|2|0|2]
+ORIGINAL: \bI wanted to train at Relic Cave, but it looks like the entrance is somewhere else...
+TRADUCCION:
+
+[1|1|0|3]
+ORIGINAL: \bThis is going to be disappointing, but you can´t enter Relic Cave from here. I wanted to look for some cool fossils in there, but this is just a dead end.
+TRADUCCION:
+
+[1|1|3|2]
+ORIGINAL: \bI guess we´ll have to use the entrance on Route 10, but getting there is gonna take a while.
+TRADUCCION:

@@ -1,0 +1,11 @@
+[1|1|2|3]
+ORIGINAL: \bFinally, someone else who´s in need of training. I need some confidence if I want to challenge the Riverstone Gym, and this battle will help for sure.
+TRADUCCION:
+
+[1|1|5|1]
+ORIGINAL: \bAre you ready? Let´s battle!
+TRADUCCION:
+
+[1|2|0|2]
+ORIGINAL: \bLooks like I need even more training. But you, you´re ready.
+TRADUCCION:

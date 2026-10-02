@@ -1,0 +1,4 @@
+=== map171 ===
+ev1 pg0 [2]: "\\bOn your way to the Whispering Woods? Then you gotta get past me first!"
+ev1 pg1 [0]: "\\bIf you want to get to Ambergrove, going through the Whispering Woods is the shortest way."
+ev2 pg0 [1]: "\\bI´m sorry, but no one is allowed to enter Crystal Harbor at the moment. Pokéwood Studios arefilming for a movie here, and you can´t interrupt them."

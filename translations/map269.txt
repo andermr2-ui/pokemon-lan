@@ -1,0 +1,67 @@
+[2|1|0|1]
+ORIGINAL: \bOh, hi. What brings you to Glimmerwood?
+TRADUCCION:
+
+[2|1|1|2]
+ORIGINAL: \bAh, you´re headed for Aurora Summit. If you follow Route 12, you´ll be there in no time.
+TRADUCCION:
+
+[3|1|0|2]
+ORIGINAL: \bHey, do you happen to be familiar with the Legendary Giants, also known as the Regis?
+TRADUCCION:
+
+[3|1|2|3]
+ORIGINAL: \bRegigigas, the first of the giants, created 5 others. While they used to be worshipped, all of the giants were sealed away long ago.
+TRADUCCION:
+
+[3|1|5|2]
+ORIGINAL: \bNow listen, I´ve heard that these giants were sealed in the caves of this region.
+TRADUCCION:
+
+[3|1|7|3]
+ORIGINAL: \bOne in Rumble Mountain, one in Iron Mountain, one in Aurora Mountain, one somewhere on Thunder Pass, and one on Victory Road.
+TRADUCCION:
+
+[3|1|10|2]
+ORIGINAL: \bNo one has been able to find them, but I bet that they´re there!
+TRADUCCION:
+
+[3|1|12|2]
+ORIGINAL: \bYou seem interested. And you´re doing the Gym Challenge, right? That means you´re strong.
+TRADUCCION:
+
+[3|1|14|2]
+ORIGINAL: \bWill you try to find the Regis while you´re on your journey?
+TRADUCCION:
+
+[3|1|18|3]
+ORIGINAL: \bYou are?! Really?! That´s awesome! Then I bet you like rare Pokémon as much as I do! Here, this one should make for a great companion!
+TRADUCCION:
+
+[3|1|23|3]
+ORIGINAL: \bI got this Piplup as a gift during my year abroad in Sinnoh, but it doesn´t fit into my team, so I want a strong trainer to take care of it.
+TRADUCCION:
+
+[3|1|26|2]
+ORIGINAL: \bWe share the same goal, so I´m happy to give this to you. And now go out there and find the Regis!
+TRADUCCION:
+
+[3|1|31|1]
+ORIGINAL: There's no more room for Pokémon!
+TRADUCCION:
+
+[3|1|32|1]
+ORIGINAL: The Pokémon Boxes are full and can't accept any more!
+TRADUCCION:
+
+[3|1|37|2]
+ORIGINAL: \bOh, but that´s okay. It´s probably too dangerous anyways...
+TRADUCCION:
+
+[3|2|0|3]
+ORIGINAL: \bI heard that only those who rule over the 5 Regis can reawaken the mighty Regigigas. If that´s no reason to find them, then I don´t know what is.
+TRADUCCION:
+[3|1|16|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+

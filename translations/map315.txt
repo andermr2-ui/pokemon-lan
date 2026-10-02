@@ -1,0 +1,23 @@
+[2|1|0|2]
+ORIGINAL: \bAhoy, Champion! You wanna visit the Delta Islands, don´t you?
+TRADUCCION:
+
+[2|1|2|3]
+ORIGINAL: \bThen I´m sorry, but the ferry is broken. We´re waiting for spare parts, but Jeff Bezos is taking his bloody time...
+TRADUCCION:
+
+[2|2|0|2]
+ORIGINAL: \bAhoy, Champion! Are you ready to go to the Delta Islands?
+TRADUCCION:
+
+[2|2|4|2]
+ORIGINAL: \bAlright, hop on the ferry and you´ll be there in no time!
+TRADUCCION:
+
+[2|2|26|1]
+ORIGINAL: \bSure, I´ll wait. Just tell me when you want to go.
+TRADUCCION:
+[2|2|2|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION:
+

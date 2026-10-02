@@ -1,0 +1,11 @@
+[2|1|2|1]
+ORIGINAL: It´s a dead body...
+TRADUCCION:
+
+[3|1|1|1]
+ORIGINAL: \bMIRAI!!!
+TRADUCCION:
+
+[3|3|0|1]
+ORIGINAL: Miraidon disappeared. Will it come back?
+TRADUCCION:

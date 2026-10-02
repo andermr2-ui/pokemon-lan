@@ -1,0 +1,51 @@
+[5|1|0|1]
+ORIGINAL: \bHm, a Pokémon Trainer?
+TRADUCCION:
+
+[5|1|2|3]
+ORIGINAL: \bAnd you look very strong. Then you can help me. I´m a rookie Pokémon Ranger, and I recently got my partner Pokémon.
+TRADUCCION:
+
+[5|1|5|3]
+ORIGINAL: \bThey gave me a Snivy, but I really wanted a Fire-Type. Don´t tell anyone, but I stole someone´s Torchic.
+TRADUCCION:
+
+[5|1|8|3]
+ORIGINAL: \bBecause all of us Rangers look the same, no one will be able to know who did it, if I get rid of the Snivy.
+TRADUCCION:
+
+[5|1|11|1]
+ORIGINAL: \bPlease, take it.
+TRADUCCION:
+
+[5|1|14|3]
+ORIGINAL: \bTake good care of this Snivy. And if anyone asks where you got this from, tell them that you visited your family in Unova.
+TRADUCCION:
+
+[5|1|17|1]
+ORIGINAL: \bThanks for helping me!
+TRADUCCION:
+
+[5|1|21|1]
+ORIGINAL: There's no more room for Pokémon!
+TRADUCCION:
+
+[5|1|22|1]
+ORIGINAL: The Pokémon Boxes are full and can't accept any more!
+TRADUCCION:
+
+[5|1|27|1]
+ORIGINAL: \bBut you´re not the right person to help me...
+TRADUCCION:
+
+[5|2|0|2]
+ORIGINAL: \bNow that I have a Fire-Type Pokémon, my career will flourish!
+TRADUCCION:
+
+[6|1|0|3]
+ORIGINAL: \bI´m so proud of my daughter. She managed to become a Pokémon Ranger! That´s a very honorable profession and I hope it makes her happy.
+TRADUCCION:
+
+[7|1|0|2]
+ORIGINAL: \bShe did it! She fulfilled her big dream! I´m the proudest father in the world right now!
+TRADUCCION:

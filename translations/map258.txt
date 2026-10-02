@@ -1,0 +1,95 @@
+[5|1|0|3]
+ORIGINAL: \bI´m sorry, but the dorm rooms are for students only. Visitors are only allowed to go here if they´re invited by a student.
+TRADUCCION:
+
+[6|1|0|2]
+ORIGINAL: \bI´m afraid only students are allowed to attend lectures, so this area is off limits.
+TRADUCCION:
+
+[1|1|0|3]
+ORIGINAL: \bStudying at Arrow Ridge Academy is just great! Once I graduate, I´m gonna smash the Gym Challenge and become the Champion in no time.
+TRADUCCION:
+
+[7|1|0|3]
+ORIGINAL: \bProf. McAvoy: Welcome to the Arrow Ridge Academy, where great minds pursue an even greater future.
+TRADUCCION:
+
+[7|1|3|3]
+ORIGINAL: \bI´m Professor Charles McAvoy, and I´m the director of the Academy. You must be \PN then, because that Zeke guy stopped by earlier.
+TRADUCCION:
+
+[7|1|6|3]
+ORIGINAL: \bOh, are you surprised that I know about you? I´m an old friend of Professor Oak, and he told me about the two of you.
+TRADUCCION:
+
+[7|1|9|3]
+ORIGINAL: \bI was going to give a certain gift to one of you, but I wasn´t too found of Zeke´s attitude, so I just told him about some type match ups and let him go.
+TRADUCCION:
+
+[7|1|12|2]
+ORIGINAL: \bBut you seem less rash, and more determined, so this will be a lot more useful in your hands.
+TRADUCCION:
+
+[7|1|15|3]
+ORIGINAL: \bTwo students of mine that wanted to pursue a degree in Pokémon Biology got to pick a partner to support them.
+TRADUCCION:
+
+[7|1|18|3]
+ORIGINAL: \bThis Squirtle didn´t get picked, so giving it to a promising trainer is the right thing to do. Please, take good care of it.
+TRADUCCION:
+
+[7|1|21|1]
+ORIGINAL: \bOh, and my students got another little gift. Take this.
+TRADUCCION:
+
+[7|1|23|3]
+ORIGINAL: \bYour eyes aren´t deceiving you. That is a real Mega Stone. These are rare, but under the right conditions they can grant certain Pokémon great power.
+TRADUCCION:
+
+[7|1|26|3]
+ORIGINAL: \bOnly a handful of people have managed to unleash the power of these stones, but who knows, you might be able to do so as well.
+TRADUCCION:
+
+[7|1|29|3]
+ORIGINAL: \bYou should check out the Riverstone Institute once you make it to Riverstone, they´ll surely be able to help you out.
+TRADUCCION:
+
+[7|1|32|2]
+ORIGINAL: \bIf you ever need a break from your adventure, you could study at our academy.
+TRADUCCION:
+
+[7|1|34|3]
+ORIGINAL: \bWe offer a special degree for trainers, where they can learn everything about Pokémon battles and ethics. But I can see that you want to get going now.
+TRADUCCION:
+
+[7|1|37|2]
+ORIGINAL: \bI don´t blame you, so get going already. Good luck out there, and good bye!
+TRADUCCION:
+
+[7|2|0|3]
+ORIGINAL: \bI should visit Oak again, I haven´t seen that bloke in years. Fortnite´s OG season is coming back, and I can´t wait to smoke his old ass again.
+TRADUCCION:
+
+[2|1|0|3]
+ORIGINAL: \bAt the Academy, we can pursue one of three degrees. I´ve chosen to become a Professor, because I want to help my mother.
+TRADUCCION:
+
+[2|1|3|3]
+ORIGINAL: \bShe works at the Hisui Wildlife Station on the Delta Islands, and treating those ancient Pokémon would be a dream come true for me.
+TRADUCCION:
+
+[3|1|0|3]
+ORIGINAL: \bI´m just studying here to get a job at Silph Co. one day. They´re the biggest Pokémon tech company in the world, and I want to improve the world with them.
+TRADUCCION:
+
+[4|1|0|1]
+ORIGINAL: \bI have never seen you here before, have I?
+TRADUCCION:
+
+[4|1|1|3]
+ORIGINAL: \bOh, you´re doing the Gym Challenge and stopped by for some tips? Then you should talk to Professor McAvoy, he´ll help you for sure.
+TRADUCCION:
+
+[4|1|7|3]
+ORIGINAL: \bIt looks like he´s busy right now, but usually you can find him in the lobby. Just come back later and I´m sure you´ll meet him.
+TRADUCCION:

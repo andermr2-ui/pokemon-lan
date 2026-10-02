@@ -1,0 +1,11 @@
+[2|1|0|1]
+ORIGINAL: \bMy sister drinks too much choccy milk...
+TRADUCCION:
+
+[3|1|0|1]
+ORIGINAL: \bI love choccy milk! Do you like choccy milk?
+TRADUCCION:
+
+[4|1|0|2]
+ORIGINAL: It´s a biology book. It shows the anatomy of a Vaporeon.
+TRADUCCION:

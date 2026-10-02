@@ -1,0 +1,243 @@
+[1|1|1|1]
+ORIGINAL: <ac>\c[8]\l[3]Pokémon Resolute Edition
+TRADUCCION: <ac>\c[8]\l[3]Pokémon Resolute Edition
+
+[1|1|13|1]
+ORIGINAL: \bHello! Sorry to keep you waiting!
+TRADUCCION: \b¡Hola! Siento haberte hecho esperar.
+
+[1|1|14|1]
+ORIGINAL: \bWelcome to the world of Pokémon.
+TRADUCCION: \bBienvenido al mundo de los Pokémon.
+
+[1|1|15|1]
+ORIGINAL: \bMy name is Oak.
+TRADUCCION: \bMe llamo Nariyoshi Miyagi.
+
+[1|1|16|1]
+ORIGINAL: \bPeople call me the Pokémon Professor.
+TRADUCCION: \bLa gente me llama el Profesor Miyagi.
+
+[1|1|18|1]
+ORIGINAL: \bIf you need help, I am certainly capable of giving it.
+TRADUCCION: \bSi necesitas ayuda, desde luego que puedo dártela.
+
+[1|1|25|1]
+ORIGINAL: \bWell then, without further ado...
+TRADUCCION: \bBien, sin más preámbulos...
+
+[1|1|34|3]
+ORIGINAL: <ac>\c[0]\l[3]You are about to enter a world\nwhere you will embark on a grand\nadventure of your very own.
+TRADUCCION: <ac>\c[0]\l[3]Estás a punto de entrar en un mundo\ndonde emprenderás una gran\naventura que será solo tuya.
+
+[1|1|37|4]
+ORIGINAL: <ac>\c[0]\l[5]Speak to people and check things\nwherever you go, be it in towns,\nroads or caves.\nGather information and hints from\nevery possible source.
+TRADUCCION: <ac>\c[0]\l[5]Habla con la gente y examina las cosas\nallá donde vayas, ya sea en ciudades,\ncaminos o cuevas.\nReúne información y pistas de\ntodas las fuentes posibles.
+
+[1|1|41|3]
+ORIGINAL: <ac>\c[0]\l[3]New paths will open to you when\nyou help people in need, overcome\nchallenges, and solve mysteries.
+TRADUCCION: <ac>\c[0]\l[3]Se abrirán nuevos caminos ante ti cuando\nayudes a quien lo necesite, superes\ndesafíos y resuelvas misterios.
+
+[1|1|44|4]
+ORIGINAL: <ac>\c[0]\l[7]At times, you will be challenged\nby others to a battle.\nAt other times, wild creatures\nmay stand in your way.\n\nBy overcoming such hurdles,\nyou will gain great power.
+TRADUCCION: <ac>\c[0]\l[7]A veces, otros te retarán\na un combate.\nOtras veces, criaturas salvajes\nse cruzarán en tu camino.\n\nAl superar estos obstáculos,\nganarás un gran poder.
+
+[1|1|48|2]
+ORIGINAL: <ac>\c[0]\l[2]However, your adventure is not\nsolely about becoming powerful.
+TRADUCCION: <ac>\c[0]\l[2]Sin embargo, tu aventura no consiste\nsolo en volverte más poderoso.
+
+[1|1|50|4]
+ORIGINAL: <ac>\c[0]\l[7]On your travels, we hope that\nyou will meet countless people\nand, through them, achieve\npersonal growth.\n\nThis is the most important\nobjective of this adventure.
+TRADUCCION: <ac>\c[0]\l[7]Esperamos que, en tus viajes,\nconozcas a muchísimas personas\ny que, gracias a ellas, alcances\nun crecimiento personal.\n\nEste es el objetivo más importante\nde esta aventura.
+
+[1|1|74|2]
+ORIGINAL: \bThis world is inhabited by creatures we call Pokémon.
+TRADUCCION: \bEste mundo está habitado por criaturas a las que llamamos Pokémon.
+
+[1|1|76|2]
+ORIGINAL: \bPeople and Pokémon live together by supporting each other.
+TRADUCCION: \bLas personas y los Pokémon conviven apoyándose mutuamente.
+
+[1|1|78|2]
+ORIGINAL: \bSome people play with Pokémon, some battle with them.
+TRADUCCION: \bAlgunas personas juegan con los Pokémon, otras combaten con ellos.
+
+[1|1|87|1]
+ORIGINAL: \bBut we don't know everything about Pokémon yet.
+TRADUCCION: \bPero todavía no lo sabemos todo sobre los Pokémon.
+
+[1|1|88|1]
+ORIGINAL: \bThere are still many mysteries to solve.
+TRADUCCION: \bAún quedan muchos misterios por resolver.
+
+[1|1|89|1]
+ORIGINAL: \bThat's why I study Pokémon every day.
+TRADUCCION: \bPor eso estudio a los Pokémon todos los días.
+
+[1|1|96|1]
+ORIGINAL: \bAre you a boy or a girl?
+TRADUCCION: \b¿Eres chico o chica?
+
+[1|1|116|1]
+ORIGINAL: \bNow what did you say your name was?
+TRADUCCION: \b¿Y bien? ¿Cómo dijiste que te llamabas?
+
+[1|1|122|1]
+ORIGINAL: \bSo you're \PN?
+TRADUCCION: \bConque tú eres \PN, ¿eh?
+
+[1|1|127|1]
+ORIGINAL: \bWhat is your name?
+TRADUCCION: \b¿Cómo te llamas?
+
+[1|1|131|1]
+ORIGINAL: \b\PN, are you ready?
+TRADUCCION: \b\PN, ¿estás listo?
+
+[1|1|132|1]
+ORIGINAL: \bYour very own Pokémon story is about to unfold.
+TRADUCCION: \bTu propia historia Pokémon está a punto de comenzar.
+
+[1|1|133|1]
+ORIGINAL: \bYou'll face fun times and tough challenges.
+TRADUCCION: \bVivirás momentos divertidos y también desafíos difíciles.
+
+[1|1|134|2]
+ORIGINAL: \bA world of dreams and adventures with Pokémon awaits! Let's go!
+TRADUCCION: \b¡Un mundo de sueños y aventuras junto a los Pokémon te espera! ¡Vamos!
+
+[3|1|1|2]
+ORIGINAL: <ac>\c[8]\l[3](Please refer to the\nPokémon Essentials Wiki\nfor documentation.)
+TRADUCCION: <ac>\c[8]\l[3](Consulta la\nWiki de Pokémon Essentials\npara ver la documentación.)
+
+[3|1|14|1]
+ORIGINAL: \bHello! Sorry to keep you waiting!
+TRADUCCION: \b¡Hola! Siento haberte hecho esperar.
+
+[3|1|15|1]
+ORIGINAL: \bWelcome to the world of Pokémon.
+TRADUCCION: \bBienvenido al mundo de los Pokémon.
+
+[3|1|16|1]
+ORIGINAL: \bMy name is Oak.
+TRADUCCION: \bMe llamo Nariyoshi Miyagi.
+
+[3|1|17|1]
+ORIGINAL: \bPeople call me the Pokémon Professor.
+TRADUCCION: \bLa gente me llama el Profesor Miyagi.
+
+[3|1|19|1]
+ORIGINAL: \bIf you need help, I am certainly capable of giving it.
+TRADUCCION: \bSi necesitas ayuda, desde luego que puedo dártela.
+
+[3|1|26|1]
+ORIGINAL: \bWell then, without further ado...
+TRADUCCION: \bBien, sin más preámbulos...
+
+[3|1|35|3]
+ORIGINAL: <ac>\c[0]\l[3]You are about to enter a world\nwhere you will embark on a grand\nadventure of your very own.
+TRADUCCION: <ac>\c[0]\l[3]Estás a punto de entrar en un mundo\ndonde emprenderás una gran\naventura que será solo tuya.
+
+[3|1|38|4]
+ORIGINAL: <ac>\c[0]\l[5]Speak to people and check things\nwherever you go, be it in towns,\nroads or caves.\nGather information and hints from\nevery possible source.
+TRADUCCION: <ac>\c[0]\l[5]Habla con la gente y examina las cosas\nallá donde vayas, ya sea en ciudades,\ncaminos o cuevas.\nReúne información y pistas de\ntodas las fuentes posibles.
+
+[3|1|42|3]
+ORIGINAL: <ac>\c[0]\l[3]New paths will open to you when\nyou help people in need, overcome\nchallenges, and solve mysteries.
+TRADUCCION: <ac>\c[0]\l[3]Se abrirán nuevos caminos ante ti cuando\nayudes a quien lo necesite, superes\ndesafíos y resuelvas misterios.
+
+[3|1|45|4]
+ORIGINAL: <ac>\c[0]\l[7]At times, you will be challenged\nby others to a battle.\nAt other times, wild creatures\nmay stand in your way.\n\nBy overcoming such hurdles,\nyou will gain great power.
+TRADUCCION: <ac>\c[0]\l[7]A veces, otros te retarán\na un combate.\nOtras veces, criaturas salvajes\nse cruzarán en tu camino.\n\nAl superar estos obstáculos,\nganarás un gran poder.
+
+[3|1|49|2]
+ORIGINAL: <ac>\c[0]\l[2]However, your adventure is not\nsolely about becoming powerful.
+TRADUCCION: <ac>\c[0]\l[2]Sin embargo, tu aventura no consiste\nsolo en volverte más poderoso.
+
+[3|1|51|4]
+ORIGINAL: <ac>\c[0]\l[7]On your travels, we hope that\nyou will meet countless people\nand, through them, achieve\npersonal growth.\n\nThis is the most important\nobjective of this adventure.
+TRADUCCION: <ac>\c[0]\l[7]Esperamos que, en tus viajes,\nconozcas a muchísimas personas\ny que, gracias a ellas, alcances\nun crecimiento personal.\n\nEste es el objetivo más importante\nde esta aventura.
+
+[3|1|75|2]
+ORIGINAL: \bThis world is inhabited by creatures we call Pokémon.
+TRADUCCION: \bEste mundo está habitado por criaturas a las que llamamos Pokémon.
+
+[3|1|77|2]
+ORIGINAL: \bPeople and Pokémon live together by supporting each other.
+TRADUCCION: \bLas personas y los Pokémon conviven apoyándose mutuamente.
+
+[3|1|79|2]
+ORIGINAL: \bSome people play with Pokémon, some battle with them.
+TRADUCCION: \bAlgunas personas juegan con los Pokémon, otras combaten con ellos.
+
+[3|1|88|1]
+ORIGINAL: \bBut we don't know everything about Pokémon yet.
+TRADUCCION: \bPero todavía no lo sabemos todo sobre los Pokémon.
+
+[3|1|89|1]
+ORIGINAL: \bThere are still many mysteries to solve.
+TRADUCCION: \bAún quedan muchos misterios por resolver.
+
+[3|1|90|1]
+ORIGINAL: \bThat's why I study Pokémon every day.
+TRADUCCION: \bPor eso estudio a los Pokémon todos los días.
+
+[3|1|97|1]
+ORIGINAL: \bAre you a boy or a girl?
+TRADUCCION: \b¿Eres chico o chica?
+
+[3|1|117|1]
+ORIGINAL: \bNow what did you say your name was?
+TRADUCCION: \b¿Y bien? ¿Cómo dijiste que te llamabas?
+
+[3|1|123|1]
+ORIGINAL: \bSo you're \PN?
+TRADUCCION: \bConque tú eres \PN, ¿eh?
+
+[3|1|128|1]
+ORIGINAL: \bWhat is your name?
+TRADUCCION: \b¿Cómo te llamas?
+
+[3|1|132|1]
+ORIGINAL: \b\PN, are you ready?
+TRADUCCION: \b\PN, ¿estás listo?
+
+[3|1|133|1]
+ORIGINAL: \bYour very own Pokémon story is about to unfold.
+TRADUCCION: \bTu propia historia Pokémon está a punto de comenzar.
+
+[3|1|134|1]
+ORIGINAL: \bYou'll face fun times and tough challenges.
+TRADUCCION: \bVivirás momentos divertidos y también desafíos difíciles.
+
+[3|1|135|2]
+ORIGINAL: \bA world of dreams and adventures with Pokémon awaits! Let's go!
+TRADUCCION: \b¡Un mundo de sueños y aventuras junto a los Pokémon te espera! ¡Vamos!
+
+[3|1|137|2]
+ORIGINAL: \bEnjoy the Starter Kit. You should give credit when using it.
+TRADUCCION: \bDisfruta del Starter Kit. Deberías dar crédito al usarlo.
+[1|1|19|OPCIONES]
+ORIGINAL: Controls|Adventure|No info needed
+TRADUCCION: Controles|Aventura|No hace falta info
+
+[1|1|80|OPCIONES]
+ORIGINAL: Boy|Girl
+TRADUCCION: Chico|Chica
+
+[1|1|106|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION: Sí|No
+
+[3|1|19|OPCIONES]
+ORIGINAL: Controls|Adventure|No info needed
+TRADUCCION: Controles|Aventura|No hace falta info
+
+[3|1|80|OPCIONES]
+ORIGINAL: Boy|Girl
+TRADUCCION: Chico|Chica
+
+[3|1|106|OPCIONES]
+ORIGINAL: Yes|No
+TRADUCCION: Sí|No
+

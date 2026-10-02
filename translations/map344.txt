@@ -1,0 +1,99 @@
+[5|1|2|1]
+ORIGINAL: It´s a dead body...
+TRADUCCION:
+
+[17|1|1|1]
+ORIGINAL: \bcosmo...
+TRADUCCION:
+
+[6|1|2|1]
+ORIGINAL: It´s a dead body...
+TRADUCCION:
+
+[12|1|1|1]
+ORIGINAL: \bCROZMA!!!
+TRADUCCION:
+
+[12|3|0|1]
+ORIGINAL: Necrozma disappeared. Will it come back?
+TRADUCCION:
+
+[1|1|2|1]
+ORIGINAL: \bRAIII!!!
+TRADUCCION:
+
+[1|3|0|1]
+ORIGINAL: Raging Bolt disappeared. Will it come back?
+TRADUCCION:
+
+[18|2|0|1]
+ORIGINAL: It´s a Cosmog. It looks frightened.
+TRADUCCION:
+
+[18|2|3|1]
+ORIGINAL: \bSmog...
+TRADUCCION:
+
+[18|2|6|1]
+ORIGINAL: \bCosmo!
+TRADUCCION:
+
+[18|2|9|1]
+ORIGINAL: Cosmog seems to trust you.
+TRADUCCION:
+
+[18|2|10|1]
+ORIGINAL: It wants to join you!
+TRADUCCION:
+
+[18|2|16|1]
+ORIGINAL: There's no more room for Pokémon!
+TRADUCCION:
+
+[18|2|17|1]
+ORIGINAL: The Pokémon Boxes are full and can't accept any more!
+TRADUCCION:
+
+[18|3|2|2]
+ORIGINAL: A strange noise came somewhere from Victory Road...
+TRADUCCION:
+
+[7|1|2|1]
+ORIGINAL: It´s a dead body...
+TRADUCCION:
+
+[2|1|2|1]
+ORIGINAL: \bTEIII!!!
+TRADUCCION:
+
+[2|3|0|1]
+ORIGINAL: Gouging Fire disappeared. Will it come back?
+TRADUCCION:
+
+[14|1|15|1]
+ORIGINAL: \bAHHHHHHHHHHHH!!!
+TRADUCCION:
+
+[14|1|16|2]
+ORIGINAL: \bWow, we actually made it. But once we go through that door, we might never leave again.
+TRADUCCION:
+
+[14|1|18|1]
+ORIGINAL: \bOkay, are you ready?
+TRADUCCION:
+
+[14|1|19|2]
+ORIGINAL: \bThen go inside the institute, and I´ll be right behind you.
+TRADUCCION:
+
+[3|1|2|1]
+ORIGINAL: \bSUIII!!!
+TRADUCCION:
+
+[3|3|0|1]
+ORIGINAL: Walking Wake disappeared. Will it come back?
+TRADUCCION:
+[18|2|1|OPCIONES]
+ORIGINAL: Hey little guy, are you okay?|Please, let me help you.
+TRADUCCION:
+

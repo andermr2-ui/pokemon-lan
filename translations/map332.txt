@@ -1,0 +1,7 @@
+[1|1|0|3]
+ORIGINAL: \bI´m so happy for these Pokémon! Throughout the last centuries, it has been getting increasingly harder for them to survive.
+TRADUCCION:
+
+[1|1|3|2]
+ORIGINAL: \bWithout the Wildlife Station, they would all be extinct in a few years...
+TRADUCCION:

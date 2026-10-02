@@ -1,0 +1,79 @@
+[12|1|10|1]
+ORIGINAL: \bArthur: Ah, it´s you again. \PN, wasn´t it?
+TRADUCCION:
+
+[12|1|11|2]
+ORIGINAL: \bOh, good, I tend to struggle with names, but I got it right for once.
+TRADUCCION:
+
+[12|1|13|2]
+ORIGINAL: \bIt´s quite convenient that we meet again, because there´s been a major scientific breakthrough.
+TRADUCCION:
+
+[12|1|15|1]
+ORIGINAL: \bWhat I´m about to tell you is quite exciting!
+TRADUCCION:
+
+[12|1|16|2]
+ORIGINAL: \bA company in Crystal Harbor has managed to develope a new version of the Pokéball.
+TRADUCCION:
+
+[12|1|18|3]
+ORIGINAL: \bIt´s called the Deity Ball and it´s extremely advanced! It got developed based on Delta Aura theories, and they achieved something incredible!
+TRADUCCION:
+
+[12|1|21|3]
+ORIGINAL: \bThe Deity Ball is the first Pokéball to be able to catch Mythical and Legendary Pokémon with a high success rate!
+TRADUCCION:
+
+[12|1|24|2]
+ORIGINAL: \bWell, I guess it´s not as good as a Master Ball, but how often do you come across those?
+TRADUCCION:
+
+[12|1|26|3]
+ORIGINAL: \bThe Deity Ball got tested on a special Legendary Pokémon called Type: Null. It was much more successful than the Ultra Ball for example.
+TRADUCCION:
+
+[12|1|29|3]
+ORIGINAL: \bHowever, we need to be careful with these balls. Legendary Pokémon protect the people, so catching them comes with responsibilities.
+TRADUCCION:
+
+[12|1|32|3]
+ORIGINAL: \bThe company handed me a few prototypes, and I want you to have some of them. I trust you to use them wisely. Here you go.
+TRADUCCION:
+
+[12|1|36|3]
+ORIGINAL: \bI should warn you though, these balls don´t work very well on regular Pokémon. You need to save them for potential encounters with mighty legends.
+TRADUCCION:
+
+[12|1|39|3]
+ORIGINAL: \bYou gotta visit Crystal Harbor one day. The access is currently restricted because a movie is being filmed there, but that´ll soon be completed.
+TRADUCCION:
+
+[12|1|42|2]
+ORIGINAL: \bOnce you make it there, visit the Delta Tech Company.
+TRADUCCION:
+
+[12|1|44|2]
+ORIGINAL: \bThey can give you more Deity Balls, just mention that you know me.
+TRADUCCION:
+
+[12|1|46|3]
+ORIGINAL: \bI have to continue with my research now, I´m trying to figure out which Pokémon can be caught with these balls and which can´t.
+TRADUCCION:
+
+[12|1|49|2]
+ORIGINAL: \bThanks for helping me with the research. Take care!
+TRADUCCION:
+
+[8|1|0|1]
+ORIGINAL: \bCrikey, the weather is even worse over there...
+TRADUCCION:
+
+[9|1|0|1]
+ORIGINAL: \bBrrr, this is too cold for me...
+TRADUCCION:
+
+[10|1|0|2]
+ORIGINAL: \bHow can this guy work in a cold like this?! I´m impressed...
+TRADUCCION:

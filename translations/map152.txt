@@ -1,0 +1,19 @@
+[7|1|2|1]
+ORIGINAL: \bIt´s a great day for a battle!
+TRADUCCION:
+
+[7|2|0|1]
+ORIGINAL: \bOn days like these, I don´t care if I win or lose.
+TRADUCCION:
+
+[9|1|0|2]
+ORIGINAL: The entrance to Victory Road is closed while the Challengers Tournament is going on. Come back later.
+TRADUCCION:
+
+[31|1|0|1]
+ORIGINAL: Victory Road
+TRADUCCION:
+
+[10|1|0|2]
+ORIGINAL: The entrance to Victory Road is closed while the Challengers Tournament is going on. Come back later.
+TRADUCCION:
